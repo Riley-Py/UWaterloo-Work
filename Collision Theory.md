@@ -1,0 +1,1 @@
+**Explanation**: Take, for example: ${N_2O + NO \leftar }$
