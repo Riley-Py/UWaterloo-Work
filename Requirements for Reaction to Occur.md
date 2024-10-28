@@ -3,4 +3,4 @@
 ## <u> Three Requirements for Reaction to Occur: </u>
 
 1. **Molecular Collisions**
-2. **Activation**
+2. **Activation Energy**: Only a fraction of collisions lead to reaction.  Reactant particles must collide with sufficient energy for key bonds to break, otherwise they will bounce off each other.  The *average activation energy* of a reaction is minimum combined energy the reactant particles must bring to their co
