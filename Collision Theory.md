@@ -8,4 +8,8 @@ For a given initial number of gas molecules at a constant temperature, increasin
 
 ${PV = nRT = constant}$
 
-This would increase the density of collisions, as the same number of molecules are sharing a smaller volume.  Only a fraction of these collisions would involve molecules sufficiently energetic for the transfer of an oxygen atom from a $NO$ mole 
+This would increase the density of collisions, as the same number of molecules are sharing a smaller volume.  Only a fraction of these collisions would involve molecules sufficiently energetic for the transfer of an oxygen atom from a $NO_2$ molecule to a ${NO}$ molecule.   
+
+**Colliding reactants must together have kinetic energy at least equal to the activation energy, ${E_a}$**
+
+![[Pasted image 20241028131211.png]]
