@@ -21,3 +21,5 @@ If the reaction is:
 - *Second order* - there is a *4x* on the reaction rate
 
 **Definition: Elementary Reaction** - Chemical reaction in which one or more reactants react *directly* to form products in a *single reaction step* with a *single transition state*.
+
+#CHE_102
