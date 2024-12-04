@@ -1,0 +1,1 @@
+**Definition:** *reaction half-life*
