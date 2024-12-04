@@ -24,6 +24,9 @@ Increasing temperature shifts the distribution of molecular speeds to the right,
 
 The magnitude of activation energy is dependent on the activate complex:
 
-![[Pasted image 20241204172837.png]] 
+![[Pasted image 20241204172837.png]]
 
 Lowering the activation energy is an alternative to increasing the temperature for increasing the reaction rate.
+
+![[Pasted image 20241204173228.png]]
+
