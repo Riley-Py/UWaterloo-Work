@@ -2,6 +2,8 @@
 - **All postulates of collision theory**
 - Integrated rate laws + mini graph
 - Half life
-- 
+- Summary, like this: 
+![[Pasted image 20241204183031.png]]
+
 
 #CHE_102
