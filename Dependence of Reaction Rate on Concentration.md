@@ -9,3 +9,5 @@ where:
 - $n$ is the order of reaction with respect to B
 
 The higher that $k$ is, the faster the reaction goes.  The reaction rate has units of $mol/(L \cdot s)$ 
+
+The exponent describes the *order* of reaction.  For example, if $m = 1$ and $n = 0$, then the reaction is *first order* for A and *zero order* for B.  The sum of reactants is *overall order* for reaction.  These exponents must be obtained expe
