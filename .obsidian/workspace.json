@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Collision Theory"
             }
-          },
-          {
-            "id": "9644c1ef5992e13c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Photos/Pasted image 20241204172837.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20241204172837"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -186,12 +173,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "059c515cd4110e39",
+  "active": "49e603c9a9cceadc",
   "lastOpenFiles": [
+    "Photos/Pasted image 20241204172546.png",
     "Photos/Pasted image 20241204172724.png",
     "Photos/Pasted image 20241204172837.png",
     "Unit 3 - Rates of Reaction/Collision Theory.md",
-    "Photos/Pasted image 20241204172546.png",
     "Unit 3 - Rates of Reaction/Requirements for Reaction to Occur.md",
     "Photos",
     "Sample Note.md",
