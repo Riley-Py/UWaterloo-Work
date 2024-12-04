@@ -1,0 +1,2 @@
+**Arrhenius Equation**: 
+$$
