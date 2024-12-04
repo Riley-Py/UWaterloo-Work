@@ -22,4 +22,6 @@ If the reaction is:
 
 **Definition: Elementary Reaction** - Chemical reaction in which one or more reactants react *directly* to form products in a *single reaction step* with a *single transition state*.
 
+**Note**: The exponents $m$ and $n$ are only equal to the stoichiometric coefficients $a$ and $b$ if an elementary 
+
 #CHE_102
