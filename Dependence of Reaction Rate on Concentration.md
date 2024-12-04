@@ -1,7 +1,9 @@
 The volumetric reaction rate, $\dot{R}$, is commonly related to the molar concentrations of the reactants using an empirical equation of the following form: 
 
-$$\dot{R} = k{C_A}^m {C_B}^m$$
+$$\dot{R} = k{C_A}^m {C_B}^m...$$
+using the following equation: 
 
+$$aA + bB + ... \rightarrow gG + hH... $$
 where:
 
 - $k$ is the reaction rate constant (units do vary)
@@ -17,3 +19,5 @@ If the reaction is:
 - *Zero order* - there is *no effect* of reactant concentration on reaction rate
 - *First order* - there is a *doubling* of the reaction rate
 - *Second order* - there is a *4x* on the reaction rate
+
+**Definition: Elementary Reaction** - Chemical reaction in which one or more reactants
