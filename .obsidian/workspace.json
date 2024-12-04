@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sample Note.md",
+                "file": "Unit 3 - Rates of Reaction/Requirements for Reaction to Occur.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a4d44fe26093eae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Collision Theory.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sample Note.md",
+                "file": "Collision Theory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sample Note.md",
+                "file": "Collision Theory.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sample Note.md"
+                "file": "Collision Theory.md"
               }
             }
           },
@@ -155,10 +168,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "059c515cd4110e39",
+  "active": "9a4d44fe26093eae",
   "lastOpenFiles": [
-    "Hey.md",
+    "Pasted image 20241028131211.png",
+    "Unit 3 - Rates of Reaction/Requirements for Reaction to Occur.md",
+    "Collision Theory.md",
+    "Unit 3 - Rates of Reaction",
     "Sample Note.md",
+    "CHE 102",
+    "Hey.md",
     "MTHEL 99",
     "Welcome.md"
   ]
