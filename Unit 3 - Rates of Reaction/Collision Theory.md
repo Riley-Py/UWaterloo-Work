@@ -14,5 +14,8 @@ This would increase the density of collisions, as the same number of molecules a
 
 ![[Pasted image 20241028131211.png]]
 
+The fraction of sufficiently energetic molecules, represented by the shaded area on the right (and to the right of $E_a$) is indeed small on the Maxwell- Boltzmann graph.
 
+![[Pasted image 20241204172546.png]]
 
+Increasing temperature shifts the distribution of molecular speeds to the right, thereby increasing the fraction of molecules with energy at least equal to the activation energy, $E_a$.  This increases 
