@@ -20,4 +20,4 @@ If the reaction is:
 - *First order* - there is a *doubling* of the reaction rate
 - *Second order* - there is a *4x* on the reaction rate
 
-**Definition: Elementary Reaction** - Chemical reaction in which one or more reactants
+**Definition: Elementary Reaction** - Chemical reaction in which one or more reactants react *directly* to form products in a *single reaction step* with a *single transition state*.
