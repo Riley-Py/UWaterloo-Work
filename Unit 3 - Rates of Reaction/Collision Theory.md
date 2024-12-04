@@ -30,3 +30,7 @@ Lowering the activation energy is an alternative to increasing the temperature f
 
 ![[Pasted image 20241204173228.png]]
 
+The reaction between nitrous oxide and nitric oxide to produce nitrogen dioxide and nitrogen is exothermic, as it requires less energy to break a bond than it is to form a bond, as observed in this diagram: 
+
+![[Pasted image 20241204173417.png]]
+
