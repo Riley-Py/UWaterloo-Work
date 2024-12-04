@@ -13,3 +13,6 @@ This would increase the density of collisions, as the same number of molecules a
 **Colliding reactants must together have kinetic energy at least equal to the activation energy, ${E_a}$**
 
 ![[Pasted image 20241028131211.png]]
+
+
+
