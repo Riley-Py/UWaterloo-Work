@@ -18,4 +18,10 @@ The fraction of sufficiently energetic molecules, represented by the shaded area
 
 ![[Pasted image 20241204172546.png]]
 
-Increasing temperature shifts the distribution of molecular speeds to the right, thereby increasing the fraction of molecules with energy at least equal to the activation energy, $E_a$.  This increases 
+Increasing temperature shifts the distribution of molecular speeds to the right, thereby increasing the fraction of molecules with energy at least equal to the activation energy, $E_a$.  This increases the number of collisions with the potential to result in product formation.
+
+![[Pasted image 20241204172724.png]]
+
+The magnitude of activation energy is dependent on the activate complex:
+
+![[Pasted image 20241204172837.png]]
