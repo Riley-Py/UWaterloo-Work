@@ -4,6 +4,6 @@
 - Half life
 - Summary, like this: 
 ![[Pasted image 20241204183031.png]]
-
+- Units for second-order reaction: L mol^-1 s^-1
 
 #CHE_102
