@@ -22,3 +22,4 @@ Phase diagram for $CO_2$. The point at 31 $\degree C$ is where the *critical poi
 
 ![[Pasted image 20241204221607.png]]
 
+#CHE_102 
