@@ -4,4 +4,4 @@ $$\Delta T_b = iK_bm$$
 $$\Delta T_f = -iK_fm$$
 The Van't Hoff Factor is calculated by:
 
-$$i = {{moles \ of \ particles \ present \ in \ solution }\over {mole \ of \ compound }}$$
+$$i = {{moles \ of \ particles \ present \ in \ solution }\over {mole \ of \ compound \ dissolved}}$$
