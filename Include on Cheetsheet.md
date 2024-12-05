@@ -8,6 +8,7 @@
 - Units for first-order reaction: s^-1
 - Units for zero-order reaction: M/s (remember: molarity is moles/litre)
 - Example problem 3 - rate stuff
+- Rate constant is slope on line
 - 
 
 #CHE_102
