@@ -1,1 +1,0 @@
-**Definition of colligative properties**: Properties where solutions containing non- [[Vapour Pressure|volatile]] solutes exhibit properties that depend on concentration of solute particles in solution but not on the chemical na

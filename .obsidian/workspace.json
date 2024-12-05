@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vapour Pressure Lowering.md",
+                "file": "Vapour Pressure Lowering+ Colligative Properties Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vapour Pressure Lowering"
+              "title": "Vapour Pressure Lowering+ Colligative Properties Introduction"
             }
           }
         ],
@@ -209,7 +209,7 @@
     "Unit 4 - Phase Equilibrium/Raoult's Law.md",
     "Unit 4 - Phase Equilibrium/Phases + Transitions.md",
     "Unit 4 - Phase Equilibrium/Phase Diagrams.md",
-    "Vapour Pressure Lowering.md",
+    "Vapour Pressure Lowering+ Colligative Properties Introduction.md",
     "Include on Cheetsheet.md",
     "Unit 4 - Phase Equilibrium/Non-Ideal Solutions.md",
     "Unit 4 - Phase Equilibrium/Henry's Law.md",
