@@ -17,5 +17,7 @@
 - Any line on phase diagram indicates equilibrium at two points
 - There can be many triple points
 - Slope don't go down
+- Dalton's Law, PV = nRT, and what they represent
+- 
 
 #CHE_102
