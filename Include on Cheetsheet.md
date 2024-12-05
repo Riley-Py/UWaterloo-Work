@@ -18,6 +18,6 @@
 - There can be many triple points
 - Slope don't go down
 - Dalton's Law, PV = nRT, and what they represent
-- 
+- Henry's law assumes constant temperature
 
 #CHE_102
