@@ -19,3 +19,6 @@ Phase diagram for water.  Point O is the triple point.  Point P to Q is *isother
 Phase diagram for $CO_2$. The point at 31 $\degree C$ is where the *critical point* is, where the vapour-liquid equilibrium ends.  
 
 **Definition: Critical temperature and pressure**: Critical temperature $T_c$ is the highest temperature at which a pure substance can be in a liquid phase and the corresponding pressure is the *critical pressure* $P_c$.  Together, they make the *critical point* $(T_c, P_c)$.  
+
+![[Pasted image 20241204221607.png]]
+
