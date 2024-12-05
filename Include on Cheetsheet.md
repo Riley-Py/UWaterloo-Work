@@ -12,6 +12,7 @@
 - Graphs for phase diagrams
 - Bubble point/dew point and meaning + example
 - Graphs on solid-liquid, liquid-gas at temperatures above/below boiling point
+- Lower boiling pointd corresponds to higher vapour pressure
 - 
 
 #CHE_102
