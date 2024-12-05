@@ -8,4 +8,7 @@ where:
 $K_B$ depends on boiling point, enthalpy of vaporization, and molar mass of solvent, while $K_f$ depends on melting point, enthalpy of fusion, and molar mass of solvent.
 
 The boiling point elevation constant, $K_b$, is:
-$$ K_b = {{{RT_{bp}}^2,0 M_{solvent}}\over}
+$$ K_b = {{{RT_{bp}^2},_0M_{solvent}}\over {1000 \Delta H_{vap}}}$$
+The freezing point depression constant, $K_f$ is:
+$$ K_f = {{{RT_{fp}^2},_0M_{solvent}}\over {1000 \Delta H_{fus}}}$$
+#CHE_102 
