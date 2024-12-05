@@ -3,3 +3,5 @@
 **Boiling point definition**: $T_{bp}$ is the temperature at which the vapour pressure, $P^{vap}$, is equal to the external pressure, $P$ 
 
 **Normal boiling point**: It's when each substance is the temperature at which the vapour pressure of the substance is exactly equal to 760 $mmHg$ 
+
+#CHE_102 
