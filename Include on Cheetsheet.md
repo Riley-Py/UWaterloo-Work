@@ -14,5 +14,6 @@
 - Graphs on solid-liquid, liquid-gas at temperatures above/below boiling point
 - Lower boiling pointd corresponds to higher vapour pressure
 - Check density and make sure it's equal, if it exceeds the available drum volume, then the substance can't remain in equilibrium between liquid and vapor phases.
+- Any line on phase diagram indicates equilibrium at two points
 
 #CHE_102
