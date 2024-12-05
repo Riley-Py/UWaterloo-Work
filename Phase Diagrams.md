@@ -12,4 +12,8 @@ where:
 - A critical point is where the liquid and gas phase merge into a single supercritical fluid phase.
 ![[Pasted image 20241204221129.png]]
 
-Phase diagram for water.  Point O is the triple point.  Point P to Q is *isothermal*
+Phase diagram for water.  Point O is the triple point.  Point P to Q is *isothermal* (constant temperature) compression (increase in pressure), which results in melting.  However, the point P to R corresponds to *isobaric* (constant pressure) heating ,which leads to vaporization.  Requires additional heat.
+
+![[Pasted image 20241204221308.png]]
+
+Phase diagram for $CO_2$. The point at 31 $\degree C$ is where the *critical p*
