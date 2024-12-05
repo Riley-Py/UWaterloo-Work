@@ -3,4 +3,7 @@
 ## Vapour Pressure Lowering
 
 The change in vapour pressure due to the addition of a non-volatile component chan be determined from Raoult's law by subtracting the vapour pressure of the pure solvent from the vapour pressure of the solution: 
-$$ P_{pure solvent} = {P_A}^{vap} $$
+$$ P_{pure solvent} = {P_A}^{vap}$$
+$$ P_{solution} = x_A{P_A}^{vap}$$
+$$ \Delta P = P_{solution} - P_{pure} $$
+$$ = x_A{P_A}
