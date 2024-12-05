@@ -7,5 +7,7 @@
 - Units for second-order reaction: L mol^-1 s^-1 
 - Units for first-order reaction: s^-1
 - Units for zero-order reaction: M/s (remember: molarity is moles/litre)
+- Example problem 3 - rate stuff
+- 
 
 #CHE_102

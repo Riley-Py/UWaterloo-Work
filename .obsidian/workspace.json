@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dependence of Reaction Rate on Temperature.md",
+                "file": "Include on Cheetsheet.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dependence of Reaction Rate on Temperature"
+              "title": "Include on Cheetsheet"
             }
           }
         ],
@@ -190,8 +190,8 @@
   },
   "active": "a5ec37753dabb457",
   "lastOpenFiles": [
-    "Include on Cheetsheet.md",
     "Dependence of Reaction Rate on Temperature.md",
+    "Include on Cheetsheet.md",
     "Unit 3 - Rates of Reaction/Integrated Rate Laws.md",
     "Unit 3 - Rates of Reaction/Half-Life.md",
     "Unit 3 - Rates of Reaction/Dependence of Reaction Rate on Concentration.md",

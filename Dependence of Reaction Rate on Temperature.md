@@ -6,4 +6,4 @@ where:
 - $T$ is the absolute temperature (K)
 As well, to compare k values, use this equation:
 
-$$ ln {k_2 \over k_1} = -{E_a \over R} \left({1 \over T_2} - {1 \over \right)$$
+$$ ln {k_2 \over k_1} = -{E_a \over R} \left({1 \over T_2} - {1 \over T_1}\right)$$
