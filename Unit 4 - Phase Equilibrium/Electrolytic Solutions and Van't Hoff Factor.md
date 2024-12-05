@@ -5,3 +5,4 @@ $$\Delta T_f = -iK_fm$$
 The Van't Hoff Factor is calculated by:
 
 $$i = {{moles \ of \ particles \ present \ in \ solution }\over {mole \ of \ compound \ dissolved}}$$
+#CHE_102 
