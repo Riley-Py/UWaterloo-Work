@@ -5,4 +5,7 @@ $$\Delta T_f = T_{fp} - T_{fp},0 = -K_fm$$
 where:
 - $m$ is the solute molality (moles of solute per kg solvent)
 - $K_b$ and $K_f$ are the boiling point elevation and freezing point depression constants, respectively ($\degree C \cdot {kg/mol}$ or $K \cdot {kg/mol}$)
-$K_B$ depends on boiling point, entha
+$K_B$ depends on boiling point, enthalpy of vaporization, and molar mass of solvent, while $K_f$ depends on melting point, enthalpy of fusion, and molar mass of solvent.
+
+The boiling point elevation constant, $K_b$, is:
+$$ K_b = {{{RT_{bp}}^2,0 M_{solvent}}\over}
