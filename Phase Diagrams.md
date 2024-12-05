@@ -6,4 +6,4 @@ where:
 
 - C is number of different components (species) present in system
 - P is number of different phases
-- F is minimum number of in
+- F is minimum number of intensive properties that must be known in order to determine all other intensive properties
