@@ -3,4 +3,6 @@
 $$y_AP = P_A = x_A {P_A}^{vap}$$
 The law applies to each [[Vapour Pressure|volatile]]component in an ideal solution or to a volatile solvent in a dilute solution.
 
+**Note**: The bubble point curve gives the composition of the liquid phase, while the dew point curve gives the composition of the vapour phase.  
+
 #CHE_102 

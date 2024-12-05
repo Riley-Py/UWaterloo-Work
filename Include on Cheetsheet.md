@@ -10,5 +10,6 @@
 - Example problem 3 - rate stuff
 - Rate constant is slope on line
 - Graphs for phase diagrams
+- Bubble point/dew point and meaning
 
 #CHE_102
