@@ -9,4 +9,7 @@ where:
 - F is minimum number of intensive properties that must be known in order to determine all other intensive properties
 **Notes**:
 - Triple point represents a point where all three stats of matter exist at equilibrium.   It's where the three phase equilibrium curves meet
-- A critical 
+- A critical point is where the liquid and gas phase merge into a single supercritical fluid phase.
+![[Pasted image 20241204221129.png]]
+
+Phase diagram for water.  Point O is the triple point.  Point P to Q is *isothermal*
