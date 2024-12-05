@@ -1,0 +1,1 @@
+**Definition**: The partial pressure of component A in the vapour ph
