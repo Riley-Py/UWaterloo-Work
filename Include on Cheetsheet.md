@@ -19,6 +19,6 @@
 - Slope don't go down
 - Dalton's Law, PV = nRT, and what they represent
 - Henry's law assumes constant temperature
-- Mole fraction of more volatile component in the vapour phase is lower than the mole frac
+- Mole fraction of more volatile component in the vapour phase is lower than the mole fraction of the more volatile component in the liquid phase
 
 #CHE_102
