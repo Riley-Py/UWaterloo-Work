@@ -7,3 +7,6 @@ where:
 - C is number of different components (species) present in system
 - P is number of different phases
 - F is minimum number of intensive properties that must be known in order to determine all other intensive properties
+**Notes**:
+- Triple point represents a point where all three stats of matter exist at equilibrium.   It's where the three phase equilibrium curves meet
+- A critical 
