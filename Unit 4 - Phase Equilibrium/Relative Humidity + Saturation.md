@@ -6,4 +6,5 @@ $$\% RH = {P_{H_2O} \over {P_{H_2O}}^{vap}(T)} \times 100 \%$$
 For gases other than water vapour, *relative saturation* is used rather than *relative humidity*
 
 **Definition of relative saturation**: The ratio of the partial pressure of component A (A as a gas) in the mixture to the equilibrium vapour pressure of component A at that temperature.  It's with this formula:
-$$\% saturation = {P_A \over {P_A}^{vap}(T)} \times 100 \%$$$
+$$\% saturation = {P_A \over {P_A}^{vap}(T)} \times 100 \%$$
+#CHE_102 

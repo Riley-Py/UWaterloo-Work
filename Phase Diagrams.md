@@ -1,0 +1,1 @@
+- **Intensive properties**: temperature, pressure, density, molar composition, [[Enthalpy of Vaporization|vapour enthalpy]], [[Enthalpy of Fusion + Enthalpy of Sublimation]]

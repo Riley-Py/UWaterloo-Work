@@ -9,6 +9,6 @@
 - Units for zero-order reaction: M/s (remember: molarity is moles/litre)
 - Example problem 3 - rate stuff
 - Rate constant is slope on line
-- 
+- Graphs for phase diagrams
 
 #CHE_102
