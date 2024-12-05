@@ -15,5 +15,7 @@
 - Lower boiling pointd corresponds to higher vapour pressure
 - Check density and make sure it's equal, if it exceeds the available drum volume, then the substance can't remain in equilibrium between liquid and vapor phases.
 - Any line on phase diagram indicates equilibrium at two points
+- There can be many triple points
+- Slope don't go down
 
 #CHE_102
