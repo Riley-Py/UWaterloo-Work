@@ -8,63 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "6cb04487b936be52",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unit 6 - Electrochemistry/Oxidation States.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Oxidation States"
-            }
-          },
-          {
-            "id": "9a6d37784a6c7278",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unit 6 - Electrochemistry/Reduction-Oxidation Reactions (ReDox).md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Reduction-Oxidation Reactions (ReDox)"
-            }
-          },
-          {
-            "id": "89e89025c1c061c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Unit 6 - Electrochemistry/Balancing Redox Reaction Equations.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Balancing Redox Reaction Equations"
-            }
-          },
-          {
             "id": "d361001ed8292d68",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Unit 6 - Electrochemistry/Galvanic Cell.md",
+                "file": "CHE 102/Unit 6 - Electrochemistry/Galvanic Cell.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Galvanic Cell"
             }
+          },
+          {
+            "id": "85047f8466f14d70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Batteries and Fuel Cells.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Batteries and Fuel Cells"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -216,49 +188,49 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "059c515cd4110e39",
+  "active": "85047f8466f14d70",
   "lastOpenFiles": [
-    "Pasted image 20241207151434.png",
-    "Unit 6 - Electrochemistry/Balancing Redox Reaction Equations.md",
-    "Unit 6 - Electrochemistry/Galvanic Cell.md",
-    "Include on Cheetsheet.md",
-    "Unit 6 - Electrochemistry/Reduction-Oxidation Reactions (ReDox).md",
-    "Unit 6 - Electrochemistry/Oxidation States.md",
-    "Photos/Pasted image 20241207135143.png",
-    "Unit 5 - Chemical Equilibrium/Solubility Product Constant.md",
-    "Unit 6 - Electrochemistry",
-    "Unit 5 - Chemical Equilibrium/Van'T Hoff Equation.md",
-    "Unit 5 - Chemical Equilibrium/Le Chatelier's Principle.md",
-    "Unit 5 - Chemical Equilibrium/Relationships for Equilibrium Constants.md",
-    "Unit 5 - Chemical Equilibrium/Equilibrium Concentration Constant,  Kc.md",
-    "Unit 4 - Phase Equilibrium/Vapour Pressure Lowering+ Colligative Properties Introduction.md",
-    "Unit 5 - Chemical Equilibrium/Equilibrium Pressure Constant - Kp.md",
-    "Unit 5 - Chemical Equilibrium/Heterogeneous Reactions.md",
-    "Unit 5 - Chemical Equilibrium/ICE Table.md",
-    "Unit 5 - Chemical Equilibrium/Reaction Quotient.md",
-    "Unit 4 - Phase Equilibrium/Henry's Law.md",
-    "Unit 5 - Chemical Equilibrium",
-    "Unit 4 - Phase Equilibrium/Phase Diagrams.md",
-    "Unit 4 - Phase Equilibrium/Phases + Transitions.md",
-    "Unit 4 - Phase Equilibrium/Vapour Pressure.md",
-    "Unit 4 - Phase Equilibrium/Relative Humidity + Saturation.md",
-    "Unit 4 - Phase Equilibrium/Clausius-Clapeyron Equation.md",
-    "Unit 4 - Phase Equilibrium/Electrolytic Solutions and Van't Hoff Factor.md",
-    "Unit 4 - Phase Equilibrium/Enthalpy of Fusion + Enthalpy of Sublimation.md",
-    "Unit 4 - Phase Equilibrium/Enthalpy of Vaporization.md",
-    "Unit 4 - Phase Equilibrium/Non-Ideal Solutions.md",
-    "Unit 4 - Phase Equilibrium",
-    "Photos/Pasted image 20241204221607.png",
-    "Photos/Pasted image 20241204221308.png",
-    "Photos/Pasted image 20241204221129.png",
-    "Photos/Pasted image 20241204210640.png",
-    "Photos/Pasted image 20241204205323.png",
-    "Photos/Pasted image 20241204173955.png",
-    "Photos/Pasted image 20241204183031.png",
-    "Photos/Pasted image 20241204173228.png",
-    "Photos/Pasted image 20241204173417.png",
-    "Photos",
-    "Unit 3 - Rates of Reaction",
+    "CHE 102/Unit 6 - Electrochemistry/Galvanic Cell.md",
+    "Batteries and Fuel Cells.md",
+    "CHE 102/Photos/Pasted image 20241207151434.png",
+    "CHE 102/Unit 6 - Electrochemistry/Balancing Redox Reaction Equations.md",
+    "CHE 102/Include on Cheetsheet.md",
+    "CHE 102/Unit 6 - Electrochemistry/Reduction-Oxidation Reactions (ReDox).md",
+    "CHE 102/Unit 6 - Electrochemistry/Oxidation States.md",
+    "CHE 102/Photos/Pasted image 20241207135143.png",
+    "CHE 102/Unit 5 - Chemical Equilibrium/Solubility Product Constant.md",
+    "CHE 102/Unit 6 - Electrochemistry",
+    "CHE 102/Unit 5 - Chemical Equilibrium/Van'T Hoff Equation.md",
+    "CHE 102/Unit 5 - Chemical Equilibrium/Le Chatelier's Principle.md",
+    "CHE 102/Unit 5 - Chemical Equilibrium/Relationships for Equilibrium Constants.md",
+    "CHE 102/Unit 5 - Chemical Equilibrium/Equilibrium Concentration Constant,  Kc.md",
+    "CHE 102/Unit 4 - Phase Equilibrium/Vapour Pressure Lowering+ Colligative Properties Introduction.md",
+    "CHE 102/Unit 5 - Chemical Equilibrium/Equilibrium Pressure Constant - Kp.md",
+    "CHE 102/Unit 5 - Chemical Equilibrium/Heterogeneous Reactions.md",
+    "CHE 102/Unit 5 - Chemical Equilibrium/ICE Table.md",
+    "CHE 102/Unit 5 - Chemical Equilibrium/Reaction Quotient.md",
+    "CHE 102/Unit 4 - Phase Equilibrium/Henry's Law.md",
+    "CHE 102/Unit 5 - Chemical Equilibrium",
+    "CHE 102/Unit 4 - Phase Equilibrium/Phase Diagrams.md",
+    "CHE 102/Unit 4 - Phase Equilibrium/Phases + Transitions.md",
+    "CHE 102/Unit 4 - Phase Equilibrium/Vapour Pressure.md",
+    "CHE 102/Unit 4 - Phase Equilibrium/Relative Humidity + Saturation.md",
+    "CHE 102/Unit 4 - Phase Equilibrium/Clausius-Clapeyron Equation.md",
+    "CHE 102/Unit 4 - Phase Equilibrium/Electrolytic Solutions and Van't Hoff Factor.md",
+    "CHE 102/Unit 4 - Phase Equilibrium/Enthalpy of Fusion + Enthalpy of Sublimation.md",
+    "CHE 102/Unit 4 - Phase Equilibrium/Enthalpy of Vaporization.md",
+    "CHE 102/Unit 4 - Phase Equilibrium/Non-Ideal Solutions.md",
+    "CHE 102/Unit 4 - Phase Equilibrium",
+    "CHE 102/Photos/Pasted image 20241204221607.png",
+    "CHE 102/Photos/Pasted image 20241204221308.png",
+    "CHE 102/Photos/Pasted image 20241204221129.png",
+    "CHE 102/Photos/Pasted image 20241204210640.png",
+    "CHE 102/Photos/Pasted image 20241204205323.png",
+    "CHE 102/Photos/Pasted image 20241204173955.png",
+    "CHE 102/Photos/Pasted image 20241204183031.png",
+    "CHE 102/Photos/Pasted image 20241204173228.png",
+    "CHE 102/Photos",
+    "CHE 102/Unit 3 - Rates of Reaction",
     "CHE 102",
     "MTHEL 99"
   ]
