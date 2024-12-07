@@ -21,5 +21,7 @@
 - Henry's law assumes constant temperature
 - Mole fraction of more volatile component in the vapour phase is lower than the mole fraction of the more volatile component in the liquid phase
 - Molecular to empirical
+- Anything to do with chemical equilibrium
+- 
 
 #CHE_102
