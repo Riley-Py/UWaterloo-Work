@@ -9,4 +9,5 @@ Below is a picture for the rules of oxidation:
 ![[Pasted image 20241207135143.png]]
 
 **Exceptions**: 
-- For hydrogen in $LiH$, $
+- For hydrogen in $LiH$, $NaH$, and $KH$ is -1
+- For oxygen in peroxides, like $H_2O_2$, is -1
