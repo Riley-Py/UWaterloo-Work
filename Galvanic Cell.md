@@ -2,4 +2,4 @@
 
 ![[Pasted image 20241207151434.png]]
 
-
+It contains two half cells
