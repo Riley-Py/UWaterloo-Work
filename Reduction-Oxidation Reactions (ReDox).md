@@ -8,3 +8,4 @@ The substance that creates the oxidation of another is called the **oxidizing ag
 A chemical substance is **oxidized** when **oxidation state is increased** through the **loss of electrons**:
 
 $${Zn} \rightarrow {Zn}^{2+} + 2 {e}^-$$
+The substance that creates the reduction of another, is called the **reducing agent** or **reductant**.
