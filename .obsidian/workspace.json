@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHE 102/Unit 6 - Electrochemistry/Standard State.md",
+                "file": "CHE 102/Unit 6 - Electrochemistry/Standard Cell Potential.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Standard State"
+              "title": "Standard Cell Potential"
             }
           }
         ]
@@ -175,9 +175,9 @@
   },
   "active": "4c5533b1262e7265",
   "lastOpenFiles": [
+    "CHE 102/Unit 6 - Electrochemistry/Standard State.md",
     "CHE 102/Unit 6 - Electrochemistry/Standard Cell Potential.md",
     "CHE 102/Photos/Pasted image 20241207160400.png",
-    "CHE 102/Unit 6 - Electrochemistry/Standard State.md",
     "CHE 102/Unit 6 - Electrochemistry/Faraday's Law.md",
     "CHE 102/Unit 6 - Electrochemistry/Batteries and Fuel Cells.md",
     "CHE 102/Unit 6 - Electrochemistry/Galvanic Cell.md",
