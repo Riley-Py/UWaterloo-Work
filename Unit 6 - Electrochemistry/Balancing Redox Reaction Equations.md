@@ -5,3 +5,4 @@
 5. Balance charges by adding $e^-$ where needed
 6. Balance # of $e^-$ and add the two half reactions
 7. **For basic media**:  add the same number $OH^-$ as there are $H^+$ to each side of the equation and simplify
+#CHE_102 
