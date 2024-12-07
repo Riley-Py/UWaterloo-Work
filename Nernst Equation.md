@@ -1,1 +1,1 @@
-**Nernst Equation** - It allows us to determine the cell potential ()
+**Nernst Equation** - It allows us to determine the cell potential ($E_{cell}$) based on the concentration of the reactants and products at a given moment in time, and the stat
