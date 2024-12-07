@@ -12,3 +12,4 @@ Therefore,
 $$Q = Fn$$
 And,
 $$n = {Q \over F} = {It \over F}$$
+#CHE_102 
