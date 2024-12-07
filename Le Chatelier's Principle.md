@@ -1,2 +1,3 @@
 - **Increasing concentration** - the concentration of a reactant by adding more of the reactant decreases the reaction quotient, and therefore puts it into a forward reaction.  If more of a product is added, it increases the reaction quotient, and therefore puts the reaction into reverse
-- **Change in volume** - When the volume decreases, the net direction of change is the direction that decreases the number of gas molecules.  When the volume in
+- **Change in volume** - When the volume decreases, the net direction of change is the direction that decreases the number of gas molecules.  When the volume increases, the net direction of change is the direction that increases the number of gas molecules.  In other words, when volume decreases, the reaction quotient increases.  If volume increases, the reaction quotient decreases
+- **Change in pressure** - 
