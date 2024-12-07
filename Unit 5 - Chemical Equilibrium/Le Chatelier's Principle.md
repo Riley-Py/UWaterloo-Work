@@ -1,4 +1,7 @@
 - **Increasing concentration** - the concentration of a reactant by adding more of the reactant decreases the reaction quotient, and therefore puts it into a forward reaction.  If more of a product is added, it increases the reaction quotient, and therefore puts the reaction into reverse
 - **Change in volume** - When the volume decreases, the net direction of change is the direction that decreases the number of gas molecules.  When the volume increases, the net direction of change is the direction that increases the number of gas molecules.  In other words, when volume decreases, the reaction quotient increases.  If volume increases, the reaction quotient decreases.
 - **Change in pressure** - Adding an inert gas does not change anything.  Volume and pressure are in tandem (volume goes up, pressure goes down.  Pressure goes up, volume goes down)
-- **Change in temperature** - If the reaction is endothermic (heat is reactant), and the heat rises, 
+- **Change in temperature** - 
+	- If the reaction is endothermic (heat is reactant), and the heat rises, the reaction shifts to the right.  Decreasing temperature shifts it to the left
+	- If the reaction is exothermic (heat is product), and the heat rises, the reaction shifts to the left.  Otherwise, decreasing heat makes it go to the right
+#CHE_102 

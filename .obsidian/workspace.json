@@ -27,16 +27,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Le Chatelier's Principle.md",
+                "file": "Unit 5 - Chemical Equilibrium/Le Chatelier's Principle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Le Chatelier's Principle"
             }
+          },
+          {
+            "id": "7c39d7aa6f162637",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Van'T Hoff Equation.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Van'T Hoff Equation"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,10 +202,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "83725297cfb542e8",
+  "active": "7c39d7aa6f162637",
   "lastOpenFiles": [
+    "Unit 5 - Chemical Equilibrium/Le Chatelier's Principle.md",
+    "Van'T Hoff Equation.md",
     "Unit 5 - Chemical Equilibrium/Reaction Quotient.md",
-    "Le Chatelier's Principle.md",
     "Unit 5 - Chemical Equilibrium/Equilibrium Concentration Constant,  Kc.md",
     "Unit 5 - Chemical Equilibrium/Equilibrium Pressure Constant - Kp.md",
     "Unit 4 - Phase Equilibrium/Henry's Law.md",
@@ -217,7 +232,6 @@
     "conflict-files-obsidian-git.md",
     "Unit 3 - Rates of Reaction/Factors that Affect Reaction Rate.md",
     "Unit 4 - Phase Equilibrium",
-    "Unit 3 - Rates of Reaction/Half-Life.md",
     "Photos/Pasted image 20241204221607.png",
     "Photos/Pasted image 20241204221308.png",
     "Photos/Pasted image 20241204221129.png",
