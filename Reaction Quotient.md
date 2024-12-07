@@ -7,3 +7,5 @@ $$Q_p = {{{P_C}^c{P_D}^d}\over {{P_A}^a{P_B}^b}}$$
 Some notes about reaction quotient:
 - If reaction quotient is less than equilibrium constant - the reaction is to the right
 - If reaction quotient is greater than equilibrium constant - the reaction is to the left
+- If reaction quotient is equal to equilibrium - no change in direction
+#CHE_102 
