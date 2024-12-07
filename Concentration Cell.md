@@ -1,0 +1,1 @@
+For any concentration cell with positive ions, the half-cell with the higher concentration acts a

@@ -6,3 +6,4 @@ Where:
 - F = [[Faraday's Law|faraday's constant]]
 - Q = [[Reaction Quotient|reaction quotient]]
 - n = number of electrons transferred during the reaction
+#CHE_102 
