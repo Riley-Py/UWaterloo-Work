@@ -1,0 +1,1 @@
+**Nernst Equation** - It allows us to determine the cell potential ()
