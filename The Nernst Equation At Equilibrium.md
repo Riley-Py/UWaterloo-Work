@@ -1,0 +1,1 @@
+When the reaction is at equilibrium, that means that the battery is "dead" as there 

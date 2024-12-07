@@ -55,16 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alternative Form to the Nernst Equation.md",
+                "file": "CHE 102/Unit 6 - Electrochemistry/Alternative Form to the Nernst Equation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
               "title": "Alternative Form to the Nernst Equation"
             }
+          },
+          {
+            "id": "f8fadd77668d5745",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "The Nernst Equation At Equilibrium.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "The Nernst Equation At Equilibrium"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -216,10 +230,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "711fe32a697fb213",
+  "active": "f8fadd77668d5745",
   "lastOpenFiles": [
+    "CHE 102/Unit 6 - Electrochemistry/Alternative Form to the Nernst Equation.md",
+    "The Nernst Equation At Equilibrium.md",
     "CHE 102/Unit 6 - Electrochemistry/Concentration Cell.md",
-    "Alternative Form to the Nernst Equation.md",
     "CHE 102/Unit 6 - Electrochemistry/Nernst Equation.md",
     "CHE 102/Unit 6 - Electrochemistry/Standard Cell Potential.md",
     "CHE 102/Unit 6 - Electrochemistry/Standard State.md",
@@ -248,7 +263,6 @@
     "CHE 102/Unit 5 - Chemical Equilibrium",
     "CHE 102/Unit 4 - Phase Equilibrium/Phase Diagrams.md",
     "CHE 102/Unit 4 - Phase Equilibrium/Phases + Transitions.md",
-    "CHE 102/Unit 4 - Phase Equilibrium/Vapour Pressure.md",
     "CHE 102/Unit 4 - Phase Equilibrium",
     "CHE 102/Photos/Pasted image 20241204221607.png",
     "CHE 102/Photos/Pasted image 20241204221308.png",
