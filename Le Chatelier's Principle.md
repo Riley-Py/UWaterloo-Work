@@ -1,0 +1,1 @@
+- **Increasing concentration** - the concentration of a reactant by adding more of the reactant decreases the reaction quotient, and therefore puts it into a forward reaction.  If more of a product is added, it increases the reaction quotient, and therefore puts the reac
