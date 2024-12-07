@@ -9,3 +9,5 @@ A chemical substance is **oxidized** when **oxidation state is increased** throu
 
 $${Zn} \rightarrow {Zn}^{2+} + 2 {e}^-$$
 The substance that creates the reduction of another, is called the **reducing agent** or **reductant**.
+
+#CHE_102 
