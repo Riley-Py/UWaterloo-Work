@@ -10,3 +10,9 @@ $$2{Mn{O}_2} + H_2O + 2 {e^-} \rightarrow {{Mn}_2{O}_3 + 2 {OH}^-}$$
 **Overall**:
 $${Zn} + 2{Mn{O_2}} + H_2O \rightarrow Zn{OH}_2 + {Mn}_2O_3$$
 
+For a hydrogen fuel cell (a cell that uses hydrogen to power vehicles):
+
+**Oxidization/anode**:
+$$H_2 \rightarrow 2 {H}^+ + 2 {e}^-$$
+**Cathode/Reduction**:
+$$O_2 + 4{H^+} + 4 {e^-} \rightarrow 2 {H_2O}
