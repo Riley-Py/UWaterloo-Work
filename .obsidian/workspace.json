@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHE 102/Unit 3 - Rates of Reaction/Factors that Affect Reaction Rate.md",
+                "file": "CHE 102/Unit 3 - Rates of Reaction/Dependence of Reaction Rate on Temperature.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Factors that Affect Reaction Rate"
+              "title": "Dependence of Reaction Rate on Temperature"
             }
           }
         ],
@@ -228,6 +228,7 @@
   },
   "active": "fe9964b97fe02e2b",
   "lastOpenFiles": [
+    "CHE 102/Unit 3 - Rates of Reaction/Factors that Affect Reaction Rate.md",
     "CHE 102/Unit 3 - Rates of Reaction/Dependence of Reaction Rate on Temperature.md",
     "CHE 102/Unit 3 - Rates of Reaction/Dependence of Reaction Rate on Concentration.md",
     "CHE 102/Unit 3 - Rates of Reaction/Collision Theory.md",
@@ -254,7 +255,6 @@
     "CHE 102/Unit 5 - Chemical Equilibrium/Reaction Quotient.md",
     "CHE 102/Unit 5 - Chemical Equilibrium/Equilibrium Pressure Constant - Kp.md",
     "CHE 102/Unit 5 - Chemical Equilibrium/ICE Table.md",
-    "CHE 102/Unit 5 - Chemical Equilibrium/Heterogeneous Reactions.md",
     "CHE 102/Unit 5 - Chemical Equilibrium",
     "CHE 102/Unit 4 - Phase Equilibrium",
     "CHE 102/Unit 3 - Rates of Reaction",
