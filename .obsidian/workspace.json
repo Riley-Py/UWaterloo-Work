@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHE 102/Unit 5 - Chemical Equilibrium/Equilibrium Concentration Constant,  Kc.md",
+                "file": "CHE 102/Unit 5 - Chemical Equilibrium/Equilibrium Pressure Constant - Kp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Equilibrium Concentration Constant,  Kc"
+              "title": "Equilibrium Pressure Constant - Kp"
             }
           }
         ],
@@ -228,8 +228,8 @@
   },
   "active": "fe9964b97fe02e2b",
   "lastOpenFiles": [
-    "CHE 102/Unit 5 - Chemical Equilibrium/Equilibrium Pressure Constant - Kp.md",
     "CHE 102/Unit 5 - Chemical Equilibrium/Equilibrium Concentration Constant,  Kc.md",
+    "CHE 102/Unit 5 - Chemical Equilibrium/Equilibrium Pressure Constant - Kp.md",
     "CHE 102/Unit 4 - Phase Equilibrium/Vapour Pressure Lowering+ Colligative Properties Introduction.md",
     "CHE 102/Unit 4 - Phase Equilibrium/Vapour Pressure.md",
     "CHE 102/Unit 4 - Phase Equilibrium/Relative Humidity + Saturation.md",
