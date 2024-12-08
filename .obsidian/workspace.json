@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHE 102/Unit 6 - Electrochemistry/Faraday's Law.md",
+                "file": "CHE 102/Unit 5 - Chemical Equilibrium/Solubility Product Constant.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Faraday's Law"
+              "title": "Solubility Product Constant"
             }
           }
         ],
@@ -228,6 +228,7 @@
   },
   "active": "fe9964b97fe02e2b",
   "lastOpenFiles": [
+    "CHE 102/Unit 6 - Electrochemistry/Faraday's Law.md",
     "CHE 102/Unit 6 - Electrochemistry/Galvanic Cell.md",
     "CHE 102/Unit 6 - Electrochemistry/Nernst Equation.md",
     "CHE 102/Unit 6 - Electrochemistry/Oxidation States.md",
@@ -235,7 +236,6 @@
     "CHE 102/Unit 6 - Electrochemistry/Standard Cell Potential.md",
     "CHE 102/Unit 6 - Electrochemistry/Standard State.md",
     "CHE 102/Unit 6 - Electrochemistry/The Nernst Equation At Equilibrium.md",
-    "CHE 102/Unit 6 - Electrochemistry/Faraday's Law.md",
     "CHE 102/Unit 6 - Electrochemistry/Electrolytic Cell.md",
     "CHE 102/Unit 6 - Electrochemistry/Batteries and Fuel Cells.md",
     "CHE 102/Unit 6 - Electrochemistry/Balancing Redox Reaction Equations.md",
