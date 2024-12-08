@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHE 102/Unit 4 - Phase Equilibrium/Boiling point.md",
+                "file": "CHE 102/Unit 4 - Phase Equilibrium/Boiling Point Elevation and Freezing Point Depression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Boiling point"
+              "title": "Boiling Point Elevation and Freezing Point Depression"
             }
           }
         ],
@@ -228,8 +228,8 @@
   },
   "active": "fe9964b97fe02e2b",
   "lastOpenFiles": [
-    "CHE 102/Unit 4 - Phase Equilibrium/Non-Ideal Solutions.md",
     "CHE 102/Unit 4 - Phase Equilibrium/Boiling point.md",
+    "CHE 102/Unit 4 - Phase Equilibrium/Non-Ideal Solutions.md",
     "CHE 102/Unit 5 - Chemical Equilibrium/Van'T Hoff Equation.md",
     "CHE 102/Unit 5 - Chemical Equilibrium/Solubility Product Constant.md",
     "CHE 102/Unit 5 - Chemical Equilibrium/Relationships for Equilibrium Constants.md",
