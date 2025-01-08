@@ -47,6 +47,7 @@
 - Stemmed from Charles Darwin on evolution and how traits can be inherited and perpetuated due to those animals are likely to live longer and reproduce
 	- Galton then thought that this may mean that intelligence runs though a family, but this could have been explained by other factors as well
 - Galton also studied in labs and natural settings mental imagery and asked respondents questions about the mental image
-	- He found that there was variability in the responses, from no image, to v
+	- He found that there was variability in the responses, from no image, to very clear imagery
+- Galton's tests and questionnaires influenced other psychologists to develop from that, and also influenced psychologists to think about the nature of cognitive abilities and capacities
 
 
