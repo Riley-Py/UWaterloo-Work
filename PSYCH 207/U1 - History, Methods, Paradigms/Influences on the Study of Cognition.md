@@ -12,4 +12,8 @@
 - James Baldwin set up a lab in 1889 after studying with Wundt and worked with mental development in children, conducting the first experiments with children
 - **Introspection**: Wundt presented highly trained observers with various stimuli and asking them to describe their conscious experiences (nowadays, the term means "soul-searching")
 	- Can be divided into four properties
-		- *M*
+		- *Mode* - visual, auditory, tactile, olfactory
+		- *Quality* - colour, shape, texture
+		- *Intensity*
+		- *Duration*
+- **Structuralism** was a term coined by Edward B. Titchener to focus on what the elemental components of the mind are rather than on the question of why the mind works as it does
