@@ -25,5 +25,5 @@
 - **Structuralists** thought that experimental psychology should be in a lab, so that stimuli could be stripped of their everyday meanings to determine the true nature of the mind
 - **Functionalists** studied mental phenomena in real-life situations.
 ## **Behaviourism**
-- A branch of functionalism
-- 
+- A branch of **functionalism**
+- References to unobservable, subjective mental states (like consciousness), as well as processes (understanding, hoping for, deciding, etc.) were to be rid of in psychology
