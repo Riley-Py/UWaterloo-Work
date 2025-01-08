@@ -1,5 +1,8 @@
 ## **Naturalistic Observation**
 - Observer watching people in familiar, everyday contexts going about their cognitive business, without being obtrusive so as not to disrupt regular behaviours being observed
 - The things studied really do occur in the real world and not just in an experimental lab, which is called *ecological validity*
-- The disadvantage of this method is the lack of *experimental control* - the observer can't isolate the causes of different behaviours or reactions, only observe them
+- The disadvantage of this method is the lack of *experimental control* - the observer can't isolate the causes of different behaviours or reactions, only observe them.  As well, the observer can bring their own biases to recording what is important to record, which can skew the results
 - Best used to identify problems or issues of interest
+## **Introspection**
+- Observer observes his or her own mental processes
+- Has all the benefits and drawbacks of other observational studies, plus a fe mo
