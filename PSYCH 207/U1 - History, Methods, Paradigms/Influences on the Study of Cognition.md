@@ -30,4 +30,6 @@
 - Rejected **introspection** as it wasn't testable as a result
 - John Watson, a leading believer in this, thought that all "mental" phenomena can be reduced to behavioural/physiologic responses, like thought can be boiled down to muscle movements.
 - Under Watson, it was negative, but it did encourage better research protocols and testable hypotheses/theories
-- B.F. Skinner 
+- B.F. Skinner argued that images, sensations, and thoughts shouldn't be excluded due to being difficult to study
+	- This came to the theory of **mental representations** (internal thoughts of information), which was thought of as internal copies of external stimuli
+- 
