@@ -45,6 +45,8 @@
 - Was investigated by Sir Francis Galton and his followers
 - He was interested in measuring intellectual ability after always comparing himself to others
 - Stemmed from Charles Darwin on evolution and how traits can be inherited and perpetuated due to those animals are likely to live longer and reproduce
-	- Galton then thought that this may mean that intellegence runs though a family, but this could have been explained byu 
+	- Galton then thought that this may mean that intelligence runs though a family, but this could have been explained by other factors as well
+- Galton also studied in labs and natural settings mental imagery and asked respondents questions about the mental image
+	- He found that there was variability in the responses, from no image, to v
 
 
