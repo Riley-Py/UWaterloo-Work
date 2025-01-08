@@ -32,4 +32,7 @@
 - Under Watson, it was negative, but it did encourage better research protocols and testable hypotheses/theories
 - B.F. Skinner argued that images, sensations, and thoughts shouldn't be excluded due to being difficult to study
 	- This came to the theory of **mental representations** (internal thoughts of information), which was thought of as internal copies of external stimuli
-- 
+- Edward Tolman applied this concept to animals, where they had both expectations and internal representations that guided their behaviour
+## **Gestalt Psychology**
+- *Gestalt* translates to configuration or shape
+- Suggests that 
