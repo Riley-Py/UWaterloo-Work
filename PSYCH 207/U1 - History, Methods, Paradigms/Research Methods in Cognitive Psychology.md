@@ -9,4 +9,5 @@
 	- Has the benefit to providing more insight into the experience and the factors that influenced it, that is better than what an outsider can do
 	- However, you can be more biased in your cognition  and be more concerned with their level of performance, distorting the observations
 	- As well, observers have very few resources left with which to observe/record when it comes to demanding cognitive tasks
-## **Experiem**
+## **Experiments and Quasi-Experiments**
+- An *experiment* is one where the experimenter manipulates one or more experimental conditions (independent variables) to see the re
