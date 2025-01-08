@@ -22,4 +22,4 @@
 - James asked *why the mind works the way it does* as opposed to finding units of consciousness and assumed the purposes of its various operations
 - Drew on Darwinian evolutionary theory and tried to extend biology concepts of adaptation to psychological phenomena
 - **Structuralists** thought that experimental psychology should be in a lab, so that stimuli could be stripped of their everyday meanings to determine the true nature of the mind
-- **Functionalists** studied mental ph
+- **Functionalists** studied mental phenomena in real-life situations. 
