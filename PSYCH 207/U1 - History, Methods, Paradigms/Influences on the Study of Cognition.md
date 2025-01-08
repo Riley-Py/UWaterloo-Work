@@ -44,6 +44,7 @@
 - No school of thought associated with this one
 - Was investigated by Sir Francis Galton and his followers
 - He was interested in measuring intellectual ability after always comparing himself to others
-- 
+- Stemmed from Charles Darwin on evolution and how traits can be inherited and perpetuated due to those animals are likely to live longer and reproduce
+	- Galton then thought that this may mean that intellegence runs though a family, but this could have been explained byu 
 
 
