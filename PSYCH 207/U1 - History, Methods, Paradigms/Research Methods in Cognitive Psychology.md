@@ -16,4 +16,7 @@
 	- Meanwhile, *within-subjects design* is where people are exposed to more than one condition.  
 		- Example: Doing memory tasks but different instructions for each task.  Experimenter then compares performance of the first condition to the performance of the same people in another condition
 - A *quasi-experiment* is one where the independent variables that aren't manipulated by the experimenter plays a role in the experiment
-- Both types of experiments may fail due to 
+- Both types of experiments may fail due to the formality/man-made nature of the experiments that don't allow people to act who they typically are.
+## **Investigations of Neural Underpinnings**
+- *Brain imaging* has been used to construct pictures of functioning and anatomy of intact brains
+## **C**
