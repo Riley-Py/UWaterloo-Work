@@ -53,6 +53,8 @@
 - Rejected the behaviourist assumption that mental representations did not exist or that mental events/states were beyond the realm of scientific study
 - During WW2, there came to be a field called *human factors engineering*, where engineers had to design equipment to be easily used by the people who operated said equipment
 - Thereafter came the development of the *person-machine system*, where machinery operated by a person must be designed with the thought of the operator's physical/cognitive/motivational capacities and limitations
-- Humans, like communication channels, were known as *limited-capcity processors*, where a person can on
+- Humans, like communication channels, were known as *limited-capacity processors*, where a person can only do so many things at once.
+- Noam Chomsky was a linguist who saw the importance, like psychologists, of studying how people acquire, understand, and produce language
+	- He explained that behaviourism could not 
 
 
