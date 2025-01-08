@@ -65,6 +65,7 @@
 ## **Current Trends in the Study of Cognition**
 - People from cognitive psychology, computer science, philosophy, linguistics, neuroscience, and anthropology, created the field of *cognitive science* on September 11, 1956 (the same day a symposium on info theory was held at MIT)
 - Cognitive science is built on assumptions, like *level of representation*, which is where theories incorporate symbols, rules, images, or ideas, or "stuff between input and output"
-- 
+- *Cognitive neuropsychology* studies deficits in certain brain-damaged individuals
+	- Milner and Goodale described someone who made visually guided motor movements, but can't do anything with spatial vision, proving that 
 
 
