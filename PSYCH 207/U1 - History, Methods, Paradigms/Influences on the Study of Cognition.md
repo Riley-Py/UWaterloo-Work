@@ -1,2 +1,4 @@
 - Plato likened storing memory to writing on a wax tablet, and retrieving memories to catching a bird
-- 
+- **Empiricism**: Knowledge comes from an individual's own experience with their own senses and experiences
+	- Recognizes individual differences in genetics, but also recognizes human nature's changeable aspects
+	- People are 
