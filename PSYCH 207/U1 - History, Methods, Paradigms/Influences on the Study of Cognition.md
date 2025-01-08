@@ -27,3 +27,5 @@
 ## **Behaviourism**
 - A branch of **functionalism**
 - References to unobservable, subjective mental states (like consciousness), as well as processes (understanding, hoping for, deciding, etc.) were to be rid of in psychology
+- Rejected **introspection** as it wasn't testable as a result
+- 
