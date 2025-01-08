@@ -50,6 +50,7 @@
 	- He found that there was variability in the responses, from no image, to very clear imagery
 - Galton's tests and questionnaires influenced other psychologists to develop from that, and also influenced psychologists to think about the nature of cognitive abilities and capacities
 ## **The Cognitive Revolution**
-- Rejected the behaviourist assumption that mental representations did not exist or that mental events/states
+- Rejected the behaviourist assumption that mental representations did not exist or that mental events/states were beyond the realm of scientific study
+- During WW2, there came to be a field called *human factors engineering*, where engineers had to design equipment to be easily used by the people who operated said equipment
 
 
