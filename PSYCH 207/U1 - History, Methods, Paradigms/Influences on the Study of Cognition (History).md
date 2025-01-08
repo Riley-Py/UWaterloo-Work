@@ -60,6 +60,9 @@
 - Meanwhile, neuroscience was debating over the *localization of function*, which is where neural structures supporting a specific function reside in the brain area
 	- David Hebb proved to others that certain kinds of functions, like visual perceptions, were there through *cell assemblies* (connections among sets of cells in the brain)
 - David Hubel and Torsten Wiesel found that specific cells in the visual cortex of cats were trained to respond to specific types of stimuli, like shapes or lines, suggesting that there were some functions localized in the brain
-- Alan Turing wrote about universal machines, which led to the *computer metaphor*; Comparing people's cognitive activities to an opera
+- Alan Turing wrote about universal machines, which led to the *computer metaphor*; Comparing people's cognitive activities to an operating computer (computer is fed data, humans are fed info)
+- Nowadays, *artificial intelligence* is where the computer is solving the same kinds of problems humans can and if the computer can use the same methods as humans
+## **Current Trends in the Study of Cognition**
+- People from cognitive psychology, computer science, philosophy, linguisi
 
 
