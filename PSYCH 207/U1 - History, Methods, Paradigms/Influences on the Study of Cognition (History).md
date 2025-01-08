@@ -59,6 +59,7 @@
 - Chomsky came to think that people's language abilities are unspoken system of rules, known as *generative grammar*, which allows speakers to construct/listeners to understand sentences that make sense in the language
 - Meanwhile, neuroscience was debating over the *localization of function*, which is where neural structures supporting a specific function reside in the brain area
 	- David Hebb proved to others that certain kinds of functions, like visual perceptions, were there through *cell assemblies* (connections among sets of cells in the brain)
-- David Hubel and Torsten Wiesel found that specific cells in the visual cortext
+- David Hubel and Torsten Wiesel found that specific cells in the visual cortex of cats were trained to respond to specific types of stimuli, like shapes or lines, suggesting that there were some functions localized in the brain
+- Alan Turing wrote about universal machines, which led to the *computer metaphor*; Comparing people's cognitive activities to an opera
 
 
