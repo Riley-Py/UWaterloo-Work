@@ -10,4 +10,5 @@
 ## **Structualism**
 - Psychology was founded back in 1879 by Wilhelm Wundt, where he wanted to discover the laws that explained immediate conscious experience and attribute units of the mind (like "mental elements")
 - James Baldwin set up a lab in 1889 after studying with Wundt and worked with mental development in children, conducting the first experiments with children
-- 
+- **Introspection**: Presenting highly trained observers with various stimuli and asking them to describe their conscious experiences (nowadays, the term means "soul-searching")
+	- 
