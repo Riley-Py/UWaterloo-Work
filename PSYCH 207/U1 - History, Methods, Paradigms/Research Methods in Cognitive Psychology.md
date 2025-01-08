@@ -10,4 +10,5 @@
 	- However, you can be more biased in your cognition  and be more concerned with their level of performance, distorting the observations
 	- As well, observers have very few resources left with which to observe/record when it comes to demanding cognitive tasks
 ## **Experiments and Quasi-Experiments**
-- An *experiment* is one where the experimenter manipulates one or more experimental conditions (independent variables) to see the re
+- An *experiment* is one where the experimenter manipulates one or more experimental conditions (independent variables) to see the recorded measures (dependent variables) change as a result.  Most research is of this type.
+	- An example is where an experimenter gets people, divides them into two groups, and presents them with the same stimuli, only changing the instructions between the two groups (the independent variable).  The experimenter observes
