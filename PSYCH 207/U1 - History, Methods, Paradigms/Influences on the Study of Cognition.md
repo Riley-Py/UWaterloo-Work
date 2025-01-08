@@ -3,4 +3,6 @@
 	- Recognizes individual differences in genetics, but also recognizes human nature's changeable aspects
 	- People are who they are due to previous learning
 		- This learning is through **mental association** of two ideas
-		- Locke stated that two different ideas
+		- Locke stated that two different ideas can become joined in the mind due to being present to the individual at the same time
+	- Environment plays a role in determining abilities
+- **Nativism**: Suggests that some cognitive functions come build in
