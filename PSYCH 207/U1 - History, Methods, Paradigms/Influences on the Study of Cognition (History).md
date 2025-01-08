@@ -63,6 +63,7 @@
 - Alan Turing wrote about universal machines, which led to the *computer metaphor*; Comparing people's cognitive activities to an operating computer (computer is fed data, humans are fed info)
 - Nowadays, *artificial intelligence* is where the computer is solving the same kinds of problems humans can and if the computer can use the same methods as humans
 ## **Current Trends in the Study of Cognition**
-- People from cognitive psychology, computer science, philosophy, linguisi
+- People from cognitive psychology, computer science, philosophy, linguistics, neuroscience, and anthropology, created the field of *cognitive science* on September 11, 1956 (the same day a symposium on info theory was held at MIT)
+- Cognitive science is built on assumptions, like *level of representation*, which is where theories incorporate symbols, rules, images, or ideas, or "stuff between input and output"
 
 
