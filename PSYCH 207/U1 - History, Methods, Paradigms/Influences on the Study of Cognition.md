@@ -8,4 +8,6 @@
 - **Nativism**: Suggests that some cognitive functions come built-in to humans, as opposed to **empiricism**
 	- Short-term memory is attributed to innate structures of the human mind that are present, and not formed as a result of experience
 ## **Structualism**
-- Psychology was founded back in 1879 by Wilhelm Wundt, where he wanted to discover the laws that explained 
+- Psychology was founded back in 1879 by Wilhelm Wundt, where he wanted to discover the laws that explained immediate conscious experience and attribute units of the mind (like "mental elements")
+- James Baldwin set up a lab in 1889 after studying with Wundt and worked with mental development in children, conducting the first experiments with children
+- 
