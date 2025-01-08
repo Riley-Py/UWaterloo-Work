@@ -39,5 +39,7 @@
 - Suggests that psychological phenomena can't be reduced to simple elements but has to be studied in it's entirety
 - Example here, where there are the same eight lines, but people will experience them differently:
 ![[Pasted image 20250107232402.png]]
-- Rejected all other lines of thought and chose to study people's s
+- Rejected all other lines of thought and chose to study people's subjective experience of stimuli and to focus on how people use or impose structure and order on their experiences
+
+
 
