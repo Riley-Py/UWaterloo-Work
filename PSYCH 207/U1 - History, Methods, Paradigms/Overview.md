@@ -10,3 +10,4 @@ Another example:
 
 Here, memory is being used, including **recognition** (woman's familiar), and **recall** (trying to place her in your memory). The success of placing her requires your **knowledge representation**. To communicate with her, you use **language** with nonverbal cues/signals.  **Decision making** comes last, where you may admit to her that you may not know her.
 
+In the psychology field, scientists try to isolate the phenomenon and bring it into the lab.  The challenge then becomes:  What is essential/inessential about the phenomen
