@@ -67,6 +67,8 @@
 - Cognitive science is built on assumptions, like *level of representation*, which is where theories incorporate symbols, rules, images, or ideas, or "stuff between input and output"
 - *Cognitive neuropsychology* studies deficits in certain brain-damaged individuals
 	- Milner and Goodale described someone who made visually guided motor movements, but can't do anything with spatial vision, proving that vision for action and perception can function somewhat independently
-	- Ellis and Young described another person who had a head injury, but recovered f
+	- Ellis and Young described another person who had a head injury, but recovered almost fully, except for not being able to recognize people's faces (also known as *prosopagnosic*)
+	- The aim of all of this is to figure out how cognitive processes operate, but also aid in people who have brain damage overall
+- 
 
 
