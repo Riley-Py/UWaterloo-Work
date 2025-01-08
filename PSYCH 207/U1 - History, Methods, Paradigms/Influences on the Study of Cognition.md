@@ -28,4 +28,6 @@
 - A branch of **functionalism**
 - References to unobservable, subjective mental states (like consciousness), as well as processes (understanding, hoping for, deciding, etc.) were to be rid of in psychology
 - Rejected **introspection** as it wasn't testable as a result
-- John Watson, a leading believer in this, thought that all "mental" phenomena can be reduced to behavioural/physiologic responses
+- John Watson, a leading believer in this, thought that all "mental" phenomena can be reduced to behavioural/physiologic responses, like thought can be boiled down to muscle movements.
+- Under Watson, it was negative, but it did encourage better research protocols and testable hypotheses/theories
+- B.F. Skinner 
