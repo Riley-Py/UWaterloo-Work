@@ -40,6 +40,10 @@
 - Example here, where there are the same eight lines, but people will experience them differently:
 ![[Pasted image 20250107232402.png]]
 - Rejected all other lines of thought and chose to study people's subjective experience of stimuli and to focus on how people use or impose structure and order on their experiences
-
+## **Study of Individual Differences**
+- No school of thought associated with this one
+- Was investigated by Sir Francis Galton and his followers
+- He was interested in measuring intellectual ability after always comparing himself to others
+- 
 
 
