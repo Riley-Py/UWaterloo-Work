@@ -21,5 +21,9 @@
 - William James was opposite of Wundt - carried out little original research but wrote about psychological findings and their relevance to everyday life
 - James asked *why the mind works the way it does* as opposed to finding units of consciousness and assumed the purposes of its various operations
 - Drew on Darwinian evolutionary theory and tried to extend biology concepts of adaptation to psychological phenomena
+## **Structuralists VS Functionalists**
 - **Structuralists** thought that experimental psychology should be in a lab, so that stimuli could be stripped of their everyday meanings to determine the true nature of the mind
-- **Functionalists** studied mental phenomena in real-life situations. 
+- **Functionalists** studied mental phenomena in real-life situations.
+## **Behaviourism**
+- A branch of functionalism
+- 
