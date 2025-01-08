@@ -5,4 +5,8 @@
 - Best used to identify problems or issues of interest
 ## **Introspection**
 - Observer observes his or her own mental processes
-- Has all the benefits and drawbacks of other observational studies, plus a fe mo
+- Has all the benefits and drawbacks of other observational studies, plus a few more
+	- Has the benefit to providing more insight into the experience and the factors that influenced it, that is better than what an outsider can do
+	- However, you can be more biased in your cognition  and be more concerned with their level of performance, distorting the observations
+	- As well, observers have very few resources left with which to observe/record when it comes to demanding cognitive tasks
+## **Experiem**
