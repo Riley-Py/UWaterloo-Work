@@ -57,6 +57,7 @@
 - Noam Chomsky was a linguist who saw the importance, like psychologists, of studying how people acquire, understand, and produce language
 	- He explained that behaviourism could not explain language, as in a study with children, children can't have their grammar corrected as they can't "hear" the problems
 - Chomsky came to think that people's language abilities are unspoken system of rules, known as *generative grammar*, which allows speakers to construct/listeners to understand sentences that make sense in the language
-- 
+- Meanwhile, neuroscience was debating over the *localization of function*, which is where neural structures supporting a specific function reside in the brain area
+	- David Hebb proved to others that certain kinds of functions, like visual 
 
 
