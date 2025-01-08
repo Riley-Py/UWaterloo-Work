@@ -12,4 +12,7 @@ Here, memory is being used, including **recognition** (woman's familiar), and **
 
 In the psychology field, scientists try to isolate the phenomenon and bring it into the lab.  The challenge then becomes:  What is essential/inessential about the phenomenon under study.
 
-The course covers how lab models do/do not accurately describe/predict cognitive processing in real life; Studies that attempt to measure co
+The course covers how lab models do/do not accurately describe/predict cognitive processing in real life; Studies that attempt to measure cognitive processes while people are behaving naturally in the real world; and how situational and personal factors affect cognitive processing.
+
+#History_Methods_Paradigms
+#Psych_207
