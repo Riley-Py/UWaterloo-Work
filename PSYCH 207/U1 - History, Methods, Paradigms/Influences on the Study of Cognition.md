@@ -1,0 +1,2 @@
+- Plato likened storing memory to writing on a wax tablet, and retrieving memories to catching a bird
+- 
