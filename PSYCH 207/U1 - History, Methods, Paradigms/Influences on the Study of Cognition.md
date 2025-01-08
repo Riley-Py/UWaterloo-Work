@@ -34,5 +34,7 @@
 	- This came to the theory of **mental representations** (internal thoughts of information), which was thought of as internal copies of external stimuli
 - Edward Tolman applied this concept to animals, where they had both expectations and internal representations that guided their behaviour
 ## **Gestalt Psychology**
+- Founded by Max Wertheimer, Kurt Koffka, and Wolfgang Kohler
 - *Gestalt* translates to configuration or shape
-- Suggests that 
+- Suggests that psychological phenomena can't be reduced to simple elements but has to be studied in it's entirety
+- 
