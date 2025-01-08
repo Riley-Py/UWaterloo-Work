@@ -49,5 +49,7 @@
 - Galton also studied in labs and natural settings mental imagery and asked respondents questions about the mental image
 	- He found that there was variability in the responses, from no image, to very clear imagery
 - Galton's tests and questionnaires influenced other psychologists to develop from that, and also influenced psychologists to think about the nature of cognitive abilities and capacities
+## **The Cognitive Revolution**
+- Rejected the behaviourist assumption that mental representations did not exist or that mental events/states
 
 
