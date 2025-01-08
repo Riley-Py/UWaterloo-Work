@@ -17,3 +17,6 @@
 		- *Intensity*
 		- *Duration*
 - **Structuralism** was a term coined by Edward B. Titchener to focus on what the elemental components of the mind are rather than on the question of why the mind works as it does
+## **Functionalism**
+- William James was opposite of Wundt - carried out little original research but wrote about psychological findings and their relevance to everyday life
+- James asked 
