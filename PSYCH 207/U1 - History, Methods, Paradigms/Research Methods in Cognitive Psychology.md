@@ -19,4 +19,9 @@
 - Both types of experiments may fail due to the formality/man-made nature of the experiments that don't allow people to act who they typically are.
 ## **Investigations of Neural Underpinnings**
 - *Brain imaging* has been used to construct pictures of functioning and anatomy of intact brains
-## **C**
+## **Chart of how each Tradition of Cognitive Psychology tests participants**
+
+![[Pasted image 20250108175933.png]]
+
+#History_Methods_Paradigms 
+#Psych_207 
