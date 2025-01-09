@@ -26,4 +26,8 @@
 	- Different patterns of activation account for various cognitive processes
 	- Learning happens when new connective patterns are established that change the weight between units
 - Feldman and Ballard mention that "individual neurons don't transmit large amounts of symbolic info, but they compute by being appropriately connected to large numbers of similar units" (in other words, it's the brain metaphor instead of the computer metaphor)
-- 
+- Draws from structuralism like information-processing
+- Information processors look to computer science, connectionists look to cognitive neuropsychology/neuroscience for information
+- Most connectionist work replicates findings of experimental/quasi-experimental research using computer programs based on neural-network model
+
+## **Evolutionary Approach**
