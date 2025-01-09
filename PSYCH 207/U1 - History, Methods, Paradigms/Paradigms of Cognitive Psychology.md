@@ -25,4 +25,5 @@
 - All models share the assumption that there is no central processor that directs the flow of information from one process/storage area to another
 	- Different patterns of activation account for various cognitive processes
 	- Learning happens when new connective patterns are established that change the weight between units
+- Feldman and Ballard mention that "individual neurons don't transmit large amounts of symbolic info, but they compute by being appropriately connected to large numbers of similar units" (in other words, it's the brain metaphor instead of the computer metaphor)
 - 
