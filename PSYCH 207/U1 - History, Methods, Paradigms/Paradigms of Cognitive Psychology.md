@@ -11,4 +11,7 @@
 - Rooted in structuralism
 - Psychologists use experimental and quasi-experimental techniques in their investigations
 ## **Connectionist Approach**
-- *Connectionism (parallel-distributed processing (PDP))* - Models 
+- *Connectionism (parallel-distributed processing (PDP))* - Models that show cognition as a network of connections among simple processing units
+	- The models can also be called *neural networks*
+	- Each unit is connected to other units in a large network
+	- 
