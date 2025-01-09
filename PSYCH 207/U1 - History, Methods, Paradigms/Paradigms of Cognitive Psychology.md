@@ -13,5 +13,7 @@
 ## **Connectionist Approach**
 - *Connectionism (parallel-distributed processing (PDP))* - Models that show cognition as a network of connections among simple processing units
 	- The models can also be called *neural networks*
-	- Each unit is connected to other units in a large network
-	- 
+	- Each unit is connected to other units in a large network and has some activation at any time
+		- Activation depends on the input (environment/other units) to the unit and the connection between units have positive/negative weights
+			- Positive weight - causes unit to raise the level of activation of other units connected to it
+			- Negative weight - lowers the acti
