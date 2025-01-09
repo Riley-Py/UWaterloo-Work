@@ -15,5 +15,7 @@
 	- The models can also be called *neural networks*
 	- Each unit is connected to other units in a large network and has some activation at any time
 		- Activation depends on the input (environment/other units) to the unit and the connection between units have positive/negative weights
-			- Positive weight - causes unit to raise the level of activation of other units connected to it
-			- Negative weight - lowers the acti
+			- *Positive weight* - causes unit to raise the level of activation of other units connected to it
+			- *Negative weight* - lowers the activation of connected units
+- Model of the connections:![[Pasted image 20250109175648.png|hello]]
+- Units are the black
