@@ -31,3 +31,5 @@
 - Most connectionist work replicates findings of experimental/quasi-experimental research using computer programs based on neural-network model
 
 ## **Evolutionary Approach**
+- Humans have specialized areas of competence produced by our evolutionary heritage, where people have special-purpose mechanisms specific to certain class of problems
+- 
