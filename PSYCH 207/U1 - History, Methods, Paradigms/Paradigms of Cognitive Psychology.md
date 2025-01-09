@@ -19,4 +19,6 @@
 			- *Negative weight* - lowers the activation of connected units
 - Model of the connections:![[Pasted image 20250109175648.png]]
 - Black circles are the units (nodes) represent a particular individual, where it's connected to other units which shows information about the individual.  The arrows represent positive connections.  Whenever they are connected, however, to a different node (small circles), it weakens the other units in that same larger circle
-- 
+- Difference between *information-processing* and *connectionist* approaches is the manner in which cognitive processes are assumed to occur
+	- In *information-processing*, cognition is assumed to occur *serially* (first one process occurs, feeding info to the next process, which feeds into the next process)
+	- In *connectionist models*, the cognitive processes work in *parallel* (altogether at onc)
