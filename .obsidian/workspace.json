@@ -34,9 +34,23 @@
               "icon": "lucide-file",
               "title": "Research Methods in Cognitive Psychology"
             }
+          },
+          {
+            "id": "10da9dcfcc7c059b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,10 +202,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d52c505a2fea6714",
+  "active": "10da9dcfcc7c059b",
   "lastOpenFiles": [
-    "PSYCH 207/U1 - History, Methods, Paradigms/Influences on the Study of Cognition (History).md",
     "PSYCH 207/U1 - History, Methods, Paradigms/Research Methods in Cognitive Psychology.md",
+    "conflict-files-obsidian-git.md",
+    "PHYS 115/U1/S 1.3 - Mass.md",
+    "PHYS 115/U1/S 1.2 - Time.md",
+    "PHYS 115/U1/S 1.1 Measuring Things - Including Length.md",
+    "PHYS 115/U1",
+    "PHYS 115",
+    "CHE 102/Photos/Pasted image 20241208132746.png",
+    "PSYCH 207/U1 - History, Methods, Paradigms/Influences on the Study of Cognition (History).md",
     "PSYCH 207/Images/Pasted image 20250108175933.png",
     "PSYCH 207/U1 - History, Methods, Paradigms/Overview.md",
     "PSYCH 207/Images/Pasted image 20250107232402.png",
@@ -218,9 +239,6 @@
     "CHE 102/Unit 5 - Chemical Equilibrium/Van'T Hoff Equation.md",
     "CHE 102/Unit 5 - Chemical Equilibrium/Solubility Product Constant.md",
     "CHE 102/Unit 5 - Chemical Equilibrium/Relationships for Equilibrium Constants.md",
-    "CHE 102/Unit 5 - Chemical Equilibrium/Reaction Quotient.md",
-    "CHE 102/Unit 5 - Chemical Equilibrium/Le Chatelier's Principle.md",
-    "CHE 102/Unit 5 - Chemical Equilibrium/ICE Table.md",
     "CHE 102/Unit 6 - Electrochemistry",
     "CHE 102/Unit 5 - Chemical Equilibrium",
     "CHE 102/Unit 4 - Phase Equilibrium",
@@ -231,9 +249,6 @@
     "CHE 102/Photos/Pasted image 20241204221607.png",
     "CHE 102/Photos/Pasted image 20241204221308.png",
     "CHE 102/Photos/Pasted image 20241204221129.png",
-    "CHE 102/Photos/Pasted image 20241204210640.png",
-    "CHE 102/Photos",
-    "CHE 102",
-    "Unit 5 - Chemical Equilibrium"
+    "CHE 102/Photos"
   ]
 }
