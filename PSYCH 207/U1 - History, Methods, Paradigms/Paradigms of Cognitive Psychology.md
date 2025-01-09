@@ -17,5 +17,5 @@
 		- Activation depends on the input (environment/other units) to the unit and the connection between units have positive/negative weights
 			- *Positive weight* - causes unit to raise the level of activation of other units connected to it
 			- *Negative weight* - lowers the activation of connected units
-- Model of the connections:![[Pasted image 20250109175648.png|hello]]
-- Units are the black
+- Model of the connections:![[Pasted image 20250109175648.png]]
+
