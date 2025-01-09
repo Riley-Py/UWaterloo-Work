@@ -18,4 +18,4 @@
 			- *Positive weight* - causes unit to raise the level of activation of other units connected to it
 			- *Negative weight* - lowers the activation of connected units
 - Model of the connections:![[Pasted image 20250109175648.png]]
-
+- Black circles are the units (nodes) represent a particular individual, where it's connected to other units which shows information about the individua
