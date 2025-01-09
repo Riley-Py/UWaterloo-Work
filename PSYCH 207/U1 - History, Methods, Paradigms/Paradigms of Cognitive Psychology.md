@@ -9,3 +9,6 @@
 - Diagram of general-purpose information processing system:
 ![[Pasted image 20250109174929.png]]
 - Rooted in structuralism
+- Psychologists use experimental and quasi-experimental techniques in their investigations
+## **Connectionist Approach**
+- *Connectionism (parallel-distributed processing (PDP))* - Models 
