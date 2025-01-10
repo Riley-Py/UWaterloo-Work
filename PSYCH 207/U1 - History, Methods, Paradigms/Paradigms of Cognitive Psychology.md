@@ -35,4 +35,5 @@
 - Evolutionary psychologists believe that we understand a system best if we understand the evolutionary pressures on our ancestors
 ## **Ecological Approach**
 - Overlaps with the evolutionary approach and is separate from the other approaches in general
-- The major idea 
+- The major idea is that cognition doesn't happen in isolation from larger cultural contexts; all cognitive activities are shaped by the culture and the context in which they occur
+- Eye gaze, head position, body position, and situational a
