@@ -32,4 +32,5 @@
 
 ## **Evolutionary Approach**
 - Humans have specialized areas of competence produced by our evolutionary heritage, where people have special-purpose mechanisms specific to certain class of problems
-- 
+- Evolutionary psychologists believe that we understand a system best if we understand the evolutionary pressures on our ancestors
+## **Ecological Approach**
