@@ -36,4 +36,6 @@
 ## **Ecological Approach**
 - Overlaps with the evolutionary approach and is separate from the other approaches in general
 - The major idea is that cognition doesn't happen in isolation from larger cultural contexts; all cognitive activities are shaped by the culture and the context in which they occur
-- Eye gaze, head position, body position, and situational a
+- Eye gaze, head position, body position, and situational awareness are cues that people use to understand not only the basic gist of scenes, but also the intentional state of others (Smilek and Kingstone)
+- Draws from the functionalist and Gestalt schools of thought, thereby denying studying cognitive activity in artificial contexts
+	- Less on lab experiments/computer simulations and more on naturalis
