@@ -38,4 +38,6 @@
 - The major idea is that cognition doesn't happen in isolation from larger cultural contexts; all cognitive activities are shaped by the culture and the context in which they occur
 - Eye gaze, head position, body position, and situational awareness are cues that people use to understand not only the basic gist of scenes, but also the intentional state of others (Smilek and Kingstone)
 - Draws from the functionalist and Gestalt schools of thought, thereby denying studying cognitive activity in artificial contexts
-	- Less on lab experiments/computer simulations and more on naturalis
+	- Less on lab experiments/computer simulations and more on naturalistic observation and field studies to explore cognition
+#History_Methods_Paradigms 
+#Psych_207 
