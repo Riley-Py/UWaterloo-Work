@@ -1,1 +1,5 @@
-- Descriptions of cognitive processes and structures was best done at a level of abstraction above the neural 
+- Descriptions of cognitive processes and structures was best done at a level of abstraction above the neural level
+- One challenge for cognitive psychologists is developing and applying methods of inquiry that can conclusively link cognitive processes to underlying neural activity
+- **Growth statistics**
+	- Brain grows from 0 to 350 grams
+	- Maximum brain weight is 1350 grams at age 20
