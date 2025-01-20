@@ -24,4 +24,6 @@
 - Diagram of brain structure:
 ![[Pasted image 20250120184406.png]]
 - *Cerebrum*: Contains a layer called the *cerebral cortex*, which is made up of half-dozen layers of neurons with white matter underneath, and is what carries info between cortex and different parts of the cortex
-- 
+- Diagram of the limbic system:  ![[Pasted image 20250120184631.png]]
+- Brain is divided up into four lobes:
+	- *Parietal lobes*: 
