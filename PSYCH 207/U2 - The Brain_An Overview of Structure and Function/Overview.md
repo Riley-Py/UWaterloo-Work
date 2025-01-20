@@ -1,0 +1,1 @@
+- Descriptions of cognitive processes and structures was best done at a level of abstraction above the neural 
