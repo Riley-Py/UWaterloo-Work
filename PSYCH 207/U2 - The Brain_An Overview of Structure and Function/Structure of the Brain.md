@@ -32,4 +32,6 @@
 		- If damaged, it can result in memory loss
 - Frontal lobes have three separate regions:
 	- **Motor cortex**: Controls fine motor movement; the *premotor cortex* is involved in movement
-	- **p**
+	- **Prefrontal cortex**: Controls *executive functioning* - planning, decisions, implementing strategies, not allowing inappropriate behaviours, using working memory to process info
+		- Damage to this area can affect mood, personality, and control inappropriate behaviour
+		- Shows the longest period to mature
