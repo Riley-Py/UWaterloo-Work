@@ -16,4 +16,11 @@
 ## **Forebrain**
 - *Thalamus*: Switching station for sensory information and involves memory
 - *Hypothalamus*: Hunger, thirst, temperature, sexual arousal, emotions
-- *Hippo*
+- *Hippocampus*: Learning, memory, emotions
+- *Amygdala*: Memory, emotion, aggression
+- *Cerebellum*: Coordinated movement, language thinking
+- *Medulla*: Breathing, heart rate, vital functions
+- *Spinal cord*: Transmits signals between brain and rest of body
+- Diagram of brain structure:
+![[Pasted image 20250120184406.png]]
+- 
