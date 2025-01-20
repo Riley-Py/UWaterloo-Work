@@ -26,4 +26,7 @@
 - *Cerebrum*: Contains a layer called the *cerebral cortex*, which is made up of half-dozen layers of neurons with white matter underneath, and is what carries info between cortex and different parts of the cortex
 - Diagram of the limbic system:  ![[Pasted image 20250120184631.png]]
 - Brain is divided up into four lobes:
-	- *Parietal lobes*: 
+	- *Parietal lobes*: Contains the *somatosensory cortex*, which is behind the post-central gyrus (*gyrus*: ridge/convolution of brain).  Used for sensory info from the body, like pain, pressure, touch, or temperature
+	- *Occipital lobes*: Processes visual information
+	- *Temporal lobes*: Processes audio information, and the ability to recognize faces
+	- 
