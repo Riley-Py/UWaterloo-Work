@@ -29,4 +29,7 @@
 	- *Parietal lobes*: Contains the *somatosensory cortex*, which is behind the post-central gyrus (*gyrus*: ridge/convolution of brain).  Used for sensory info from the body, like pain, pressure, touch, or temperature
 	- *Occipital lobes*: Processes visual information
 	- *Temporal lobes*: Processes audio information, and the ability to recognize faces
-	- 
+		- If damaged, it can result in memory loss
+- Frontal lobes have three separate regions:
+	- **Motor cortex**: Controls fine motor movement; the *premotor cortex* is involved in movement
+	- **p**
