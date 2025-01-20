@@ -35,3 +35,4 @@
 	- **Prefrontal cortex**: Controls *executive functioning* - planning, decisions, implementing strategies, not allowing inappropriate behaviours, using working memory to process info
 		- Damage to this area can affect mood, personality, and control inappropriate behaviour
 		- Shows the longest period to mature
+- Brain regions that show the most plasticity (the ability to change) over the longest periods may be most sensitive to environmental toxins/stressors
