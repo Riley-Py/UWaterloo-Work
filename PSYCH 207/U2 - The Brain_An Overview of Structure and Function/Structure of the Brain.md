@@ -12,4 +12,8 @@
 		- **Cerebellum**: Contains neurons that coordinate muscular activity.  Most primitive brain structure, governs balance and general motor coordination
 			- Brain lesions can create jerky movements, tremors, and impairment of balance/gait.  Also shown to affect the shifting of attention between visual/audio stimuli, and rhythm
 - **Midbrain**:
-	- Structures in the midbrain like the *tectum* and *tegmentum* are involved with relaying information between other brain regions, like the *cerebellum* and *forebrain*.  As well, the *recticular formation* keeps us awake and alert and is involved in the 
+	- Structures in the midbrain like the *tectum* and *tegmentum* are involved with relaying information between other brain regions, like the *cerebellum* and *forebrain*.  As well, the *recticular formation* keeps us awake and alert and is involved in attention-grabbing or threatening stimuli
+## **Forebrain**
+- *Thalamus*: Switching station for sensory information and involves memory
+- *Hypothalamus*: Hunger, thirst, temperature, sexual arousal, emotions
+- *Hippo*
