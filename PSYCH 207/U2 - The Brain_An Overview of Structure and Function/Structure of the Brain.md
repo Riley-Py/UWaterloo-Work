@@ -6,4 +6,7 @@
 	- Three major structures:
 		- **Medulla oblongata**: Transmits information from spinal cord to brain, regulates life support functions like respiration, blood pressure, coughing, sneezing, heart rate, and vomiting
 		- **Pons**: Facilitates the cross-over of information between the left side of the body and the right side of the brain and vice versa.  Involved with balance and processing of visual/audio info
-		- **Cerebellum**: Contains neurons that coordinate muscular activity. 
+		- **Cerebellum**: Contains neurons that coordinate muscular activity.  Most primitive brain structure, governs balance and general motor coordination
+			- Brain lesions can create jerky movements, tremors, and impairment of balance/gait.  Also shown to affect the shifting of attention between visual/audio stimuli, and rhythm
+- **Midbrain**:
+	- Structures in the midbrain
