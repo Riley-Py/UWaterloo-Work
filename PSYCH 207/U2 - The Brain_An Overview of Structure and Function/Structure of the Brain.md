@@ -80,3 +80,4 @@
 	- Right hemisphere puts individual elements together to make up a whole
 - The two hemispheres are connected via the *corpus callosum*, which sends information from one hemisphere to the other very quickly
 ## **Brain Imaging Techniques**
+- Some methods give info on *neuro*
