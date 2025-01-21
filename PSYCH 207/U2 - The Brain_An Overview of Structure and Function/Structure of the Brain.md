@@ -39,4 +39,7 @@
 - Diagram of the regions of the brain:
 ![[Pasted image 20250121163136.png]]
 ## **Localization of Function**
-- 
+- *Localization of function*: A means of mapping the brain
+	- Traces back to Franz Gall, who believed in *faculty psychology*
+		- Different mental abilities like reading or computation were independent and autonomous functions carried out in different parts of the brain
+	- Gall had a student named Johan Spurzheim
