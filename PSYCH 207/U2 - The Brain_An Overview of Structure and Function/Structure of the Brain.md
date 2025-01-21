@@ -64,5 +64,7 @@
 		- Diagram of modern localization of functions:
 			 ![[Pasted image 20250121165254.png]]
 
-	- Karl 		
+	- Karl Lashley studied the effects of brain *ablation* (removal of parts of the brain) on maze-running ability of rats
+		- The impairment was related to the total amount of cortex removed, and not to which specific area
+	- *Plasticity*: Brain regions taking over functions of damaged regions.  The younger, the better.
 		
