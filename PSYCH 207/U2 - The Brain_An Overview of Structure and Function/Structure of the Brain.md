@@ -75,4 +75,8 @@
 	- Language function is in both hemispheres
 	- Called *bilateralized* individuals
 - The right hemisphere is associated with geometric puzzles, navigation around familiar spaces, and musical ability
-- Some people describe the left hemisphere as the *analytic one* and the right hemisphere as the **
+- Some people describe the left hemisphere as the *analytic one* and the right hemisphere as the *synthetic one*
+	- Left hemisphere is good at processing information with events occurring one after the other
+	- Right hemisphere puts individual elements together to make up a whole
+- The two hemispheres are connected via the *corpus callosum*, which sends information from one hemisphere to the other very quickly
+## **Brain Imaging Techniques**
