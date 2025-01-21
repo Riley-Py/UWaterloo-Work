@@ -19,4 +19,5 @@
 	- People have electrodes attached to their scalp and are presented with external stimuli, like sights/sounds
 	- Recording measures brain activity from the time before stimulus to some time after
 		- Brain waves can have predictable components
-- Another technique is called *positron emission tomography (PET)*, which involves 
+- Another technique is called *positron emission tomography (PET)*, which involves injecting a radioactively labelled compound (radioisotopes of carbon, nitrogen, oxygen, or fluorine the emit radiation, detected by devices outside the head)
+	- Measures blood flow to different regions of brain, which allows for a reconstruction of a picture of a brain
