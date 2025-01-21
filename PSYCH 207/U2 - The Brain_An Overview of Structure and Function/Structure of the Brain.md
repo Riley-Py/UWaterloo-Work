@@ -73,4 +73,6 @@
 	- It's stated that it's a *left hemisphere dominance in language*
 - Small percentage of people don't show the specialization
 	- Language function is in both hemispheres
-	- Called *b*
+	- Called *bilateralized* individuals
+- The right hemisphere is associated with geometric puzzles, navigation around familiar spaces, and musical ability
+- Some people describe the left hemisphere as the *analytic one* and the right hemisphere as the **
