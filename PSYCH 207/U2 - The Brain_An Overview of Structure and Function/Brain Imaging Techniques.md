@@ -34,4 +34,8 @@
 	- Someone in *MRI* is in a tunnel structure that surrounds the person with a strong magnetic field
 		- Radio waves are directed at the body structure being scanned, causing the centres of hydrogen atoms to align themselves in predictable ways
 		- Computers use the info to produce a 3D image where it can be inspected further
-	- Not everyone can undergo MRI, as the magnetic field
+	- Not everyone can undergo MRI 
+		- Magnetic field can interfere with electrical signals, such as people with pacemakers
+		- People with metal can have it dislodged by the magnetic fields
+		- People with claustrophobia shouldn't be there, as movement isn't tolerated
+- To see how a brain functions, a new technique called **
