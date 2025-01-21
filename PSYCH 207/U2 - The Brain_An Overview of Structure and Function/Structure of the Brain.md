@@ -60,5 +60,9 @@
 		- Diagram of the mapping:
 			![[Pasted image 20250121164859.png]]
 	- Wilder Penfield stimulated the brain with electric probes while patients were conscious on the operating table and observed responses
-		- As a result, he created maps of sensory/motor cortices of the brain
+		- As a result, he created maps of sensory/motor cortices of the brain 
+		- Diagram of modern localization of functions:
+			 ![[Pasted image 20250121165254.png]]
+
+	- Karl 		
 		
