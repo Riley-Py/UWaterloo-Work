@@ -39,4 +39,7 @@
 		- People with metal can have it dislodged by the magnetic fields
 		- People with claustrophobia shouldn't be there, as movement isn't tolerated
 - To see how a brain functions, a new technique called *Functional magnetic resonance imaging (fMRI)* relies on the fact that blood has magnetic properties
-	- 
+	- Through the heart, blood is maximally magnetic
+	- Through capillaries, blood's less magnetic
+	- Brain regions that are active show a change in ratio to oxygenated to deoxygenated blood
+- 
