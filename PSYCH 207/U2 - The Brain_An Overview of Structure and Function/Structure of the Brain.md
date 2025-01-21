@@ -84,4 +84,6 @@
 - The earliest created techniques was called the *computerized axial tomography* (or *CAT* for short)
 	- Highly focused beam of X-rays passed through the body at different angles
 	- Different densities of body organs deflect X-rays differently, allowing for the visual of the organ
-	- 
+	- *CAT* scans of the brain result in 9-12 different "slices", each at different depth
+		- Brain hemorrhages are typically indicated by the presence of blood
+		- Older brain damage is indicated by cerebrospinal fluid
