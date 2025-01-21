@@ -56,4 +56,7 @@
 		![[Pasted image 20250121164420.png]]
 	- Neuropsychologists mapped out an area of the brain called the *primary somatosensory cortex* - organized that each part of it receives information from a specific part of the body
 		- The amount of brain area that is devoted to a part of the body is not proportional to the size of the body part
-		- More sensitive areas of the body, like fingers and lips, have large amounts of
+		- More sensitive areas of the body, like fingers and lips, have large amounts of cortex associated with to it, unlike a leg
+		- Diagram of the mapping:
+			![[Pasted image 20250121164859.png]]
+	- Wilder Penfi
