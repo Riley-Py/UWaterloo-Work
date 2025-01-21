@@ -59,4 +59,6 @@
 		- More sensitive areas of the body, like fingers and lips, have large amounts of cortex associated with to it, unlike a leg
 		- Diagram of the mapping:
 			![[Pasted image 20250121164859.png]]
-	- Wilder Penfi
+	- Wilder Penfield stimulated the brain with electric probes while patients were conscious on the operating table and observed responses
+		- As a result, he created maps of sensory/motor cortices of the brain
+		
