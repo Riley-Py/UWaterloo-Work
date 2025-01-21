@@ -67,4 +67,10 @@
 		- The impairment was related to the total amount of cortex removed, and not to which specific area
 	- *Plasticity*: Brain regions taking over functions of damaged regions.  The younger, the better.
 ## **Lateralization of Function**
-- *Later*
+- *Lateralization*: Two cerebral hemispheres play different roles when it comes to cognitive functions, especially language
+- 95% of people show a specialization for language in the left hemisphere
+	- Left hemisphere is larger in size
+	- It's stated that it's a *left hemisphere dominance in language*
+- Small percentage of people don't show the specialization
+	- Language function is in both hemispheres
+	- Called *b*
