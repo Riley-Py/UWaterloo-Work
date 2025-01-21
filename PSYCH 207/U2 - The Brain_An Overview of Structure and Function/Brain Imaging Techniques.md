@@ -38,4 +38,5 @@
 		- Magnetic field can interfere with electrical signals, such as people with pacemakers
 		- People with metal can have it dislodged by the magnetic fields
 		- People with claustrophobia shouldn't be there, as movement isn't tolerated
-- To see how a brain functions, a new technique called **
+- To see how a brain functions, a new technique called *Functional magnetic resonance imaging (fMRI)* relies on the fact that blood has magnetic properties
+	- 
