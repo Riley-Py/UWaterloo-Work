@@ -90,4 +90,8 @@
 	- Diagram of a CT machine: 
 		![[Pasted image 20250121172331.png]]
 - *Electroencephalography (EEG)* is used to detect different states of consciousness by using electrical signals
-	- Metal electrodes are pos
+	- Metal electrodes are positioned over the scalp
+	- The waveform record changes in a predictable manner when the person is awake, alert, drowsy, asleep, or in a comma
+	- Provides researchers with continuous measurement of brain activity
+	- Diagram of *EEG*:
+		![[Pasted image 20250121172540.png]]
