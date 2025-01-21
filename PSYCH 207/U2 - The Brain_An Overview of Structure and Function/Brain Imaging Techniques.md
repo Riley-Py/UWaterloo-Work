@@ -52,4 +52,6 @@
 - To sum up:
 	- *CAT* and *MRI* yield neuroanatomical info
 	- *PET*, *SPECT*, and *fMRI* provide dynamic info about how blood flows during various cognitive activities
-	- *MEG*, *EEG*, and *ERP* measure electrical activity 
+	- *MEG*, *EEG*, and *ERP* measure electrical activities
+#Psych_207 
+#Structure_brain 
