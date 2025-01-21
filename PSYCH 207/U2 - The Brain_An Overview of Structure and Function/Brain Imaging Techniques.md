@@ -26,4 +26,8 @@
 		- A radioactive tracer, usually oxygen with one electron removed, is injected as water
 		- Within 30 seconds, the tracer reaches the brain, and the amount that accumulates in the brain is proportional to the blood flowing to the brain region
 		- Within 2 minutes before tracer decays to half-life, scans can be made
-	- Another technique to measure cerebral blood flow is *single-photon emission computed to*
+	- Another technique to measure cerebral blood flow is *single-photon emission computed tomography (SPECT)*
+		- Doesn't require the expensive equipment like the *PET* scan
+		- Both use radiation
+- The newest brain-imaging technique is called *magnetic resonance imaging (MRI)*
+	- Provides info about neuroanatomy like *CAT*, but doesn't require radiation and 
