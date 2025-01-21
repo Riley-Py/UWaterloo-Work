@@ -87,3 +87,7 @@
 	- *CAT* scans of the brain result in 9-12 different "slices", each at different depth
 		- Brain hemorrhages are typically indicated by the presence of blood
 		- Older brain damage is indicated by cerebrospinal fluid
+	- Diagram of a CT machine: 
+		![[Pasted image 20250121172331.png]]
+- *Electroencephalography (EEG)* is used to detect different states of consciousness by using electrical signals
+	- Metal electrodes are pos
