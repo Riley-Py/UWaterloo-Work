@@ -21,3 +21,7 @@
 		- Brain waves can have predictable components
 - Another technique is called *positron emission tomography (PET)*, which involves injecting a radioactively labelled compound (radioisotopes of carbon, nitrogen, oxygen, or fluorine the emit radiation, detected by devices outside the head)
 	- Measures blood flow to different regions of brain, which allows for a reconstruction of a picture of a brain
+	- Relies on the fact that the area of the brain is active more when more blood flows to it
+	- People sit with their head in a ring of photocells
+		- A radioactive tracer, usually oxygen with one electron removed, is injected as water
+		- Within 30 seconds, the tracer reaches the brain
