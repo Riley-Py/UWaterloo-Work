@@ -52,5 +52,6 @@
 			-  Became known as *Broca's area*
 	- Carl Wernicke found another language area of the brain, that controls language understanding.  That became known as *Wernicke's area*
 		- People with *fluent/Wernicke's aphasia* are able to produce speech, but it makes no sense and people with this can't understand speech
-	- Diagram of speech areas:
-	- 
+	-  Diagram of speech areas:
+		![[Pasted image 20250121164420.png]]
+	- Neuropsychologists mapped out an area of the brain called the *primary somatosensory cortext*
