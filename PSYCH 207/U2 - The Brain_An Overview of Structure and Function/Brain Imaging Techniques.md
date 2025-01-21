@@ -44,4 +44,6 @@
 	- Brain regions that are active show a change in ratio to oxygenated to deoxygenated blood
 - *fMRI* outlines the human primary visual cortex in the occipital lobe, and both *fMRI* and *MRI* shows how areas of the brain are active for functions like attention, perception, imagery, language, and memory
 - Franciscus Donders came up with the functional map of the brain
-	- Suggested 
+	- Measured the time it took a person to respond to a light and subtracted to the time needed to respond to a particular color of light
+		- Found that it took 50 milliseconds
+	- Neuroimaging 
