@@ -24,4 +24,6 @@
 	- Relies on the fact that the area of the brain is active more when more blood flows to it
 	- People sit with their head in a ring of photocells
 		- A radioactive tracer, usually oxygen with one electron removed, is injected as water
-		- Within 30 seconds, the tracer reaches the brain
+		- Within 30 seconds, the tracer reaches the brain, and the amount that accumulates in the brain is proportional to the blood flowing to the brain region
+		- Within 2 minutes before tracer decays to half-life, scans can be made
+	- Another technique to measure cerebral blood flow is *single-photon emission computed to*
