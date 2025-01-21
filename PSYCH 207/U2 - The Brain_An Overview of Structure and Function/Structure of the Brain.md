@@ -38,4 +38,5 @@
 - Brain regions that show the most plasticity (the ability to change) over the longest periods may be most sensitive to environmental toxins/stressors
 - Diagram of the regions of the brain:
 ![[Pasted image 20250121163136.png]]
-#p
+#Psych_207 
+#Structure_brain
