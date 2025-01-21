@@ -54,4 +54,6 @@
 		- People with *fluent/Wernicke's aphasia* are able to produce speech, but it makes no sense and people with this can't understand speech
 	-  Diagram of speech areas:
 		![[Pasted image 20250121164420.png]]
-	- Neuropsychologists mapped out an area of the brain called the *primary somatosensory cortext*
+	- Neuropsychologists mapped out an area of the brain called the *primary somatosensory cortex* - organized that each part of it receives information from a specific part of the body
+		- The amount of brain area that is devoted to a part of the body is not proportional to the size of the body part
+		- More sensitive areas of the body, like fingers and lips, have large amounts of
