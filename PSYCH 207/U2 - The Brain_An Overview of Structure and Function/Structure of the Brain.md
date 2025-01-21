@@ -45,3 +45,6 @@
 	- Gall had a student named Johan Spurzheim who studied *phrenology*, where psychological strengths and weaknesses were correlated to the size of brain areas.  The problem with the theory were these assumptions:
 		1) Size of a portion of the brain corresponds to its relative power - not indicative of functioning of that area
 		2) Different faculties were absolutely independent - perception and attention interact with each other in different ways
+		- Diagrams of phrenology:
+			![[Pasted image 20250121163853.png]]
+	- Modern approaches date back to Paul Bro
