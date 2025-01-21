@@ -46,6 +46,8 @@
 - Franciscus Donders came up with the functional map of the brain
 	- Measured the time it took a person to respond to a light and subtracted to the time needed to respond to a particular color of light
 		- Found that it took 50 milliseconds
-	- Neuroimaging uses this method, coined the *subtraction method*, to isolate brain region(s) contributing to a given cognitive process
+	- Neuroimaging uses this method, coined the *subtraction method*, to isolate brain region(s) contributing to a given cognitive process by subtracting the control state (responding to a light) from a task state (discriminating colour)
 	- Diagram of the *subtraction method* in practice:
 		![[Pasted image 20250121175808.png]]
+- To sum up:
+	- *CAT*
