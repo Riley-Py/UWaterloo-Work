@@ -42,4 +42,5 @@
 - *Localization of function*: A means of mapping the brain
 	- Traces back to Franz Gall, who believed in *faculty psychology*
 		- Different mental abilities like reading or computation were independent and autonomous functions carried out in different parts of the brain
-	- Gall had a student named Johan Spurzheim
+	- Gall had a student named Johan Spurzheim who studied *phrenology*, where psychological strengths and weaknesses were correlated to the size of brain areas.  The problem with the theory was:
+		1) Size of a portion 
