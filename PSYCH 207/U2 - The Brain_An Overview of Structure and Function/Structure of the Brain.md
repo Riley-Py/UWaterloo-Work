@@ -51,3 +51,6 @@
 		- Presented someone who had brain injury on the left frontal lobe that resulted in *aphasia* - disruption of expressive language
 			-  Became known as *Broca's area*
 	- Carl Wernicke found another language area of the brain, that controls language understanding.  That became known as *Wernicke's area*
+		- People with *fluent/Wernicke's aphasia* are able to produce speech, but it makes no sense and people with this can't understand speech
+	- Diagram of speech areas:
+	- 
