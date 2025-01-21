@@ -50,4 +50,6 @@
 	- Diagram of the *subtraction method* in practice:
 		![[Pasted image 20250121175808.png]]
 - To sum up:
-	- *CAT*
+	- *CAT* and *MRI* yield neuroanatomical info
+	- *PET*, *SPECT*, and *fMRI* provide dynamic info about how blood flows during various cognitive activities
+	- *MEG*, *EEG*, and *ERP* measure electrical activity 
