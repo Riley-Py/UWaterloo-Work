@@ -26,4 +26,4 @@
 		- The impairment was related to the total amount of cortex removed, and not to which specific area
 	- *Plasticity*: Brain regions taking over functions of damaged regions.  The younger, the better.
 #Psych_207 
-#
+#Structure_brain 
