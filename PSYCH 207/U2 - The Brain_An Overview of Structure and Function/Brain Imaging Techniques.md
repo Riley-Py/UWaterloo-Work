@@ -28,6 +28,8 @@
 		- Within 2 minutes before tracer decays to half-life, scans can be made
 	- Another technique to measure cerebral blood flow is *single-photon emission computed tomography (SPECT)*
 		- Doesn't require the expensive equipment like the *PET* scan
-		- Both use radiation
+		- Both *PET* and *SPECT* use radiation
 - The newest brain-imaging technique is called *magnetic resonance imaging (MRI)*
-	- Provides info about neuroanatomy like *CAT*, but doesn't require radiation and 
+	- Provides info about neuroanatomy like *CAT*, but doesn't require radiation and has clear photos
+	- Someone in *MRI* is in a tunnel structure that surrounds the person with a strong magnetic field
+		- Radio waves are directed at the body structure being scanned, causing 
