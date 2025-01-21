@@ -47,4 +47,7 @@
 		2) Different faculties were absolutely independent - perception and attention interact with each other in different ways
 		- Diagrams of phrenology:
 			![[Pasted image 20250121163853.png]]
-	- Modern approaches date back to Paul Bro
+	- Modern approaches date back to Paul Broca
+		- Presented someone who had brain injury on the left frontal lobe that resulted in *aphasia* - disruption of expressive language
+			-  Became known as *Broca's area*
+	- Carl Wernicke found another language area of the brain, that controls language understanding.  That became known as *Wernicke's area*
