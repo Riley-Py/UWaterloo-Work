@@ -36,3 +36,7 @@
 		- Damage to this area can affect mood, personality, and control inappropriate behaviour
 		- Shows the longest period to mature
 - Brain regions that show the most plasticity (the ability to change) over the longest periods may be most sensitive to environmental toxins/stressors
+- Diagram of the regions of the brain:
+![[Pasted image 20250121163136.png]]
+#Psych_207 
+#Structure_brain
