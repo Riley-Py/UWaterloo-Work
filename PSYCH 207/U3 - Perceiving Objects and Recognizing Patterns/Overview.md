@@ -1,3 +1,4 @@
 - *Perception*: Taking a sensory input and interpreting it
 	- Neuroscientists think that the area responsible for visual processing occupy up to half the total cortex space
+- *Distal stimulus*: External object that is perceived
 - 
