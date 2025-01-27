@@ -1,4 +1,6 @@
 - *Perception*: Taking a sensory input and interpreting it
 	- Neuroscientists think that the area responsible for visual processing occupy up to half the total cortex space
 - *Distal stimulus*: External object that is perceived
-- 
+- *Proximal stimulus*: The reception of information and it being registered by an organ
+- *Retina*: The area of the eye that does the processing of the image
+- *Retinal image*: The 2D image of the object 
