@@ -7,4 +7,7 @@
 - *Percept*: Interpretation of the stimuli
 - Diagram of of the above concepts:
 	![[Pasted image 20250127184056.png]]
-- *Size constancy*: The change in 
+- *Size constancy*: The perception that an object is constant, even though the object is changing
+- *Pattern recognition*: Recognition of a particular object/event to a class of objects/events
+#Psych_207 
+#Pe
