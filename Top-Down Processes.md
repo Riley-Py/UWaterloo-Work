@@ -23,4 +23,5 @@
 	- Also showed that visual percepts aren't precise copies of our visual world
 	- Photo of experiment:
 		 ![[Pasted image 20250129182707.png]]
-- 
+- Enforces idea that perception is driven by expectations about meaning
+## **Word Superiority Effect**
