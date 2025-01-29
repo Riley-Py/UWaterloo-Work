@@ -8,4 +8,8 @@
 	- This task requires the person seeing this image active participation into the stimulus
 - The **Gestalt principles of perceptual organization** have five major principles
 	- *Principle of proximity (nearness)* - Group together things that are nearer to each other
-		- Example of a group of objects that are pe
+		- Example of a group of objects that are perceived as a group of rows instead of columns: 
+			 ![[Pasted image 20250129164412.png]]
+	- *Principle of similarity* - Group together things that have similar characteristics
+		- Example of the same group of objects being perceived as columns due to the color changing
+			- 
