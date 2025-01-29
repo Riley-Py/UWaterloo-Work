@@ -32,4 +32,6 @@
 	- Sometimes a single letter was present, sometimes in the form of a word, sometimes not in a word
 	- People could more identify letters presented in context of words than in nonwords, called the *word superiority effect/word advantage*
 - Letters are easier to perceive in a familiar context than in a non-familiar context or no context
-- 
+- Researchers used observers to choose which two letters were displayed while measuring event-related potentials
+	- They found that within 200 ms of presenting the letter, the event-related potential measure was different for a word as compared to a nonword
+- *Missing letter effect*: 
