@@ -23,5 +23,9 @@
 	- If present, detector responds and if not, they do not respond as strongly
 	- Each of them are designed to see one kind of feature in an input pattern
 - Neisser confirmed that people use features to recognize letters
-	- Made participants perform a *visual search task*
+	- Made participants perform a *visual search task*, where people were presented with a group of letters, and were asked to find a target/specific letter
+	- Diagram of letters: 
+		 ![[Pasted image 20250129172707.png]]
+	- Found that particpants took longer to find Z than Q in (A) and the reverse was true
+	- 
 	 
