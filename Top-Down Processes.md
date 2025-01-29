@@ -25,3 +25,5 @@
 		 ![[Pasted image 20250129182707.png]]
 - Enforces idea that perception is driven by expectations about meaning
 ## **Word Superiority Effect**
+- Reicher did an experiment
+	- People were asked to identify which two letters were presented on a screen and later, presented two alternatives for what the letter might be
