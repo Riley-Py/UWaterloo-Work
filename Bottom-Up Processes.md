@@ -16,5 +16,7 @@
 		- Doesn't explain "noisy" patterns and objects
 ## **Featural Analysis**
 - *Features* - breaking up a stimuli into their components, recognizing parts and then putting it back together to infer what a stimuli might be.  The parts are the features being recognized
-- 
+- Studies of retinas of frogs found that specific kinds of stimuli can cause retina cells to fire more frequently
+	- *Edge detectors* - cells that responded to borders between light and dark
+	- *Bug detectors* - 
 	 
