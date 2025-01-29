@@ -54,5 +54,7 @@
 	- Sensory device registers a new stimulus, the device compares it with previously stored prototypes
 	- Approximate match is expected and not an exact one
 	- An object is "perceived" when a match is found
-- Researchers found that when shown an imag
+- Researchers found that when shown an image of a "prototype image", they found that observers had learned these face prototypes, as they would call faces they haven't seen before "old"
+#Psych_207 
+#Perception 
 	 
