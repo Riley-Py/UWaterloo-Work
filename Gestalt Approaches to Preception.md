@@ -24,4 +24,5 @@
 	- *Principle of common fate* - Elements that move together together will be grouped together (i.e. objects falling from the sky will be group together)
 		- Example of this in a diagram: 
 			 ![[Pasted image 20250129165225.png]]
-	- Patrick Bennet and Allison Sekuler demonstrated that observers also make use 
+	- Patrick Bennet and Allison Sekuler demonstrated that observers also make use of concurrent changes in luminance using squares of luminance and then being increased/decreased in luminance
+	- *Law of Pragnanz*
