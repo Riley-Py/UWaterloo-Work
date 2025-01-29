@@ -6,4 +6,6 @@
 	- Example of this with the triangle created by shapes around it: 
 		 ![[Pasted image 20250129164042.png]]
 	- This task requires the person seeing this image active participation into the stimulus
-- 
+- The **Gestalt principles of perceptual organization** have five major principles
+	- *Principle of proximity (nearness)* - Group together things that are nearer to each other
+		- Example of a group of objects that are pe
