@@ -15,3 +15,6 @@
 	- Examine the dabs up close, they aren't meaningful, but take a step back, and a picture takes hold, an example of top-down processing
 ## **Change Blindness**
 - *Change blindness* - The inability to detect changes to an object/scene when given different views of said object/scene
+	- Example: In movies, most people are blind to subtle detail changes in-between scenes with the same objects placed in them
+- Simons and Levin did an experiment on this
+	- Showed people 
