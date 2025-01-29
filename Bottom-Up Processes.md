@@ -5,4 +5,8 @@
 ## **Template Matching**
 - *Templates* - Comparing patterns to previously stored patterns and then deciding which pattern is represented by comparing the pattern to these templates
 	- Perception involves comparing incoming info to templates we have to look for a match, and if there is a match, more processing is needed to figure out what template is appropriate
-- Model implies 
+- Model implies that we have many templates stored already
+- Can't explain completely how perception works
+	- We need to have stored an impossibly large number of templates
+	- When our experiences change, we become capable of recognizing new objects, and this model has to explain how we keep track of these templates and when they are created
+	- People recogni
