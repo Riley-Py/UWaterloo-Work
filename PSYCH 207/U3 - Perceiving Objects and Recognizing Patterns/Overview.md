@@ -10,4 +10,4 @@
 - *Size constancy*: The perception that an object is constant, even though the object is changing
 - *Pattern recognition*: Recognition of a particular object/event to a class of objects/events
 #Psych_207 
-#Pe
+#Perception
