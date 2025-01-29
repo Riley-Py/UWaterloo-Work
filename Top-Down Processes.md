@@ -30,4 +30,6 @@
 	- Image of procedure:
 		 ![[Pasted image 20250129183248.png]]
 	- Sometimes a single letter was present, sometimes in the form of a word, sometimes not in a word
-	- People could more 
+	- People could more identify letters presented in context of words than in nonwords, called the *word superiority effect/word advantage*
+- Letters are easier to perceive in a familiar context than in a non-familiar context or no context
+- 
