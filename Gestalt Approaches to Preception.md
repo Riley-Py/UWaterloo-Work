@@ -21,4 +21,7 @@
 	- *Principle of closure* - Like the triangle example, you can infer the shape through deduction and perception
 		- Example of a shape that looks like a rectangle with a space between, which our minds fill in:
 			 ![[Pasted image 20250129165105.png]]
-	- *Principle of common fate* - Elements that move together 
+	- *Principle of common fate* - Elements that move together together will be grouped together (i.e. objects falling from the sky will be group together)
+		- Example of this in a diagram: 
+			 ![[Pasted image 20250129165225.png]]
+	- 
