@@ -18,4 +18,7 @@
 			 ![[Pasted image 20250129164751.png]]
 		- Example of when there is a break in the system, where there could be 4 lines:
 			 ![[Pasted image 20250129164912.png]]
-	- 
+	- *Principle of closure* - Like the triangle example, you can infer the shape through deduction and perception
+		- Example of a shape that looks like a rectangle with a space between, which our minds fill in:
+			 ![[Pasted image 20250129165105.png]]
+	- *Principle of common fate* - Elements that move together 
