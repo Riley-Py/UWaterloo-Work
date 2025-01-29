@@ -29,5 +29,5 @@
 	- Found that particpants took longer to find Z than Q in (A) and the reverse was true for (B)
 	- Non-target letters in (A) shared features like straight/angular lines, while (B) shared roundness
 - Same for auditory perception of syllables that share features
-- 
+- S
 	 
