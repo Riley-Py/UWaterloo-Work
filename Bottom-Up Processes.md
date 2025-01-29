@@ -9,4 +9,6 @@
 - Can't explain completely how perception works due to these issues:
 	- We need to have stored an impossibly large number of templates
 	- When our experiences change, we become capable of recognizing new objects, and this model has to explain how we keep track of these templates and when they are created
-	- People recognize many patterns, even when the stimulus patterns are different - 
+	- People recognize many patterns, even when the stimulus patterns are different
+		- Example: Same sentence written by 9 different people.  The template model falls apart, as we know what the sentence is, but we shouldn't have the template yet as people have different handwriting:
+			- 
