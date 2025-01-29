@@ -29,5 +29,9 @@
 	- Found that particpants took longer to find Z than Q in (A) and the reverse was true for (B)
 	- Non-target letters in (A) shared features like straight/angular lines, while (B) shared roundness
 - Same for auditory perception of syllables that share features
-- S
+- Selfridge developed a model called *Pandemonium* (perception of letters based on featural analysis)
+	- Consists of a number of different kinds of "demons" (feature detectors)
+	- Demons at the bottom (first) level of processing scan input, demons at higher levels scan output from the lower-level ones
+	- Demons scream based on what they find 
+	- First tye
 	 
