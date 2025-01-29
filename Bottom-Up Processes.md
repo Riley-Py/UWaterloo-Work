@@ -26,6 +26,7 @@
 	- Made participants perform a *visual search task*, where people were presented with a group of letters, and were asked to find a target/specific letter
 	- Diagram of letters: 
 		 ![[Pasted image 20250129172707.png]]
-	- Found that particpants took longer to find Z than Q in (A) and the reverse was true
-	- 
+	- Found that particpants took longer to find Z than Q in (A) and the reverse was true for (B)
+	- Non-target letters in (A) shared features like straight/angular lines, while (B) shared roundness
+- Auditory perception
 	 
