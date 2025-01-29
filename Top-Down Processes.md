@@ -40,3 +40,7 @@
 	 ![[Pasted image 20250129184012.png]]
 	 - Model assumes that input is processed at different levels, in terms of either features, letters, *phonemes* (sounds), or words
 	 - The arrows represented that different levels of processing feed into one another
+	 - Each level of processing is assumed to form a representation of info at different level of abstraction 
+	 - Example of trying to identify different shapes with nodes
+		 - ![[Pasted image 20250129184320.png]]
+		- 
