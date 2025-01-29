@@ -43,4 +43,5 @@
 	 - Each level of processing is assumed to form a representation of info at different level of abstraction 
 	 - Example of trying to identify different shapes with nodes
 		 - ![[Pasted image 20250129184320.png]]
-		- 
+		- Each node has different activity and when it reaches a given level, the feature/letter/word is percieved
+		- The arrows can be excitatory or inhibitory.  When an excitatory arrow connects two 
