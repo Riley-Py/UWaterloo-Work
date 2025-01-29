@@ -11,5 +11,8 @@
 		- Example of a group of objects that are perceived as a group of rows instead of columns: 
 			 ![[Pasted image 20250129164412.png]]
 	- *Principle of similarity* - Group together things that have similar characteristics
-		- Example of the same group of objects being perceived as columns due to the color changing
+		- Example of the same group of objects being perceived as columns due to the color changing:
+			 ![[Pasted image 20250129164549.png]]
+	- *Principle of good continuation* - Group together objects whose contours form a continuous straight/curved line
+		- Example of this in action, with lines being grouped into two:
 			- 
