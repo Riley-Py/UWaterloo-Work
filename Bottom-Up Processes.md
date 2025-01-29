@@ -1,2 +1,5 @@
 - *Bottom-up (data-driven)*: Perciever starts with small bits of info from environment that they combine in various ways to form a percept
+- System works in one direction, starting from the input and proceeding to a final interpretation
+	- Takes info about a stimulus as an input
+	- Not effected by expectations of previous learning and involve automa
 - 
