@@ -11,4 +11,7 @@
 			- Top-down knowledge comes to the final *3-D sketch*, where recognition of what the objects are and understanding of the "meaning" of the visual scene comes into play
 - Paul Signac created a painting using small dabs of paint known as *pointillism*
 	- The painting: 
-	- 
+		 ![[Pasted image 20250129181957.png]]
+	- Examine the dabs up close, they aren't meaningful, but take a step back, and a picture takes hold, an example of top-down processing
+## **Change Blindness**
+- *Change blindness* - The inability to detect changes to an object/scene when given different views of said object/scene
