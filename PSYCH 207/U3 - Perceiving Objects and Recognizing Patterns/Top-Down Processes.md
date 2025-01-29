@@ -50,4 +50,8 @@
 - Words and pseudowords produced different PET scans from those produced when participants saw letter strings/false fonts
 	- PET scan showed activity in the visual cortexes of both hemispheres
 	- PET scans showed greater activity in the left than the right hemisphere and in regions outside the primary visual cortex
-	- Shows 
+	- Shows that that part is involved in semantic processing
+	- Picture of the PET scans:
+		 ![[Pasted image 20250129185025.png]]
+#Psych_207 
+#Perception 
