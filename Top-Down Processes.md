@@ -34,4 +34,6 @@
 - Letters are easier to perceive in a familiar context than in a non-familiar context or no context
 - Researchers used observers to choose which two letters were displayed while measuring event-related potentials
 	- They found that within 200 ms of presenting the letter, the event-related potential measure was different for a word as compared to a nonword
-- *Missing letter effect*: 
+- *Missing letter effect*: Missing letters in more frequent words than in less frequent words
+## **Connectionist Model of Word Perception**
+- Picture of model 
