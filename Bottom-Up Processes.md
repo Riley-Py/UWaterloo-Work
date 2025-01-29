@@ -35,5 +35,8 @@
 	- Image demon converts proximal stimulus into internal depictions of info, that the higher-level demon can assess.
 		- Scanned by several feature demons, looking for a different particular feature.
 		- If a demon finds a feature, they scream.
-	- 
+		- Feature demons scream more softly/loudly depending on their confidence level
+		- Letter demons can only listen to the feature demons
+			- They pay attention to demons associated with their particular letter
+				- Example: "A" demon listens to feature demons for "slanted line"/"vertical line
 	 
