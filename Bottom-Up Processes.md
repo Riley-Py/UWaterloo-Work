@@ -45,5 +45,8 @@
 		- Idea is central to models of pattern recognition today
 - Problems with featural analysis:
 	- No definitions of what a feature can and what it can't be, except in restricted domains
-	- 
+		- Different features for different objects poses a challenge to a perceiver trying to figure out which one to use to identify an object before knowing what said object is
+## **Prototype Matching**
+- Aims to correct short-comings of the previous models
+- *Prototype matching*: 
 	 
