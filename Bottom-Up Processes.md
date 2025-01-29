@@ -15,5 +15,6 @@
 	- Only works with clean stimuli, knowing ahead of time what templates may be relevant
 		- Doesn't explain "noisy" patterns and objects
 ## **Featural Analysis**
+- *Features* - breaking up a stimuli into their components, recognizing parts and then putting it back together to infer what a stimuli might be.  The parts are the features being recognized
 - 
 	 
