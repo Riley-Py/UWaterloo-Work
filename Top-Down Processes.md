@@ -7,5 +7,8 @@
 		- Marr believed that there are three different mental representations/sketches that are constructed for visual perception:
 			- *Primal sketch* - depiction of areas of relative brightness and darkness in a 2D image
 			- *2 1/2 Dimensional sketch* - viewer derives info about what surfaces are and how they are positioned in depth relative to viewer's own vantage point at that moment with texture and edges
-			- The above 2 Marr believed incorporated bottom-up processes
-			- 
+			- The above 2 sketches Marr believed incorporated bottom-up processes
+			- Top-down knowledge comes to the final *3-D sketch*, where recognition of what the objects are and understanding of the "meaning" of the visual scene comes into play
+- Paul Signac created a painting using small dabs of paint known as *pointillism*
+	- The painting: 
+	- 
