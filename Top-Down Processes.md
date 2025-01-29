@@ -46,3 +46,8 @@
 		- Each node has different activity and when it reaches a given level, the feature/letter/word is perceived
 		- The arrows can be excitatory or inhibitory.  When an excitatory arrow connects two nodes, they suggest each other
 		- Perception of a word also activates the nodes corresponding to all the letters within the word, facilitating perception 
+## **Neuroscientific Perspective on Word Perception**
+- Words and pseudowords produced different PET scans from those produced when participants saw letter strings/false fonts
+	- PET scan showed activity in the visual cortexes of both hemispheres
+	- PET scans showed greater activity in the left than the right hemisphere and in regions outside the primary visual cortex
+	- Shows 
