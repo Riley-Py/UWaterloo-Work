@@ -19,4 +19,8 @@
 - Simons and Levin did an experiment on this
 	- Showed people of a young man sitting at a desk, then answering the phone, with people told about a camera cut and continuity errors
 	- Found that people couldn't notice the fact that the actor was changed from one photo to the next
-	- Proved that changes to the scene that don't in
+	- Proved that changes to the scene that don't interrupt the "meaning" of the sequence don't call attention to themselves
+	- Also showed that visual percepts aren't precise copies of our visual world
+	- Photo of experiment:
+		 ![[Pasted image 20250129182707.png]]
+- 
