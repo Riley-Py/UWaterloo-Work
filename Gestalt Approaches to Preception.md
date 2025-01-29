@@ -15,4 +15,7 @@
 			 ![[Pasted image 20250129164549.png]]
 	- *Principle of good continuation* - Group together objects whose contours form a continuous straight/curved line
 		- Example of this in action, with lines being grouped into two:
-			- 
+			 ![[Pasted image 20250129164751.png]]
+		- Example of when there is a break in the system, where there could be 4 lines:
+			 ![[Pasted image 20250129164912.png]]
+	- 
