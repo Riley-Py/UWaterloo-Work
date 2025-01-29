@@ -17,4 +17,6 @@
 - *Change blindness* - The inability to detect changes to an object/scene when given different views of said object/scene
 	- Example: In movies, most people are blind to subtle detail changes in-between scenes with the same objects placed in them
 - Simons and Levin did an experiment on this
-	- Showed people 
+	- Showed people of a young man sitting at a desk, then answering the phone, with people told about a camera cut and continuity errors
+	- Found that people couldn't notice the fact that the actor was changed from one photo to the next
+	- Proved that changes to the scene that don't in
