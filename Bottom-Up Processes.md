@@ -48,5 +48,8 @@
 		- Different features for different objects poses a challenge to a perceiver trying to figure out which one to use to identify an object before knowing what said object is
 ## **Prototype Matching**
 - Aims to correct short-comings of the previous models
-- *Prototype matching*: 
+- *Prototype matching* - An idealized representation of some class of objects or events
+	- Example: The prototypical dog is a typical dog
+- Describes perceptual processes in this order:
+	- 
 	 
