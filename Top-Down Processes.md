@@ -1,1 +1,3 @@
-- *Top-down (theory-driven/conceptually driven)*: Perceiver's expectations, theories, or concepts guide the selection and combos of info 
+- *Top-down (theory-driven/conceptually driven)*: Perceiver's expectations, theories, or concepts guide the selection and combos of info in pattern recognition
+- Two problems of bottom-up models are *context effects* and *expectation effects*
+	- *Context effects*: Perceivers looking to identify objects in real-world scenes
