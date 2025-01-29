@@ -32,6 +32,8 @@
 - Selfridge developed a model called *Pandemonium* (perception of letters based on featural analysis)
 	- Consists of a number of different kinds of "demons" (feature detectors)
 	- Demons at the bottom (first) level of processing scan input, demons at higher levels scan output from the lower-level ones
-	- Demons scream based on what they find 
-	- First tye
+	- Image demon converts proximal stimulus into internal depictions of info, that the higher-level demon can assess.
+		- Scanned by several feature demons, looking for a different particular feature.
+		- If a demon finds a feature, they scream.
+	- 
 	 
