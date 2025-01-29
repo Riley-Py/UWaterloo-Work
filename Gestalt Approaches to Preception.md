@@ -25,4 +25,6 @@
 		- Example of this in a diagram: 
 			 ![[Pasted image 20250129165225.png]]
 	- Patrick Bennet and Allison Sekuler demonstrated that observers also make use of concurrent changes in luminance using squares of luminance and then being increased/decreased in luminance
-	- *Law of Pragnanz*
+	- *Law of Pragnanz*: Out of all possible ways of interpreting a display, we will tend to select the organization that yields the simplest and most stable shape/form
+		- The work of formalizing the law above is called the *minimal model theory*
+	- Drawbacks of 
