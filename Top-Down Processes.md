@@ -36,4 +36,7 @@
 	- They found that within 200 ms of presenting the letter, the event-related potential measure was different for a word as compared to a nonword
 - *Missing letter effect*: Missing letters in more frequent words than in less frequent words
 ## **Connectionist Model of Word Perception**
-- Picture of model 
+- Picture of a model that is connectionist in nature: 
+	 ![[Pasted image 20250129184012.png]]
+	 - Model assumes that input is processed at different levels, in terms of either features, letters, *phonemes* (sounds), or words
+	 - The arrows represented that different levels of processing feed into one another
