@@ -1,1 +1,2 @@
-- *Bottom-up*
+- *Bottom-up (data-driven)*: Perciever starts with small bits of info from environment that they combine in various ways to form a percept
+- 
