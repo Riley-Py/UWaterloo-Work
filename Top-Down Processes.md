@@ -2,3 +2,6 @@
 - Two problems of bottom-up models are *context effects* and *expectation effects*
 	- *Context effects*: Perceivers looking to identify objects in real-world scenes, where accuracy/length of time needed to recognize objects vary with context
 - Have to interact with bottom-up processes
+	- Example of a model that uses both process is David Marr's model
+		- Perception proceeds in terms of different, special-purpose computational mechanisms, where each operates by themselves without regard to input or output or real-world knowledge from the others
+		- 
