@@ -1,0 +1,1 @@
+- *Top-down (theory-driven/conceptually driven)*: Perceiver's expectations, theories, or concepts guide the selection and combos of info 
