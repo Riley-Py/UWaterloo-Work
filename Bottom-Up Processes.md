@@ -18,5 +18,7 @@
 - *Features* - breaking up a stimuli into their components, recognizing parts and then putting it back together to infer what a stimuli might be.  The parts are the features being recognized
 - Studies of retinas of frogs found that specific kinds of stimuli can cause retina cells to fire more frequently
 	- *Edge detectors* - cells that responded to borders between light and dark
-	- *Bug detectors* - 
+	- *Bug detectors* - Responded selectively to moving edges and dark dots
+- Certain detectors appear to scan input patterns, looking for a particular feature
+	- If present, detector responds and if not
 	 
