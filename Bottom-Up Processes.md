@@ -50,6 +50,9 @@
 - Aims to correct short-comings of the previous models
 - *Prototype matching* - An idealized representation of some class of objects or events
 	- Example: The prototypical dog is a typical dog
-- Describes perceptual processes in this order:
-	- 
+- Describes perceptual processes like this:
+	- Sensory device registers a new stimulus, the device compares it with previously stored prototypes
+	- Approximate match is expected and not an exact one
+	- An object is "perceived" when a match is found
+- 
 	 
