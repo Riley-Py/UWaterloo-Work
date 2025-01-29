@@ -11,4 +11,9 @@
 	- When our experiences change, we become capable of recognizing new objects, and this model has to explain how we keep track of these templates and when they are created
 	- People recognize many patterns, even when the stimulus patterns are different
 		- Example: Same sentence written by 9 different people.  The template model falls apart, as we know what the sentence is, but we shouldn't have the template yet as people have different handwriting:
-			- 
+				![[Pasted image 20250129171543.png]]
+	- Only works with clean stimuli, knowing ahead of time what templates may be relevant
+		- Doesn't explain "noisy" patterns and objects
+## **Featural Analysis**
+- 
+	 
