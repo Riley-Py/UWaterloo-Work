@@ -4,6 +4,8 @@
 - Have to interact with bottom-up processes
 	- Example of a model that uses both process is David Marr's model
 		- Perception proceeds in terms of different, special-purpose computational mechanisms, where each operates by themselves without regard to input or output or real-world knowledge from the others
-		- Marr believed that there are three different mental representations/sketches that are constructed for visual perception
+		- Marr believed that there are three different mental representations/sketches that are constructed for visual perception:
 			- *Primal sketch* - depiction of areas of relative brightness and darkness in a 2D image
-			- *2 1/2*
+			- *2 1/2 Dimensional sketch* - viewer derives info about what surfaces are and how they are positioned in depth relative to viewer's own vantage point at that moment with texture and edges
+			- The above 2 Marr believed incorporated bottom-up processes
+			- 
