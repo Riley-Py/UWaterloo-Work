@@ -20,5 +20,8 @@
 	- *Edge detectors* - cells that responded to borders between light and dark
 	- *Bug detectors* - Responded selectively to moving edges and dark dots
 - Certain detectors appear to scan input patterns, looking for a particular feature
-	- If present, detector responds and if not
+	- If present, detector responds and if not, they do not respond as strongly
+	- Each of them are designed to see one kind of feature in an input pattern
+- Neisser confirmed that people use features to recognize letters
+	- Made participants perform a *visual search task*
 	 
