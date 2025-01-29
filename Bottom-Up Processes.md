@@ -39,4 +39,8 @@
 		- Letter demons can only listen to the feature demons
 			- They pay attention to demons associated with their particular letter
 				- Example: "A" demon listens to feature demons for "slanted line"/"vertical line
+			- They scream when the feature demon convinces them that their letter is in the representation loudly/softly, based on confidence
+		- A decision demon listens to this screaming and decides what letter is presented
+		- 
+- 
 	 
