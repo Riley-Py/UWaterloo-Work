@@ -41,6 +41,9 @@
 				- Example: "A" demon listens to feature demons for "slanted line"/"vertical line
 			- They scream when the feature demon convinces them that their letter is in the representation loudly/softly, based on confidence
 		- A decision demon listens to this screaming and decides what letter is presented
-		- 
-- 
+		- The weights of various features can be changed over time and can learn overtime
+		- Idea is central to models of pattern recognition today
+- Problems with featural analysis:
+	- No definitions of what a feature can and what it can't be, except in restricted domains
+	- 
 	 
