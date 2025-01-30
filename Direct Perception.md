@@ -8,4 +8,7 @@
 	- Example: Organisms directly perceive not only shapes and whole objects but also an object's *affordances* (behaviors permitted by objects, places, events)
 	- Perception and action are bounded together
 - Gibson theory has been critiqued
-	- Fodor and Pylyshyn stated that it's not well defined and that Gibson failed to specify what kinds of things are invariant and what aren't - this results in a circular explana
+	- Fodor and Pylyshyn stated that it's not well defined and that Gibson failed to specify what kinds of things are invariant and what aren't - this results in a circular explanation
+- Neisser tried to incorporate both Gibson's theory and the Constructivist theory into one called the *perceptual cycle*
+	- Cognitive structures are called *schemata* - derived from knowledge space and context to guide a perceiver to explore the environment in a particular way
+	- Model
