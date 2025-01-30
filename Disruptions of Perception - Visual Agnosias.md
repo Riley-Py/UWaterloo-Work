@@ -1,0 +1,1 @@
+- *Visual agnosias* - impairments on the ability to interpret (see) visual info

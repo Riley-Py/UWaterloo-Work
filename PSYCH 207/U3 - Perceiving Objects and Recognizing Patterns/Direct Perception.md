@@ -11,4 +11,7 @@
 	- Fodor and Pylyshyn stated that it's not well defined and that Gibson failed to specify what kinds of things are invariant and what aren't - this results in a circular explanation
 - Neisser tried to incorporate both Gibson's theory and the Constructivist theory into one called the *perceptual cycle*
 	- Cognitive structures are called *schemata* - derived from knowledge space and context to guide a perceiver to explore the environment in a particular way
-	- Model
+	- Model of Neisser: 
+		 ![[Pasted image 20250130000325.png]]
+#Psych_207 
+#Perception 
