@@ -4,4 +4,5 @@
 	- Found that participants can make out activities, and even the gender of the person (Koslowski/Cutter was credited for this)
 	- Example of the experiment:
 		 ![[Pasted image 20250129235530.png]]
-- Gibson had a central question of perception about not how we interpret a stimulus, but how e see and navigate among real things in the world
+- Gibson had a central question of perception about not how we interpret a stimulus, but how we see and navigate among real things in the world
+	- Example: Organisms directly perceive not only shapes and whole objects but also an object's *affordances* (behaviors permitted by objects, places, events)
