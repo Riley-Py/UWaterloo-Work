@@ -6,3 +6,6 @@
 		 ![[Pasted image 20250129235530.png]]
 - Gibson had a central question of perception about not how we interpret a stimulus, but how we see and navigate among real things in the world
 	- Example: Organisms directly perceive not only shapes and whole objects but also an object's *affordances* (behaviors permitted by objects, places, events)
+	- Perception and action are bounded together
+- Gibson theory has been critiqued
+	- Fodor and Pylyshyn stated that it's not well defined and that Gibson failed to specify what kinds of things are invariant and what aren't - this results in a circular explana
