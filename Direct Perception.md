@@ -1,0 +1,2 @@
+- *Constructivist approach to perception* - Using both the info in the proximal stimulus and info from long-term memory to construct mental representations
+- 
