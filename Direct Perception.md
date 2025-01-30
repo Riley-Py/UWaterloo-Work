@@ -1,2 +1,3 @@
-- *Constructivist approach to perception* - Using both the info in the proximal stimulus and info from long-term memory to construct mental representations
+- *Constructivist approach to perception* - Using both the info in the proximal stimulus and info from long-term memory to construct mental representations.  People add and distort info in the proximal stimulus to obtain a precept
+- Gibson believed contrary that perception consists of the direct acquisition of info from the environment, called *direct perception*
 - 
