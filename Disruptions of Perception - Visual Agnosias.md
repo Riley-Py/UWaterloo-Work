@@ -8,4 +8,6 @@
 	- *Associative agnosia* - patients can match objects/drawings and can copy drawings, but do so slowly and carefully point-by-point.  Distracted by small details and can't name the objects
 	- Apperceptive agnosia occurs with damage from the right hemisphere of the brain, and associative agnosia is from both hemispheres damaged (*bilateral damage*)
 	- *Prosopagnosia* - Suffers damage in right hemisphere, can recognize objects but not faces
-- Another impairment called *unilateral neglect*, is where 
+- Another impairment called *unilateral neglect*, is where damage to the parietal cortex causes the patient to ignore stimuli on the opposite side
+- *Synaesthesia* - Production of a sense impression relating to one sense or part of the body by stimulation of another sense or part of the body
+	- Example: Experiencing a color when a digit is shown, or 
