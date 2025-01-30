@@ -5,4 +5,5 @@
 		![[Pasted image 20250130000736.png]]
 - There are different categories for visual agnosias:
 	- *Apperceptive agnosia* - patients can process contours/outlines/drawings, but can't match one object to another or categorize them
-	- 
+	- *Associative agnosia* - patients can match objects/drawings and can copy drawings, but do so slowly and carefully point-by-point.  Distracted by small details and can't name the objects
+	- Apperceptive agnosia occurs with damage from the right hemisphere of the brain, and a
