@@ -30,4 +30,7 @@
 	- Diagram of result
 		- ![[Pasted image 20250210185539.png]]
 		
-	- 
+- Cowan and Bunting showed that participants who detect their name in the unattended message are people who have lower working-memory span
+	- 20% of participants with high working-memory spans detected their names in the unattended channel, compared with 65% of participants with low working memory spans
+## **Attenuation Theory**
+- Modified filter theory
