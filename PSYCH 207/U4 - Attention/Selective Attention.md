@@ -21,5 +21,6 @@
 	- Concluded that "important material" can penetrate the filter
 	- Not always the case; Pashler found that 33% of participants ever notice their names
 - Treisman found an alternating theory to this
-	- Played participants two messages, and asked people to shadow them
-	- The content of the first message and the content of the last message was switched
+	- Found that participants must base their selection of which message to atttend to based on meaning of the message
+	- Found that people had no idea that passages had been switched or repeated a message from the wrong ear
+- 
