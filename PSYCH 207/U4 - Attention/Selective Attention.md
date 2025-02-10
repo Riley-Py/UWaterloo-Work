@@ -13,3 +13,6 @@
 - Broadbent stated that there are limits on how much info a person can attend to at any given time
 	- The filter *selects* information for later processing
 	- Diagram of filter model: 
+		 ![[Pasted image 20250210184155.png]]
+	- Set to make a selection of what message to process *early* before the meaning of the message is identified
+	- Shouldn't recall any of the unattended message and protects us from "info overload" by shutting out
