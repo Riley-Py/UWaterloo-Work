@@ -34,3 +34,7 @@
 	- 20% of participants with high working-memory spans detected their names in the unattended channel, compared with 65% of participants with low working memory spans
 ## **Attenuation Theory**
 - Modified filter theory
+	- Treisman argued that their "volume" was "turned down" - some info from unattended messages might still be available, even if hard to recover
+- Divided into three kinds of analysis
+	1. Physical properties (pitch, loudness)
+	2. Linguistic (parsing message into sy)
