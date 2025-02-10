@@ -3,4 +3,5 @@
 - *Automatic*: Doing something without paying attention to it
 - *Divided attention*: Attention that is diverted to other tasks
 - *Spatial attention*: Focus on objects/events of interest in our environment in order to aid in ability to recognize them amongst other objects/events
-- 
+- Hal Pashler puts *selective attention* as "At any given moment, \[people's] awareness encompases only a tiny proportion of the stimuli impinging on their sensory systems"
+- The solution for scientists 
