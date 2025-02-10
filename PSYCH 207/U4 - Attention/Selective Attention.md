@@ -18,4 +18,8 @@
 	- Shouldn't recall any of the unattended message and protects us from "info overload" by shutting out messages when we hear too much info to process at once
 - Moray found out a contradiction called the "*cocktail party effect*"
 	- When someone says your name, your attention then goes to that conversation, even though you weren't paying attention to it at all at first
-	- Concluded that "important mat"
+	- Concluded that "important material" can penetrate the filter
+	- Not always the case; Pashler found that 33% of participants ever notice their names
+- Treisman found an alternating theory to this
+	- Played participants two messages, and asked people to shadow them
+	- The content of the first message and the content of the last message was switched
