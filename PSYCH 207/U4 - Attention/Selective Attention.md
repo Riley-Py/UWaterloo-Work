@@ -4,4 +4,6 @@
 - *Divided attention*: Attention that is diverted to other tasks
 - *Spatial attention*: Focus on objects/events of interest in our environment in order to aid in ability to recognize them amongst other objects/events
 - Hal Pashler puts *selective attention* as "At any given moment, \[people's] awareness encompases only a tiny proportion of the stimuli impinging on their sensory systems"
-- The solution for scientists 
+- The solution for scientists to study what info people process about things that they aren't paying attention to is called a *dichotic listening task*
+	- Person listens to message over headphones and there are different messages being played
+	- Person is then asked to repeat the sentence aloud and see what they remember about the message (when both messages are heard in both ears, it's called **)
