@@ -8,4 +8,8 @@
 	- Person listens to message over headphones and there are different messages being played
 	- Person is then asked to repeat the sentence aloud and see what they remember about the message (when both messages are heard in both ears, it's called *binaural presentation*)
 	- Cherry found that people can shadow a message and they can always identify speech/noise or if the message was male or female
-	- Moray's experiment found that 
+	- Moray's experiment found that participants couldn't hear the occurrance of most words in the unattended message, even when it was repeated 35 times
+## **Filter Theory**
+- Broadbent stated that there are limits on how much info a person can attend to at any given time
+	- The filter *selects* information for later processing
+	- Diagram of filter model: 
