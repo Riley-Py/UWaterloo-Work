@@ -25,4 +25,9 @@
 	- Found that people had no idea that passages had been switched or repeated a message from the wrong ear
 - Wood and Cowan did an experiment where they played two audio clips in each ear and then switched the speech backwards for 30 seconds
 	- Asked and showed that yes, people who noticed the backward speech in the unattended message costed their performance on the main task
-	- Show that control participants and participants who did not notice the backward speech made no more errors over the time studied, whilst the people who did made 
+	- Show that control participants and participants who did not notice the backward speech made no more errors over the time studied, whilst the people who did made more errors after the backward speech began
+	- Concluded that the attentional shift to the unattended message was unintentional and completed without awareness
+	- Diagram of result
+		- ![[Pasted image 20250210185539.png]]
+		
+	- 
