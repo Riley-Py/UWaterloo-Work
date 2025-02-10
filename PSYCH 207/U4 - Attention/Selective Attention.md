@@ -23,4 +23,4 @@
 - Treisman found an alternating theory to this
 	- Found that participants must base their selection of which message to atttend to based on meaning of the message
 	- Found that people had no idea that passages had been switched or repeated a message from the wrong ear
-- 
+- Wood and Cowan did an experiment where they played two audio clips in each ear
