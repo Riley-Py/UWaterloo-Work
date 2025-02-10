@@ -1,2 +1,6 @@
 - *Cognitive resources*: Attention that is allocated to various tasks
 - *Selective attention*: Focus on a few tasks/events at a time
+- *Automatic*: Doing something without paying attention to it
+- *Divided attention*: Attention that is diverted to other tasks
+- *Spatial attention*: Focus on objects/events of interest in our environment in order to aid in ability to recognize them amongst other objects/events
+- 
