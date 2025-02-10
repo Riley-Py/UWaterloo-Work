@@ -1,0 +1,2 @@
+- *Cognitive resources*: Attention that is allocated to various tasks
+- *Selective attention*: Focus on a few tasks/events at a time
