@@ -15,4 +15,7 @@
 	- Diagram of filter model: 
 		 ![[Pasted image 20250210184155.png]]
 	- Set to make a selection of what message to process *early* before the meaning of the message is identified
-	- Shouldn't recall any of the unattended message and protects us from "info overload" by shutting out
+	- Shouldn't recall any of the unattended message and protects us from "info overload" by shutting out messages when we hear too much info to process at once
+- Moray found out a contradiction called the "*cocktail party effect*"
+	- When someone says your name, your attention then goes to that conversation, even though you weren't paying attention to it at all at first
+	- Concluded that "important mat"
