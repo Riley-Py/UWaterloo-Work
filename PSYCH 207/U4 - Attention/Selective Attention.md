@@ -51,4 +51,7 @@
 	- Depicts allocation of mental resources to various cognitive tasks - people spend mental capacity on one or more tasks, where the amount is dependent on *arousal* (state of alertness)
 - Kahneman argued that the level of arousal depends on the task's difficulty and there is an allocation policy that is dependent on a person's interest/goals
 - Kahneman likens attention to "mental effort" - more effort, more attention used
-- 
+- Sometimes it can be *data limited*, where it's not mental effort/concentration affecting people, but the amount of data being used
+
+#Psych_207 
+#attention
