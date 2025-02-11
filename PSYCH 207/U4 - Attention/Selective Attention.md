@@ -37,4 +37,8 @@
 	- Treisman argued that their "volume" was "turned down" - some info from unattended messages might still be available, even if hard to recover
 - Divided into three kinds of analysis
 	1. Physical properties (pitch, loudness)
-	2. Linguistic (parsing message into sy)
+	2. Linguistic (parsing message into syllables/words)
+	3. Semantic (meaning of message)
+- According to the theory, people in Moray's experiments heard their name due to it being low effort
+- If someone said "The dog chased the...", the word cat is *primed* - ready to be recognized
+- Allows for many different kind of an
