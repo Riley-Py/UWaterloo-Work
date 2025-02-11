@@ -49,4 +49,6 @@
 ## **Attention, Capacity, Mental Effort**
 - Daniel Kahneman proposed a metaphor where attention is a set of cognitive processes for organizing and recognizing simuli
 	- Depicts allocation of mental resources to various cognitive tasks - people spend mental capacity on one or more tasks, where the amount is dependent on *arousal* (state of alertness)
-- Kahneman argued that the level of arousal depends on the task's difficulty
+- Kahneman argued that the level of arousal depends on the task's difficulty and there is an allocation policy that is dependent on a person's interest/goals
+- Kahneman likens attention to "mental effort" - more effort, more attention used
+- 
