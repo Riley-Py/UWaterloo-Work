@@ -46,3 +46,5 @@
 ## **Late-Selection Theory**
 - Deutsch-Normal came up with a theory where *all* messages are processed for some aspect of meaning
 - *Filter theory* thinks of a bottleneck - information can only pass through one point, but this theory locates it later in processing after aspects of the meaning have been extracted
+## **Attention, Capacity, Mental Effort**
+- Daniel Kahneman proposed a metaphor where attention is a set of cognitive processes for organizing and recognizing simuli
