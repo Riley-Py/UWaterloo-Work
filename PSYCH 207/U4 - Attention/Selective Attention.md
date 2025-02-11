@@ -44,4 +44,5 @@
 - Allows for many different kinds of analyses of all messages, while filter theory allows for only one
 
 ## **Late-Selection Theory**
-- Deutsch-Normal came up with a theory where *all* messages are processed for at 
+- Deutsch-Normal came up with a theory where *all* messages are processed for some aspect of meaning
+- *Filter theory* thinks of a bottleneck - information can only pass through one point, but this theory locates it later in processing after aspects of the meaning have been extracted
