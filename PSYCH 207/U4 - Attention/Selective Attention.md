@@ -48,3 +48,5 @@
 - *Filter theory* thinks of a bottleneck - information can only pass through one point, but this theory locates it later in processing after aspects of the meaning have been extracted
 ## **Attention, Capacity, Mental Effort**
 - Daniel Kahneman proposed a metaphor where attention is a set of cognitive processes for organizing and recognizing simuli
+	- Depicts allocation of mental resources to various cognitive tasks - people spend mental capacity on one or more tasks, where the amount is dependent on *arousal* (state of alertness)
+- Kahneman argued that the level of arousal depends on the task's difficulty
