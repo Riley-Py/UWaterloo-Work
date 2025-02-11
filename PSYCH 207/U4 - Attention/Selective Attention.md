@@ -1,0 +1,44 @@
+- *Cognitive resources*: Attention that is allocated to various tasks
+- *Selective attention*: Focus on a few tasks/events at a time
+- *Automatic*: Doing something without paying attention to it
+- *Divided attention*: Attention that is diverted to other tasks
+- *Spatial attention*: Focus on objects/events of interest in our environment in order to aid in ability to recognize them amongst other objects/events
+- Hal Pashler puts *selective attention* as "At any given moment, \[people's] awareness encompases only a tiny proportion of the stimuli impinging on their sensory systems"
+- The solution for scientists to study what info people process about things that they aren't paying attention to is called a *dichotic listening task*
+	- Person listens to message over headphones and there are different messages being played
+	- Person is then asked to repeat the sentence aloud and see what they remember about the message (when both messages are heard in both ears, it's called *binaural presentation*)
+	- Cherry found that people can shadow a message and they can always identify speech/noise or if the message was male or female
+	- Moray's experiment found that participants couldn't hear the occurrance of most words in the unattended message, even when it was repeated 35 times
+## **Filter Theory**
+- Broadbent stated that there are limits on how much info a person can attend to at any given time
+	- The filter *selects* information for later processing
+	- Diagram of filter model: 
+		 ![[Pasted image 20250210184155.png]]
+	- Set to make a selection of what message to process *early* before the meaning of the message is identified
+	- Shouldn't recall any of the unattended message and protects us from "info overload" by shutting out messages when we hear too much info to process at once
+- Moray found out a contradiction called the "*cocktail party effect*"
+	- When someone says your name, your attention then goes to that conversation, even though you weren't paying attention to it at all at first
+	- Concluded that "important material" can penetrate the filter
+	- Not always the case; Pashler found that 33% of participants ever notice their names
+- Treisman found an alternating theory to this
+	- Found that participants must base their selection of which message to atttend to based on meaning of the message
+	- Found that people had no idea that passages had been switched or repeated a message from the wrong ear
+- Wood and Cowan did an experiment where they played two audio clips in each ear and then switched the speech backwards for 30 seconds
+	- Asked and showed that yes, people who noticed the backward speech in the unattended message costed their performance on the main task
+	- Show that control participants and participants who did not notice the backward speech made no more errors over the time studied, whilst the people who did made more errors after the backward speech began
+	- Concluded that the attentional shift to the unattended message was unintentional and completed without awareness
+	- Diagram of result
+		- ![[Pasted image 20250210185539.png]]
+		
+- Cowan and Bunting showed that participants who detect their name in the unattended message are people who have lower working-memory span
+	- 20% of participants with high working-memory spans detected their names in the unattended channel, compared with 65% of participants with low working memory spans
+## **Attenuation Theory**
+- Modified filter theory
+	- Treisman argued that their "volume" was "turned down" - some info from unattended messages might still be available, even if hard to recover
+- Divided into three kinds of analysis
+	1. Physical properties (pitch, loudness)
+	2. Linguistic (parsing message into syllables/words)
+	3. Semantic (meaning of message)
+- According to the theory, people in Moray's experiments heard their name due to it being low effort
+- If someone said "The dog chased the...", the word cat is *primed* - ready to be recognized
+- Allows for many different kind of an
