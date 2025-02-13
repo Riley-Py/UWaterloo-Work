@@ -6,8 +6,12 @@
 	- Found that participants had no problem naming the bars, but naming the color of text that may have a different color stated took effort
 - Stroop found that due to literate people doing this experiment, it required little attention and was done rapidly, such that not reading a word was hard
 - A response that requires no attention is *automatic*
+- Research by Derek Besner, Jennifer Stolz found that by manipulating the way the person goes to the Stroop stimulus, it is possible to eliminate it
+	- Found that word reading depends on attention
+	- Corroborated by Amir Raz, where the Stroop effect can be eliminated through telling people they can't read
 ## **Automatic Vs. Attentional (Controlled) Processing**
 - Posner & Snyder offered 3 criteria for *automatic processing*
 	1. Must occur without intention
 	2. Must occur without conscious awareness
 	3. Not interfere with other mental activities
+- 
