@@ -25,4 +25,7 @@
 		- *Frame time* - length of time each array was displayed
 		- *Memory set* - number of targets participants were asked to look for
 	- Results: ![[Pasted image 20250212191848.png]]
-		- In the left graph
+		- In the left graph, performance varied with frame time or frame size - accuracy depended on length of time
+		- In the right graph, performance depended on all three factors
+	- Schneider and Shiffrin distinguished between two different kinds of processing
+		- *Automatic processing* - easy tasks, familiar items, 
