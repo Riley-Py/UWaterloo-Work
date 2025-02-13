@@ -14,4 +14,6 @@
 	1. Must occur without intention
 	2. Must occur without conscious awareness
 	3. Not interfere with other mental activities
-- 
+- Schneider & Shiffrin did an experiment on this 
+	- People searched for certain targets in different array of letters/numbers (*frames*)
+	- When the target and distractors are the same type, the number of distractors makes a difference in the 
