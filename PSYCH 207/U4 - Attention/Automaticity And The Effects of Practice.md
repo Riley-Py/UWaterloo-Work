@@ -17,6 +17,8 @@
 - Schneider & Shiffrin did an experiment on this 
 	- People searched for certain targets in different array of letters/numbers (*frames*)
 	- When the target and distractors are the same type, the number of distractors makes a difference in the difficulty of finding the target within the array
-	- Had two conditions: varied-mapping and consistent-mapping:
-		- *Memory set* - consisted of one or more letters/numbers, and stimuli in each frame were of letters/numbers
-		- 
+	- Had two conditions:
+		- **Varied-mapping**: Had something called a *Memory set* - consisted of one or more letters/numbers, and stimuli in each frame were of letters/numbers.  Targets in one trial could become distractors in another
+		- **Consistent-mapping**: Target memory set consisted of numbers and frame consisted of letters.  Targets in one trial wouldn't become distractors in another
+	- Varied three other factors
+		- *Frame size* - 
