@@ -16,4 +16,7 @@
 	3. Not interfere with other mental activities
 - Schneider & Shiffrin did an experiment on this 
 	- People searched for certain targets in different array of letters/numbers (*frames*)
-	- When the target and distractors are the same type, the number of distractors makes a difference in the 
+	- When the target and distractors are the same type, the number of distractors makes a difference in the difficulty of finding the target within the array
+	- Had two conditions: varied-mapping and consistent-mapping:
+		- *Memory set* - consisted of one or more letters/numbers, and stimuli in each frame were of letters/numbers
+		- 
