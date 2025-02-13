@@ -21,4 +21,8 @@
 		- **Varied-mapping**: Had something called a *Memory set* - consisted of one or more letters/numbers, and stimuli in each frame were of letters/numbers.  Targets in one trial could become distractors in another
 		- **Consistent-mapping**: Target memory set consisted of numbers and frame consisted of letters.  Targets in one trial wouldn't become distractors in another
 	- Varied three other factors
-		- *Frame size* - 
+		- *Frame size* - number of letters and numbers in each display
+		- *Frame time* - length of time each array was displayed
+		- *Memory set* - number of targets participants were asked to look for
+	- Results: ![[Pasted image 20250212191848.png]]
+		- In the left graph
