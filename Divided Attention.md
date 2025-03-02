@@ -11,4 +11,5 @@
 
 ## **Psychological Refractory Period (PRP)**
 - Two tasks were given: One where people respond to tones, and another a visual presentation of a letter
-	- Interval between 
+	- Interval between tone (S1) and letter (S2) varied - at long intervals, no interference between tasks, at short intervals, time to complete second tasks gets longer
+	- Analogy of banking, where if 
