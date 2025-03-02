@@ -9,4 +9,6 @@
 	- Hirst found some evidence that this wasn't the case at all
 - Hirst found another explanation, where participants learned to combine two separate tasks: reading & taking dictation
 
-## **Psychological Refractory Period**
+## **Psychological Refractory Period (PRP)**
+- Two tasks were given: One where people respond to tones, and another a visual presentation of a letter
+	- Interval between 
