@@ -18,4 +18,8 @@
 	1. Stage of perception of stimulus
 	2. Stage of making a response
 	3. Stage in which response is selected/chosen (this was the preferred possibility)
-- Mike Tombu & Pierre Jolicoeur argued that instead of attention being divided in all-or-none fashion, it can be more
+- Mike Tombu & Pierre Jolicoeur argued that instead of attention being divided in all-or-none fashion, it can be more flexible
+
+## **Attention Hypothesis of Automatization**
+- *Definition*: Attention is needed during practice phase of task and determines what gets learned during practice
+- Logan and Etherton 
