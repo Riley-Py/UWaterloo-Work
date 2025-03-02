@@ -22,4 +22,6 @@
 
 ## **Attention Hypothesis of Automatization**
 - *Definition*: Attention is needed during practice phase of task and determines what gets learned during practice
-- Logan and Etherton 
+- Logan and Etherton presented people two-word displays and to detect groups of words
+	- Question was: Would people in first condition gain advantage in performance because words were consistently paired?  Yes, it was, only for target detection task forced participants to pay attention to both words in display.
+	- 
