@@ -24,4 +24,8 @@
 - *Definition*: Attention is needed during practice phase of task and determines what gets learned during practice
 - Logan and Etherton presented people two-word displays and to detect groups of words
 	- Question was: Would people in first condition gain advantage in performance because words were consistently paired?  Yes, it was, only for target detection task forced participants to pay attention to both words in display.
-	- 
+## **Divided Attention Outside Lab: Cell Phone Usage While Driving**
+- Driver distractions contribute 20%-50% of all collisions
+	- Cell phone usage contributed to 38% to 400% increase in risk of accident
+	- 37% of Canadians view it as a threat and 64% polled are a serious problem
+- 
