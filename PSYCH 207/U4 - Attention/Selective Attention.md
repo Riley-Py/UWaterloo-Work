@@ -41,4 +41,21 @@
 	3. Semantic (meaning of message)
 - According to the theory, people in Moray's experiments heard their name due to it being low effort
 - If someone said "The dog chased the...", the word cat is *primed* - ready to be recognized
+<<<<<<< HEAD
 - Allows for many different kind of analyses of all messages, while filter theory only allows for one
+=======
+- Allows for many different kinds of analyses of all messages, while filter theory allows for only one
+
+## **Late-Selection Theory**
+- Deutsch-Normal came up with a theory where *all* messages are processed for some aspect of meaning
+- *Filter theory* thinks of a bottleneck - information can only pass through one point, but this theory locates it later in processing after aspects of the meaning have been extracted
+## **Attention, Capacity, Mental Effort**
+- Daniel Kahneman proposed a metaphor where attention is a set of cognitive processes for organizing and recognizing simuli
+	- Depicts allocation of mental resources to various cognitive tasks - people spend mental capacity on one or more tasks, where the amount is dependent on *arousal* (state of alertness)
+- Kahneman argued that the level of arousal depends on the task's difficulty and there is an allocation policy that is dependent on a person's interest/goals
+- Kahneman likens attention to "mental effort" - more effort, more attention used
+- Sometimes it can be *data limited*, where it's not mental effort/concentration affecting people, but the amount of data being used
+
+#Psych_207 
+#attention
+>>>>>>> origin/main
