@@ -10,11 +10,12 @@
 - Hirst found another explanation, where participants learned to combine two separate tasks: reading & taking dictation
 
 ## **Psychological Refractory Period (PRP)**
-- Two tasks were given: One where people respond to tones, and another a visual presentation of a letter
+- Two tasks were given: One where people respond to tones, and another a visual presentation of a letter by Pashler
 	- Interval between tone (S1) and letter (S2) varied - at long intervals, no interference between tasks, at short intervals, time to complete second tasks gets longer
 	- Analogy of banking, where customer 2 has to wait at the ATM depends on customer 1 making their transactions and the arrival time
 	- Called the *psychological refractory period*
 - Three distinct possibilities for the bottleneck:
 	1. Stage of perception of stimulus
 	2. Stage of making a response
-	3. Stage in which response is selected/chosen
+	3. Stage in which response is selected/chosen (this was the preferred possibility)
+- Mike Tombu & Pierre Jolicoeur argued that instead of attention being divided in all-or-none fashion, it can be more
