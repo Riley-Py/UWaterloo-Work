@@ -19,4 +19,5 @@
 ## Reasoning by Analogy
 - Using knowledge from one domain and applying it to another domain
 	- Likening the tumor problem to the general problem, where the army are the rays, capturing enemy forces is destroying the tumor, and convergence of soldiers at fortress is like the small rays on the tumor
-- 
+- Useful as they can allow for understanding of a new domain by comparing it to something that is already known and understood
+- The risk is they can be taken too far and that the links between the domains are very strong, even if they aren't
