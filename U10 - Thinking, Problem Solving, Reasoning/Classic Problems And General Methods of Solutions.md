@@ -8,4 +8,8 @@
 - Comparing the goal with the starting point, thinking of possible ways of overcoming the difference, and choosing the best one.
 	- Selected option may have certain conditions in place before being able to execute the option
 		- If those conditions aren't met, then *sub-goal* is created
-- 
+- Forces the problem-solver to analyze aspects of the problem before starting to work on it and generate a plan to solve it
+- Not optimal sometimes due to sometimes the most optimal way is taking a step backwards
+
+## Working Backward
+- Starts to the goal and works backwards to determine subgoals
