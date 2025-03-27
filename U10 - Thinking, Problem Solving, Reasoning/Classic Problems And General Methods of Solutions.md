@@ -6,4 +6,6 @@
 
 ## Means-Ends Analysis
 - Comparing the goal with the starting point, thinking of possible ways of overcoming the difference, and choosing the best one.
-	- Selected option may have certain conditions in place before bieng
+	- Selected option may have certain conditions in place before being able to execute the option
+		- If those conditions aren't met, then *sub-goal* is created
+- 
