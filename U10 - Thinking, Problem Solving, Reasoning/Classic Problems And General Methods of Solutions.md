@@ -18,3 +18,5 @@
 - Shares with mean-ends analysis the technique of reducing differences between current state and goal state
 ## Reasoning by Analogy
 - Using knowledge from one domain and applying it to another domain
+	- Likening the tumor problem to the general problem, where the army are the rays, capturing enemy forces is destroying the tumor, and convergence of soldiers at fortress is like the small rays on the tumor
+- 
