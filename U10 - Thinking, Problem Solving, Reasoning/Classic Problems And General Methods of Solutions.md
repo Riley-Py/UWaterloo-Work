@@ -12,4 +12,6 @@
 - Not optimal sometimes due to sometimes the most optimal way is taking a step backwards
 
 ## Working Backward
-- Starts to the goal and works backwards to determine subgoals
+- Starts to the goal and works backwards to determine subgoals and conditions
+- Famous example is the *Tower of Hanoi* problem
+- 
