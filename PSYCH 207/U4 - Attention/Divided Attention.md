@@ -31,4 +31,5 @@
 - Strayer and Johnston did an experiment with simulating this phenomenon, and found that listening to radio broadcast did not cause people to miss red lights or react to them slowly, but talking on cell phone caused both problems as the first experiement
 - In the 2nd one, it was found that the pursuit task was easy, while for others, it was found more difficult.  Shadowing words did not decrement performance, but generating words did
 - ![[Pasted image 20250301234251.png]]
-#
+#Psych_207 
+#attention 
