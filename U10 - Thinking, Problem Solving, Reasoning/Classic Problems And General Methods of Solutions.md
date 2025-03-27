@@ -14,4 +14,7 @@
 ## Working Backward
 - Starts to the goal and works backwards to determine subgoals and conditions
 - Famous example is the *Tower of Hanoi* problem
+- Most effective when backward path is unique
+- Shares with mean-ends analysis the technique of reducing differences between current state and goal state
+## Reasoning by Analogy
 - 
