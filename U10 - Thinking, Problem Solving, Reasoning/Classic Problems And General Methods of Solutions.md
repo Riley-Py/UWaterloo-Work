@@ -17,4 +17,4 @@
 - Most effective when backward path is unique
 - Shares with mean-ends analysis the technique of reducing differences between current state and goal state
 ## Reasoning by Analogy
-- 
+- Using knowledge from one domain and applying it to another domain
