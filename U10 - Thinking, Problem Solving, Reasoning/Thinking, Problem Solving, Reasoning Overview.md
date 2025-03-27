@@ -1,0 +1,1 @@
+- *Thinking* - "Going beyond the information given" (Bruner); "complex and high-level skill...fills up gaps in the evidence" (Bartlett); "Process of searching through a problem space" (Newell & Simon)
