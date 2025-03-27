@@ -6,4 +6,4 @@
 - *Well-defined problems* - Has a clear goal, present a small set of info to start from, present a set of guidelines to go by
 - *Ill-defined problems* - Not clearly spelled out, no goals/starting info
 #Psych_207 
-#Thinking_Problem
+#Thinking_ProblemSolving_Reasoning
