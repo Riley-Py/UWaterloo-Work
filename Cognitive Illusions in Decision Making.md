@@ -23,6 +23,6 @@
 - To continue an endeavor once an investment in money, time, or effort has been made
 ## Illusory Correlation
 - Trying to see connections between data when there are no connections (i.e. hair-twisting and stress; people thought there was, but there actually wasn't a correlation at all)
+## Hindsight Bias
 - 
-
 
