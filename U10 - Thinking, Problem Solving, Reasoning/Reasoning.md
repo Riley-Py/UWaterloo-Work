@@ -7,12 +7,13 @@
 ## Deductive Reasoning
 ### Propositional reasoning
 - Involves drawing conclusions from premises that are in the form of propositions
-	- *Proposition*: An assertion/statement
+	- *Proposition*: An assertion/statement (p)
 - Propositions are either true or false
 - Can be hooked into other propositions by using *logical connectives*
 	- Example: & (and), v (or), negation operator (not) and $\rightarrow$ (if...then..., also known as the material implication connective)
 - *Truth table*: Every possible combination of truth values of proposition are listed, and definitions/connectives are used to find overall truth in final expression
-- *Tautology*: Always true
-- *Contradiction*: Always false
-- *Fallacies*: Can produce conclusions that are false even if the premises are true
+	- *Tautology*: Always true
+	- *Contradiction*: Always false
+	- *Fallacies*: Can produce conclusions that are false even if the premises are true
+- Wason found in a study where 
 
