@@ -14,4 +14,6 @@
 	- Researchers found that an architect who had a brain lesion could design a lab space, but was unable to generate a design that was detailed
 ## Finding Creative Solutions
 - *Insight*: A change in the way parts of a problem are organized
-- *Creativity*: Orginali
+- *Creativity*: Originality that suits some purpose to a problem/idea
+## Unconscious Processing and Incubation
+- *Unconscious processing (incubation)*: While the mind was doing other processes, another process was happening untilthe answer was found
