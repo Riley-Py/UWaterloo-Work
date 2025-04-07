@@ -6,4 +6,4 @@
 ### Gathering Information
 - Consider various options in the short/long-term, who/how do the options affect
 - "Does each option open or close off other options?" is the question trying to be answered
-- Decision also gather possible criteria
+- Decision also gather possible criteria to use in making their choice
