@@ -6,4 +6,7 @@
 ### Gathering Information
 - Consider various options in the short/long-term, who/how do the options affect
 - "Does each option open or close off other options?" is the question trying to be answered
-- Decision also gather possible criteria to use in making their choice
+- Decision also gather possible criteria to use in making their choice, such as consulting from others
+### Structuring the Decision
+- Decision makers organize all of their information gathered, and this is done through questioning and reasoning
+- A typical decision maker will need to think of 28 different pieces of information
