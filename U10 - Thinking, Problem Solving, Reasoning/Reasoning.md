@@ -23,4 +23,7 @@
 	- *Quantifiers*: Provides information about how many members of a class are under consideration (i.e. "Some flowers are blue", where some is the quantifier)
 	- If there are two negative premises, then no conclusions may follow
 	- If both premises are quantified by "some", no valid conclusion
+	- Very error prone to most people
+### Inductive Reasoning
+- Induction involves categorization and formation of rules and
 
