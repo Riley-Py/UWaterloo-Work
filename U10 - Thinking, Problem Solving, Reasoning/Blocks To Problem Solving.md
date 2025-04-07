@@ -16,4 +16,7 @@
 - *Insight*: A change in the way parts of a problem are organized
 - *Creativity*: Originality that suits some purpose to a problem/idea
 ## Unconscious Processing and Incubation
-- *Unconscious processing (incubation)*: While the mind was doing other processes, another process was happening untilthe answer was found
+- *Unconscious processing (incubation)*: While the mind was doing other processes, another process was happening until the answer was found
+- Many empirical studies have tried, and failed to find the positive results of incubation, as the participants are still actively thinking about the problem at hand
+## Everyday Mechanisms
+- 
