@@ -25,5 +25,6 @@
 	- If both premises are quantified by "some", no valid conclusion
 	- Very error prone to most people
 ### Inductive Reasoning
-- Induction involves categorization and formation of rules and
+- Induction involves categorization and formation of rules and hypotheses
+- *Hypothesis testing* is a classic example
 
