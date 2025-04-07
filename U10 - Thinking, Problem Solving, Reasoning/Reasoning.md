@@ -29,5 +29,7 @@
 - *Hypothesis testing* is a classic example with Wason and being given numbers that follow a rule, but it is unknown and the participants must figure out the rule without questions and participants must provide examples
 	- Wason called the approach *confirmation bias*, as participants tried to confirm that their rule was true rather than testing their rule
 	- To do the triplet, test out a *counter-example* to the rule, as if it follows the rule, then the hypothesis is false
-## 
+## Patterns of Reasoning Performance
+- *Content effect*: Two people reasoning with same kind of premises will perform differently based on what the premises are "about"
+	- *Problem cue* explains the effe
 
