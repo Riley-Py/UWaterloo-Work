@@ -34,5 +34,10 @@
 	- *Memory cueing* explains the effect, as it calls to mind experiences that participants have personally had with rules
 - Related are *believability effects*:
 	- People judge valid any conclusion that reinforces initial assumptions, regardless of whether the conclusion follows from the premises
-- *Disconfirmation hypothesis*: People are critical of conclusions that they do not believe and they look for reasons to disconfirm said conclusion than a believable.  People take longer to 
+- *Disconfirmation hypothesis*: People are critical of conclusions that they do not believe and they look for reasons to disconfirm said conclusion than a believable conclusion.  People take longer to justify these conclusions with believable explanations
+
+## Two Theoretical Approaches to the Study of Reasoning
+
+### The Rules Approach
+- Rules of logic are same as we 
 
