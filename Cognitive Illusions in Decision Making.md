@@ -17,6 +17,9 @@
 - Changing a description can make us see a gain in one situation and a loss in another situation due to reference points changing
 
 ## Anchoring
+- When people based their estimation on what their initial starting point was (i.e. estimating population)
+
+## Sunk Cost Effects
 - 
 
 
