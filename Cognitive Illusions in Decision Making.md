@@ -28,4 +28,7 @@
 	- Once you know how a decision has turned out, you look back at events leading to the outcome as more inevitable than they really were
 ## Confirmation Bias
 - Gather information that confirms one's hypothesis, and overlook/ignore other information
+## Overconfidence
+- Confidence ratings are higher than actual accuracy
+	- Happens when in the calibration curve, the 
 
