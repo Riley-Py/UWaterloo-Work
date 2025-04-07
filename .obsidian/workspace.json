@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "U11 - Making Decisions/Overview.md",
+                "file": "U11 - Making Decisions/Phases of Making a Decision.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Overview"
+              "title": "Phases of Making a Decision"
             }
           }
         ],
@@ -217,10 +217,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "059c515cd4110e39",
+  "active": "513aba51774200e5",
   "lastOpenFiles": [
-    "U11 - Making Decisions/Phases of Making a Decision.md",
     "U11 - Making Decisions/Overview.md",
+    "U11 - Making Decisions/Phases of Making a Decision.md",
     "U10 - Thinking, Problem Solving, Reasoning/Reasoning.md",
     "U11 - Making Decisions",
     "U10 - Thinking, Problem Solving, Reasoning/Classic Problems And General Methods of Solutions.md",
