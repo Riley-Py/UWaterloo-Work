@@ -9,4 +9,5 @@
 	- In chess, the more expert a chess player was, the more info he was able to extract from the chess game than from a beginner
 		- Kasparov played simultaneous chess, and researchers found that his superiority came from recognizing patterns than from planning future moves
 - Experts excel in their own domain; their knowledge is *domain-specific*
-- 
+- Experts also spend more time analyzing a problem and trying to understand it, than novices who dive head-first into the problem
+- However, being an expert isn't enough to problem-
