@@ -10,5 +10,6 @@
 	- *Proposition*: An assertion/statement
 - Propositions are either true or false
 - Can be hooked into other propositions by using *logical connectives*
-	- Example: & (and), v (or), 
+	- Example: & (and), v (or), negation operator (not) and $\rightarrow$ (if...then..., also known as the material implication connective)
+- *Truth table*: Every possible combination of truth values of propositons are listed, and definitions/co
 
