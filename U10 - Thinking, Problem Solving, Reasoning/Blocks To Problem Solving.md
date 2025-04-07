@@ -5,4 +5,5 @@
 - *Functional fixedness* is when people make assumptions without being aware of them, and this is shown in the two-string problem, where people didn't notice that the screwdriver could also be used as a weight
 
 ## Lack of Problem-Specific Knowledge or Expertise
-- 
+- Problem solvers who come to a problem with a limited knowledge base are at a disadvantage
+	- In chess, the more expert a chess player was, the more info he was able to extract from the chess game than from a beginner
