@@ -8,5 +8,6 @@
 ## Representativeness
 - People expected that a process like a coin flip will produce results that are random-looking and this would be the *representativeness heuristic*
 - *Gambler's fallacy* is when people expect for equal results in a short amount of time, but in actuality, it only shows up in the long-term (i.e. people expecting heads and tails to be equal in the short-term would have this fallacy)
-- **
+	- *Law of small numbers*: Small samples resemble the population from which they are drawn, but it's actually the opposite.
+- *Man-who* arguments (i.e. "I knew a man who was fat and lived to 110") 
 
