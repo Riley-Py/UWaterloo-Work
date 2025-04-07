@@ -13,5 +13,11 @@
 
 ## Framing Effects
 - People evaluate outcomes as changes from a reference point, their current state
+- We treat losses more seriously than gains of equivalent amount
+- Changing a description can make us see a gain in one situation and a loss in another situation due to reference points changing
+
+## Anchoring
 - 
+
+
 
