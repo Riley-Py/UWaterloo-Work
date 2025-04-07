@@ -24,9 +24,10 @@
 	- If there are two negative premises, then no conclusions may follow
 	- If both premises are quantified by "some", no valid conclusion
 	- Very error prone to most people
-### Inductive Reasoning
+## Inductive Reasoning
 - Induction involves categorization and formation of rules and hypotheses
 - *Hypothesis testing* is a classic example with Wason and being given numbers that follow a rule, but it is unknown and the participants must figure out the rule without questions and participants must provide examples
 	- Wason called the approach *confirmation bias*, as participants tried to confirm that their rule was true rather than testing their rule
-	- To do the triplet, test out a *counter-example* to the rule
+	- To do the triplet, test out a *counter-example* to the rule, as if it follows the rule, then the hypothesis is false
+## 
 
