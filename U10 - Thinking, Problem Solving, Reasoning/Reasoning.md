@@ -63,5 +63,7 @@
 - Another is the failure to assess implications of all models found
 - Another one is to search and construct enough models to view all situations
 ## Dual Process Models of Reasoning
-- 
+- *Type 1 processes*: Processes that are more autonomous, intuitive, and don't require working memory (i.e. gut feeling)
+- *Type 2 processes*: Processes that are more deliberative, analytic, and require working memory (i.e brain)
+- Many biases are a result of not using type 2 processes
 
