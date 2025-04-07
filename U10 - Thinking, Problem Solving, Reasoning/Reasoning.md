@@ -32,6 +32,7 @@
 ## Patterns of Reasoning Performance
 - *Content effect*: Two people reasoning with same kind of premises will perform differently based on what the premises are "about"
 	- *Memory cueing* explains the effect, as it calls to mind experiences that participants have personally had with rules
-- Related are *believability effects*
+- Related are *believability effects*:
 	- People judge valid any conclusion that reinforces initial assumptions, regardless of whether the conclusion follows from the premises
+- *Disconfirmation hypothesis*: People are critical of conclusions that they do not believe and they look for reasons to disconfirm said conclusion than a believable.  People take longer to 
 
