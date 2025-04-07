@@ -56,4 +56,6 @@
 - Opposite of rules approach
 - Involves special-purpose cognitive processes, including those that comprehend language
 - Effective reasoning occurs when reasoner checks first idea of what conclusion could be is assessed by an attempt to construct alternative models consistent with premises but inconsistent with hypothesized conclusion
+- People construct mental models as they are experts at stories/conversations
+- Reasoning requires willingness to try to construct alternative models that represent all possibilities
 
