@@ -1,3 +1,5 @@
 - *Probability*: Measurement of uncertainty (between 0 and 1)
 - People untrained in probability don't use in-between values in a logical way
-- People's intuition of probabi
+- People's intuition of probability is off the mark, typically
+- *Subjective probability*: Influenced by a person's mood/characteristics of the probability estimator
+- *Objective probability*: Based in calculations
