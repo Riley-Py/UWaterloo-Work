@@ -20,5 +20,7 @@
 ### Syllogistic Reasoning
 - Presents two or more premises and asks the reasoner either to draw a conclusion or evaluate a conclusion that the problem supplies
 - *Categorical syllogisms*: Premises that deal with classes of entities
-	- *Quantifiers*: Provides information about how many members of a class are under consideration
+	- *Quantifiers*: Provides information about how many members of a class are under consideration (i.e. "Some flowers are blue", where some is the quantifier)
+	- If there are two negative premises, then no conclusions may follow
+	- If both premises are quantified by "some", no valid conclusion
 
