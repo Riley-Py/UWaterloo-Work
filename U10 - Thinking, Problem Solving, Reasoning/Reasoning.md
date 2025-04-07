@@ -31,5 +31,7 @@
 	- To do the triplet, test out a *counter-example* to the rule, as if it follows the rule, then the hypothesis is false
 ## Patterns of Reasoning Performance
 - *Content effect*: Two people reasoning with same kind of premises will perform differently based on what the premises are "about"
-	- *Problem cue* explains the effe
+	- *Memory cueing* explains the effect, as it calls to mind experiences that participants have personally had with rules
+- Related are *believability effects*
+	- People judge valid any conclusion that reinforces initial assumptions, regardless of whether the conclusion follows from the premises
 
