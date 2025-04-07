@@ -7,5 +7,8 @@
 ## Deductive Reasoning
 ### Propositional reasoning
 - Involves drawing conclusions from premises that are in the form of propositions
-	- *Proposition*: An asserta
+	- *Proposition*: An assertion/statement
+- Propositions are either true or false
+- Can be hooked into other propositions by using *logical connectives*
+	- Example: & (and), v (or), 
 
