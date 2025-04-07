@@ -51,5 +51,9 @@
 			4. If precondition isn't satisfied, action mustn't be taken
 - Cosmides argues that cognition is not supported by domain-general or independent mechanisms, but instead very specific mechanisms to solve very specific problems
 	- Also predicted that people would be adept at Wason selection task when the content of task could be construed in terms of social costs/benefits
-	- 
+- Error in reasoning is the failure to interpret a problem within appropriate rules
+### The Mental Models Approach
+- Opposite of rules approach
+- Involves special-purpose cognitive processes, including those that comprehend language
+- Effective reasoning occurs when reasoner 
 
