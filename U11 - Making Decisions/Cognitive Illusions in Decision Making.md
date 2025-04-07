@@ -30,5 +30,6 @@
 - Gather information that confirms one's hypothesis, and overlook/ignore other information
 ## Overconfidence
 - Confidence ratings are higher than actual accuracy
-	- Happens when in the calibration curve, the 
+	- Happens when in the calibration curve, the actual ratings are below the perfect calibration line![[Pasted image 20250407165625.png]]
+	- Deviations above the line mean someone is *under-confident*, which rarely happens
 
