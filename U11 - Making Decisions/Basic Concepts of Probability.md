@@ -3,3 +3,6 @@
 - People's intuition of probability is off the mark, typically
 - *Subjective probability*: Influenced by a person's mood/characteristics of the probability estimator
 - *Objective probability*: Based in calculations
+
+#Making_decisions 
+#Psych_207 

@@ -1,0 +1,2 @@
+- *Biases*: Ways of thinking that lead to systematic errors
+- *Cognitive illusions*: Errors of cognition
