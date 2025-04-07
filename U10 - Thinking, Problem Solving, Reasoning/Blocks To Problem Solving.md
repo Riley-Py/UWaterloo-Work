@@ -24,4 +24,6 @@
 	- *Noticing*: Seeing where problems could be 
 	- *Contrary recognition*: Recognize objects not for what they are but as something else (i.e. seeing a cloud as a castle)
 - Incubation, under this line of thinking, about forgetting old approaches that did not work and creativity is how "flashes of insight" are done methodical
-- 
+- A study found that one's willingness to think hard about a problem predicted one's success in a creative thinking task, showing how creativity is about these everyday mechanisms
+#Psych_207 
+#Thinking_ProblemSolving_Reasoning 
