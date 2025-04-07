@@ -4,5 +4,7 @@
 ## Availability
 - Tendency to overestimate the likelihood of events with greater "availability" in memory
 - Our own efforts and behaviors are more apparent than the efforts of others
-- Can be good if calling instances is unbiased
+- Can be good if calling instances is unbiased to judge frequency/probability
+## Representativeness
+- People expected that 
 
