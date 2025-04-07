@@ -58,4 +58,6 @@
 - Effective reasoning occurs when reasoner checks first idea of what conclusion could be is assessed by an attempt to construct alternative models consistent with premises but inconsistent with hypothesized conclusion
 - People construct mental models as they are experts at stories/conversations
 - Reasoning requires willingness to try to construct alternative models that represent all possibilities
+- Problem is what information models contain and what information is omitted - it's reliant on imagination
+- Error in reasoning is a result of not constructing relevant models, if there is too much extra information in 
 
