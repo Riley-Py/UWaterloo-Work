@@ -1,1 +1,3 @@
-- *Decision-making*: Mental actvities that 
+- *Decision-making*: Mental activities that take place in choosing among alternatives
+- *Uncertainty*: Not knowing what will happen after the decision is made
+- *Rational decision making*: Considering relevant goals and prin
