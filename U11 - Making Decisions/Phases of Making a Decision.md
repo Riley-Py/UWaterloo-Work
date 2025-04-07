@@ -14,4 +14,7 @@
 ### Making a Final Choice
 - Decision maker selects among final set of options
 ### Evaluating
-- Decision maker reflects on the entire process of making a decision, and see what can be done better
+- Decision maker reflects on the entire process of making a decision, and see what can be done better in the future
+
+#Making_decisions 
+#Psych_207 

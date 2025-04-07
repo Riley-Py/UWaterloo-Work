@@ -1,0 +1,2 @@
+- *Probability*: Measurement of uncertainty (between 0 and 1)
+- People untrained in probability don't use in-between values in a logical way
