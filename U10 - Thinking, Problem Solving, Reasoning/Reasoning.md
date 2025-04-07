@@ -67,3 +67,7 @@
 - *Type 2 processes*: Processes that are more deliberative, analytic, and require working memory (i.e brain)
 - Many biases are a result of not using type 2 processes
 
+## Neuropsychological Evidence on Deductive Reasoning
+- Studies found that different areas of the brain are activated for different tasks, and if the premises are concrete
+- Other studies found that 
+
