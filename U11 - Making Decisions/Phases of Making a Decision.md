@@ -10,3 +10,8 @@
 ### Structuring the Decision
 - Decision makers organize all of their information gathered, and this is done through questioning and reasoning
 - A typical decision maker will need to think of 28 different pieces of information
+- To structure the information, the way the decision maker does it is called *decision structuring*
+### Making a Final Choice
+- Decision maker selects among final set of options
+### Evaluating
+- Decision maker reflects on the entire process of making a decision, and see what can be done better
