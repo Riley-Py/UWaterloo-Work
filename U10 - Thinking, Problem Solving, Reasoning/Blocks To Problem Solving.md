@@ -19,6 +19,8 @@
 - *Unconscious processing (incubation)*: While the mind was doing other processes, another process was happening until the answer was found
 - Many empirical studies have tried, and failed to find the positive results of incubation, as the participants are still actively thinking about the problem at hand
 ## Everyday Mechanisms
-- Different cognitive processes that underlie everyday life
-- *Directed remembering*: Channel memory to make conscious some past knowledge that meets constraints
-- *Noticing*: Seeing where problems could be 
+- Different cognitive processes that underlie everyday life by Perkins:
+	- *Directed remembering*: Channel memory to make conscious some past knowledge that meets constraints
+	- *Noticing*: Seeing where problems could be 
+	- *Contrary recognition*: Recognize objects not for what they are but as something else (i.e. seeing a cloud as a castle)
+- 
