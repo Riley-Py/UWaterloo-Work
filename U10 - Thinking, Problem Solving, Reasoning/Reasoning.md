@@ -39,5 +39,8 @@
 ## Two Theoretical Approaches to the Study of Reasoning
 
 ### The Rules Approach
-- Rules of logic are same as we 
+- Rules of logic are same as we use to draw conclusions
+- Conclusions are drawn by a set of rules that people may or may not know that they follow
+- The use of inference rules are automatic and are typically errorless
+- Problem with this is that people
 
