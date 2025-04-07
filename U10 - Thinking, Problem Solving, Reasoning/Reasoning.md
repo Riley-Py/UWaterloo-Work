@@ -44,5 +44,10 @@
 - The use of inference rules are automatic and are typically errorless
 - Problem with this is how people figure out when and what rules apply
 	- Braine proposed abstract rules, while other researchers proposed that a set of rules are based on the context
+		- An example is the *permission schema*:
+			1. If action is to be taken, then precondition must be satisfied
+			2. If action isn't to be taken, then precondition doesn't need to be satisfied
+			3. If precondition is satisfied, action may be taken
+			4. If precondition isn't satisfied, action mustn't be taken
 - 
 
