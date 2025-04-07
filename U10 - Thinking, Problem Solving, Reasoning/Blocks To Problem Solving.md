@@ -10,4 +10,8 @@
 		- Kasparov played simultaneous chess, and researchers found that his superiority came from recognizing patterns than from planning future moves
 - Experts excel in their own domain; their knowledge is *domain-specific*
 - Experts also spend more time analyzing a problem and trying to understand it, than novices who dive head-first into the problem
-- However, being an expert isn't enough to problem-
+- However, being an expert isn't enough to problem-solve
+	- Researchers found that an architect who had a brain lesion could design a lab space, but was unable to generate a design that was detailed
+## Finding Creative Solutions
+- *Insight*: A change in the way parts of a problem are organized
+- *Creativity*: Orginali
