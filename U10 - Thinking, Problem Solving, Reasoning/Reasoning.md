@@ -59,5 +59,9 @@
 - People construct mental models as they are experts at stories/conversations
 - Reasoning requires willingness to try to construct alternative models that represent all possibilities
 - Problem is what information models contain and what information is omitted - it's reliant on imagination
-- Error in reasoning is a result of not constructing relevant models, if there is too much extra information in 
+- One error is failing to construct relevant models
+- Another is the failure to assess implications of all models found
+- Another one is to search and construct enough models to view all situations
+## Dual Process Models of Reasoning
+- 
 
