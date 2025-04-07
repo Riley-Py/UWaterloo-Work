@@ -69,5 +69,9 @@
 
 ## Neuropsychological Evidence on Deductive Reasoning
 - Studies found that different areas of the brain are activated for different tasks, and if the premises are concrete
-- Other studies found that 
+- Other studies found that people with prefrontal cortex damage were very hampered to reason problems with multiple propositions, but did not show deficits in IQ/sematic memories
+
+#Psych_207 
+#Thinking_ProblemSolving_Reasoning 
+
 
