@@ -24,5 +24,7 @@
 ## Illusory Correlation
 - Trying to see connections between data when there are no connections (i.e. hair-twisting and stress; people thought there was, but there actually wasn't a correlation at all)
 ## Hindsight Bias
+- Consistently exaggerate what could have been anticipated in the future when looking back in the past on an event
+	- Once you know how a decision has turned out, you look back at events leading to the outcome as more inevitable than they really were
 - 
 
