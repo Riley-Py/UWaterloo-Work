@@ -23,4 +23,5 @@
 	- *Directed remembering*: Channel memory to make conscious some past knowledge that meets constraints
 	- *Noticing*: Seeing where problems could be 
 	- *Contrary recognition*: Recognize objects not for what they are but as something else (i.e. seeing a cloud as a castle)
+- Incubation, under this line of thinking, about forgetting old approaches that did not work and creativity is how "flashes of insight" are done methodical
 - 
