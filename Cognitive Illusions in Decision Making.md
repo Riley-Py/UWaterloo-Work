@@ -2,5 +2,7 @@
 - *Cognitive illusions*: Errors of cognition that come about for understandable reasons and provide information relevant to understanding normal functioning
 
 ## Availability
-- 
+- Tendency to overestimate the likelihood of events with greater "availability" in memory
+- Our own efforts and behaviors are more apparent than the efforts of others
+- Can be good if calling instances is unbiased
 
