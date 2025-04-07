@@ -16,5 +16,7 @@
 	- *Contradiction*: Always false
 	- *Fallacies*: Can produce conclusions that are false even if the premises are true
 - Wason found in a study where participants were given a rule where "If a card has vowel on one side, then it has even number on another" and asked participants to flip cards to see if the rule is true using proposition statements
-	- Found that many peopl
+	- Found that many people made errors on it
+### Syllogistic Reasoning
+- Presents two or more premises and asks the reasoner either to draw a conclusion or evaluate a conclusion that the problem supplies
 
