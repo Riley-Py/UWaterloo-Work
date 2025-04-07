@@ -7,3 +7,6 @@
 ## Lack of Problem-Specific Knowledge or Expertise
 - Problem solvers who come to a problem with a limited knowledge base are at a disadvantage
 	- In chess, the more expert a chess player was, the more info he was able to extract from the chess game than from a beginner
+		- Kasparov played simultaneous chess, and researchers found that his superiority came from recognizing patterns than from planning future moves
+- Experts excel in their own domain; their knowledge is *domain-specific*
+- 
