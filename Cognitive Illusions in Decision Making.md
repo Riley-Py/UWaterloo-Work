@@ -20,7 +20,9 @@
 - When people based their estimation on what their initial starting point was (i.e. estimating population)
 
 ## Sunk Cost Effects
-- 
+- To continue an endeavor once an investment in money, time, or effort has been made
+## Illusory Correlation
+
 
 
 
