@@ -1,1 +1,4 @@
-*Reasoning*: 
+- *Reasoning*: Conclusions drawn from other information
+- *Premise*: Another word for statement/story
+- *Deductive reasoning*: Goes from general reasoning to specific
+- *Inductive reasoning*: Goes from specific reas
