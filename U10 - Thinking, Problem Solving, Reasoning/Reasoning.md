@@ -42,5 +42,7 @@
 - Rules of logic are same as we use to draw conclusions
 - Conclusions are drawn by a set of rules that people may or may not know that they follow
 - The use of inference rules are automatic and are typically errorless
-- Problem with this is that people
+- Problem with this is how people figure out when and what rules apply
+	- Braine proposed abstract rules, while other researchers proposed that a set of rules are based on the context
+- 
 
