@@ -49,5 +49,7 @@
 			2. If action isn't to be taken, then precondition doesn't need to be satisfied
 			3. If precondition is satisfied, action may be taken
 			4. If precondition isn't satisfied, action mustn't be taken
-- Cosmides argues that cognition
+- Cosmides argues that cognition is not supported by domain-general or independent mechanisms, but instead very specific mechanisms to solve very specific problems
+	- Also predicted that people would be adept at Wason selection task when the content of task could be construed in terms of social costs/benefits
+	- 
 
