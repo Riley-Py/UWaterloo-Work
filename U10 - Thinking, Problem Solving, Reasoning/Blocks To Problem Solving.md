@@ -1,4 +1,5 @@
 ## Mental Set
 - To adopt a certain framework, strategy, or procedure in a certain way rather than in equally other ways
 	- Analogous to *perceptual set* - to perceive an object or pattern in a certain way
-- Example: Water jar problem.  Some people see it as B - A - 2C
+- Example: Water jar problem.  Some people who didn't make the B - A - 2C method work, wouldn't see the A - C method due to being fixed in a mindset![[Pasted image 20250407141900.png]]
+- 
