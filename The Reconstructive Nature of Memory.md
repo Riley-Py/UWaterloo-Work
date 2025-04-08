@@ -28,4 +28,4 @@
 - Eyewitness testimony is information recalled within days/weeks/months, while false/recovered memories are from several years
 - *Repressed memories* - memories that are intentionally made hard to recall/retrieve
 - Studies found that participants length of recall was higher for the true than false memories, and rated clarity of memories as lower for false memories over true memoires, but endorsed the false memory as true
-- 
+- It has been argued that even though an explanation exists, it doesn't mean they are actually form that way
