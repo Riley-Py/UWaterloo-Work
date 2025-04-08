@@ -22,4 +22,6 @@
 	- Found that in the previous study of counting by threes, *proactive interference* builds (material learned first can disrupt retention of subsequent material)
 	- The greater similarity between information being stored, the greater the interference
 ## Short-Term Store - Retrieval of Information
-- 
+- *Parallel search* - examining all of the information at the same time (i.e. comparing movies to 10 other movies)
+- *Serial search* - examining all of the information one-by-one (i.e. comparing one movie to the next sequentially)
+- **
