@@ -8,3 +8,5 @@
 		- Decision making may be associated with *less* decision making time
 		- Cannot easily predict the errors of other experts
 		- Ambiguous features can easily be misinterpreted
+#Making_decisions 
+#Psych_207 

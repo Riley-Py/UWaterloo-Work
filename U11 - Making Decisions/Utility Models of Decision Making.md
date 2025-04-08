@@ -11,7 +11,7 @@
 - EU doesn't describe about how people *structure* a decision and it only provides an account only of making the final selection from a set of alternatives
 ## Image Theory
 - This is the opposite of the last theory, and instead, people go through a phase called the "prechoice screening of options"
-	- Decision makers funnel the options down to one or two decisoin
+	- Decision makers funnel the options down to one or two decisions
 - Done with three images
 	- *Value image* - decision maker's values, morals, principles
 	- *Trajectory image* - decision maker's goals/aspirations for the future
