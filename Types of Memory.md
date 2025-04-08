@@ -7,4 +7,7 @@
 ### The Icon
 - A study about displaying letters and reporting letters showed that when participants were recalling them, the information was fading from where they were stored
 	- *Partial report technique* - Recall a specific subset of objects/letters in a row/column
-	- Found that using the technique 
+	- Found that using the technique allowed for better recall of information
+	- Visual store could hold only 9 items
+- Icon can be erased by other stimuli present after the icon (*masking*)
+- Information available to the icon is only visual and no other stimulus
