@@ -7,4 +7,6 @@
 	2. All standard tests measure the factor, but IQ tests measure it the most accurate
 	3. IQ scores match what people mean when they say *smart* in normal language
 	4. IQ scores are stable over a person's life
-	5. IQ tests aren't biased against social, economic, et
+	5. IQ tests aren't biased against social, economic, ethnic, or racial groups
+	6. Cognitive ability is heritable, no less than 40% and no greater than 80%
+- *Multiple intelligences theory*
