@@ -14,4 +14,5 @@
  - All of this shows that perceiving individual features takes little effort, but gluing those features together requires more 
 ## Inattentional Blindness
 - *Change blindness*: Inability to notice large changes to scenes when scene is disrupted
+- *Inattentional blindness*: Not perceiving a stimulus that could be right in front of you unless you pay attention to it
 - 
