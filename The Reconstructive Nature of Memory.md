@@ -1,2 +1,3 @@
 - Memory largely uses world knowledge and *schemata* (frameworks for organizing information), told by Bartlett
-- Bartlett used *serial reproduction* (having to recall the stories on more than one ocassion)
+- Bartlett used *serial reproduction* (having to recall the stories on more than one occasion) and was info was remembered and what was disremembered
+- 
