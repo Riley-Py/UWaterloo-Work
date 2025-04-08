@@ -1,2 +1,4 @@
 - *Neuroeconomics* - how the brain interacts with the environment to make complex decisions
-- Frontal lobe plays a part in decision-making
+- Frontal lobe plays a part in decision-making, and that decision making can be very emotional
+- *Ultimatum game* undermines decision making, where participants were found to accept the 5 dollars more than the 1 dollar due to activations in the insula, and dorsolateral prefrontal cortext
+	- 
