@@ -13,3 +13,5 @@
 - Show *hyperspecific memory* (only express learning that is extremely similar to conditions of encoding)
 ## Retrograde Amnesia
 
+- *Memory consolidation* as the standard model:
+	- The hippocampus links different aspects of an event and th
