@@ -7,5 +7,6 @@
 - *acoustic similarity affects STM;  semantically similarity affects LTM*
 ## Long-Term Memory - Retention Duration
 - Can last decades to a lifetime
-- Studies showed that declining memory eventually plateaus and then no more forgetting happens (for recalling lanaguages)
-## 
+- Studies showed that declining memory eventually plateaus and then no more forgetting happens (for recalling languages)
+## Long-Term Memory - Forgetting
+- Ebbinghaus, after doing an experiment involving memory, plotted a for
