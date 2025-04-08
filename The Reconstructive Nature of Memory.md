@@ -23,3 +23,4 @@
 - Memories can be altered with presenting misleading questions
 	- This can lead to integrating with the original memory and creating a distorted memory
 ## The Recovered/False Memory Debate
+- *Recovered memories* - memories that may be falsely recollected
