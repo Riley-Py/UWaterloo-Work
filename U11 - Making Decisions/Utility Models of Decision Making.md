@@ -13,5 +13,9 @@
 - This is the opposite of the last theory, and instead, people go through a phase called the "prechoice screening of options"
 	- Decision makers funnel the options down to one or two decisoin
 - Done with three images
-	- *Value image* - decision maker
-	- s
+	- *Value image* - decision maker's values, morals, principles
+	- *Trajectory image* - decision maker's goals/aspirations for the future
+	- *Strategic image* - way in which the decision maker plans to attain his or her goals
+- Options incompatible with any of the three images are dropped from further consideration
+## Recognition-Primed Decision Making
+- 
