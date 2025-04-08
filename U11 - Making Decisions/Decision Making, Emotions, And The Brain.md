@@ -4,4 +4,6 @@
 	- Insula is implicated in response to negative emotional states
 - Research found that activity in three regions predict spending
 	- In the nucleuas accumbens and medial prefrontal cortex for preference of product
-	- 
+	- Insula was responsible for high prices and negatively associated it with purchasing behaviour
+#Making_decisions 
+#Psych_207 

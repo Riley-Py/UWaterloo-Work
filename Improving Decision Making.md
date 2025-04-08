@@ -1,0 +1,2 @@
+- A major obstacle would be overconfidence, as it effects particular decisions and it inflates a person's view of their own decision making and planning capabilities
+	- Telling peop
