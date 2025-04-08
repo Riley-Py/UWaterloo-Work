@@ -15,4 +15,6 @@
 ## Inattentional Blindness
 - *Change blindness*: Inability to notice large changes to scenes when scene is disrupted
 - *Inattentional blindness*: Not perceiving a stimulus that could be right in front of you unless you pay attention to it
-- 
+- Studies show that we perceive only those events to which we attend to, and especially if the unexpected event isn't what is in our attention, and if attention is tightly focused (gorilla example)
+#attention 
+#Psych_207 
