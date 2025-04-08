@@ -24,4 +24,5 @@
 - Deep encoding leads to better memory
 	- Older adults show decrease in left frontal cortex activation, leading to why they have poorer memories than young people, as deep encoding relies on the left frontal cortex
 - Research showed that when young and old people were given a memory retrieval task, it showed that old people were compensating by activating both frontal lobes, while young people only activated the right lobe
-- Bilingulism can be used to help defend agains thte 
+- Bilingualism can be used to help defend against the decline in functions that are associated with aging, as research showed that dementia was delayed by four years
+#Individual_diff 
