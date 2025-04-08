@@ -24,4 +24,6 @@
 ## Short-Term Store - Retrieval of Information
 - *Parallel search* - examining all of the information at the same time (i.e. comparing movies to 10 other movies)
 - *Serial search* - examining all of the information one-by-one (i.e. comparing one movie to the next sequentially)
-- **
+	- *Exhaustive search* - going through the entire list, even if a match is found
+- *Self-terminating search* - Stops when a match is found (i.e. stopping after a match is found for a movie)
+- 
