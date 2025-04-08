@@ -7,4 +7,6 @@
 - Short-term memory is used for phone numbers; it only lasts for a minute or two if rehearsal is not prevented
 
 ## Short-Term Store - Capacity
-- 
+- 7 (plus or minus 2) is the capacity of independent units we can hold in STM
+	- Can be overcome by *chunking* individual units into larger units (i.e. chunking a string of letters into smaller sets)
+	- Chunking depends on knowledge
