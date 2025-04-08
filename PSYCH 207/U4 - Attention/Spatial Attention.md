@@ -6,3 +6,7 @@
 	- Developed the spotlight metaphor, which goes "attention can be likened to a spotlight that enhances detection of events within its beam"
 ## Visual Search
 - Experiment involving finding a letter that is colored showed that detection of individual features is automatic (not requiring attention)
+	- In panel C with multiple letters that were blue and letters that weren't blue, participants did a *conjunction search*, and can be likened to the spotlight metaphor
+- *Feature integration theory*:
+	1. First stage: In the automatic phase, we register features of objects (colour/shape)
+	2. Second sta
