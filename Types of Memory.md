@@ -11,3 +11,6 @@
 	- Visual store could hold only 9 items
 - Icon can be erased by other stimuli present after the icon (*masking*)
 - Information available to the icon is only visual and no other stimulus
+### The Echo
+- Studies found that using a dichotic listening task activity, participants who gave partial reports could report proportionately more letters
+- Echoes can last longer than icons (20 seconds)
