@@ -1,0 +1,2 @@
+- *Neuroeconomics* - how the brain interacts with the environment to make complex decisions
+- Frontal lobe plays a part in decision-making

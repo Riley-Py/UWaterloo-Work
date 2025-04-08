@@ -21,4 +21,6 @@
 - Based on using intuition, mental simulation, making metaphors or analogies, and recalling/creating stories
 - Experts consider one option at a time, simulating the likely effect of a particular decision
 	- If the simulation fitted, then it would be implemented
-	- If not, then 
+	- If not, then another option would have to be found or another metaphor for the situation
+#Making_decisions 
+#Psych_207 
