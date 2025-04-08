@@ -18,4 +18,7 @@
 	- *Strategic image* - way in which the decision maker plans to attain his or her goals
 - Options incompatible with any of the three images are dropped from further consideration
 ## Recognition-Primed Decision Making
-- 
+- Based on using intuition, mental simulation, making metaphors or analogies, and recalling/creating stories
+- Experts consider one option at a time, simulating the likely effect of a particular decision
+	- If the simulation fitted, then it would be implemented
+	- If not, then 
