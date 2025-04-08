@@ -20,3 +20,6 @@
 		- Can recover
 	- Damage to the hippocampal region can also create this amnesia
 - Episodic memories are compromised
+	- Studies showed that before ECT treatment, patients were able to recall aired shows.  Afterwards, patients most recent memories were most likely to be lost
+- It spares information that was "overlearned"
+- It does not affect skill learning
