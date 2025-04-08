@@ -11,4 +11,6 @@
 ## Long-Term Memory - Forgetting
 - Ebbinghaus, after doing an experiment involving memory, plotted a forgetting curve, where he assumed that the more forgetting, the more effort it would take to relearn the list
 	- Forgetting is rapid at first and then levels off ![[Pasted image 20250408130914.png]]
-- *Paired associates learning* - participants hear lists of pari
+- *Paired associates learning* - participants hear lists of pairs of words, and then the experimenter presents the first word in each pair
+	- *Proactive Interference* - previous learning can make retention of subsequent learning more difficult
+	- 
