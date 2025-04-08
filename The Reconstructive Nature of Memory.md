@@ -18,4 +18,5 @@
 - Occurs when retelling a story and becomes distorted overtime, becoming inaccurate
 
 ## Eyewitness Memory
+- Someone witnessing a behavior and is likely to believed when there is a high degree of confidence, even if it is inaccurate
 - 
