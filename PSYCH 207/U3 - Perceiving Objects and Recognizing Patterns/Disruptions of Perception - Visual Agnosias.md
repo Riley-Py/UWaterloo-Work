@@ -10,12 +10,8 @@
 	- *Prosopagnosia* - Suffers damage in right hemisphere, can recognize objects but not faces
 - Another impairment called *unilateral neglect*, is where damage to the parietal cortex causes the patient to ignore stimuli on the opposite side
 - *Synaesthesia* - Production of a sense impression relating to one sense or part of the body by stimulation of another sense or part of the body
-<<<<<<< HEAD
+
 	- Example: Experiencing a color when a digit is shown, or hearing a word and tasting something
 #Psych_207 
 #Perception
-=======
-	- Example: Experiencing a color when a digit is shown
-#Psych_207 
-#perception 
->>>>>>> origin/main
+
