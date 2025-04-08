@@ -28,4 +28,7 @@
 		- In the left graph, performance varied with frame time or frame size - accuracy depended on length of time
 		- In the right graph, performance depended on all three factors
 	- Schneider and Shiffrin distinguished between two different kinds of processing
-		- *Automatic processing* - easy tasks, familiar items, 
+		- *Automatic processing* - easy tasks, familiar items, parallel, no strain
+		- *Controlled processing* - difficult tasks, unfamiliar processes, serially (one after the other), requires attention, capacity limited, conscious control
+#Psych_207 
+#attention 
