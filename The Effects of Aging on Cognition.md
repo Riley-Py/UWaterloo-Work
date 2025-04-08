@@ -19,4 +19,6 @@
 - Working memory decreases as aging happens, in the ability to manipulate contents and maintaining information
 - Older adults have trouble ignoring distracting info (selective attention)
 - Working memory function is associated with overactivation of brain regions supporting executive functions in frontal lobes (older adults activated both, while younger only activated one side)
+	- Led to development of *HAROLD* (hemispheric asymmetry reduction in older adults)
+	- There is an increased reliance on executive-type resources on easier tasks that young people don't have to do
 - 
