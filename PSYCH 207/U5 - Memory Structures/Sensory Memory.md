@@ -9,4 +9,6 @@
 ### The Echo
 - Studies found that using a dichotic listening task activity, participants who gave partial reports could report proportionately more letters
 - Echoes can last longer than icons (20 seconds)
-- The *suffix effect* is 
+- The *suffix effect* is where if there are a list of letters given auditory, and if there is an auditory cue, then recall on the last few items is hindered
+	- The cue is like a mask
+- *Modality specific* - visual sensory memory 
