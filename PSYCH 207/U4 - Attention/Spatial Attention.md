@@ -8,5 +8,6 @@
 - Experiment involving finding a letter that is colored showed that detection of individual features is automatic (not requiring attention)
 	- In panel C with multiple letters that were blue and letters that weren't blue, participants did a *conjunction search*, and can be likened to the spotlight metaphor
 - *Feature integration theory*:
-	1. First stage: In the automatic phase, we register features of objects (colour/shape)
-	2. Second sta
+	1. First stage: In the automatic phase, we register features of objects (color/shape)
+	2. Second stage: Attention allows us to glue the features together into a unified object
+ - A study showed later that overloading attention can create *illusory conjunctions* (i.e red Honda Civic, blue Toyota Prius.  People reported )
