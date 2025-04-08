@@ -41,6 +41,9 @@
 	3. Semantic (meaning of message)
 - According to the theory, people in Moray's experiments heard their name due to it being low effort
 - If someone said "The dog chased the...", the word cat is *primed* - ready to be recognized
+<<<<<<< HEAD
+- Allows for many different kind of analyses of all messages, while filter theory only allows for one
+=======
 - Allows for many different kinds of analyses of all messages, while filter theory allows for only one
 
 ## **Late-Selection Theory**
@@ -55,3 +58,4 @@
 
 #Psych_207 
 #attention
+
