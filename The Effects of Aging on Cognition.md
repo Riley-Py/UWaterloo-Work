@@ -23,4 +23,5 @@
 	- There is an increased reliance on executive-type resources on easier tasks that young people don't have to do
 - Deep encoding leads to better memory
 	- Older adults show decrease in left frontal cortex activation, leading to why they have poorer memories than young people, as deep encoding relies on the left frontal cortex
-- Research showed that when young and old 
+- Research showed that when young and old people were given a memory retrieval task, it showed that old people were compensating by activating both frontal lobes, while young people only activated the right lobe
+- Bilingulism can be used to help defend agains thte 
