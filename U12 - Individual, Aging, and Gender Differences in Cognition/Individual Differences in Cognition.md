@@ -26,4 +26,5 @@
 	- As well, experts were encoding chess configurations rather than individual chess pieces while looking for the best position in a chess match
 ## Bilingualism
 - Bilingual children are found to attend selectively to relevant information and ignore distracting information better than monolingual children
-- 
+- A bilingual person is better at language processing, being able to see alternate image in a reversible ambiguous figure, and the Simon task
+	- Simon task is 
