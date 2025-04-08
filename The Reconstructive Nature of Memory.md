@@ -21,3 +21,5 @@
 - Someone witnessing a behavior and is likely to believed when there is a high degree of confidence, even if it is inaccurate
 - A study about recognizing a car passing by showed that it can be biased by the type of questions asked after viewing (this can also be with interrogations)
 - Memories can be altered with presenting misleading questions
+	- This can lead to integrating with the original memory and creating a distorted memory
+## The Recovered/False Memory Debate
