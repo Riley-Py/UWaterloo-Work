@@ -33,5 +33,8 @@
 	- Happens when in the calibration curve, the actual ratings are below the perfect calibration line
 	- ![[Pasted image 20250407165625.png]]
 	- Deviations above the line mean someone is *under-confident*, which rarely happens
-	- 
+
+#Making_decisions 
+#Psych_207 
+
 
