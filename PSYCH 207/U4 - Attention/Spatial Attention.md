@@ -12,3 +12,6 @@
 	2. Second stage: Attention allows us to glue the features together into a unified object
  - A study showed later that overloading attention can create *illusory conjunctions* (i.e. red Honda Civic, blue Toyota Prius.  People reported "blue Honda Civic")
  - All of this shows that perceiving individual features takes little effort, but gluing those features together requires more 
+## Inattentional Blindness
+- *Change blindness*: Inability to notice large changes to scenes when scene is disrupted
+- 
