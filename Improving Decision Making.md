@@ -1,2 +1,4 @@
 - A major obstacle would be overconfidence, as it effects particular decisions and it inflates a person's view of their own decision making and planning capabilities
-	- Telling peop
+	- Telling people doesn't improve anything, but rather extensive practice 
+- A second obstacle are people's feelings and expectations about how decisions are to be made
+	- Research 
