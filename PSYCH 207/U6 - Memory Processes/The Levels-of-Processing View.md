@@ -9,4 +9,8 @@
 	- Diagram of encoding tasks: ![[Pasted image 20250408143358.png]]
 	- *Elaboration* of the material aides in recalling the material itself
 	- Baddeley critique the levels-of-processing approach
-		- A lack of an independent defintion makes the theory li
+		- A lack of an independent definition makes the theory limited
+		- People have greater recall of info acoustically than semantically
+		- Modal view of memory can explain the findings presented in the model
+#Memory_processes
+#Psych_207 

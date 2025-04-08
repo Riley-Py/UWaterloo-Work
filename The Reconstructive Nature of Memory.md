@@ -1,0 +1,1 @@
+- Memory largely uses world knowledge and *schemata*
