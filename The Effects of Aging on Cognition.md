@@ -7,4 +7,6 @@
 - People aging have strategies to compensate for the decline in ability:
 	- Example: A pianist at 80 years old played fewer pieces (selection), practiced those pieces more often (optimization), and playing more slowly before fast segments to make the latter appear faster (compensation)
 ## Models of Age-Related Changes in Cognition
+- Reduction in brain volume is due to grey/white matter shrinkage, synaptic degeneration between neurons, and reduction of blood flow to the brain
+- The weight and volume of the brain shrinked at 2% per 10 years, with the largest shrinkage in the frontal cortex
 - 
