@@ -20,4 +20,6 @@
 	- *Naturalist intelligence* - Recognize nature around you
 	- *Existential intelligence* - See one's place in the universe; significance of life, meaning of death
 ## Experts Vs. Novices
-- 
+- Experts perceive more subtle distinctions than novices
+- Novices classify objects/instances on the basis of perceptual similarities; experts use their knowledge to form deeper principles with which to classify
+- Research of chess experts and novices showed that the experts were able to reconstruct positions better as they used their chess knowledge to chun
