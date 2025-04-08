@@ -26,4 +26,4 @@
 - *Serial search* - examining all of the information one-by-one (i.e. comparing one movie to the next sequentially)
 	- *Exhaustive search* - going through the entire list, even if a match is found
 - *Self-terminating search* - Stops when a match is found (i.e. stopping after a match is found for a movie)
-- 
+- The best way to retrieve information is a serial, exhaustive search from STM from studies performed by Sternberg
