@@ -2,4 +2,6 @@
 	- Not dependent on duration of stored material or the storage of memory, but the initial encoding of info to be remembered
 	- Not based in memory stores, but in cognitive processing
 - *Incidental learning* - learning that happens by accident and not on purpose
-- 
+- In an study, it showed three different kinds of processing
+	- Looking at the typeface to see if they were capital letters (physical processing)
+	- Reading the word and thinking about what it sounds (acoustic proces)
