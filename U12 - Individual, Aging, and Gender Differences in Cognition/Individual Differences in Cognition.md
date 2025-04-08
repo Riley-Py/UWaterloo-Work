@@ -24,4 +24,6 @@
 - Novices classify objects/instances on the basis of perceptual similarities; experts use their knowledge to form deeper principles with which to classify
 - Research of chess experts and novices showed that the experts were able to reconstruct positions better as they used their chess knowledge to chunk chess pieces into meaningful configurations
 	- As well, experts were encoding chess configurations rather than individual chess pieces while looking for the best position in a chess match
+## Bilingualism
+- Bilingual children are found to attend selectively to relevant information and ignore distracting information better than monolingual children
 - 
