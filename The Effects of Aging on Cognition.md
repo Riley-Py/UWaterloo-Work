@@ -11,4 +11,7 @@
 - The weight and volume of the brain shrinked at 2% per 10 years, with the largest shrinkage in the frontal cortex
 - *Cognitive neuroscience of aging* aims to correlate an aging brain to cognitive performance
 - Research shows that older adults must engage additional neural regions than younger adults to having less cognitive resources available due to changes in the frontal lobe
-- Research also shows that younger adults 
+- Research also shows that younger adults activated the left side of the frontal lobe more than older adults due to older adults having a change in activity/connectivity in brain structures during encoding
+## Cognitive Neuroscience of Aging
+- Study found that there was decreased brain activity in the occipital regions in response to a red flash in older adults
+- 
