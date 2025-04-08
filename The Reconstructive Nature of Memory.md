@@ -26,4 +26,4 @@
 - *Recovered memories* - memories that may be falsely recollected
 - *False memories* - memories of things that never really happened
 - Eyewitness testimony is information recalled within days/weeks/months, while false/recovered memories are from several years
-- *Repressed memories* - memories that are intentionally made hard to recall/retr
+- *Repressed memories* - memories that are intentionally made hard to recall/retrieve
