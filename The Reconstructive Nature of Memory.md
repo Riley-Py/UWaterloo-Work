@@ -10,3 +10,6 @@
 - Brewer had people fill out what they did at a moment when a beeper sounded
 	- Argued that Linton only recorded memorable events, which skewed the set of items she had
 	- Reported that rare actions were able to be recalled better than frequent actions
+	- The more distinct the mental representation of an event, the more likely it is to be recalled
+## Flashbulb Memories
+- *Flashbulb memory* is the reason why people remember what they were doing when 9/11 happened 
