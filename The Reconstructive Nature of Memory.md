@@ -19,4 +19,5 @@
 
 ## Eyewitness Memory
 - Someone witnessing a behavior and is likely to believed when there is a high degree of confidence, even if it is inaccurate
-- A study about recognizing a car passing by showed that the ability to
+- A study about recognizing a car passing by showed that it can be biased by the type of questions asked after viewing (this can also be with interrogations)
+- Memories can be altered with presenting misleading questions
