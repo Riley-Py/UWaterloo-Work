@@ -4,4 +4,7 @@
 - *Incidental learning* - learning that happens by accident and not on purpose
 - In an study, it showed three different kinds of processing
 	- Looking at the typeface to see if they were capital letters (physical processing)
-	- Reading the word and thinking about what it sounds (acoustic proces)
+	- Reading the word and thinking about what it sounds (acoustic processing)
+	- Retrieve and evaluate the word's meaning (semantic processing)
+	- Diagram of encoding tasks: ![[Pasted image 20250408143358.png]]
+	
