@@ -9,4 +9,7 @@
 	4. IQ scores are stable over a person's life
 	5. IQ tests aren't biased against social, economic, ethnic, or racial groups
 	6. Cognitive ability is heritable, no less than 40% and no greater than 80%
-- *Multiple intelligences theory*
+- *Multiple intelligences theory* argues that there are multiple intelligences that people are strong in; here are some examples:
+	- *Linguistic intelligence* - Language intelligence (learning new languages, use language to accomplish other goals)
+	- *Logical-math intelligence* - Solve problems, design experiments
+	- *Musical intelligence*
