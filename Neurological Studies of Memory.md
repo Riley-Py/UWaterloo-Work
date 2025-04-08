@@ -2,4 +2,7 @@
 - Example 2: A woman had damage to front temporal lobe, and couldn't recall events or famous people, but can recall her father's death and wedding
 - Examples above prove that episodic memory and semantic memory are independent of each other
 - Patients with amnesia show a deficit in episodic but are good for semantic
-- *Anterograde amnesia* - 
+- *Anterograde amnesia* - forgetting new events
+- *Retrograde amnesia* - forgetting old events
+- Damage to the frontal lobe is connected to working memory
+- *Hebb rule* - synapse between two neurons is repeatedly activated at about the
