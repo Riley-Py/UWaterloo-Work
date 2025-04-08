@@ -10,4 +10,5 @@
 - Reduction in brain volume is due to grey/white matter shrinkage, synaptic degeneration between neurons, and reduction of blood flow to the brain
 - The weight and volume of the brain shrinked at 2% per 10 years, with the largest shrinkage in the frontal cortex
 - *Cognitive neuroscience of aging* aims to correlate an aging brain to cognitive performance
-- 
+- Research shows that older adults must engage additional neural regions than younger adults to having less cognitive resources available due to changes in the frontal lobe
+- Research also shows that younger adults 
