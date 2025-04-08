@@ -17,3 +17,8 @@
 ## Cerebral Organization in Males and Females
 - Females tend to have cerebral hemispheres less specialized in function than males (different hemispheres have different functions)
 	- Males show greater asymmetries in functioning of the hemispheres
+	- Females have language in both hemispheres, and show greater recovery of language if the left hemisphere is damaged than males
+- Aphasia in females happens when damage is near the front of the brain, while in males, it happens when it's towards the back of the brain
+
+#Individual_diff 
+#Psych_207 
