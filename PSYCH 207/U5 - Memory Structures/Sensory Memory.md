@@ -11,4 +11,9 @@
 - Echoes can last longer than icons (20 seconds)
 - The *suffix effect* is where if there are a list of letters given auditory, and if there is an auditory cue, then recall on the last few items is hindered
 	- The cue is like a mask
-- *Modality specific* - visual sensory memory 
+- *Modality specific* - visual sensory memory contains visual info, auditory contains audio
+- Sensory memory capacities are larger for visual than auditory memory, but the length of time in auditory is longer than visual
+- Info stored is relatively unprocessed, related to the physical aspects of the stimuli
+
+#Memory_structs 
+#Psych_207 

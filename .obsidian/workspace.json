@@ -90,9 +90,23 @@
               "icon": "lucide-file",
               "title": "Sensory Memory"
             }
+          },
+          {
+            "id": "afcd5b7f42e9b52c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Short-Term Memory.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Short-Term Memory"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -245,10 +259,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0d30dd9514b164fd",
+  "active": "afcd5b7f42e9b52c",
   "lastOpenFiles": [
-    "PSYCH 207/U5 - Memory Structures/Types of Memory.md",
     "PSYCH 207/U5 - Memory Structures/Sensory Memory.md",
+    "Short-Term Memory.md",
+    "PSYCH 207/U5 - Memory Structures/Types of Memory.md",
     "PSYCH 207/U5 - Memory Structures/Overview.md",
     "PSYCH 207/U4 - Attention/Selective Attention.md",
     "PSYCH 207/U4 - Attention/Divided Attention.md",
@@ -273,7 +288,6 @@
     "PSYCH 207/U3 - Perceiving Objects and Recognizing Patterns/Overview.md",
     "PSYCH 207/U3 - Perceiving Objects and Recognizing Patterns/Gestalt Approaches to Preception.md",
     "PSYCH 207/U3 - Perceiving Objects and Recognizing Patterns/Disruptions of Perception - Visual Agnosias.md",
-    "PSYCH 207/U3 - Perceiving Objects and Recognizing Patterns/Direct Perception.md",
     "PSYCH 207/U12 - Individual, Aging, and Gender Differences in Cognition",
     "PSYCH 207/Images/Pasted image 20250407165625.png",
     "PSYCH 207/U11 - Making Decisions",
