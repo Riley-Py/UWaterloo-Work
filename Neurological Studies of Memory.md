@@ -5,4 +5,5 @@
 - *Anterograde amnesia* - forgetting new events
 - *Retrograde amnesia* - forgetting old events
 - Damage to the frontal lobe is connected to working memory
-- *Hebb rule* - synapse between two neurons is repeatedly activated at about the
+- *Hebb rule* - synapse between two neurons is repeatedly activated at about the same time the postsynaptic neuron fires, the structure/chemistry of the synapse changes (significant for learning new info)
+- *Long-term potentiation* - Persistent strengthening of synapses based on recent patterns of activity
