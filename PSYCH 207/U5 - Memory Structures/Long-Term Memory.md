@@ -22,4 +22,6 @@
 - *Encoding specificity* - memory is improved when information available at encoding is also available at retrieval (memory retrieval is better for a midterm if the studying/testing is in the same room rather than different rooms)
 - Related retrieval cues help with memory retrieval, and not so relevant retrieval cues don't
 - Information unrelated to the material can be a good retrieval cue, and this was supported with a scuba diving study, where lists learned underwater were recalled best in underwater environments, and lists on shore were best recalled on shore (called the *context effect*)
-- *state-dependent learning*
+- *State-dependent learning/memory* - learning/retrieval depends on the state of the person.  Be in the same state as if you learnt/retrieved something, then it will be better remembered
+#Memory_structs 
+#Psych_207 
