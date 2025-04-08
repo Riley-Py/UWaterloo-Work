@@ -16,3 +16,6 @@
 	- *Retroactive Interference* - Subsequent learning can make the retention of previous learning more difficult (learning French, then German -> the recall of French will be worse)
 - A retrieval cue with more associations has less of a chance for finding something in memory than one with less associations
 - *Fan effect* - the more studying about a subject, the more time it takes to retrieve a specific piece of information about said subject
+## Long-Term Memory - Retrieval of Information
+- *Categorization* - material organized into categories is easier to recall than information with no apparent organization
+- 
