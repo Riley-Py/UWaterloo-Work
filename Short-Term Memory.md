@@ -1,1 +1,3 @@
-- 
+- People recall more at the beginning or the end of the list rather than in the middle of the list is called *serial position effect*
+	- Improved recall at the beginning is called *primary effect*
+	- 
