@@ -8,4 +8,4 @@
 	- Retrieve and evaluate the word's meaning (semantic processing)
 	- Diagram of encoding tasks: ![[Pasted image 20250408143358.png]]
 	- *Elaboration* of the material aides in recalling the material itself
-	- Studies showed that greater recall of information was 
+	- Studies showed that greater recall of information was  
