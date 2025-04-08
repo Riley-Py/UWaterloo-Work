@@ -7,4 +7,4 @@
 
 ## Autobiographical Memory
 - A study from Marigold Linton found that after recording 2003 events and testing 3006 events in her life found that she did not forget many items since she was able to recognize them, showing that real-world memories are stronger than lab experiments
-- 
+- Brewer had people fill out what they did during the day
