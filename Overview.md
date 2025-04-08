@@ -1,0 +1,2 @@
+- *Individual differences* - stable patterns of performance that differ in quality/quantity between different people
+- 
