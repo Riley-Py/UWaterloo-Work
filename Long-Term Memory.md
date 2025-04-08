@@ -9,4 +9,6 @@
 - Can last decades to a lifetime
 - Studies showed that declining memory eventually plateaus and then no more forgetting happens (for recalling languages)
 ## Long-Term Memory - Forgetting
-- Ebbinghaus, after doing an experiment involving memory, plotted a for
+- Ebbinghaus, after doing an experiment involving memory, plotted a forgetting curve, where he assumed that the more forgetting, the more effort it would take to relearn the list
+	- Forgetting is rapid at first and then levels off ![[Pasted image 20250408130914.png]]
+- *Paired associates learning* - participants hear lists of pari
