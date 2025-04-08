@@ -18,4 +18,6 @@
 	- *Interpersonal intelligence* - Understanding other people
 	- *Intrapersonal intelligence* - Understanding yourself
 	- *Naturalist intelligence* - Recognize nature around you
-	- *Existential intelli*
+	- *Existential intelligence* - See one's place in the universe; significance of life, meaning of death
+## Experts Vs. Novices
+- 
