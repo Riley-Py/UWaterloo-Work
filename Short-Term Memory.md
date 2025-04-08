@@ -14,4 +14,6 @@
 - *Coding* - the way the information is represented
 - A study showed that participants formed mental representation of stimuli that involved acoustic rather than visual properties
 ## Short-Term Store - Retention Duration and Forgetting
-- 
+- If not rehearsed, information is lost in 20 seconds (*retention period*)
+- Studies found that when people counted backward by threes for longer than 18 seconds barely, anyone got it
+	- Found that the *memory trace* (encoded mental representation of the info) *decays* (breaks) within 20 seconds
