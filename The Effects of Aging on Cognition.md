@@ -7,11 +7,12 @@
 - People aging have strategies to compensate for the decline in ability:
 	- Example: A pianist at 80 years old played fewer pieces (selection), practiced those pieces more often (optimization), and playing more slowly before fast segments to make the latter appear faster (compensation)
 ## Models of Age-Related Changes in Cognition
-- Reduction in brain volume is due to grey/white matter shrinkage, synaptic degeneration between neurons, and reduction of blood flow to the brain
+- Reduction in brain volume is due to grey/white matter shrinkage, synaptic degeneration between neurons, and reduction of blood flow to the brain (rCBF)
 - The weight and volume of the brain shrinked at 2% per 10 years, with the largest shrinkage in the frontal cortex
 - *Cognitive neuroscience of aging* aims to correlate an aging brain to cognitive performance
 - Research shows that older adults must engage additional neural regions than younger adults to having less cognitive resources available due to changes in the frontal lobe
 - Research also shows that younger adults activated the left side of the frontal lobe more than older adults due to older adults having a change in activity/connectivity in brain structures during encoding
 ## Cognitive Neuroscience of Aging
 - Study found that there was decreased brain activity in the occipital regions in response to a red flash in older adults
-- 
+- rCBF was reduced in face matching/locating judgement, processing of verbal material, word-pair encoding task, and retrieval
+- Frontal regions increase on cognitive tasks in older adults
