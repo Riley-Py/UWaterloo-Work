@@ -24,4 +24,9 @@
 - It spares information that was "overlearned"
 - It does not affect skill learning
 - *Memory consolidation model*:
-	- Storage of info requires th
+	- Storage of info requires the hippocampus to link different aspects of event to retrieve these at a later time
+	- Over time, the need for the hippocampus to retrieve info lessens
+- The *multiple memory trace* theory suggests that hippocampus is always involved in storage/retrieval of episodic info, but after so many times, it gets integrated into semantic memory
+#Memory_processes 
+#Psych_207 
+
