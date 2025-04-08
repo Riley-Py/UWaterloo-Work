@@ -12,4 +12,10 @@
 - *Multiple intelligences theory* argues that there are multiple intelligences that people are strong in; here are some examples:
 	- *Linguistic intelligence* - Language intelligence (learning new languages, use language to accomplish other goals)
 	- *Logical-math intelligence* - Solve problems, design experiments
-	- *Musical intelligence*
+	- *Musical intelligence* - Compose or make music
+	- *Bodily-kinesthetic intelligence* - Use one's body to perform artistically or athletically
+	- *Spatial intelligence* - Visualize spatial scenes and create products with spatial properties
+	- *Interpersonal intelligence* - Understanding other people
+	- *Intrapersonal intelligence* - Understanding yourself
+	- *Naturalist intelligence* - Recognize nature around you
+	- *Existential intelli*
