@@ -1,0 +1,3 @@
+- Combining results from different studies is called a *meta-analysis*
+	- A measure in meta-analysis is *d* (difference in mean scores between two groups divided by standard deviation)
+	- The measure is also known as 

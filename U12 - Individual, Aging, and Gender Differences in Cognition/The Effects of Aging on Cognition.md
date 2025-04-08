@@ -26,3 +26,4 @@
 - Research showed that when young and old people were given a memory retrieval task, it showed that old people were compensating by activating both frontal lobes, while young people only activated the right lobe
 - Bilingualism can be used to help defend against the decline in functions that are associated with aging, as research showed that dementia was delayed by four years
 #Individual_diff 
+#Psych_207 
