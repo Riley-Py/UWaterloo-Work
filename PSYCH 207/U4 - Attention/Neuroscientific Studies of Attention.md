@@ -14,3 +14,6 @@
 ## Event-Related Potentials and Selective Attention
 - *Event-related potential* - brain responses from sensory, cognitive, or motor events
 - Studies show that ERPs differ as a function of whether a stimulus was attended to
+
+#attention 
+#Psych_207 
