@@ -1,1 +1,2 @@
-- Example 1: Gene has anterograde amnesia/retrograde amnesia.  Can't recal
+- Example 1: Gene has anterograde amnesia/retrograde amnesia.  Can't recall specific events, but can recall his past life, proving that he has knowledge about the past (semantic) but not of specific happenings (episodic)
+- Example 2: A woman had damage to front temporal lobe, and couldn't recall events or famous people, but can recall her father's deat
