@@ -1,3 +1,5 @@
 - An alternative view to the modal view is the *levels-of-processing theory of memory*
 	- Not dependent on duration of stored material or the storage of memory, but the initial encoding of info to be remembered
-	- Not based in memory stores, but in cognitive 
+	- Not based in memory stores, but in cognitive processing
+- *Incidental learning* - learning that happens by accident and not on purpose
+- 
