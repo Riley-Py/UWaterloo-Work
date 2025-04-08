@@ -12,14 +12,4 @@
 - Spares skilled performance
 - Show *hyperspecific memory* (only express learning that is extremely similar to conditions of encoding)
 ## Retrograde Amnesia
-- Loss of memory before the point of memory lost
-- All amnesic patients show retrograde amnesia
-- It has a *temporal extent*
-	- Patients with Alzheimer's show extensive amnesia
-	- Patients with closed head injury show limited amnesia
-		- Can recover
-	- Damage to the hippocampal region can also create this amnesia
-- Episodic memories are compromised
-	- Studies showed that before ECT treatment, patients were able to recall aired shows.  Afterwards, patients most recent memories were most likely to be lost
-- It spares information that was "overlearned"
-- It does not affect skill learning
+
