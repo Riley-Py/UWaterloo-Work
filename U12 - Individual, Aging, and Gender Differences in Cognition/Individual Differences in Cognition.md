@@ -27,4 +27,8 @@
 ## Bilingualism
 - Bilingual children are found to attend selectively to relevant information and ignore distracting information better than monolingual children
 - A bilingual person is better at language processing, being able to see alternate image in a reversible ambiguous figure, and the Simon task
-	- Simon task found that incongruent stimulus response pairs (i.e. inappropriate key) are associated with a longer response time than congru
+	- Simon task found that in congruent stimulus response pairs (i.e. inappropriate key) are associated with a longer response time than congruent pairs ("Simon effect")
+- Bilingual people perform poorly on tasks involving lexical access and memory retrieval of verbal information
+
+#Individual_diff 
+#Psych_207 
