@@ -9,4 +9,9 @@
 ## Short-Term Store - Capacity
 - 7 (plus or minus 2) is the capacity of independent units we can hold in STM
 	- Can be overcome by *chunking* individual units into larger units (i.e. chunking a string of letters into smaller sets)
-	- Chunking depends on knowledge
+	- Chunking depends on knowledge that the person has
+## Short-Term Store - Coding
+- *Coding* - the way the information is represented
+- A study showed that participants formed mental representation of stimuli that involved acoustic rather than visual properties
+## Short-Term Store - Retention Duration and Forgetting
+- 
