@@ -1,0 +1,2 @@
+- *Hemineglect*: Ignore sensory information located in the visual field opposite the damaged hemisphere
+- 
