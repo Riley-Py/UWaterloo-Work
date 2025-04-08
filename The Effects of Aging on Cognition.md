@@ -17,4 +17,6 @@
 - rCBF was reduced in face matching/locating judgement, processing of verbal material, word-pair encoding task, and retrieval
 - Frontal regions increase on cognitive tasks in older adults, and there is a heavier reliance on top-down control processes to compensate for bottom-up processing
 - Working memory decreases as aging happens, in the ability to manipulate contents and maintaining information
+- Older adults have trouble ignoring distracting info (selective attention)
+- Working memory function is associated with overactivation of brain regions supporting executive functions in frontal lobes (older adults activated both, while younger only activated one side)
 - 
