@@ -12,4 +12,5 @@
 	2. *Orienting network* - selects info from sensory input (parietal/frontal areas)
 	3. *Executive control network* - resolves conflicts among different response (prefrontal cortex)
 ## Event-Related Potentials and Selective Attention
+- *Event-related potential* - brain responses from sensory, cognitive, or motor events
 - 
