@@ -3,4 +3,8 @@
 - A second obstacle are people's feelings and expectations about how decisions are to be made
 	- Research shows that it is better to rely on using decision aids than to exclusively stick to human impressions/intuitions
 	- *Decision analysis* helps people gather and integrate info by using human feelings, beliefs, and judgements of relevance
-- Decision making is done on a *non-analytic* and *unconscious*
+- Decision making is done on a *non-analytic* and *unconscious* basis
+	- Three consequences of this:
+		- Decision making may be associated with *less* decision making time
+		- Cannot easily predict the errors of other experts
+		- Ambiguous features can easily be misinterpreted
