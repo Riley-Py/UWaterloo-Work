@@ -17,3 +17,6 @@
 - If not rehearsed, information is lost in 20 seconds (*retention period*)
 - Studies found that when people counted backward by threes for longer than 18 seconds barely, anyone got it
 	- Found that the *memory trace* (encoded mental representation of the info) *decays* (breaks) within 20 seconds
+- Other psychologists proposed something called *interference*
+	- Some information can displace other information (i.e. papers displacing other papers on a desktop)
+	- Found that in the previous study of counting by threes, **
