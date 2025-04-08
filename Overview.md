@@ -1,2 +1,0 @@
-- *Encoding* - acquiring information (translated into a form that other cognitive processes can use)
-- *Retrieval* - Calling to mind information

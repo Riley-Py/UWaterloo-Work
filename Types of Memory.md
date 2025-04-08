@@ -1,0 +1,2 @@
+- *Sensory memory* - Unattended information
+- *Short-term memory (STM)* - Attended information held for 20-30 s
