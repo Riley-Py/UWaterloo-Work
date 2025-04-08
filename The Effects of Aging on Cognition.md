@@ -15,4 +15,6 @@
 ## Cognitive Neuroscience of Aging
 - Study found that there was decreased brain activity in the occipital regions in response to a red flash in older adults
 - rCBF was reduced in face matching/locating judgement, processing of verbal material, word-pair encoding task, and retrieval
-- Frontal regions increase on cognitive tasks in older adults
+- Frontal regions increase on cognitive tasks in older adults, and there is a heavier reliance on top-down control processes to compensate for bottom-up processing
+- Working memory decreases as aging happens, in the ability to manipulate contents and maintaining information
+- 
