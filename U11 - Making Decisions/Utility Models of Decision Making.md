@@ -5,3 +5,6 @@
 ## Expected Utility Theory
 - *Expected value*: What the value of a gamble would be
 	- Given by equation $EV = \Sigma (pi \times vi)$, where EV is expected value, pi is probability, and vi is the monetary value
+- *Utility*: Capture ideas of happiness that comes from achieving personal goals
+	- Given by equation $EU = \Sigma (pi \times u_i)$, where $u_i$ is the utility of the outcome
+- 
