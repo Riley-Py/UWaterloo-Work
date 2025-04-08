@@ -8,4 +8,7 @@
 - Women outperform men in productive language, verbal tasks like analogies, comprehension of prose, and episodic memory tasks
 - Men outperform women in visuospatial ability
 - In the studies surveyed, 3/4 showed superior female performance in verbal tasks, but in statistical significance, only about 1/4 showed statistically higher female performance, and suggested that gender differences exist, but are very small using the effect size
-	- There were no variations in d values when age was a fact
+	- There were no variations in d values when age was a factor as well
+	- Also showed that the menstrual cycle can play a part in performance, where high levels of estrogen are associated with low performance on spatial tasks and high performance on verbal/working memory
+- *Visuospatial abilities* is the performance on tasks such as mental rotation/mental transformation of different objects/drawings
+	- Men outperform women in this 
