@@ -13,3 +13,6 @@
 	- The more distinct the mental representation of an event, the more likely it is to be recalled
 ## Flashbulb Memories
 - *Flashbulb memory* is the reason why people remember what they were doing when 9/11 happened 
+- Amygdala activity is what allows for the storage of great deal of information
+- Studies found that people are trying to find a way to link themselves to history
+- Occurs when retelling a story and becomes distorted overtime
