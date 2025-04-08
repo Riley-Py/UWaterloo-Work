@@ -7,4 +7,5 @@
 ## Gender Differences in Skills and Abilities
 - Women outperform men in productive language, verbal tasks like analogies, comprehension of prose, and episodic memory tasks
 - Men outperform women in visuospatial ability
-- In the studies surveyed, 3/4 showed superior female performance in verbal tasks
+- In the studies surveyed, 3/4 showed superior female performance in verbal tasks, but in statistical significance, only about 1/4 showed statistically higher female performance, and suggested that gender differences exist, but are very small using the effect size
+	- There were no variations in d values when age was a fact
