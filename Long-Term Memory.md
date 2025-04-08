@@ -13,4 +13,4 @@
 	- Forgetting is rapid at first and then levels off ![[Pasted image 20250408130914.png]]
 - *Paired associates learning* - participants hear lists of pairs of words, and then the experimenter presents the first word in each pair
 	- *Proactive Interference* - previous learning can make retention of subsequent learning more difficult
-	- 
+	- *Retroactive Interference* - Subseq
