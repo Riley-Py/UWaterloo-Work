@@ -22,4 +22,6 @@
 ## Experts Vs. Novices
 - Experts perceive more subtle distinctions than novices
 - Novices classify objects/instances on the basis of perceptual similarities; experts use their knowledge to form deeper principles with which to classify
-- Research of chess experts and novices showed that the experts were able to reconstruct positions better as they used their chess knowledge to chun
+- Research of chess experts and novices showed that the experts were able to reconstruct positions better as they used their chess knowledge to chunk chess pieces into meaningful configurations
+	- As well, experts were encoding chess configurations rather than individual chess pieces while looking for the best position in a chess match
+- 
