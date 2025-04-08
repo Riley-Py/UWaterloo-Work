@@ -13,4 +13,7 @@
 - *Visuospatial abilities* is the performance on tasks such as mental rotation/mental transformation of different objects/drawings
 	- Men outperform women in this by a large d amount (0.9)
 	- Correlated with tests of navigation in simulated/real-world environments
-	- Reason why females may be bad at the tasks 
+	- Reason why females may be bad at the tasks could be due to different strategies or rotating the items more slowly
+## Cerebral Organization in Males and Females
+- Females tend to have cerebral hemispheres less specialized in function than males (different hemispheres have different functions)
+	- Males show greater asymmetries in functioning of the hemispheres
