@@ -5,4 +5,6 @@
 ## Sensory Memory
 - Related to perception in the sense that it's the brief storage of sensory information
 ### The Icon
-- A study about displaying letters and reporting letters showed that when participants were recalling th
+- A study about displaying letters and reporting letters showed that when participants were recalling them, the information was fading from where they were stored
+	- *Partial report technique* - Recall a specific subset of objects/letters in a row/column
+	- Found that using the technique 
