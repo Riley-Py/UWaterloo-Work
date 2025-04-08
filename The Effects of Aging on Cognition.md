@@ -21,4 +21,6 @@
 - Working memory function is associated with overactivation of brain regions supporting executive functions in frontal lobes (older adults activated both, while younger only activated one side)
 	- Led to development of *HAROLD* (hemispheric asymmetry reduction in older adults)
 	- There is an increased reliance on executive-type resources on easier tasks that young people don't have to do
-- 
+- Deep encoding leads to better memory
+	- Older adults show decrease in left frontal cortex activation, leading to why they have poorer memories than young people, as deep encoding relies on the left frontal cortex
+- Research showed that when young and old 
