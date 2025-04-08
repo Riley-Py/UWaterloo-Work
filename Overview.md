@@ -1,0 +1,2 @@
+- *Encoding* - acquiring information
+- *Retrieval* - Calling to mind information
