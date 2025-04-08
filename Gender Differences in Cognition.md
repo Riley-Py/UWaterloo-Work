@@ -11,4 +11,6 @@
 	- There were no variations in d values when age was a factor as well
 	- Also showed that the menstrual cycle can play a part in performance, where high levels of estrogen are associated with low performance on spatial tasks and high performance on verbal/working memory
 - *Visuospatial abilities* is the performance on tasks such as mental rotation/mental transformation of different objects/drawings
-	- Men outperform women in this 
+	- Men outperform women in this by a large d amount (0.9)
+	- Correlated with tests of navigation in simulated/real-world environments
+	- Reason why females may be bad at the tasks 
