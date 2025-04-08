@@ -21,4 +21,5 @@
 	- Some information can displace other information (i.e. papers displacing other papers on a desktop)
 	- Found that in the previous study of counting by threes, *proactive interference* builds (material learned first can disrupt retention of subsequent material)
 	- The greater similarity between information being stored, the greater the interference
-	- 
+## Short-Term Store - Retrieval of Information
+- 
