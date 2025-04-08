@@ -18,4 +18,5 @@
 - *Fan effect* - the more studying about a subject, the more time it takes to retrieve a specific piece of information about said subject
 ## Long-Term Memory - Retrieval of Information
 - *Categorization* - material organized into categories is easier to recall than information with no apparent organization
-- 
+	- Studies show that asking people to organize it in their own categories improves recall
+- *Encoding specificity* - memory is improved when information available at encoding is also available at retrieval (memory retrieval is better for a midterm if the studying/testing is in the same room rather )
