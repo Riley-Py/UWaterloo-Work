@@ -13,4 +13,4 @@
 	3. *Executive control network* - resolves conflicts among different response (prefrontal cortex)
 ## Event-Related Potentials and Selective Attention
 - *Event-related potential* - brain responses from sensory, cognitive, or motor events
-- 
+- Studies show that ERPs differ as a function of whether a s
