@@ -1,3 +1,4 @@
 - *Amnesia* - memory disorders
 	- Caused from damage to the hippocampal system (hippocampus and amygdala)
 	- Can arise from oxygen deprivation, herpes, stroke, head energy, alcoholism, tumours, or ECT
+- H.M was someone who had **
