@@ -7,4 +7,9 @@
 	2. Attention then must be *move* to the attended stimulus
 	3. Neural processing of the new location must be *enhanced*
 - ADHD clients suffer from an inability to sustain vigilence on boring work, and that would stem from the Posner operation of enhancing on the new location
-- Posner described three networks that are responsible for 
+- Posner described three networks that are responsible for moving and disengaging
+	1. *Alerting network* - maintaining an alert state (frontal/parietal regions of right hemisphere)
+	2. *Orienting network* - selects info from sensory input (parietal/frontal areas)
+	3. *Executive control network* - resolves conflicts among different response (prefrontal cortex)
+## Event-Related Potentials and Selective Attention
+- 
