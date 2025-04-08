@@ -10,4 +10,8 @@
 - Affects memory regardless of the *modality* (different forms of information)
 - Spares memory for general knowledge, but can't recall new facts/events
 - Spares skilled performance
-- 
+- Show *hyperspecific memory* (only express learning that is extremely similar to conditions of encoding)
+## Retrograde Amnesia
+- Loss of memory before the point of memory lost
+- All amnesic patients show retrograde amnesia
+- It has a **
