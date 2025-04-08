@@ -7,4 +7,4 @@
 	- Reading the word and thinking about what it sounds (acoustic processing)
 	- Retrieve and evaluate the word's meaning (semantic processing)
 	- Diagram of encoding tasks: ![[Pasted image 20250408143358.png]]
-	
+	- *Elaboration* of the material aides in recalling the material itself
