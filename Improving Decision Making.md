@@ -1,4 +1,6 @@
 - A major obstacle would be overconfidence, as it effects particular decisions and it inflates a person's view of their own decision making and planning capabilities
 	- Telling people doesn't improve anything, but rather extensive practice 
 - A second obstacle are people's feelings and expectations about how decisions are to be made
-	- Research 
+	- Research shows that it is better to rely on using decision aids than to exclusively stick to human impressions/intuitions
+	- *Decision analysis* helps people gather and integrate info by using human feelings, beliefs, and judgements of relevance
+- Decision making is done on a *non-analytic* and *unconscious*
