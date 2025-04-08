@@ -19,4 +19,4 @@
 
 ## Eyewitness Memory
 - Someone witnessing a behavior and is likely to believed when there is a high degree of confidence, even if it is inaccurate
-- A study about recognizing a car passing by showed that 
+- A study about recognizing a car passing by showed that the ability to
