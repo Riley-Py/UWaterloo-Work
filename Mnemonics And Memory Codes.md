@@ -6,4 +6,7 @@
 
 ## The Dual-Coding Hypothesis
 - Two coding systems for representing information to be stored
-	- Verbal ()
+	- Verbal (linguistic meaning)
+	- Imagery (mental pictures of some sort that represent what the item looks like)
+	- Information can be coded by both
+- Studies found that participants formed visual images of noun pairs
