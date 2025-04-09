@@ -15,4 +15,6 @@
 - *Prototypes* - idealized representations of a class of objects/events
 - Prototypes of concepts include aspects that are *characteristic* (typical) of members of a category
 - Refers to *family resemblance structure of concepts* - each member has a number of features, sharing different features with different members
-	- Example: 
+	- Example: ![[Pasted image 20250409100851.png]]
+- More characteristic features an instance of a concept has, the stronger the family resemblance between that instance and other instances, and more typical it is
+	- Example: A robin is a more typical bird than penguin due to having more characteristic bird features
