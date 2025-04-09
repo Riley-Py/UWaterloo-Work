@@ -41,4 +41,8 @@
 ## The Schemata View
 - Concepts are schemata (frameworks of knowledge) that have roles, slots, etc.
 - There can be sub-schemata/superschemata as well
-- Shares with the prototype view ()
+- Shares with the prototype view (stores info that is abstracted across instances) and the exemplar view (store info that is about actual instances)
+- No clear constraints among individual schemata
+- Can't be empirically testable
+## The Knowledge-Based View
+- Person uses their knowledge of how the concept is organized to justify the classification and explain why certain things go together in the same category
