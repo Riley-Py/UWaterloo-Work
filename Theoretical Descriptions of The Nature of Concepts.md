@@ -46,3 +46,4 @@
 - Can't be empirically testable
 ## The Knowledge-Based View
 - Person uses their knowledge of how the concept is organized to justify the classification and explain why certain things go together in the same category
+	- Example: In a house fire, and trying to save children/pets/heirlooms, they all go into the category "things to save", as they are irreplacabl
