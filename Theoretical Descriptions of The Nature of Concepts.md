@@ -58,4 +58,4 @@
 
 ## Other
 - The term *similarity* is empty without specification of what relevant aspects are there between two objects
-- Another approach would be 
+- Another approach would be *explanation-based category*, 
