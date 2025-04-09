@@ -27,4 +27,5 @@
 	- Example "Grand piano" and "upright piano" being part of the "piano" and "guitar" group
 - Explains why people can't provide strict definitions of their concepts
 	- Example: Why a tomato is grouped as a vegetable rather than a fruit; shares common traits as a vegetable
-- Fails to 
+- Fails to specify clear constraints for what makes something a category
+- Also fails to explain why typicality varies with the way the concept is thought of
