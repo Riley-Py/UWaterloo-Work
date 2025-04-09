@@ -10,3 +10,9 @@
 ## Acquiring Concepts in the Brain
 - Started to the frontal and parietal regions in the right hemisphere
 	- Early classification involves processing visual patterns of stimuli without applying any rules
+- It then transitioned to the left hemisphere, to the left parietal lobe and left dorsolateral prefrontal cortex
+	- Result of formulation and application of abstract rules
+- The *basal ganglia* is responsible for further processing of visual stimuli
+
+## Implicit Concept Learning
+- 
