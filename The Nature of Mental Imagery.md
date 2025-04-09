@@ -13,4 +13,8 @@
 - Visual imagery has spatial properties
 ### 4. Transformational Equivalence
 - Imagined transformations/physical transformations are governed by the same laws of motion
-- Asserts that other kinds of transformations 
+- Asserts that other kinds of transformations work with images like they do with real objects
+### 5. Structural Equivalence
+- Structure of mental images correspond to that of perceived images, where the structure can be reorganized and reinterpreted
+- Visual images aren't formed not all at once, but in pieces that are assembled into a final piece
+- 
