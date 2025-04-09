@@ -7,6 +7,10 @@
 ### 2. Perceptual Equivalence
 - Many of the same kinds of internal processes used in mental visualization are used in visual perception as well
 	- Studies found that participants were unable to distinguish between their own images and the faint pictures
-### Spatial Equivalence
+### 3. Spatial Equivalence
 - The structural arrangement of elements of a mental image is equal to objects/their parts arranged in an actual physical space
-- Studies found that the greater distance between objects, the longer it took both blind and sighted participants to scan for each map
+- Studies found that the greater distance between objects, the longer it took both blind and sighted participants to scan for each of them to find locations on a map
+- Visual imagery has spatial properties
+### 4. Transformational Equivalence
+- Imagined transformations/physical transformations are governed by the same laws of motion
+- Asserts that other kinds of transformations 
