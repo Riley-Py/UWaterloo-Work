@@ -23,4 +23,6 @@
 	2. Original learning situation - instances may appear repeatedly, getting people to learn certain instances well
 	3. Some stimuli lead themselves to hypothesis testing better than others - things vary in many complicated ways in real life
 	4. In real-life concept learning, instances my belong to a number of categories at the same time
-	5. In natural s
+	5. In natural settings, we learn about instances without knowing how we will be called to use the info later
+- Studies found that by classifying faces, it was found that participants could classify different based on the approach
+	
