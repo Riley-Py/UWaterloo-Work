@@ -20,5 +20,7 @@
 	- Example: A robin is a more typical bird than penguin due to having more characteristic bird features
 - A prototype is an abstraction that includes all characteristic features of a category - thought of as "summaries" or "averages" of all instances
 - *Basic level of categorization* - helps with people categorizing items together
-	- Example: Grouping instrum
-- *Superordinate levels*
+	- Example: Grouping instruments into "piano" and "guitar"
+- *Superordinate levels of categorization* - contains members that are dissimilar in aspects
+	- Example: "musical instruments" is the higher group of "piano" and "guitar"
+- *Subordinate level of categories* - contains members that are less distinct than basic 
