@@ -1,2 +1,3 @@
 - Studies found that images are distinct from verbal materials and use different processes
-	- 
+	- This supports that images and words use different kinds of internal codes, as people would point at the image, while people would say verbally if a sentence was a noun or not
+- *Symbolic distance effect* - 
