@@ -35,4 +35,6 @@
 - Concepts include representation of some actual individual instances
 - People categorize new instances by comparing them to representations of previously stored instances (*exemplars*)
 - Faster to find similar stored exemplars for typical instances than atypical instances, which don't have stored exemplars
-- 
+- Studies found that physical similarity to previous exemplars stored in memory influenced the categorization, despite having a simple rule to follow
+- LIke the prototype rule, there are no clear constraints
+- Doesn't explain how different exemplars are called to mind at categorization
