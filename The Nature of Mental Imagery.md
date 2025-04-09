@@ -34,4 +34,9 @@
 - You can physically look at a picture without knowing what the picture is, but you can't look at an image unless you know what is beforehand
 - Pictures and images are disrupted, and disruptable
 - Images are easily distorted by the viewer's interpretations than pictures/photographs
-- Visual images are thought to be one means of internal coding and representation of information
+- Visual images are thought to be one means of internal coding and representation of information, and that the analogy only works to a certain extent
+
+## Propositional Theory
+- Reject the idea that images are mental code for representing information
+- A single code that is used to store and represent all information
+	- Example: Ottawa is a city west of Montreal can be represented by propositions CITY (Ottawa); WESTOF (Montreal, Halifax)
