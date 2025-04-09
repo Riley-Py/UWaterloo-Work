@@ -23,4 +23,8 @@
 	- Example: Grouping instruments into "piano" and "guitar"
 - *Superordinate levels of categorization* - contains members that are dissimilar in aspects
 	- Example: "musical instruments" is the higher group of "piano" and "guitar"
-- *Subordinate level of categories* - contains members that are less distinct than basic 
+- *Subordinate level of categories* - contains members that are less distinct than basic level cateogires
+	- Example "Grand piano" and "upright piano" being part of the "piano" and "guitar" group
+- Explains why people can't provide strict definitions of their concepts
+	- Example: Why a tomato is grouped as a vegetable rather than a fruit; shares common traits as a vegetable
+- Fails to 
