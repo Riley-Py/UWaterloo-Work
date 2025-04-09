@@ -38,12 +38,16 @@
 - Studies found that physical similarity to previous exemplars stored in memory influenced the categorization, despite having a simple rule to follow
 - LIke the prototype rule, there are no clear constraints
 - Doesn't explain how different exemplars are called to mind at categorization
+- 
 ## The Schemata View
 - Concepts are schemata (frameworks of knowledge) that have roles, slots, etc.
 - There can be sub-schemata/superschemata as well
 - Shares with the prototype view (stores info that is abstracted across instances) and the exemplar view (store info that is about actual instances)
 - No clear constraints among individual schemata
 - Can't be empirically testable
+- Part similarity-based, part explanation-based
 ## The Knowledge-Based View
 - Person uses their knowledge of how the concept is organized to justify the classification and explain why certain things go together in the same category
-	- Example: In a house fire, and trying to save children/pets/heirlooms, they all go into the category "things to save", as they are irreplacabl
+	- Example: In a house fire, and trying to save children/pets/heirlooms, they all go into the category "things to save", as they are irreplaceable.  The category only arises once you know the purpose, though
+- People's theories or mental explanations are together with their concepts and are the basis for categorization
+- Part of the explanation-based category
