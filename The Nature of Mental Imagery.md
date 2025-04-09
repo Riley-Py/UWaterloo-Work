@@ -28,3 +28,8 @@
 	- Thinks that people pause in experiments because that is what the experimenters want them to do
 	- Tasks that are affected by people's beliefs and expectations are *cognitively penetrable*
 - *Demand characteristics* - Instructions, tasks themselves, or something else about the situation cues the person on how to behave
+- *Experimenter expectancy effects* - experimenters giving subtle cues to participants to act a certain way
+
+## The Picture Metaphor
+- You can physically look at a picture without knowing what the picture is, but you can't look at an image unless you know what is beforehand
+- Pictures and imag
