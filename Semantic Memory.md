@@ -3,4 +3,5 @@
 - *Cognitive economy* - Properties and facts are stored at the highest level possible
 - Studies created a network of connected ideas, where the nodes are ideas and are connected to related nodes via *pointers*; this is called a *semantic network*
 	- Diagram: ![[Pasted image 20250408220535.png]]
-	- This is called the *hierarchical semantic netw*
+	- This is called the *hierarchical semantic network model of semantic memory*, as the nodes are in hierarchies
+- Studies showed that through *lexical decision tasks*, 
