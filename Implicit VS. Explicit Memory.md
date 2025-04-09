@@ -1,1 +1,3 @@
-- *Explicit memories* - consciously 
+- *Explicit memories* - consciously recollected (series of events or specific event)
+- *Implicit memories* - not deliberate or conscious but shows evidence of prior learning/storage
+- 
