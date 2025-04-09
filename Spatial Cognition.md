@@ -1,0 +1,4 @@
+- How people represent and navigate in and through space
+	- Typically using a "cognitive map" (mental depiction of a part of environment)
+- Different kinds of space 
+	- *Space of the body*
