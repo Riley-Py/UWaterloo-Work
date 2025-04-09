@@ -25,4 +25,9 @@
 	4. In real-life concept learning, instances my belong to a number of categories at the same time
 	5. In natural settings, we learn about instances without knowing how we will be called to use the info later
 - Studies found that by classifying faces, it was found that participants could classify different based on the approach
+	- If they used criterion feature, they would classify one way, and if they used the family resemblance structure, they would classify it the other way
+	- Photo of experiment: 
+		- ![[Pasted image 20250409110747.png]]
+## Using and Forming Scripts
+- 
 	
