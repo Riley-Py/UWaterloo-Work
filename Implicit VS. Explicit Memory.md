@@ -12,4 +12,5 @@
 - Any task relies on a combination of abilities, not just one ability
 - Jacoby proposed two different processes: *intentional* and *automatic*
 	- Recalling a specific incident or fact is intentional
-	- Jud
+	- Judgement of familiarity is automatic 
+- Automatic processes arise when one is distracted/inattentive; controlled/intentional processes are when one is alert
