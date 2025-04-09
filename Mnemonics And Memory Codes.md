@@ -10,3 +10,6 @@
 	- Imagery (mental pictures of some sort that represent what the item looks like)
 	- Information can be coded by both
 - Studies found that participants formed visual images of noun pairs
+	- Items only coded by verbal labels are less likely to be remembered
+- Paivio believed that the first noun (stimulus) in the pair is a *conceptual peg* on the second ("response") noun is hooked in his study with word pairs
+##
