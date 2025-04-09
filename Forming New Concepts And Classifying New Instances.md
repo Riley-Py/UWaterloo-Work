@@ -15,4 +15,4 @@
 - The *basal ganglia* is responsible for further processing of visual stimuli
 
 ## Implicit Concept Learning
-- 
+- Studies found that participants, when complex underlying structures exist, memorize exemplars than try to figure out what the structure is - they *abstract* the rule and apply the rule to new instances
