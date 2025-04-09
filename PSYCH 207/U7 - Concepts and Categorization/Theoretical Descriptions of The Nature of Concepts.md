@@ -58,4 +58,8 @@
 
 ## Other
 - The term *similarity* is empty without specification of what relevant aspects are there between two objects
-- Another approach would be *explanation-based category*, 
+- Another approach would be *explanation-based category*
+	- Bases classification between relationships between instances and categories
+	- Combo of schemata and knowledge-based view
+#Categorization 
+#Psych_207 
