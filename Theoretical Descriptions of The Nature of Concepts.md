@@ -12,5 +12,7 @@
 
 ## The Prototype View
 - Denies necessary-and-sufficient feature lists and regards concepts as a sort of abstraction
-- *Prototypes* - idealized representations of a class of objects/eents
-- 
+- *Prototypes* - idealized representations of a class of objects/events
+- Prototypes of concepts include aspects that are *characteristic* (typical) of members of a category
+- Refers to *family resemblance structure of concepts* - each member has a number of features, sharing different features with different members
+	- Example: 
