@@ -7,4 +7,8 @@
 - Studies showed that through *lexical decision tasks*, researchers found that if a word was connected semantically to another word, then they were faster to respond than if it was an unrelated word or a nonword
 	- Led to the idea of *spreading activation*, or the activation along connections of nodes in semantic network
 	- Diagram: ![[Pasted image 20250408220953.png]]
-	
+
+## Connectionist Models
+- Doesn't fit library metaphor
+- It learns over trials when certain units should be activated and which shouldn't
+- Must be taught to develop patterns of activation through many tria
