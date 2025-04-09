@@ -1,0 +1,2 @@
+- Studies found that there is activation in parts of the brain important for visual processing of info during an imagery task
+- 
