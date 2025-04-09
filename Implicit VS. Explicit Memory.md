@@ -9,4 +9,7 @@
 
 ## The Process Dissociation Framework
 - People performing differently on implicit memory tasks doesn't mean that implicit memory exists
-- 
+- Any task relies on a combination of abilities, not just one ability
+- Jacoby proposed two different processes: *intentional* and *automatic*
+	- Recalling a specific incident or fact is intentional
+	- Jud
