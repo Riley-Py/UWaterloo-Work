@@ -19,5 +19,8 @@
 - *Nonanalytic concept formation (implicit learning)* - requires people to pay attention to individual exemplars, storing representations of them in memory.  Later classification is done by comparing new instances to said representations
 - Studies found that participants adopted different approaches to the concept formation task, as participants adopted an analytical, hypothesis-testing framework for simple formation, while more complex stimuli led to people 
 - Brooks proposed 5 factors to this
-	1. Task requirements to learn information that distinguishes among individual instances
-	2. 
+	1. Task requirements to learn information that distinguishes among individual instances - different items in the same category must be treated differently
+	2. Original learning situation - instances may appear repeatedly, getting people to learn certain instances well
+	3. Some stimuli lead themselves to hypothesis testing better than others - things vary in many complicated ways in real life
+	4. In real-life concept learning, instances my belong to a number of categories at the same time
+	5. In natural s
