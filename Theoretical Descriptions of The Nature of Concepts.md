@@ -8,4 +8,9 @@
 - Assumes that concepts represent list of features; not representation of specific examples
 - Assumes that membership in a category is clear; it either has the necessary features, or it doesn't
 - Assumes that members within a category are created equal; no "better" or "worse" concept
+- Studies showed that participants were inconsistent in their responses when trying to group certain concepts into a category using this model
+
+## The Prototype View
+- Denies necessary-and-sufficient feature lists and regards concepts as a sort of abstraction
+- *Prototypes* - idealized representations of a class of objects/eents
 - 
