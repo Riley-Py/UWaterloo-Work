@@ -34,6 +34,8 @@
 ## Psychological Essentialism
 - People act as if objects, people, or events have certain essences that make them what they are
 - People's knowledge of the essence of a category is dependent on level of expertise
-- *Nominal-kind concepts* - clear definitions
-- *Natural-kind concepts*
+- *Nominal-kind concepts* - clear definitions.  Necessary and sufficient features
+- *Natural-kind concepts* - naturally occurring in the environment.  May have a family resemblance structure
+- *Artifact concepts* - constructed to serve a function or accomplish a task. Highlight info about object's purpose and function; only described in knowledge based approach
+- 
 	
