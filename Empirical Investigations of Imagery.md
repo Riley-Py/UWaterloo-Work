@@ -4,4 +4,4 @@
 
 ## Mental Rotation of Images
 - Studies found that people can also transform images along with creating them
-	- Participants mentally rotated
+	- Participants mentally rotated more recognizable stimuli, such as alphabet letters or drawings of hands
