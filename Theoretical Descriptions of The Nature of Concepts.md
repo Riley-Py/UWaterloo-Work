@@ -9,6 +9,7 @@
 - Assumes that membership in a category is clear; it either has the necessary features, or it doesn't
 - Assumes that members within a category are created equal; no "better" or "worse" concept
 - Studies showed that participants were inconsistent in their responses when trying to group certain concepts into a category using this model
+- Similarity based
 
 ## The Prototype View
 - Denies necessary-and-sufficient feature lists and regards concepts as a sort of abstraction
@@ -29,6 +30,7 @@
 	- Example: Why a tomato is grouped as a vegetable rather than a fruit; shares common traits as a vegetable
 - Fails to specify clear constraints for what makes something a category
 - Also fails to explain why typicality varies with the way the concept is thought of
+- Similarity based
 
 ## The Exemplar View
 - Last two views assumed that objects aren't mentally represented, but instead averaged into a representation
@@ -38,7 +40,7 @@
 - Studies found that physical similarity to previous exemplars stored in memory influenced the categorization, despite having a simple rule to follow
 - LIke the prototype rule, there are no clear constraints
 - Doesn't explain how different exemplars are called to mind at categorization
-- 
+- Similarity-based category
 ## The Schemata View
 - Concepts are schemata (frameworks of knowledge) that have roles, slots, etc.
 - There can be sub-schemata/superschemata as well
@@ -51,3 +53,6 @@
 	- Example: In a house fire, and trying to save children/pets/heirlooms, they all go into the category "things to save", as they are irreplaceable.  The category only arises once you know the purpose, though
 - People's theories or mental explanations are together with their concepts and are the basis for categorization
 - Part of the explanation-based category
+
+
+
