@@ -32,5 +32,8 @@
 - Scripts are basically routines for people that are dependent on the situation (i.e going to the washroom requires you to go get up, walk over there, open door, walk in, etc.)
 - People wouldn't be specific with their scripts and instead would be general (i.e. "going to the washroom" instead of the mess above)
 ## Psychological Essentialism
-- 
+- People act as if objects, people, or events have certain essences that make them what they are
+- People's knowledge of the essence of a category is dependent on level of expertise
+- *Nominal-kind concepts* - clear definitions
+- *Natural-kind concepts*
 	
