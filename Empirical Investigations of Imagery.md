@@ -10,4 +10,6 @@
 
 ## Scanning Images
 - *Imaginal scanning* - form an image, then scanning it
-- Studies showed that the longer the distance from the designated end to the location of the part, the longer it took people to say whether the part they were looking for was
+- Studies showed that the longer the distance from the designated end to the location of the part, the longer it took people to say whether the part they were looking for was in the drawing
+	- More studies showed that participants took more time to scan between two distant objects than two nearby ones
+- 
