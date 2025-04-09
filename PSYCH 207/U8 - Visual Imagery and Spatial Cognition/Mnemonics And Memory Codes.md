@@ -16,3 +16,6 @@
 - Imagery improved memory because imagery produces more associations between items to be recalled
 	- More hooks are needed within the information to be remembered
 - How imagery is used improves memory, not imagery itself
+
+#Visual_Imagery 
+#Psych_207 

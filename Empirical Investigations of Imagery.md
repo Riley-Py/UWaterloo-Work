@@ -1,0 +1,2 @@
+- Studies found that images are distinct from verbal materials and use different processes
+- 
