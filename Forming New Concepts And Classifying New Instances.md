@@ -1,0 +1,2 @@
+- Studies found multiple strategies for categorizing different figures into groups
+	- *Simultaneous scanning* - People used each card to test and rule out multiple hypotheses
