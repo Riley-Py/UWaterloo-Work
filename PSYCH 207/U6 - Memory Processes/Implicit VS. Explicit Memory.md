@@ -14,3 +14,5 @@
 	- Recalling a specific incident or fact is intentional
 	- Judgement of familiarity is automatic 
 - Automatic processes arise when one is distracted/inattentive; controlled/intentional processes are when one is alert
+#Memory_processes 
+#Psych_207 
