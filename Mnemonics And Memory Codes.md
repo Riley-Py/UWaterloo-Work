@@ -13,4 +13,4 @@
 	- Items only coded by verbal labels are less likely to be remembered
 - Paivio believed that the first noun (stimulus) in the pair is a *conceptual peg* on the second ("response") noun is hooked in his study with word pairs
 ## The Relational-Organizational Hypothesis
-- 
+- Imagery improved memory because imagery produces more associations between items to be recalled
