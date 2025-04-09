@@ -1,1 +1,3 @@
-Pg. 229 textbook (242 PDF)
+- *Visual images* - mental pictures created by someone
+- *Mnemonics* - techniques designed to improve memory
+- 
