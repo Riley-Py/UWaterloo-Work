@@ -11,4 +11,7 @@
 ## Connectionist Models
 - Doesn't fit library metaphor
 - It learns over trials when certain units should be activated and which shouldn't
-- Must be taught to develop patterns of activation through many tria
+- Must be taught to develop patterns of activation through many trials and weightings (think of this like AI/machine learning)
+- Diagram: ![[Pasted image 20250408221302.png]]
+#Memory_processes 
+#Psych_207 
