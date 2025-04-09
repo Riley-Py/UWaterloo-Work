@@ -40,3 +40,6 @@
 - Reject the idea that images are mental code for representing information
 - A single code that is used to store and represent all information
 	- Example: Ottawa is a city west of Montreal can be represented by propositions CITY (Ottawa); WESTOF (Montreal, Halifax)
+	- Can be linked together in networks
+- In a study about *association strength*, the theory would state that the higher the association value, the more propositions relating two items, and thus faster verification time
+- 
