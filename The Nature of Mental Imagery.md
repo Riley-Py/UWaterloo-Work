@@ -32,4 +32,6 @@
 
 ## The Picture Metaphor
 - You can physically look at a picture without knowing what the picture is, but you can't look at an image unless you know what is beforehand
-- Pictures and imag
+- Pictures and images are disrupted, and disruptable
+- Images are easily distorted by the viewer's interpretations than pictures/photographs
+- Visual images are thought to be one means of internal coding and representation of information
