@@ -6,4 +6,8 @@
 - Studies found that people can also transform images along with creating them
 	- Participants mentally rotated more recognizable stimuli, such as alphabet letters or drawings of hands
 - Participants in a study treated simple polygons like complex polygons
-- Mental rotations, like physical 
+- Mental rotations, like physical rotations, are continuous in nature
+
+## Scanning Images
+- *Imaginal scanning* - form an image, then scanning it
+- Studies showed that the longer the distance from the designated end to the location of the part, the longer it took people to say whether the part they were looking for was
