@@ -12,4 +12,5 @@
 - *Imaginal scanning* - form an image, then scanning it
 - Studies showed that the longer the distance from the designated end to the location of the part, the longer it took people to say whether the part they were looking for was in the drawing
 	- More studies showed that participants took more time to scan between two distant objects than two nearby ones
-- 
+- A study found that people got locations of Canada's cities wrong due to different *heuristics* (rules of thumb) in orienting/anchoring oddly shaped units
+- Studies with the rabbit/person illusion found that people who form images of the same physical stimulus, but gave different meanings to the stimulus, 
