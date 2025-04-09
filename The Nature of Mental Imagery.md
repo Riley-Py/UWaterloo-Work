@@ -17,4 +17,10 @@
 ### 5. Structural Equivalence
 - Structure of mental images correspond to that of perceived images, where the structure can be reorganized and reinterpreted
 - Visual images aren't formed not all at once, but in pieces that are assembled into a final piece
-- 
+
+## Critiques of Mental Imagery Research and Theory
+- One concern is that experiments give enough "hints" for people to perform by relying on their knowledge rather than visual imagery
+- Another is the question of the metaphor of images as pictures
+- Another is the need to talk about imagery as a distinct kind of internal code
+
+## Tacit Knowledge and Demand Characteristics
