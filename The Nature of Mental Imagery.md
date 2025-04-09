@@ -24,3 +24,4 @@
 - Another is the need to talk about imagery as a distinct kind of internal code
 
 ## Tacit Knowledge and Demand Characteristics
+- Pylyshyn noted how participants scanning time is proportional to distance scanned as they know that the amount of time it takes to scan between two points 
