@@ -29,3 +29,7 @@
 	- Example: Why a tomato is grouped as a vegetable rather than a fruit; shares common traits as a vegetable
 - Fails to specify clear constraints for what makes something a category
 - Also fails to explain why typicality varies with the way the concept is thought of
+
+## The Exemplar View
+- Last two views assumed that objects aren't mentally represented, but instead averaged into a representation
+- Concepts include representation of some act
