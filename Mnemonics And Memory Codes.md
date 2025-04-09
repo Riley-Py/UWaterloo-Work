@@ -14,3 +14,5 @@
 - Paivio believed that the first noun (stimulus) in the pair is a *conceptual peg* on the second ("response") noun is hooked in his study with word pairs
 ## The Relational-Organizational Hypothesis
 - Imagery improved memory because imagery produces more associations between items to be recalled
+	- More hooks are needed within the information to be remembered
+- How imagery is used improves memory, not imagery itself
