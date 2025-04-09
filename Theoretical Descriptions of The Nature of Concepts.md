@@ -38,3 +38,7 @@
 - Studies found that physical similarity to previous exemplars stored in memory influenced the categorization, despite having a simple rule to follow
 - LIke the prototype rule, there are no clear constraints
 - Doesn't explain how different exemplars are called to mind at categorization
+## The Schemata View
+- Concepts are schemata (frameworks of knowledge) that have roles, slots, etc.
+- There can be sub-schemata/superschemata as well
+- Shares with the prototype view ()
