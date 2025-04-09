@@ -32,4 +32,7 @@
 
 ## The Exemplar View
 - Last two views assumed that objects aren't mentally represented, but instead averaged into a representation
-- Concepts include representation of some act
+- Concepts include representation of some actual individual instances
+- People categorize new instances by comparing them to representations of previously stored instances (*exemplars*)
+- Faster to find similar stored exemplars for typical instances than atypical instances, which don't have stored exemplars
+- 
