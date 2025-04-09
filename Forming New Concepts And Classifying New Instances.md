@@ -16,3 +16,5 @@
 
 ## Implicit Concept Learning
 - Studies found that participants, when complex underlying structures exist, memorize exemplars than try to figure out what the structure is - they *abstract* the rule and apply the rule to new instances
+- *Nonanalytic concept formation (implicit learning)* - requires people to pay attention to individual exemplars, storing representations of them in memory.  Later classification is done by comparing new instances to said representations
+- Studies found that 
