@@ -6,4 +6,7 @@
 - Valid instances of the category share necessary and sufficient features
 	- Called *nominal* - concepts that have precise definitions
 ## Acquiring Prototypes
-- 
+- The type of stimuli and type of concepts influences the acquirement of prototypes
+## Acquiring Concepts in the Brain
+- Started to the frontal and parietal regions in the right hemisphere
+	- Early classification involves processing visual patterns of stimuli without applying any rules
