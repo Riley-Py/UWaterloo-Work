@@ -24,4 +24,7 @@
 - Another is the need to talk about imagery as a distinct kind of internal code
 
 ## Tacit Knowledge and Demand Characteristics
-- Pylyshyn noted how participants scanning time is proportional to distance scanned as they know that the amount of time it takes to scan between two points 
+- Pylyshyn noted how participants scanning time is proportional to distance scanned as they know that the amount of time it takes to scan between two points depends on distance and they expect the experiment to do this.
+	- Thinks that people pause in experiments because that is what the experimenters want them to do
+	- Tasks that are affected by people's beliefs and expectations are *cognitively penetrable*
+- *Demand characteristics* - Instructions, tasks themselves, or something else about the situation cues the person on how to behave
