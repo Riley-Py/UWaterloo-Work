@@ -19,4 +19,6 @@
 - More characteristic features an instance of a concept has, the stronger the family resemblance between that instance and other instances, and more typical it is
 	- Example: A robin is a more typical bird than penguin due to having more characteristic bird features
 - A prototype is an abstraction that includes all characteristic features of a category - thought of as "summaries" or "averages" of all instances
-- *Basic level of categorization*
+- *Basic level of categorization* - helps with people categorizing items together
+	- Example: Grouping instrum
+- *Superordinate levels*
