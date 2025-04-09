@@ -1,0 +1,3 @@
+- *Categorization* - assignment of objects into groupings
+- *Concept* - A mental representation of a category
+- 
