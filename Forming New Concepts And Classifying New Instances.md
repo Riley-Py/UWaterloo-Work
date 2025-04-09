@@ -29,5 +29,6 @@
 	- Photo of experiment: 
 		- ![[Pasted image 20250409110747.png]]
 ## Using and Forming Scripts
+- Scripts are basically routines for people that are dependent on the situation (i.e going to the washroom requires you to go get up, walk over there, open door, walk in, etc.)
 - 
 	
