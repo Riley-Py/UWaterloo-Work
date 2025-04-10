@@ -1,0 +1,4 @@
+- Different languages have different sounds (*phonemes*) and the study of it is called *phonology*
+- Putting sounds together is called *morphology*
+- *Morphemes* - smallest meaningful units of languages are words
+- *Syntax* - structure of ste
