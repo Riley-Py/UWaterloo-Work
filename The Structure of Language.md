@@ -18,4 +18,8 @@
 - *Phoneme* - smallest unit of sound that makes a difference in language
 - Vowels work without obstructing air flow, and depend on shape/position of tongue
 - Consonants are made by closing part of the mouth; making distinctions between groups of consonants is *voicing*
-- 
+- Explains how to pronounce new words and prefixes/suffixes to words
+
+## Syntax
+- Arrangement of words within sentences (the *structure* of sentences)
+- Dividing words of sentences into groups is called *constituents*
