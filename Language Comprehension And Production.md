@@ -11,3 +11,7 @@
 - Other studies found that participants were able to restore the distortion to proper pronunciation if it was in a highly predictable context
 ## Speech Errors in Production
 - *Speech errors* - instances where what the speaker wanted to say was clear, but they reorder elements or made substitution
+- Observational rather than experimental
+- Studies found that two kinds of errors were distinct: errors that showed meaning relations, and errors that showed form relations
+	- Showed how the language production system processed info about meaning and form at different points in the sentence structure
+- 
