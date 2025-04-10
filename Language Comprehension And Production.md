@@ -40,4 +40,6 @@
 	- Studies found that two sentences of equal length may vary in difficulty
 	- Example, where the second sentence is more difficult: 
 		- ![[Pasted image 20250410115047.png]]
-	- 
+- *Antecedent* - given part of the sentence corresponds to some information in a person's memory
+- *Bridging inferences* - making connections to the text to their own; linking ideas/concepts across sentences
+- 
