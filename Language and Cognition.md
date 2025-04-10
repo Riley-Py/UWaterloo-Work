@@ -11,3 +11,5 @@
 - Language both directs and constrains thought and perception
 - Language determines the way one perceives the world, organizes information about the world, and thinks
 - Studies found that this theory was disproven, as this was shown in identifying coloured chips
+- Studies also hypothesised that languages that don't have *counterfactual inference* (drawn on the basis that the premise is false), can make processing different information more difficult
+	- 
