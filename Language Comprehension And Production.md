@@ -26,4 +26,6 @@
 	- ![[Pasted image 20250410114005.png]]
 	- Have fragments that are *syntactically ambiguous* - can have two different parses (i.e. cotton can be treated as an adjective or as a noun)
 - *Lexical ambiguity* - words that have two meanings
-- Studies found that 
+- Studies found that both meanings of an ambiguous word were able to prime performance in lexical decision task if a visual presentation happened immediately after an auditory presentation of said word
+	- 
+- Sentence comprehension is left-right processing
