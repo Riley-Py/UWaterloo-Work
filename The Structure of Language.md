@@ -47,4 +47,8 @@
 	- An understanding of truth conditions of a sentence
 ## Pragmatics
 - Social rules of language (etiquette - not interrupting when someone is speaking)
-- *Assertives* - the speaker 
+- *Assertives* - the speaker asserts his or her belief in some proposition
+- *Directives* - the speaker instructs to listener
+- *Commissives* - the speaker commits to a later action (like a promise)
+- *Expressives* - the speaker describes what they've been thinking
+- *Declarations* - the speaker said the action within the sentence
