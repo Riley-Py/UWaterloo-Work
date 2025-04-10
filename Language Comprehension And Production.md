@@ -33,3 +33,6 @@
 - *Fixations* - brief pauses as eyes scan the text
 - Reading consists of fixations and *saccades* (jumps)
 	- Lasts about 250 ms for a fixation, 10-20 ms for a saccade
+- *Immediacy assumption* - a new word comes up, the reader tries to interpret it and assign it a role
+- *Eye-mind hypothesis* - interpretation of each word occurs during the time it's fixated
+- Studies found that more time is spent on meaningful rich parts of the text
