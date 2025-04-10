@@ -1,1 +1,3 @@
-- *Language* - it is *regular* (governed by *grammar*)
+- *Language* - it is *regular* (governed by *grammar*) and it is *productive* (infinite combinations of things can be expressed in it)
+	- Also has *arbitrariness* (the lack of a necessary resemblance between a word/sentence and what it refers to) and *discreteness* (system can be subdivided into recognizable parts)
+- All human languages are communication systems, but not all communication systems are languages
