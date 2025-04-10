@@ -36,3 +36,8 @@
 - *Immediacy assumption* - a new word comes up, the reader tries to interpret it and assign it a role
 - *Eye-mind hypothesis* - interpretation of each word occurs during the time it's fixated
 - Studies found that more time is spent on meaningful rich parts of the text
+- *Propositional complexity* - the number of basic ideas conveyed
+	- Studies found that two sentences of equal length may vary in difficulty
+	- Example, where the second sentence is more difficult: 
+		- ![[Pasted image 20250410115047.png]]
+	- 
