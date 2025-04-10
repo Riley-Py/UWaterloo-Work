@@ -48,4 +48,4 @@
 	- A good representation is coherent
 	- Reader's attentional resources are limited
 ## Gricean Maxims of Conversation
-- 
+- Grice believed that for people to converse, they do more than utterances that are phonologically, syntactically, and semantically correct
