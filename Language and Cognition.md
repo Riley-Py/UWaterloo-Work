@@ -22,4 +22,4 @@
 - *Aphasia* - unable to comprehend or produce language
 - *Broca's aphasia (expressive)* - leaves langauge reception and processing undisturbed, but can't produce language
 - *Wernicke's aphasia (receptive)* - can produce language, but can't process it
-- *Lateralization* - 
+- *Lateralization* - hemispheres have different roles and differ
