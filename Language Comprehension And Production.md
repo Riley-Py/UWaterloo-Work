@@ -8,4 +8,6 @@
 - Visual cues affect how sounds are perceived
 	- Some people hear phonemes that aren't there
 	- In a study, some participants demonstrated *phoneme restoration effect*, where some listeners restore the missing phonemes when given a sentence that had a sound taken out
-- Other studies found that participants were able to re
+- Other studies found that participants were able to restore the distortion to proper pronunciation if it was in a highly predictable context
+## Speech Errors in Production
+- *Speech errors* - instances where what the speaker wanted to say was clear, but they reorder elements or made substitution
