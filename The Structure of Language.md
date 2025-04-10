@@ -28,4 +28,5 @@
 	- Figure B is called a *labelled tree diagram*, where it depicts the *categorical constituent structure* of a sentence
 - Useful for *preposing* (taking a part of a sentence and moving it to the front for emphasis)
 	- Example:  ![[Pasted image 20250410110821.png]]
-- 
+- Chomsky proposed *phrase structure rules* to generate sentences in the above diagram and are also called *rewrite rules*
+	- Example: S $\rightarrow$ NP VP says that sentence 
