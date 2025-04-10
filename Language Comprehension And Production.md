@@ -42,4 +42,6 @@
 		- ![[Pasted image 20250410115047.png]]
 - *Antecedent* - given part of the sentence corresponds to some information in a person's memory
 - *Bridging inferences* - making connections to the text to their own; linking ideas/concepts across sentences
-- 
+- Studies found that the number of inferences readers make and strength of inferences affects how well readers remember and understood what they read
+- Studies reached a few conclusions about reading texts
+	- 
