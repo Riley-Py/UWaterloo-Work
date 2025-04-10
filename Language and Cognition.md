@@ -1,2 +1,7 @@
 - Studies showed that subvocal speech and thought are not equivalent
-- Studies also found that thinking was equated with talking to yourself, such that no one knew you 
+- Studies also found that thinking was equated with talking to yourself, such that no one knew you were using language
+
+## The Modularity Hypothesis
+- Fodor argued that perception and language are *modular*, meaning that it's *domain specific* (only with certain input and not others)
+	- It also implies that it is *informationally encapsulated process* (operates independently of the beliefs and the other info available to the processor)
+	- 
