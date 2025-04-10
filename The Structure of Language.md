@@ -15,4 +15,7 @@
 - *Phonetics* - study of speech sounds 
 - *Phonology* - how speech sounds are combined and altered in language
 - English has 40 phonetic segments (called *phones*) 
-- *Phoneme* - sm
+- *Phoneme* - smallest unit of sound that makes a difference in language
+- Vowels work without obstructing air flow, and depend on shape/position of tongue
+- Consonants are made by closing part of the mouth; making distinctions between groups of consonants is *voicing*
+- 
