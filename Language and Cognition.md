@@ -15,4 +15,8 @@
 	- However, there were *artifacts* with Bloom's findings (unrelated aspects of the way he did the studies) that were attributed to the results
 - Experts in an area develop their own vocabularies over novices
 
-## Neuropsychological Views and
+## Neuropsychological Views and Evidence
+- Normal word production requires us to read a mental dictionary of 20 000 items, and we do that with three words/second
+- Structures of the brain that involved in language: 
+	- ![[Pasted image 20250410122616.png]]
+- 
