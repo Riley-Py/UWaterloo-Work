@@ -47,3 +47,5 @@
 	- Mental representation is a construct by the reader that varies from the info of the text itself
 	- A good representation is coherent
 	- Reader's attentional resources are limited
+## Gricean Maxims of Conversation
+- 
