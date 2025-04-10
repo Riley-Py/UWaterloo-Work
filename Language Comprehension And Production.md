@@ -44,4 +44,6 @@
 - *Bridging inferences* - making connections to the text to their own; linking ideas/concepts across sentences
 - Studies found that the number of inferences readers make and strength of inferences affects how well readers remember and understood what they read
 - Studies reached a few conclusions about reading texts
-	- 
+	- Mental representation is a construct by the reader that varies from the info of the text itself
+	- A good representation is coherent
+	- Reader's attentional resources are limited
