@@ -52,3 +52,7 @@
 - *Commissives* - the speaker commits to a later action (like a promise)
 - *Expressives* - the speaker describes what they've been thinking
 - *Declarations* - the speaker said the action within the sentence
+- All 5 part of *speech act theory*
+- Exploited by advertising by changing the meaning of sentences and implying certain things without explicitly saying them
+#Language 
+#Psych_207 
