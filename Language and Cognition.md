@@ -9,4 +9,5 @@
 
 ## The Whorfian Hypothesis
 - Language both directs and constrains thought and perception
-- Language determines the 
+- Language determines the way one perceives the world, organizes information about the world, and thinks
+- Studies found that this theory was disproven, as this was shown in identifying coloured chips
