@@ -6,3 +6,6 @@
 	- Studies found that we pay attention to certain acoustic properties of speech but ignore others
 	- Also found that it applies to nonspeech sounds, like tones
 - Visual cues affect how sounds are perceived
+	- Some people hear phonemes that aren't there
+	- In a study, some participants demonstrated *phoneme restoration effect*, where some listeners restore the missing phonemes when given a sentence that had a sound taken out
+- Other studies found that participants were able to re
