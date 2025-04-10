@@ -19,4 +19,6 @@
 - Normal word production requires us to read a mental dictionary of 20 000 items, and we do that with three words/second
 - Structures of the brain that involved in language: 
 	- ![[Pasted image 20250410122616.png]]
-- 
+- *Aphasia* - unable to comprehend or produce language
+- *Broca's aphasia (expressive)* - leaves langauge reception and processing undisturbed, but can't produce language
+- *Wernicke's aphasia (receptive)* - can produce language, but can't process it
