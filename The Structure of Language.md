@@ -25,4 +25,7 @@
 - Dividing words of sentences into groups is called *constituents*
 	- Can be made into a *tree diagram* with constituents serving as *nodes*
 	- Diagram: ![[Pasted image 20250410110616.png]]
-	- Figure B is called 
+	- Figure B is called a *labelled tree diagram*, where it depicts the *categorical constituent structure* of a sentence
+- Useful for *preposing* (taking a part of a sentence and moving it to the front for emphasis)
+	- Example:  ![[Pasted image 20250410110821.png]]
+- 
