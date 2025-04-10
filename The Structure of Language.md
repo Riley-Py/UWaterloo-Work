@@ -23,3 +23,6 @@
 ## Syntax
 - Arrangement of words within sentences (the *structure* of sentences)
 - Dividing words of sentences into groups is called *constituents*
+	- Can be made into a *tree diagram* with constituents serving as *nodes*
+	- Diagram: ![[Pasted image 20250410110616.png]]
+	- Figure B is called 
