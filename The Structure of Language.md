@@ -40,4 +40,11 @@
 	- *Ambiguity*
 	- *Synonymy* ("The rabbit is not old enough" meaning the same as "The rabbit is too young")
 	- *Entailment* ("Pat is my uncle" mean that Pat is male)
-- Involves the study of *truth conditions* in sentences (circumstances that make the )
+- Involves the study of *truth conditions* in sentences (circumstances that make the sentence true)
+- The meaning of sentence requires
+	- An understanding of meaning of each word in a sentence
+	- An understanding of syntax of a sentence
+	- An understanding of truth conditions of a sentence
+## Pragmatics
+- Social rules of language (etiquette - not interrupting when someone is speaking)
+- *Assertives* - the speaker 
