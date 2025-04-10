@@ -18,4 +18,8 @@
 - *Semantic priming effect* - more accurate in a lexical decision when a target word is preceded by another word (*prime*) that is associated in meaning
 - Two types of processes that are responsible for priming:
 	- *Automatic spread of activation (fast)* - when a prime word was read, the concept was activated
-	- *Expectancy-driven process (slow)* - 
+	- *Expectancy-driven process (slow)* - Participants expected certain types of targets to follow specific primes and activated those targets in memory
+## Sentence Comprehension
+- Different ambiguities are present within sentences:
+	- Example: ![[Pasted image 20250410113839.png]]
+- 
