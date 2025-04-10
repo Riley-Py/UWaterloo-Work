@@ -9,4 +9,10 @@
 - *Grammar* - set of rules for a language
 - Knowledge of the rules isn't *explicit* (can't say what the rules are) but *implicit* (we follow rules without saying them)
 - *Linguistic competence* - knowledge that lets people produce and comprehend their language
-- *Linguistic performance* - only reflects competence in 
+- *Linguistic performance* - only reflects competence in ideal conditions; otherwise, it's the real-world competence of language
+
+## Phonology
+- *Phonetics* - study of speech sounds 
+- *Phonology* - how speech sounds are combined and altered in language
+- English has 40 phonetic segments (called *phones*) 
+- *Phoneme* - sm
