@@ -27,5 +27,9 @@
 	- Have fragments that are *syntactically ambiguous* - can have two different parses (i.e. cotton can be treated as an adjective or as a noun)
 - *Lexical ambiguity* - words that have two meanings
 - Studies found that both meanings of an ambiguous word were able to prime performance in lexical decision task if a visual presentation happened immediately after an auditory presentation of said word
-	- 
+	- All meanings of an ambiguous word are available through a bottom-up set of processes
 - Sentence comprehension is left-right processing
+## Comprehending Text Passages
+- *Fixations* - brief pauses as eyes scan the text
+- Reading consists of fixations and *saccades* (jumps)
+	- Lasts about 250 ms for a fixation, 10-20 ms for a saccade
