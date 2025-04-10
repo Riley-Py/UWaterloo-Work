@@ -49,3 +49,9 @@
 	- Reader's attentional resources are limited
 ## Gricean Maxims of Conversation
 - Grice believed that for people to converse, they do more than utterances that are phonologically, syntactically, and semantically correct
+	- There must be a connection in speaking with one another
+- There are four specific rules
+	- *Maxim of quantity* - Contributions must be informative
+	- *Maxim of quality* - Contributions should be true
+	- *Maxim of relation* - Be relevant
+	- *Maxim of manner* - Be clear
