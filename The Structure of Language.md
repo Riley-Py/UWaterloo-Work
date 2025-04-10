@@ -38,4 +38,6 @@
 	- *Anomaly*
 	- *Self-contradiction*
 	- *Ambiguity*
-	- *Synonymy*
+	- *Synonymy* ("The rabbit is not old enough" meaning the same as "The rabbit is too young")
+	- *Entailment* ("Pat is my uncle" mean that Pat is male)
+- Involves the study of *truth conditions* in sentences (circumstances that make the )
