@@ -12,4 +12,7 @@
 - Language determines the way one perceives the world, organizes information about the world, and thinks
 - Studies found that this theory was disproven, as this was shown in identifying coloured chips
 - Studies also hypothesised that languages that don't have *counterfactual inference* (drawn on the basis that the premise is false), can make processing different information more difficult
-	- 
+	- However, there were *artifacts* with Bloom's findings (unrelated aspects of the way he did the studies) that were attributed to the results
+- Experts in an area develop their own vocabularies over novices
+
+## Neuropsychological Views and
