@@ -24,4 +24,6 @@
 	- Example: ![[Pasted image 20250410113839.png]]
 - *Garden path sentences* - lead listener to one interpretation until at the middle/end of processing, the sentence must be reprocessed due to be incorrect
 	- ![[Pasted image 20250410114005.png]]
-	- Have fragments that are *syntactically ambiguous*
+	- Have fragments that are *syntactically ambiguous* - can have two different parses (i.e. cotton can be treated as an adjective or as a noun)
+- *Lexical ambiguity* - words that have two meanings
+- Studies found that 
