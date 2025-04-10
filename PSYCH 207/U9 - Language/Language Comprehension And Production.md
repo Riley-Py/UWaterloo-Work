@@ -55,3 +55,5 @@
 	- *Maxim of quality* - Contributions should be true
 	- *Maxim of relation* - Be relevant
 	- *Maxim of manner* - Be clear
+#Language 
+#Psych_207 

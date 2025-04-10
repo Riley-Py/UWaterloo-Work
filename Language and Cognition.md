@@ -1,0 +1,2 @@
+- Studies showed that subvocal speech and thought are not equivalent
+- Studies also found that thinking was equated with talking to yourself, such that no one knew you 
