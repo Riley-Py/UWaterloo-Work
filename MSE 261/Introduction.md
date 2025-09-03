@@ -18,6 +18,8 @@
 - Examples: Strategic direction, resource allocation, market expansion, R&D investment
 
 #### Example: Leasing a car vs. buying a car outright
-- There are *Emotional factors*, as well as *economic values* asoo
+- There are *Emotional factors*, as well as an *economic analysis* associated with this decision
+	- *Emotional*: Desire for new car, flexibility vs ownership
+	- *Economic*: Time value of money calculation, residual value estimation, tax implication assessment, total cost of ownership modeling
 
 #mse261
