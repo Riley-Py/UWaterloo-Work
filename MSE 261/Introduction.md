@@ -63,6 +63,11 @@
 	- *ESG Metrics*: Tracking environmental, social, and governance performance with financial returns
 ## Global Considerations in Engineering Economics
 
-###
+### Currency Exchange Risk
+- Projects with costs/revenues in different currencies require hedging strategies or risk premiums in discount rates
+### Differential Inflation
+- Materials, labor, and revenue streams may experience different inflation rates across countries
+### Regulatory Variance
+- Environmental standards, tax treatments, and subsidies vary by jurisdiction
 
 #mse261
