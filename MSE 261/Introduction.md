@@ -58,6 +58,11 @@
 ## Integrating Environmental & Financial Analysis
 - There are four pillars to this:
 	- *Carbon pricing*: Incorporation of carbon costs to cash flow projections
-	- *Lifecycle Analysis*: Full cradle-to-grave cost, 
+	- *Lifecycle Analysis*: Inclusion of disposal/recycling and cradle-to-grave cost
+	- *Multi-Criteria Analysis*: Methods to balance financial and environmental objectives
+	- *ESG Metrics*: Tracking environmental, social, and governance performance with financial returns
+## Global Considerations in Engineering Economics
+
+###
 
 #mse261
