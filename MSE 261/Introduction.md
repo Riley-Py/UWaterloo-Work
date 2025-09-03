@@ -31,6 +31,12 @@
 
 ### Capital Structure
 - Examples: Debt-equity mix, financing costs, capital constraints
-###dfd
+### Revenue Models
+- Examples: Multiple streams, varying uncertainty, different timelines
+### Global Factors
+- Examples: Currency exchange, inflation rates, regulatory environments
+
+## Engineering Project Selection
+- For example, there can be three projects that each pose their benefits and 
 
 #mse261
