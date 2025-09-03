@@ -26,6 +26,7 @@
 - A subreddit called *r/wallstreetbets* identified the stock as being very shorted, so they created a *short squeeze* (where the stock got pumped up so that the investors who were betting on the company failing lost a bunch of money)
 	- Stock went from $17 to $483 in a few days before coming back down
 - The stock has since stabilized, albeit at higher levels than pre-squeeze prices
+- It also affected a capital investment firm, which required a bailout due to the squeeze
 
 ## Beyond Personal Finance: Engineering Project Evaluation
 
