@@ -54,6 +54,10 @@
 - In 2015, VW was caught using "defeat devices" in diesel cars to cheat emissions tests
 - There was an *Engineering Decision* behind it, along with an *Economic consequence* associated with it
 	- *Decision*: Installing the "defeat devices", leading to less effective emission control systems and vehicles emitting 40x NO levels in normal driving
-	- *Consequence*: $30+ billion in fines and settlements, along with a 33% stock price decline; a massiv
+	- *Consequence*: $30+ billion in fines and settlements, along with a 33% stock price decline; a massive reputational damage; and shifting more towards electric vehicles
+## Integrating Environmental & Financial Analysis
+- There are four pillars to this:
+	- *Carbon pricing*: Incorporation of carbon costs to cash flow projections
+	- *Lifecycle Analysis*: Full cradle-to-grave cost, 
 
 #mse261
