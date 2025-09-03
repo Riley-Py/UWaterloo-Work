@@ -23,6 +23,8 @@
 	- *Economic*: Time value of money calculation, residual value estimation, tax implication assessment, total cost of ownership modeling
 #### Example #2: GameStop - Reddit vs. Wall Street
 - GameStop was in a decline due to shifting from physical media to digital distribution/online services
-- A subreddit called *r/wallstreetbets* identified the stock as being very shorted, so they created a *short squeeze* (where the stock got pumped up so that the investors who were betting on )
+- A subreddit called *r/wallstreetbets* identified the stock as being very shorted, so they created a *short squeeze* (where the stock got pumped up so that the investors who were betting on the company failing lost a bunch of money)
+	- Stock went from $17 to $483 in a few days before coming back down
+- 
 
 #mse261
