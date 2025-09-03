@@ -6,7 +6,7 @@
 - *Geologic Time* - Long period of time that represents Earth's geologic history. Also known as *Deep Time*
 - *Earth Science* - Used alongside *Geoscience* and *Geology*
 
-## What is Earth Science
+## What is Earth Science?
 - 
 
 #earth121
