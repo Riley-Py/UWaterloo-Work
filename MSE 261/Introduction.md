@@ -15,6 +15,9 @@
 - Examples: Capital allocation, project selection, technology investment, equipment lifecycle decisions
 
 ### Corporate Leadership
-- Examples: Strategic direction, resource allocat
+- Examples: Strategic direction, resource allocation, market expansion, R&D investment
+
+#### Example: Leasing a car vs. buying a car outright
+- There are *Emotional factors*, as well as *economic values* asoo
 
 #mse261
