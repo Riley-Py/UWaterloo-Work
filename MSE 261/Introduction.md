@@ -52,6 +52,8 @@
 
 #### Example: Volkswagen Diesel Emissions Scandal
 - In 2015, VW was caught using "defeat devices" in diesel cars to cheat emissions tests
-- There was an *Engineering Decision* behind it, along with an *Economic consequence*
+- There was an *Engineering Decision* behind it, along with an *Economic consequence* associated with it
+	- *Decision*: Installing the "defeat devices", leading to less effective emission control systems and vehicles emitting 40x NO levels in normal driving
+	- *Consequence*: $30+ billion in fines and settlements, along with a 33% stock price decline; a massiv
 
 #mse261
