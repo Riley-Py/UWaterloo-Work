@@ -7,6 +7,14 @@
 
 ## Power of Systematic Rules
 - Humans can establish universal, written rules for any situation, and are able to program decision processes and handle numerous contracts with many variables
-## Value of Economic Decision Fra
+## Value of Economic Decision Frameworks
+
+### Personal Finance
+- Examples: Mortgage evaluation, vehicle purchases, retirement planning, investment portfolios
+### Project Management
+- Examples: Capital allocation, project selection, technology investment, equipment lifecycle decisions
+
+### Corporate Leadership
+- Examples: Strategic direction, resource allocat
 
 #mse261
