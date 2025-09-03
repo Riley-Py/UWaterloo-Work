@@ -21,5 +21,8 @@
 - There are *Emotional factors*, as well as an *economic analysis* associated with this decision
 	- *Emotional*: Desire for new car, flexibility vs ownership
 	- *Economic*: Time value of money calculation, residual value estimation, tax implication assessment, total cost of ownership modeling
+#### Example #2: GameStop - Reddit vs. Wall Street
+- GameStop was in a decline due to shifting from physical media to digital distribution/online services
+- A subreddit called *r/wallstreetbets* identified the stock as being very shorted, so they created a *short squeeze* (where the stock got pumped up so that the investors who were betting on )
 
 #mse261
