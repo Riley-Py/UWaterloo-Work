@@ -11,10 +11,14 @@
             "id": "8254c0ef587acc3e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Introduction.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Introduction"
             }
           }
         ]
@@ -173,6 +177,8 @@
   },
   "active": "8254c0ef587acc3e",
   "lastOpenFiles": [
+    "Introduction.md",
+    "EARTH 121",
     "MSE 261/Introduction.md",
     "Power of Systematic Rules.md",
     "Untitled.base",
@@ -217,7 +223,6 @@
     "PSYCH 207 (Complete)/U6 - Memory Processes",
     "PSYCH 207 (Complete)/U5 - Memory Structures",
     "PSYCH 207 (Complete)/U12 - Individual, Aging, and Gender Differences in Cognition",
-    "PSYCH 207 (Complete)/U11 - Making Decisions",
-    "PSYCH 207 (Complete)/U10 - Thinking, Problem Solving, Reasoning"
+    "PSYCH 207 (Complete)/U11 - Making Decisions"
   ]
 }
