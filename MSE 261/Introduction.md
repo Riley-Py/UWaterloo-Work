@@ -48,6 +48,10 @@
 ### Risk Mitigation
 - Examples: Environmental liabilities, reputation damage, stranded asset potential
 ### Financial Incentives
-- Examples: Green transition subsidies, renewable energy credits, s
+- Examples: Green transition subsidies, renewable energy credits, sustainable financing advantages
+
+#### Example: Volkswagen Diesel Emissions Scandal
+- In 2015, VW was caught using "defeat devices" in diesel cars to cheat emissions tests
+- There was an *Engineering Decision* behind it, along with an *Economic consequence*
 
 #mse261
