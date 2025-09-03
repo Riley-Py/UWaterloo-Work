@@ -37,6 +37,10 @@
 - Examples: Currency exchange, inflation rates, regulatory environments
 
 ## Engineering Project Selection
-- For example, there can be three projects that each pose their benefits and 
+- For example, there can be three projects that each pose their benefits and difficulties, and that comparing them can be a challenge due to different capital structures, risk profiles, and revenue models
+	- *Project A*: High initial cost, steady long-term returns
+	- *Project B*: Lower upfront investment, higher maintenance costs
+	- *Project C*: Phased implementation, revenue dependent on market adoption
+
 
 #mse261
