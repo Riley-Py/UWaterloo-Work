@@ -7,3 +7,4 @@
 	- Example 2: A geoscientist attempts to determine whether a volcano may explode or flow using the silica content, along with the shape composition, and structure of a volcano
 ## Temporal Thinking
 - Thinking in terms of time; in this case, the [[EARTH 121/Introduction|geologic time scale]] 
+- 
