@@ -19,6 +19,10 @@
 	- Understand fundamental concepts of Earth's many systems
 	- Find credible info about Earth
 	- Communicate Earth Science in meaningful ways
-	- Make responsible decision
+	- Make responsible decisions regarding Earth and its resources
+- Nine ideas were identified that all people on Eart
+
+### The Nine Big Ideas
+1. Earth scientists use repeatable observations & testable ideas to understand and explain our planet
 
 #earth121
