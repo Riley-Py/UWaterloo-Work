@@ -46,7 +46,8 @@
 	- Interior is in constant motion through convection
 5. Earth is the water planet
 	- Surface water came from the interior of Earth and ice falling from space
-	- 
+	- Allows rock to melt easier and plate tectonic processes
+	- Water also shapes the Earth as well
 6. Life evolves on a dynamic Earth and continuously modifies Earth
 7. Humans depend on Earth for resources
 8. Natural hazards pose risks to humans
