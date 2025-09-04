@@ -45,6 +45,8 @@
 	- Can be slow or sudden, fast and slow
 	- Interior is in constant motion through convection
 5. Earth is the water planet
+	- Surface water came from the interior of Earth and ice falling from space
+	- 
 6. Life evolves on a dynamic Earth and continuously modifies Earth
 7. Humans depend on Earth for resources
 8. Natural hazards pose risks to humans
