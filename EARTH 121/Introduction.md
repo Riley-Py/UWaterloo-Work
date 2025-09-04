@@ -27,11 +27,13 @@
 	- Evidence comes from field studies, experiments, and simulations
 	- Technology advances and breakthroughs in observations changes the way we see Earth
 2. Earth is 4.6 billion years old
+	- Rocks provide the record of history
 3. Earth is a complex system of interacting rock, water, air, and life
 4. Earth is continuously changing
 5. Earth is the water planet
 6. Life evolves on a dynamic Earth and continuously modifies Earth
 7. Humans depend on Earth for resources
-8. 
+8. Natural hazards pose risks to humans
+9. Humans significantly alter the Earth
 
 #earth121
