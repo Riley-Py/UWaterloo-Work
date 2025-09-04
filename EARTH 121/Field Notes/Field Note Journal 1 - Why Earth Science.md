@@ -10,7 +10,7 @@
 
 ## 3. What disrupted or changed the way you think about the Earth?
 
-- What changed the way I thought about the Earth was the fact that the Earth is ever evolving, and we are only a small piece of the puzzle in the grander scale of what the Earth does.   From continents forming due to shifts in 
+- What changed the way I thought about the Earth was the fact that the Earth is ever evolving, and we are only a small piece of the puzzle in the grander scale of what the Earth does.   From continents forming due to shifts in tectonic plates, to glaciers being created and then being destroyed due to factors like climate change, Earth is constantly changing, and even though we can influence those changes, we can't control everything that happens on Earth.
 
 ## Final Paragraph: 
 
