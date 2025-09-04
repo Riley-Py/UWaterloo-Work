@@ -7,6 +7,7 @@
 - *Earth Science* - Used alongside *Geoscience* and *Geology*
 
 ## What is Earth Science?
-- 
+- Earth science is geology
+	- Incorporates other fields, like chemistry, biology, physics, and math
 
 #earth121
