@@ -89,6 +89,7 @@
 ### John Tuzo Wilson
 - Behind the study of plate tectonics
 ### Nicolas Steno
-- 
+- Was behind the theory of different layers of the Earth showing different histories
+	- Behind the idea of *Uniformitarianism* (past shaped by processes observed today)
 
 #earth121
