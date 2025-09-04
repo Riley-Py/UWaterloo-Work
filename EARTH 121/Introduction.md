@@ -92,6 +92,6 @@
 - Was behind the theory of different layers of the Earth showing different histories
 	- Behind the idea of *Uniformitarianism* (past shaped by processes observed today)
 	- Came to the theory of the *Rock Cycle* 
-- 
+
 
 #earth121

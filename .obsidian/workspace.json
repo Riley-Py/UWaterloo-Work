@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EARTH 121/Introduction.md",
+                "file": "EARTH 121/Four Ways of Thinking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "Four Ways of Thinking"
             }
           }
         ]
@@ -175,12 +175,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "059c515cd4110e39",
+  "active": "70d68b30dc606889",
   "lastOpenFiles": [
+    "EARTH 121/Introduction.md",
+    "EARTH 121/Four Ways of Thinking.md",
     "EARTH 121/Images",
     "EARTH 121/Images/scientific-method.png",
     "EARTH 121/Field Notes/Field Note Journal 1 - Why Earth Science.md",
-    "EARTH 121/Introduction.md",
     "EARTH 121/Field Notes",
     "EARTH 121",
     "MSE 261/Introduction.md",
@@ -222,7 +223,6 @@
     "PSYCH 207 (Complete)/Images/Pasted image 20250409110747.png",
     "PSYCH 207 (Complete)/U7 - Concepts and Categorization",
     "PSYCH 207 (Complete)/U6 - Memory Processes",
-    "PSYCH 207 (Complete)/U5 - Memory Structures",
-    "PSYCH 207 (Complete)/U12 - Individual, Aging, and Gender Differences in Cognition"
+    "PSYCH 207 (Complete)/U5 - Memory Structures"
   ]
 }
