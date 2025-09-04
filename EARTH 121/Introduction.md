@@ -30,6 +30,7 @@
 	- Rocks provide the record of history
 	- Age of the planet was provided from rocks of meteorites/moon rocks
 	- Created from star dust
+	- Life started 3.5 billion years ago
 3. Earth is a complex system of interacting rock, water, air, and life
 4. Earth is continuously changing
 5. Earth is the water planet
