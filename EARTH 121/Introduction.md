@@ -53,7 +53,9 @@
 7. Humans depend on Earth for resources
 	- Sustenance, comfort, and places to live
 	- Many resources are distributed unevenly
+	- Earth Scientists work on looking at renewable resources to replace the non-renewable resources we are using
 8. Natural hazards pose risks to humans
+	- Earthquakes, tsusamis, hurricanes, floods, droughts, landslides, volanic eruptions, extreme weather, 
 9. Humans significantly alter the Earth
 
 #earth121
