@@ -6,7 +6,7 @@
 
 ## 2. Was there anything that surprised you?
 
-- 
+- What surprised me was the fact that Earth Science is a vast field that explains many things from Earth, from times where we weren't around, to predicting the future on what is going to happen to the Earth.  What also surprised me was the fact that Earth Science encompasses many different components in the overall system of the Earth, from climate change and climate 
 
 ## 3. What disrupted or changed the way you think about the Earth?
 
