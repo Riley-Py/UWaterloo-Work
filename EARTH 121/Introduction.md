@@ -59,5 +59,9 @@
 	- Human activities can contribute to these hazards, like floods and forest fires
 	- Can be sudden or gradual
 9. Humans significantly alter the Earth
+	- It increases with population and consumption of resources
+	- Fossil fuel consumption and industrial processes causes climate change
+		- Increasing forest fires, extreme weather and disruption of ecosystems
+	- 
 
 #earth121
