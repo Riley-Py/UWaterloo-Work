@@ -42,6 +42,7 @@
 	- Earth gains energy through the sun and loses energy through radiation
 	- Eco-systems are where organisms interact with each other and the environment
 4. Earth is continuously changing
+	- Can be slow or sudden, fast and slow
 5. Earth is the water planet
 6. Life evolves on a dynamic Earth and continuously modifies Earth
 7. Humans depend on Earth for resources
