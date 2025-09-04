@@ -28,6 +28,8 @@
 	- Technology advances and breakthroughs in observations changes the way we see Earth
 2. Earth is 4.6 billion years old
 	- Rocks provide the record of history
+	- Age of the planet was provided from rocks of meteorites/moon rocks
+	- Created from star dust
 3. Earth is a complex system of interacting rock, water, air, and life
 4. Earth is continuously changing
 5. Earth is the water planet
