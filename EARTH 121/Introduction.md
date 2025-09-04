@@ -13,4 +13,12 @@
 	- It's about change overtime through geologic time
 - Key for natural resources, natural hazards, and climate change
 
+## Earth Science Literacy Framework
+
+- An Earth Science Literate person should be able to:
+	- Understand fundamental concepts of Earth's many systems
+	- Find credible info about Earth
+	- Communicate Earth Science in meaningful ways
+	- Make responsible decision
+
 #earth121
