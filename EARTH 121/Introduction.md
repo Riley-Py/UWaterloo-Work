@@ -75,6 +75,13 @@
 - When two plates converge, the thinner plate goes under the larger plate
 
 ## Geologist's Tools
-- *Hand lens* - magnify textures, mineral grains, identify minerals that comprise 
+- *Hand lens* - magnify textures, mineral grains, identify minerals that comprise rocks
+- *Brunton (Geologist's compass)* - measure direction and angle of dipping rock layers
+- *Grain size scale* - understand sedimentary particle size for interpretation of processes such as wind, water, ice
+- *Geologic Time Scale* - keep track of names and age of geologic subdivisions (time)
+
+## Rock Stars
+
+
 
 #earth121
