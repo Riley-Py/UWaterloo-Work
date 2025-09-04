@@ -87,6 +87,8 @@
 - Behind the Geological Survey of Canada
 - Mountain was named after him
 ### John Tuzo Wilson
+- Behind the study of plate tectonics
+### Nicolas Steno
 - 
 
 #earth121
