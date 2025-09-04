@@ -23,5 +23,7 @@
 - Nine ideas were identified that all people on Earth should know
 ### The Nine Big Ideas
 1. Earth scientists use repeatable observations & testable ideas to understand and explain our planet
+	- Examples: Human impacts on Earth, availability of natural resources, climate change
+	- Evidence comes from field studys, s
 
 #earth121
