@@ -32,6 +32,11 @@
 	- Created from star dust
 	- Life started 3.5 billion years ago
 3. Earth is a complex system of interacting rock, water, air, and life
+	- 4 major systems of Earth are:
+		- Geosphere - metallic rock, soil, sediments
+		- Hydrosphere - water in the air and on the Earth
+		- Atmosphere - gases surrounding Earth
+		- Biosphere
 4. Earth is continuously changing
 5. Earth is the water planet
 6. Life evolves on a dynamic Earth and continuously modifies Earth
