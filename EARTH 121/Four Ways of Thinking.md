@@ -3,3 +3,5 @@
 	- Views Earth as a system that has many parts that are connected to make Earth work as a whole
 ## Spatial Thinking
 - Jumping between scales and integrate info from a variety of scales to solve problems through the power of observation
+	- Example: Petroleum geologist examining samples under a microscope to investigate ancient mountain ranges seen in the landscape
+	- Example 2: A geoscientist attempts to determine whether a volcano may explode or flow using the silica content, along with the shape composition, and structure of a volcano
