@@ -74,4 +74,7 @@
 	- *Converging currents* drive the plates into each other, while *divergent currents* drive the plates apart
 - When two plates converge, the thinner plate goes under the larger plate
 
+## Geologist's Tools
+- *Hand lens* - magnify textures, mineral grains, identify minerals that comprise 
+
 #earth121
