@@ -49,7 +49,7 @@
 	- Allows rock to melt easier and plate tectonic processes
 	- Water also shapes the Earth as well
 6. Life evolves on a dynamic Earth and continuously modifies Earth
-	- 
+	- Fossils shows how life has evolved on Earth, and evolution is how it has been ongoing since
 7. Humans depend on Earth for resources
 8. Natural hazards pose risks to humans
 9. Humans significantly alter the Earth
