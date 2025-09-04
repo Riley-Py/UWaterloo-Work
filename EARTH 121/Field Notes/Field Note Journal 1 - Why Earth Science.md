@@ -14,6 +14,7 @@
 
 ## Final Paragraph: 
 
+The three ideas that resonated with me after watching the video "Why Earth Science" was 
 
 
 #earth121 
