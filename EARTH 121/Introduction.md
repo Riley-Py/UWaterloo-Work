@@ -82,6 +82,11 @@
 
 ## Rock Stars
 
-
+### Sir William Edmond Logan
+- Mapped parts of Canada and discovered many of its natural resources
+- Behind the Geological Survey of Canada
+- Mountain was named after him
+### John Tuzo Wilson
+- 
 
 #earth121
