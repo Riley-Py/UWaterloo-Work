@@ -51,7 +51,8 @@
 6. Life evolves on a dynamic Earth and continuously modifies Earth
 	- Fossils shows how life has evolved on Earth, and evolution is how it has been ongoing since
 7. Humans depend on Earth for resources
-	- 
+	- Sustenance, comfort, and places to live
+	- Many resources are distributed unevenly
 8. Natural hazards pose risks to humans
 9. Humans significantly alter the Earth
 
