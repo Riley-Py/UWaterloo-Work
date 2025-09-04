@@ -9,5 +9,6 @@
 ## What is Earth Science?
 - Earth science is geology
 	- Incorporates other fields, like chemistry, biology, physics, and math
+- Earth science is about figuring out Earth's past, what it's happening in the present, a
 
 #earth121
