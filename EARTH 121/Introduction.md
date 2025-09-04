@@ -67,6 +67,10 @@
 	- Multiple tests are needed to prove the hypothesis or require additional evidence to support the hypothesis
 - Schematic of the scientific method in action:
 	- ![[scientific-method.png]]
-- 
+
+## Plate Tectonics
+- Earth's crust is broken up in fragments
+- They move due to being carried on the *mantle* (magma on the crust of the Earth)
+	- *Converging currents* drive the plates into each other, while *divergent currents* drive the plates apart
 
 #earth121
