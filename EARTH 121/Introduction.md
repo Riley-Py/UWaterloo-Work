@@ -40,6 +40,7 @@
 	- Humans can influence any system of Earth
 	- Carbon is always cycling through the Earth
 	- Earth gains energy through the sun and loses energy through radiation
+	- Eco-systems are where organisms interact with each other and the environment
 4. Earth is continuously changing
 5. Earth is the water planet
 6. Life evolves on a dynamic Earth and continuously modifies Earth
