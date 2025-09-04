@@ -11,5 +11,6 @@
 	- Incorporates other fields, like chemistry, biology, physics, and math
 - Earth science is about figuring out Earth's past, what it's happening in the present, and what can we do in the future to take care of the planet
 	- It's about change overtime through geologic time
+- Key for natural resources, natural hazards, and climate change,
 
 #earth121
