@@ -36,7 +36,10 @@
 		- Geosphere - metallic rock, soil, sediments
 		- Hydrosphere - water in the air and on the Earth
 		- Atmosphere - gases surrounding Earth
-		- Biosphere
+		- Biosphere - living organisms (humans are here)
+	- Humans can influence any system of Earth
+	- Carbon is always cycling through the Earth
+	- Earth gains energy through the sun and loses energy through radiation
 4. Earth is continuously changing
 5. Earth is the water planet
 6. Life evolves on a dynamic Earth and continuously modifies Earth
