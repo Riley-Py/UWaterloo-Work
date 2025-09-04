@@ -20,8 +20,7 @@
 	- Find credible info about Earth
 	- Communicate Earth Science in meaningful ways
 	- Make responsible decisions regarding Earth and its resources
-- Nine ideas were identified that all people on Eart
-
+- Nine ideas were identified that all people on Earth should know
 ### The Nine Big Ideas
 1. Earth scientists use repeatable observations & testable ideas to understand and explain our planet
 
