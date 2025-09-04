@@ -25,6 +25,13 @@
 1. Earth scientists use repeatable observations & testable ideas to understand and explain our planet
 	- Examples: Human impacts on Earth, availability of natural resources, climate change
 	- Evidence comes from field studies, experiments, and simulations
-	- Technology, breakthroughs in observations changes the way we see Earth
+	- Technology advances and breakthroughs in observations changes the way we see Earth
+2. Earth is 4.6 billion years old
+3. Earth is a complex system of interacting rock, water, air, and life
+4. Earth is continuously changing
+5. Earth is the water planet
+6. Life evolves on a dynamic Earth and continuously modifies Earth
+7. Humans depend on Earth for resources
+8. 
 
 #earth121
