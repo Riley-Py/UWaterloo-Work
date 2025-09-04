@@ -72,5 +72,6 @@
 - Earth's crust is broken up in fragments
 - They move due to being carried on the *mantle* (magma on the crust of the Earth)
 	- *Converging currents* drive the plates into each other, while *divergent currents* drive the plates apart
+- When two plates converge, the thinner plate goes under the larger plate
 
 #earth121
