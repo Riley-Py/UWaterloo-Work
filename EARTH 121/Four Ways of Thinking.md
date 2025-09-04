@@ -11,4 +11,7 @@
 	- Diagram of that in use: 
 		- ![[geologic-time.jpg]]
 ## Field Thinking
-- The study of
+- The study of Earth's components by being out in the field and observing the processes naturally
+
+## What does a geoscientist do?
+- Submerse themselves in nature to search for hidden clues to understand how the Earth works
