@@ -55,7 +55,9 @@
 	- Many resources are distributed unevenly
 	- Earth Scientists work on looking at renewable resources to replace the non-renewable resources we are using
 8. Natural hazards pose risks to humans
-	- Earthquakes, tsusamis, hurricanes, floods, droughts, landslides, volanic eruptions, extreme weather, 
+	- Earthquakes, tsunamis, hurricanes, floods, droughts, landslides, volcanic eruptions, extreme weather, fires, sinkholes, coast erosion, impacts from asteroids are the various hazards
+	- Human activities can contribute to these hazards, like floods and forest fires
+	- Can be sudden or gradual
 9. Humans significantly alter the Earth
 
 #earth121
