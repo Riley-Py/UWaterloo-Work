@@ -62,6 +62,11 @@
 	- It increases with population and consumption of resources
 	- Fossil fuel consumption and industrial processes causes climate change
 		- Increasing forest fires, extreme weather and disruption of ecosystems
-	- 
+## Scientific Method
+- Involves asking many questions and researching the topic with resources before an initial hypothesis is constructed
+	- Multiple tests are needed to prove the hypothesis or require additional evidence to support the hypothesis
+- Schematic of the scientific method in action:
+	- ![[scientific-method.png]]
+- 
 
 #earth121
