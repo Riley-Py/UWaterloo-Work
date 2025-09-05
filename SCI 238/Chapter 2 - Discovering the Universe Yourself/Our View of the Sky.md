@@ -14,5 +14,7 @@
 	- *North celestial pole* - above Earth's North Pole
 	- *South celestial pole* - above Earth's South Pole
 	- *Celestial equator* - projection of Earth's equator to the sky
-	- *The Milky Way* - A band 
+	- *The Milky Way* - A band of light making a circle around the celestial sphere
+## The Local Sky
+- An object
 
