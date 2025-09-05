@@ -12,7 +12,10 @@
 
 ### The Sky Varies as Earth Orbits the Sun
 - As Earth orbits the Sun, the Sun appears to move eastward along the [[Our View of the Sky|ecliptic]] 
-- At midnight, the stars on our meridian are o
+- At midnight, the stars on our meridian are opposite the Sun in the sky
+
+#sci238 
+#discovering_universe 
 
 
 
