@@ -18,7 +18,7 @@
 	- *Sirius* - 8 years ("light years")
 	- *Andromeda Galaxy* - 2.5 million years ("light years")
 - The farther away we look in distance, the further back we look in time
-- We can't see more than 14.8 bill
+- We can't see more than 13.8 billion years
 
 
 
