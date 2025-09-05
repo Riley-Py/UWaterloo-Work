@@ -45,4 +45,4 @@
 - Stars near the north celestial pole are *circumpolar* (above the horizon at all times in a given latitude) and never set
 - We cannot see stars near the south celestial pole
 - All other stars (+Sun, Moon, planets) rise in the east and set in the west
-- Seeing the st
+- Seeing specific stars depends on where you are on Earth
