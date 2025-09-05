@@ -25,7 +25,7 @@
 	- About 10 trillion kilometers (6 trillion miles)
 - At great distances, we see objects as they were when the universe was younger
 	- We can't see anything beyond 14 billion years ago due to the light not reaching us at the time
-- A light year has this equation: $$ \begin{multline*} 1 \space {light \space year} = ({speed \space of \space light}) \times ({1 \space year})\\= \end {multline*}  $$ 
+- A light year has this equation: $$ 1 \space {light \space year} = ({speed \space of \space light}) \times ({1 \space year})$$ $$= {(300,000 \space {km \over s})} \times {(365 \spac}$$
 
 
 
