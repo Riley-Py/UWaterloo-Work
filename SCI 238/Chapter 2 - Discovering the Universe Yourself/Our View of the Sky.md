@@ -6,4 +6,6 @@
 	- The brightest stars in a constellation could be quite far away from each other
 - *Celestial Sphere* - an abstract sphere to describe the constellations and objects within the sky (no radius - larger radius than Earth, though)
 	- The constellations cover the entire sphere
-- 
+	- Diagram of sphere
+		- ![[Celestial_Sphere_-_Eq_w_Label_figures.png]]
+- *Ecli*
