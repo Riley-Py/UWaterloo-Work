@@ -11,5 +11,8 @@
 	- *Ecliptic* - Sun's apparent path through the celestial sphere
 		- Can move faster or slow, and is tilted about the celestial equator
 		- Can be above or below it
-	- 
+	- *North celestial pole* - above Earth's North Pole
+	- *South celestial pole* - above Earth's South Pole
+	- *Celestial equator* - projection of Earth's equator to the sky
+	- *The Milky Way* - A band 
 
