@@ -35,4 +35,8 @@
 	- ![[arcseconddiagram.jpg]]
 
 ## Angular Size
-- Here is the formula: $$ {angular \space size} = {{physical \space size} \times 360 \space {degrees} \over 2\pi \times \space {distance}}$$
+- Here is the formula: $$ {angular \space size} = {{{physical \space size}} \times {360 \space {degrees} \over 2\pi \times \space {distance}}}$$
+- An object's angular size appears smaller if it is farther away
+
+## Why do Stars Rise and Set?
+- Earth rotates from west to east, so stars appear to circle from east to west
