@@ -16,3 +16,6 @@
 
 ### How do our lifetimes compare to the age of the universe?
 - Human civilization is just a few seconds old, and a human lifetime is a fraction of a second
+
+## Motion in Space
+- Earth rotates around its axis on
