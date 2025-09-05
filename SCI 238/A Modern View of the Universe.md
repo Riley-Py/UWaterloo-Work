@@ -11,9 +11,14 @@
 *Universe* - Total of all matter and energy, everything within and between all galaxies
 
 ## Look-Back Time
-- The time it takes for light to get to us from different distances
+- The time it takes for light to get to us (Earth) from different distances
 - Light travels at 300 000 km/s
-	- 
+	- *Moon* - 1 second ("light second")
+	- *Sun* - 8 minutes ("light minutes")
+	- *Sirius* - 8 years ("light years")
+	- *Andromeda Galaxy* - 2.5 million years ("light years")
+- The farther away we look in distance, the further back we look in time
+- We can't see more than 14.8 bill
 
 
 
