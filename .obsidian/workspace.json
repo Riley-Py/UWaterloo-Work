@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EARTH 121/Four Ways of Thinking.md",
+                "file": "EARTH 121/Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Four Ways of Thinking"
+              "title": "Introduction"
             }
           }
         ]
@@ -177,8 +177,8 @@
   },
   "active": "70d68b30dc606889",
   "lastOpenFiles": [
-    "EARTH 121/Introduction.md",
     "EARTH 121/Four Ways of Thinking.md",
+    "EARTH 121/Introduction.md",
     "EARTH 121/Images/geologic-time.jpg",
     "scientific-method.png",
     "EARTH 121/Images",
