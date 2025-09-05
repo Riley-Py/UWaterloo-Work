@@ -1,3 +1,5 @@
+## The Scale of the Universe
+
 *Star* - Large, glowing ball of gas that generates heat and light through nuclear fusion
 *Planet* - Large object that orbits a star.  Doesn't emit own light, but reflects it.  Can be rocky, icy, or gaseous in composition
 *Moon (Satellite)* - Object that orbits a planet
@@ -5,7 +7,13 @@
 *Comet* - Small and icy object that orbits a star.  Doesn't come that often
 *Solar (Star) System* - A star and all material that orbits it, including planets/moons
 *Nebula* - Interstellar (located between stars) clouds of gas and/or dust
-*Galaxy* - Great island of stars in space, held together by gravity and orbiting a common c
+*Galaxy* - Great island of stars in space, held together by gravity and orbiting a common center
+*Universe* - Total of all matter and energy, everything within and between all galaxies
+
+## Look-Back Time
+- 
+
+
 
 
 #sci238
