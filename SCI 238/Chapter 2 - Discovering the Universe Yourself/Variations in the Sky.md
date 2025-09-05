@@ -5,4 +5,6 @@
 	- Due to Earth's orbit changing the apparent location of the Sun among the stars
 - *Latitude* - Position north or south of equator, which is $0 \degree$ 
 - *Longitude* - Position east or west of *prime meridian* (through Greenwich, England) which is $0 \degree$
-- The sky varies with latitude but not with longitude
+- The sky varies with latitude but not with longitude due to Earth always spinning
+- Altitude of Polaris = your latitud
+
