@@ -4,3 +4,5 @@
 - Depends on time of year
 	- Due to Earth's orbit changing the apparent location of the Sun among the stars
 - *Latitude* - Position north or south of equator
+- *Longitude* - Position east or west of *prime meridian* (through Greenwich, England)
+- 
