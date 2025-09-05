@@ -6,7 +6,7 @@
 ## How Big is the Milky Way Galaxy?
 - Has about 100 billion stars
 - Order of magnitude can be the best that we can do - we can't count all of the stars in the Milky Way Galaxy
-- It is about 20 million km
+- It is about 20 million km on a scale of 1-to-10 billion scale
 
 
 #sci238 
