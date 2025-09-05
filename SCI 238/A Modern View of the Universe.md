@@ -20,6 +20,12 @@
 - The farther away we look in distance, the further back we look in time
 - We can't see more than 13.8 billion years
 
+## Light-Years
+- Distance light can travel in 1 year
+	- About 10 trillion kilometers (6 trillion miles)
+- At great distances, we see objects as they were when the universe was younger
+	- At 
+
 
 
 
