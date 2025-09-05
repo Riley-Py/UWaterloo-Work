@@ -24,4 +24,7 @@
 	- *Meridian* - goes from the horizon (north), to the zenith, back to the horizon on the opposite direction (south)
 ## Measuring the Sky
 - We use degrees and angles to measure the sky
+	- $1 \over 2$ a degree for angular size for the moon from our perspective
+- Can use our hand by outstretching it
+	- Stretched out hand would be $
 
