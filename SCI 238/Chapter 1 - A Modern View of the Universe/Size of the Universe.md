@@ -5,6 +5,8 @@
 	- Pluto is a few hundred meters away
 ## How Big is the Milky Way Galaxy?
 - Has about 100 billion stars
+- Order of magnitude can be the best that we can do - we can't count all of the stars in the Milky Way Galaxy
+- 
 
 
 #sci238 
