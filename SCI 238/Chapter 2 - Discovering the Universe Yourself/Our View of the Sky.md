@@ -40,3 +40,6 @@
 
 ## Why do Stars Rise and Set?
 - Earth rotates from west to east, so stars appear to circle from east to west
+	- We are moving to the stars, but it looks like they are moving
+## Our View from Earth
+- Stars near the north celestial pole are **
