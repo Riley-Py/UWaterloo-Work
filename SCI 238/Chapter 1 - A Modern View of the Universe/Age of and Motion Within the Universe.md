@@ -26,6 +26,7 @@
 	- 1 AU (astronomical unit) = 150 million kilometers (the distance from the Earth to the Sun)
 	- Tilted by $23.5 \degree$ (pointing to Polaris)
 	- Rotates the same as it orbits (*counter-clockwise*)
+	- 230 million years it takes to go around the milky way galaxy
 - Sun moves randomly relative to other stars
 	- Relative speeds of more than 70 000 km/hr
 	- Can't notice their motion
