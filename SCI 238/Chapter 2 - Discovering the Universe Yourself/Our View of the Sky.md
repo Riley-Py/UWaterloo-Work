@@ -3,3 +3,5 @@
 - We can see more than 2000 stars as well as the Milky Way 
 - *Constellation* - a region of the sky
 	- 88 constellations fill the entire sky
+	- The brightest stars in a constellation could be quite far away from each other
+- *Celestial Sphere* -
