@@ -49,4 +49,6 @@
 	- Newton's laws laid the foundation of the industrial revolution
 - Modern discoveries are continuing to expand our "cosmic perspective"
 
+
 #sci238 
+#modern_view

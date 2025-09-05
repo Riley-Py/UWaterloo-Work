@@ -29,7 +29,5 @@
 - This would be 9.46 trillion km
 - There is no limit to how far light can travel
 
-
-
-
 #sci238
+#modern_view 
