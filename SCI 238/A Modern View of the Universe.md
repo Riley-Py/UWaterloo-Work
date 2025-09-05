@@ -26,6 +26,8 @@
 - At great distances, we see objects as they were when the universe was younger
 	- We can't see anything beyond 14 billion years ago due to the light not reaching us at the time
 - A light year has this equation: $$ 1 \space {light \space year} = ({speed \space of \space light}) \times ({1 \space year})$$ $$= {(300,000 \space {km \over s})} \times ({{365 \space {days}\over 1 \space yr}\times {24 \space{hr} \over 1 \space{day}}\times {60 \space {min}\over1 \space{hr}} \times {60 \space s \over 1 \space {min}}})$$
+- This would be 9.46 trillion km
+- There is no limit to how far light can travel
 
 
 
