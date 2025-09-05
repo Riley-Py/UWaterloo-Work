@@ -19,9 +19,9 @@
 - An object's *altitude* (above horizon) and *direction* (along horizon) specify its location in your local sky
 	- Diagram of local sky: 
 		- ![[Figure-2-3-local-sky.jpg]]
-	- *Zenith* - has an altitude of $90\degree$ 
-	- *Horizon* - has an altitude of $0\degree$ 
-	- *Meridian* - goes from the horizon, to the zenith, back to the horizon on the opposite direction
+	- *Zenith* - has an altitude of $90\degree$ (points over head)
+	- *Horizon* - has an altitude of $0\degree$ ($90\degree$ away from the zenith)
+	- *Meridian* - goes from the horizon (north), to the zenith, back to the horizon on the opposite direction (south)
 ## Measuring the Sky
-- 
+- We use degrees and angles to measure the sky
 
