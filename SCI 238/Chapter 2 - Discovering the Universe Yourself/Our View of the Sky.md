@@ -42,4 +42,7 @@
 - Earth rotates from west to east, so stars appear to circle from east to west
 	- We are moving to the stars, but it looks like they are moving
 ## Our View from Earth
-- Stars near the north celestial pole are **
+- Stars near the north celestial pole are *circumpolar* (above the horizon at all times in a given latitude) and never set
+- We cannot see stars near the south celestial pole
+- All other stars (+Sun, Moon, planets) rise in the east and set in the west
+- Seeing the st
