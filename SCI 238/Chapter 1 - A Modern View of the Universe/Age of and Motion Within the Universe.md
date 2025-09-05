@@ -41,4 +41,4 @@
 		- The more distant the galaxy, the faster it is racing away
 		- The universe is constantly expanding
 ### Are we Ever Sitting Still?
-- 
+- The answer: No, we are never sitting still
