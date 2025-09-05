@@ -8,5 +8,11 @@
 - Order of magnitude can be the best that we can do - we can't count all of the stars in the Milky Way Galaxy
 - It is about 20 million km on a scale of 1-to-10 billion scale
 
+## How Big is the Universe?
+- Milky Way is one of a 100 billion galaxies
+- There are $10^{22}$ stars
+	- There are about as many stars as grains of sand on *all* Earth's beaches
+- 
+
 
 #sci238 
