@@ -36,4 +36,9 @@
 
 ### How do galaxies move within the universe?
 - Galaxies are carried along with the expansion of the universe
-	- The Hubble telescope 
+	- Hubble, a famous astronomer, discovered that:
+		- All galaxies outside our Local Group are moving away from us
+		- The more distant the galaxy, the faster it is racing away
+		- The universe is constantly expanding
+### Are we Ever Sitting Still?
+- 
