@@ -24,7 +24,8 @@
 - Distance light can travel in 1 year
 	- About 10 trillion kilometers (6 trillion miles)
 - At great distances, we see objects as they were when the universe was younger
-	- At 
+	- We can't see anything beyond 14 billion years ago due to the light not reaching us at the time
+- A light year has this equation: $$ 1 \space {light-year}$$
 
 
 
