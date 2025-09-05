@@ -43,4 +43,10 @@
 ### Are we Ever Sitting Still?
 - The answer: No, we are never sitting still
 
-## How has the Study of A
+## How has the Study of Astronomy Affected Human History?
+- The Copemican revolution showed that Earth was not the center of the universe
+- Study of planetary motion led to Newton's laws of gravity and gravity
+	- Newton's laws laid the foundation of the industrial revolution
+- Modern discoveries are continuing to expand our "cosmic perspective"
+
+#sci238 
