@@ -31,3 +31,5 @@
 	- Relative speeds of more than 70 000 km/hr
 	- Can't notice their motion
 	- Orbits the galaxy every 230 million years in a *clockwise* manner
+### How is Our Sun Moving in the Milky Way Galaxy?
+- Most of the galaxy's light comes from stars and gas in the galantic disk and bulge, but most of the mass remains unseen 
