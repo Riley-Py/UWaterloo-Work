@@ -11,7 +11,9 @@
 *Universe* - Total of all matter and energy, everything within and between all galaxies
 
 ## Look-Back Time
-- 
+- The time it takes for light to get to us from different distances
+- Light travels at 300 000 km/s
+	- 
 
 
 
