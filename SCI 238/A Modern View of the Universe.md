@@ -3,6 +3,9 @@
 *Moon (Satellite)* - Object that orbits a planet
 *Asteroid* - Small and rocky object that orbits a star
 *Comet* - Small and icy object that orbits a star.  Doesn't come that often
-*Solar*
+*Solar (Star) System* - A star and all material that orbits it, including planets/moons
+*Nebula* - Interstellar (located between stars) clouds of gas and/or dust
+*Galaxy* - Great island of stars in space, held together by gravity and orbiting a common c
+
 
 #sci238
