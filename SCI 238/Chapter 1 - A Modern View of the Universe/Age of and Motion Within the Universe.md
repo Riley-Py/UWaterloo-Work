@@ -7,4 +7,7 @@
 	- September 3rd: The Earth forms (shortly after the sun forms)
 	- September 22nd: Life forms
 	- December: Life migrates from sea to land
-	- December 
+	- December 26th: Dinosaurs dominate Earth
+	- December 30th: Dinosaurs went extinct
+	- December 31st: Modern humans evolving, agriculture, history happening
+- 
