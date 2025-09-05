@@ -16,5 +16,8 @@
 	- *Celestial equator* - projection of Earth's equator to the sky
 	- *The Milky Way* - A band of light making a circle around the celestial sphere
 ## The Local Sky
-- An object
+- An object's *altitude* (above horizon) and *direction* (along horizon) specify its location in your local sky
+	- Diagram of local sky: 
+		- ![[Figure-2-3-local-sky.jpg]]
+	- *Zenith* -
 
