@@ -8,4 +8,8 @@
 	- The constellations cover the entire sphere
 	- Diagram of sphere
 		- ![[Celestial_Sphere_-_Eq_w_Label_figures.png]]
-- *Ecli*
+	- *Ecliptic* - Sun's apparent path through the celestial sphere
+		- Can move faster or slow, and is tilted about the celestial equator
+		- Can be above or below it
+	- 
+
