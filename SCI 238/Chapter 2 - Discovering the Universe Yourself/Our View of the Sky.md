@@ -34,4 +34,5 @@
 - Diagram of this: 
 	- ![[arcseconddiagram.jpg]]
 
-
+## Angular Size
+- Here is the formula: $$ {angular \space size} = {{physical \space size} \times 360 \space {degrees} \over 2\pi \times \space {distance}}$$
