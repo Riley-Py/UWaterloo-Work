@@ -10,4 +10,9 @@
 	- December 26th: Dinosaurs dominate Earth
 	- December 30th: Dinosaurs went extinct
 	- December 31st: Modern humans evolving, agriculture, history happening
-- 
+### How Did We Come to Be?
+- Came from the Big Bang, which produced hydrogen and helium
+- All other elements came from hydrogen and helium in stars and then recycled into new star systems, like the solar system
+
+### How do our lifetimes compare to the age of the universe?
+- Human civilization is just a few seconds old, and a human lifetime is a fraction of a second
