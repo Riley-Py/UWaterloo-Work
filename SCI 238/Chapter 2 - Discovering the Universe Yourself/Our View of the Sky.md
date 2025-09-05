@@ -29,6 +29,9 @@
 	- Stretched out hand would be $20 \degree$, and between our fingers would be $1 \degree$ across, while making a fist would make it $10 \degree$ across
 ## Angular Measurements
 - Full circle = $360 \degree$ 
-- $1 \degree$ = 60' archminute
-- 1' = 
+- $1 \degree$ = 60' arcminute
+- 1' = 60'' arcsecond
+- Diagram of this: 
+	- ![[arcseconddiagram.jpg]]
+
 
