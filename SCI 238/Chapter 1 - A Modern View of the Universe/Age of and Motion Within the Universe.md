@@ -18,4 +18,7 @@
 - Human civilization is just a few seconds old, and a human lifetime is a fraction of a second
 
 ## Motion in Space
-- Earth rotates around its axis on
+- Earth rotates around its axis once everyday, from west to east
+	- At equator, you are moving at 1670 km/s
+	- At the North and South poles, you are moving at 0 km/s
+	- 
