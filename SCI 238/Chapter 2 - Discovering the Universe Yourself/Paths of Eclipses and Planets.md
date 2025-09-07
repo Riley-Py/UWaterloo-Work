@@ -10,4 +10,6 @@
 	- Repeats every 29.5  days
 - *Waxing* - moon visible in afternoon/evening, gets fuller and rises later each day
 - *Waning* - moon visible in late night/morning, gets less full and sets later each day
-- 
+
+### We see only One Side of Moon
+- *Synchronous rotation*
