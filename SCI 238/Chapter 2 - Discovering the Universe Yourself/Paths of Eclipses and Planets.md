@@ -64,4 +64,7 @@
 - Planets move slightly *eastward* from night to night relative to the stars
 	- Sometimes they go *westward*, however, relative to stars for a few weeks (called *apparent retrograde motion*)
 ### Explaining Apparent Retrograde Motion
-- Occurs when we "lap"
+- Occurs when we "lap" another planet (or when Mecury or Venus laps us)
+	- We go at different speeds compared to these planets, and causes the planets to go forward and backwards
+### Why did the Ancient Greeks Reject the Real Explanation for Planetary Motion?
+- They couldn't observe *stellar parallax* ()
