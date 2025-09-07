@@ -9,6 +9,7 @@
 *Nebula* - Interstellar (located between stars) clouds of gas and/or dust
 *Galaxy* - Great island of stars in space, held together by gravity and orbiting a common center
 *Universe* - Total of all matter and energy, everything within and between all galaxies
+*Supercluster* - cluster of galaxy clusters
 
 ## Look-Back Time
 - The time it takes for light to get to us (Earth) from different distances
