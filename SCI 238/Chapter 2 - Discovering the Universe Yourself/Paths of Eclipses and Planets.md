@@ -40,4 +40,6 @@
 - Diagram of this: 
 	- ![[total-solar-eclipse-com.png]]
 	- This is a total solar eclipse, where the moon is completely covering the sun
+## Why don't we have an Eclipse at every New and Full Moon?
+- Moon's orbit is tilted $5 \degree$ to ecliptic plane
 - 
