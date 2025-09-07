@@ -27,3 +27,6 @@
 - Winter (December) solstice: lowest path; rise and set at most extreme south of due east (most sunlight at the south hemisphere, least at the north hemisphere)
 - Equinoxes: Sun rises precisely due east and sets precisely due west
 
+### Seasonal changes are more extreme at high latitudes
+- Due to the fact that at the poles, sometimes the sun
+
