@@ -15,10 +15,10 @@
 
 ## How do we Mark the Progression of the Seasons?
 - There are four special points (all on the 21st of each month):
-	- Summer (June) solstice - maximum sunlight
-	- Winter (December) solstice - minimum sunlight
-	- Spring (March) equinox - halfway point between winter and summer solstice
-	- Fall (September) equinox - halfway point between summer and winter solstice
+	- Summer (June) solstice - maximum sunlight (north); minimum sunlight (south)
+	- Winter (December) solstice - minimum sunlight (north); maximum sunlight (south)
+	- Spring (March) equinox - halfway point between winter and summer solstice; each hemisphere gets equal sunlight
+	- Fall (September) equinox - halfway point between summer and winter solstice; each hemisphere gets equal sunlight
 - *Equinox* - halfway points
 - *Solstice* - maximum/minimum sunlight depending on the hemisphere
 
@@ -28,5 +28,5 @@
 - Equinoxes: Sun rises precisely due east and sets precisely due west
 
 ### Seasonal changes are more extreme at high latitudes
-- Due to the fact that at the poles, sometimes the sun
+- Due to the fact that at the poles, there are 6 months that the sun would be above the horizon and 6 months when the sun would be below the horizon
 
