@@ -42,4 +42,5 @@
 	- This is a total solar eclipse, where the moon is completely covering the sun
 ## Why don't we have an Eclipse at every New and Full Moon?
 - Moon's orbit is tilted $5 \degree$ to ecliptic plane
-- 
+- We have two eclipse seasons each year, with a lunar eclipse at new moon and solar eclipse at full moon
+- Moon must be at or near one of the two points in its orbit where it crosses the ecliptic plane (its nodes)
