@@ -20,4 +20,8 @@
 - The Earth and Moon casts shadows
 	- When one passes the other's shadow, we have an *eclipse*
 - *Umbra* - this shadow gets smaller as it goes away from the sun.  It's the dark center of the eclipse of the shadow
-- 
+- *Penumbra* - You see part of the sun, not all of the sun
+- Diagram of *Umbra* and *Penumbra*
+	- ![[umbra-penumbra.webp]]
+- *Total Lunar Eclipse* - Moon is completely in the Umbra (totally dark)
+- Partial Lunar Eclip
