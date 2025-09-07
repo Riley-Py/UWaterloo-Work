@@ -26,3 +26,8 @@
 - *Total Lunar Eclipse* - Moon is completely in the Umbra (totally dark, but gets red)
 - *Partial Lunar Eclipse* - Part of the Moon is blocked by Earth, but part of it is seen by the sun
 - *Penumbral Lunar Eclipse* - The Moon is completely in the Penumbra
+- Diagram of Lunar Eclipse:
+	- ![[total-lunar-eclipse-blood-moon.png]]
+	- This is a total lunar eclipse, as the Earth is completely covering the moon
+- Can only occur at *Full moons*
+- 
