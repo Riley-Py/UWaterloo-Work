@@ -38,4 +38,6 @@
 	- *Partial*: Sun is partially blocked by moon
 	- *Annular*: The tip of the shadow of the Moon is not blocking the umbra
 - Diagram of this: 
-	- 
+	- ![[total-solar-eclipse-com.png]]
+	- This is a total solar eclipse, where the moon is completely covering the sun
+- 
