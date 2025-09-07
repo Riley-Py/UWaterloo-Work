@@ -7,5 +7,7 @@
 - Illustration of the moon cycle: 
 	- ![[moon-phases-explained.png]]
 	- Start from the arrow, and go in that direction
-	- Repeats every 29 days
-- *Waxing* - m
+	- Repeats every 29.5  days
+- *Waxing* - moon visible in afternoon/evening, gets fuller and rises later each day
+- *Waning* - moon visible in late night/morning, gets less full and sets later each day
+- 
