@@ -44,3 +44,8 @@
 - Moon's orbit is tilted $5 \degree$ to ecliptic plane
 - We have two eclipse seasons each year, with a lunar eclipse at new moon and solar eclipse at full moon
 - Moon must be at or near one of the two points in its orbit where it crosses the ecliptic plane (its nodes)
+
+## Predicting Eclipses
+- Recurs every 18 years, 11 1/3 days
+	- Called the *Saros cycle*
+	- Location does vary, however
