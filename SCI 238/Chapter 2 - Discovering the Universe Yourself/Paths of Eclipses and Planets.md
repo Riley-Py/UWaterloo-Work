@@ -4,3 +4,8 @@
 - Half of Moon is illuminated by Sun and half is dark
 	- We always see the same the face of the moon
 - We see a changing combination of the bright and dark faces as Moon orbits
+- Illustration of the moon cycle: 
+	- ![[moon-phases-explained.png]]
+	- Start from the arrow, and go in that direction
+	- Repeats every 29 days
+- *Waxing* - m
