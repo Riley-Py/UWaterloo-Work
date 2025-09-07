@@ -17,5 +17,11 @@
 - There are four special points (all on the 21st of each month):
 	- Summer (June) solstice - maximum sunlight
 	- Winter (December) solstice - minimum sunlight
-	- Spring (March) - 
+	- Spring (March) equinox - halfway point between winter and summer solstice
+	- Fall (September) equinox - halfway point between summer and winter solstice
+- *Equinox* - halfway points
+- *Solstice* - maximum/minimum sunlight depending on the hemisphere
+
+### We can recognize solstices and equinoxes by Sun's path across the sky
+- Summer (june)
 
