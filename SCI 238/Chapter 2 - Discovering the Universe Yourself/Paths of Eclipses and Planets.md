@@ -49,3 +49,9 @@
 - Recurs every 18 years, 11 1/3 days
 	- Called the *Saros cycle*
 	- Location does vary, however
+- Illustration of the Saros Cycle
+	- ![[Saros145-big.jpg]]
+## The Ancient Mystery of the Planets
+
+### Planets Known in Ancient Times
+- *Me
