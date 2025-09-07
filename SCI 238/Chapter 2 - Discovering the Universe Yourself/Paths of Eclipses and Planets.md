@@ -67,4 +67,5 @@
 - Occurs when we "lap" another planet (or when Mecury or Venus laps us)
 	- We go at different speeds compared to these planets, and causes the planets to go forward and backwards
 ### Why did the Ancient Greeks Reject the Real Explanation for Planetary Motion?
-- They couldn't observe *stellar parallax* ()
+- They couldn't observe *stellar parallax* (shift in a nearby star's position against distant background stars, caused by the Earth's orbit around the Sun)
+- Greeks thought that the stars couldn't be that far away, and thought that Earth was the center of the universe, not orbiting around the Sun like it actually was
