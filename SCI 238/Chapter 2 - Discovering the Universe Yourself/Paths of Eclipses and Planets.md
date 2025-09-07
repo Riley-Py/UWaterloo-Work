@@ -54,4 +54,11 @@
 ## The Ancient Mystery of the Planets
 
 ### Planets Known in Ancient Times
-- *Me
+- *Mercury* - difficult to see, always close to Sun
+- *Venus* - very bright when visible, morning or evening "star"
+- *Mars* - red
+- *Jupiter* - very bright
+- *Saturn* - moderately bright
+
+### What was once so Mysterious about Planetary Motion in our Sky?
+- Pla
