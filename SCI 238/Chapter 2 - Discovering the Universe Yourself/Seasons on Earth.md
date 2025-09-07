@@ -23,7 +23,7 @@
 - *Solstice* - maximum/minimum sunlight depending on the hemisphere
 
 ### We can recognize solstices and equinoxes by Sun's path across the sky
-- Summer (June) solstice: highest path; rise and set at most extreme north of due east
-- Winter (December) solstice: lowest path; rise and set at most extreme south of due east
+- Summer (June) solstice: highest path; rise and set at most extreme north of due east (most sunlight at the north hemisphere, least at the south hemisphere)
+- Winter (December) solstice: lowest path; rise and set at most extreme south of due east (most sunlight at the south hemisphere, least at the north hemisphere)
 - Equinoxes: Sun rises precisely due east and sets precisely due west
 
