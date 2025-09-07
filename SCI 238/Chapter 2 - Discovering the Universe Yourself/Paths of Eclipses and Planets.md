@@ -33,4 +33,5 @@
 
 ## Solar Eclipses
 - Can only occur at *New Moons*
-- 
+- Can be *partial*, *total*, or *annular*
+	- *Partial*: 
