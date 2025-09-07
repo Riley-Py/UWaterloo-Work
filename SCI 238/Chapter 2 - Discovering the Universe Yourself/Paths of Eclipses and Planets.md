@@ -34,4 +34,8 @@
 ## Solar Eclipses
 - Can only occur at *New Moons*
 - Can be *partial*, *total*, or *annular*
-	- *Partial*: 
+	- *Total*: Sun is completely blocked by moon
+	- *Partial*: Sun is partially blocked by moon
+	- *Annular*: The tip of the shadow of the Moon is not blocking the umbra
+- Diagram of this: 
+	- 
