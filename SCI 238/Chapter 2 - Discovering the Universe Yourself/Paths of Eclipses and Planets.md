@@ -61,4 +61,7 @@
 - *Saturn* - moderately bright
 
 ### What was once so Mysterious about Planetary Motion in our Sky?
-- Pla
+- Planets move slightly *eastward* from night to night relative to the stars
+	- Sometimes they go *westward*, however, relative to stars for a few weeks (called *apparent retrograde motion*)
+### Explaining Apparent Retrograde Motion
+- Occurs when we "lap"
