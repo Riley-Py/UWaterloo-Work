@@ -29,5 +29,8 @@
 - Diagram of Lunar Eclipse:
 	- ![[total-lunar-eclipse-blood-moon.png]]
 	- This is a total lunar eclipse, as the Earth is completely covering the moon
-- Can only occur at *Full moons*
+- Can only occur at *Full Moons*, as moon should be close and be the opposite direction of the sun
+
+## Solar Eclipses
+- Can only occur at *New Moons*
 - 
