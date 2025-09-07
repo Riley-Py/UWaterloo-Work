@@ -11,5 +11,11 @@
 ## Why doesn't distance matter?
 - Variation of Earth-Sun distance is small (~3%)
 	- This variation is overwhelmed by the effects of axis tilt
-- Variation in any season of each hemisphere - Sun d
+- Variation in any season of each hemisphere - Sun distance is even smaller
+
+## How do we Mark the Progression of the Seasons?
+- There are four special points (all on the 21st of each month):
+	- Summer (June) solstice - maximum sunlight
+	- Winter (December) solstice - minimum sunlight
+	- Spring (March) - 
 
