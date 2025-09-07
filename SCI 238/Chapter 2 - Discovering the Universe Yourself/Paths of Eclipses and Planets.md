@@ -12,4 +12,10 @@
 - *Waning* - moon visible in late night/morning, gets less full and sets later each day
 
 ### We see only One Side of Moon
-- *Synchronous rotation*
+- *Synchronous rotation*:  The Moon rotates exactly once with each orbit
+	- Why one side is visible from Earth
+
+## Lunar Eclipses
+### What Causes Eclipses?
+- The Earth and Moon casts shadows
+	- When one passes the other's shadow, we
