@@ -23,5 +23,6 @@
 - *Penumbra* - You see part of the sun, not all of the sun
 - Diagram of *Umbra* and *Penumbra*
 	- ![[umbra-penumbra.webp]]
-- *Total Lunar Eclipse* - Moon is completely in the Umbra (totally dark)
-- Partial Lunar Eclip
+- *Total Lunar Eclipse* - Moon is completely in the Umbra (totally dark, but gets red)
+- *Partial Lunar Eclipse* - Part of the moon is blocked by Earth, but part of it is seen by the sun
+- *Penumbral Lunar Eclipse* - The Moon 
