@@ -18,4 +18,6 @@
 ## Lunar Eclipses
 ### What Causes Eclipses?
 - The Earth and Moon casts shadows
-	- When one passes the other's shadow, we
+	- When one passes the other's shadow, we have an *eclipse*
+- *Umbra* - this shadow gets smaller as it goes away from the sun.  It's the dark center of the eclipse of the shadow
+- 
