@@ -60,7 +60,7 @@
 		- Example: At 4% interest, money doubles in 18 years
 	- Reasonable for interest rates between 4% and 20%
 ### Equivalence: Present and Future Worth
-- 
+- Used to compare cash flows occurring at different points in time
 
 #### Future Value Factor
 - Formula: $$ F = P(1+i)^n = P(F/P, i, n)$$
@@ -69,6 +69,9 @@
 - Formula:
 	- $$ P = F (1 + i)^{-n} = P(P/F, i, n) $$
 - This is the single-payment present-worth factor (*discounting factor*)
+
+### Negative Equity Problem
+- When the car loan balance is higher than the vehicle's 
 
 
 
