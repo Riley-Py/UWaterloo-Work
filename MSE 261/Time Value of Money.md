@@ -71,7 +71,14 @@
 - This is the single-payment present-worth factor (*discounting factor*)
 
 ### Negative Equity Problem
-- When the car loan balance is higher than the vehicle's 
+- When the car loan balance is higher than the vehicle's current market value
+	- Due to steep depreciation, little - no down payment, and very long loan terms (72-96 months)
+### Nominal VS. Effective Interest Rates
+
+#### Nominal Interest Rate (r)
+- Stated annual rate without compounding
+- Called Annual Percentage Rate (APR)
+	- Example: ""
 
 
 
