@@ -85,7 +85,8 @@
 - Greater than nominal rate when compounding more than once per year
 
 #### Relationship between nominal and effective rates:
-- Formula: $$i_e = P(1 + {r\over m})^m - P$$
+- Formula: $$i_e = {{P(1 + {r\over m})^m - P}\over P} = (1 + {r\over m})^m - 1$$
+- 
 
 
 
