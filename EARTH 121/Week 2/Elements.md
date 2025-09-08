@@ -15,4 +15,15 @@
 	- Diagram of this: 
 		- ![[physical-geology.jpg]]
 	- Note that oxygen and silicon are the only non-metals
-- Earth's elemental composition of the 
+- Earth's elemental composition of the crust of elements (from most to least), by weight, are:
+	1. Oxygen
+	2. Silicon
+	3. Aluminum
+	4. Iron
+	5. Calcium
+	6. Sodium
+	7. Potassium
+	8. Magnesium
+	- Diagram of this
+		- ![[physical-geology-2.jpg]]
+	- Note that 
