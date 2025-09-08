@@ -2,4 +2,4 @@
 - Most abundant mineral family are the silicates
 	- Consists of the most abundant elements in [[Elements|Earth's crust]] 
 	- Silicon and oxygen bond to form [[Introduction To Rocks|silicate tetrahedron]] 
-		- Bonds with other elements, like aluminium and i
+		- Bonds with other elements, like aluminum and iron
