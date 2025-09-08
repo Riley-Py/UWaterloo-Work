@@ -23,4 +23,14 @@
 - Summary of all of the groups:
 	- ![[silicate-mineral-family.jpg]]
 ## What About Less Abundant Mineral Families Found In Earth's Crust?
-- There are 8 mineral classes that are grou
+- There are 8 mineral classes that are grouped together as *non-silicate*
+- Here are 6 of them:
+	- *Oxides* - O2 + metal
+		- Example: Hematite
+	- *Native Elements*
+		- Example: Gold
+	- *Carbonates* - (CO3)3 + elements
+		- Example: Calcite
+	- *Halides* - (F-, Cl-, Br-, I-) + metal
+		- Example: Halite (salt)
+	- *Sulfates*
