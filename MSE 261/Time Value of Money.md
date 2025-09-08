@@ -23,7 +23,11 @@
 	- More costs than benefits
 	- Rolled back the policy after agreeing to a $1.4 billion loan
 
+## Time and Interest
 
+### Why We Value Money Today More Than Tomorrow?
+- *Psychology* - Humans are impatient and want immediate gratification over delayed rewards
+- *Liquidity Preference* - 
 
 
 
