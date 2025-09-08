@@ -14,7 +14,12 @@
 - *Silica* - Compound $SiO_2$ which in its crystalline form is quartz
 
 ## What Does a Geoscientist See?
-- They think about the following about a rock
+- They think about the following about a rock:
 	- Minerals that make it up
 	- Compounds that make up the minerals
 	- Atoms that make up the compounds
+- This helps geoscientists to do the following:
+	- Explain the makeup of rocks
+	- Classify rocks
+	- Figure out past conditions that contribute to rock formation/history
+- When geoscientists see the 
