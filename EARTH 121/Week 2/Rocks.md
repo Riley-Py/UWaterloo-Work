@@ -16,3 +16,5 @@
 			- If sample between grains is red - iron oxide
 			- Otherwise, it's silica
 - Sand grains can be composed of mineral crystals, fragments, rocks, rock fragments, or any combination of this
+	- Sand refers size of grains and fragments, not composition
+- *Conglomerate* - rock type that shows variations in grains
