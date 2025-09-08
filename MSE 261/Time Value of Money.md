@@ -84,7 +84,8 @@
 - Represents true annual growth of funds
 - Greater than nominal rate when compounding more than once per year
 
-###
+#### Relationship between nominal and effective rates:
+- Formula: $$i_e = P(1 + {r\over m})^m - P$$
 
 
 
