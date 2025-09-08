@@ -1,5 +1,4 @@
 - Sticker price doesn't tell you how much you are actually going to pay for something
-
 ## What Makes Money "Money"?
 - Money serves as a unit of account (price comparison) and standard of deferred payment (lending)
 ### Medium of Exchange
@@ -20,9 +19,11 @@
 - Not widely accepted as a medium of exchange
 - Questionable as store of value due to high volatility
 - El Salvador was the first country to adopt Bitcoin as legal tender in 2021
-	- Adoption was low among citizens (1.3% of $7 billion in annual remittances (money sent and recieved))
+	- Adoption was low among citizens (1.3% of $7 billion in annual remittances (money sent and received))
 	- More costs than benefits
-	- Rolled back the policy after agreeing to a
+	- Rolled back the policy after agreeing to a $1.4 billion loan
+
+
 
 
 
