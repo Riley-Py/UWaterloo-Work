@@ -57,7 +57,13 @@
 #### Rule of 72
 - For how many years it will take for an investment to double:
 	- Years to double = 72 / Interest Rate (%)
-	- Example
+		- Example: At 4% interest, money doubles in 18 years
+	- Reasonable for interest rates between 4% and 20%
+### Equivalence: Present and Future Worth
+
+#### Future Value Factor
+- Formula: $$ F = P(1+i)^n = P(F/P, i, n)$$
+- This is the Single Payment Compound A
 
 
 
