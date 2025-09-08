@@ -27,7 +27,13 @@
 
 ### Why We Value Money Today More Than Tomorrow?
 - *Psychology* - Humans are impatient and want immediate gratification over delayed rewards
-- *Liquidity Preference* - 
+- *Liquidity Preference* - Humans value liquidity for transactions, precautionary purposes, and speculation (investment)
+- *Uncertainty* - Future is uncertain
+- *Inflation* - Money loses purchasing power over time due to rising prices
+- *Opportunity cost* - Having money now offers more options/investment opportunities
+
+### Time Value of Money
+- Valuing money more than later, there should 
 
 
 
