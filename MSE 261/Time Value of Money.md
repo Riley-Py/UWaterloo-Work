@@ -92,7 +92,7 @@
 - Each subperiod rate gets smaller $r\over m$, but each time it's applied, the new interest is included as the bas for the next calculation
 
 ### Time Value of Money Across Generations
-- Money does not equ
+- Money does not equal the same over the years
 
 
 
