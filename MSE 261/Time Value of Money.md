@@ -78,7 +78,13 @@
 #### Nominal Interest Rate (r)
 - Stated annual rate without compounding
 - Called Annual Percentage Rate (APR)
-	- Example: ""
+	- Example: 6% annual interest rate, compounded monthly
+#### Effective Interest Rate ($i_e$)
+- Actual annual rate after compounding
+- Represents true annual growth of funds
+- Greater than nominal rate when compounding more than once per year
+
+###
 
 
 
