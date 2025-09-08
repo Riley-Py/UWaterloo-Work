@@ -16,3 +16,5 @@
 	- Conducting chemical tests/analysis
 	- Using microscopes to determine the optical properties of minerals
 	- Applying X-ray diffraction techniques to determine the types/dimensions of atomic structure of minerals
+
+#earth121 
