@@ -39,6 +39,14 @@
 - From liquidity preference perspective, a positive interest is a reward for parting with liquidity
 
 ### Simple VS. Compound Interest
+- F = Future Value, P = Present Value (Principal)
+#### Simple Interest
+- Calculated only on initial principal (investment)
+- Formula: $$ F = P(1 + n \times i)$$
+- *Linear growth* over time
+- Not used in modern day widely anymore
 
-
+#### Compound Interest
+- Interest calculated on principal + accumulated interest
+- Formula
 
