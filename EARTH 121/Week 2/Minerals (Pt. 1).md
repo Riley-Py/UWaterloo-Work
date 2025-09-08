@@ -14,5 +14,7 @@
 			- Example: Muscovite, which is white/beige/yellow and has a specific gravity of 2.8
 			- Photo of muscovite:
 				- ![[muscovite.jpg]]
-			- 
 	- *Specific gravity* - density of a substance compared to the density of water
+- Biotite and muscovite belong to the same mineral family called the *Mica group*
+	- Can easily be split apart
+	- Used in products like drywall and paints
