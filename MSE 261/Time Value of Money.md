@@ -86,7 +86,10 @@
 
 #### Relationship between nominal and effective rates:
 - Formula: $$i_e = {{P(1 + {r\over m})^m - P}\over P} = (1 + {r\over m})^m - 1$$
-- 
+- r = nominal rate, m = number of compounding periods per year
+
+### Compound with Different Sub Periods
+- Each subperiod rate gets smaller $r\over m$, but each time it's applied, the new interest is included as the bas for the next calculation
 
 
 
