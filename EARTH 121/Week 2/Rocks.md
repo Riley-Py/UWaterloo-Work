@@ -10,3 +10,8 @@
 		- Diagram of this: 
 			- ![[classic-texture.jpg]]
 	- Held together by *Cement* (precipitates from water between sand grains and fills the void spaces between grains)
+		- Calcite, silica, and iron oxide are the most common cements
+		- Can distinguish between them by using hydrochloric acid
+			- If sample effervesces (gives bubbles) - calcite
+			- If sample between grains is red - iron oxide
+			- Otherwise, it's silica
