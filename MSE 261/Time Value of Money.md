@@ -33,7 +33,10 @@
 - *Opportunity cost* - Having money now offers more options/investment opportunities
 
 ### Time Value of Money
-- Valuing money more than later, there should 
+- Valuing money more than later, there should be some incentive to part with the money
+	- Basis of *positive interest*
+- Interest rate needs to be positive to get impatient people to stop spending and save for future spending
+- From liquidity preference perspecitve, a positive interest is 
 
 
 
