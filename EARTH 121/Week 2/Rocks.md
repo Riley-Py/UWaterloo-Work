@@ -3,4 +3,10 @@
 	- Example: Quartzite is a rock that is a mixture of minerals, primarily quartz
 	- Example 2: Granite contains many different combinations of minerals
 - Mineral crystals interlock together to create a texture called *crystalline*
-- Not all rok
+	- Diagram of this: 
+		- ![[crystalline-texture.jpg]]
+- Not all rocks have a crystalline texture, however
+	- Example: Sandstone has a *clastic* texture
+		- Diagram of this: 
+			- ![[classic-texture.jpg]]
+	- Held together by *Cement* (precipitates from water between sand grains and fills the void spaces between grains)
