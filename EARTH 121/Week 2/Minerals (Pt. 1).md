@@ -8,5 +8,11 @@
 	- Subdivided into two other categories:
 		- *Ferromagnesium silicates* - darker colored, higher specific gravity
 			- Example: Biotite, which is black/brown/dark green and has a specific gravity of 3.0
+			- Photo of biotite
+				- ![[biotite.jpg]]
 		- *Non-ferromagnesium silicates* - ligher colored, lower specific gravity
-	- *S*
+			- Example: Muscovite, which is white/beige/yellow and has a specific gravity of 2.8
+			- Photo of muscovite:
+				- ![[muscovite.jpg]]
+			- 
+	- *Specific gravity* - density of a substance compared to the density of water
