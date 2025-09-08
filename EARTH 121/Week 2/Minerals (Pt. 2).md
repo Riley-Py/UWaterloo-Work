@@ -10,4 +10,9 @@
 	- A scribe with magnetic capabilities to test hardness/magnetism
 	- A porcelain plate to test [[Introduction To Rocks|streak]] 
 
-## How Do Geoscientists identify diff
+## How Do Geoscientists Identify Different Types of Mineral?
+- Geoscientists do this in four ways:
+	- Testing simple physical properties
+	- Conducting chemical tests/analysis
+	- Using microscopes to determine the optical properties of minerals
+	- Applying X-ray diffraction techniques to determine the types/dimensions of atomic structure of minerals
