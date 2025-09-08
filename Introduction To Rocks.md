@@ -23,4 +23,7 @@
 	- Classify rocks
 	- Figure out past conditions that contribute to rock formation/history
 ### Example
-- When a geoscientist sees the rock *quartzite*, they associate it with the mineral quartz and elements silicon and oxygen.  Strong bonds between atoms explain why 
+- When a geoscientist sees the rock *quartzite*, they associate it with the mineral quartz and elements silicon and oxygen.  Strong bonds between atoms explain why the rock is durable when hit by a hammer and chemically resistant when submersed in acid.  It also displays a curved fracture pattern, which identifies that quartzite is composed of quartz
+	- Diagram of example: 
+		- ![[elements-minerals-rocks.jpg]]
+	#earth121
