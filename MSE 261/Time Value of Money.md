@@ -19,5 +19,10 @@
 ### Cryptocurrencies
 - Not widely accepted as a medium of exchange
 - Questionable as store of value due to high volatility
-- El S
+- El Salvador was the first country to adopt Bitcoin as legal tender in 2021
+	- Adoption was low among citizens (1.3% of $7 billion in annual remittances (money sent and recieved))
+	- More costs than benefits
+	- Rolled back the policy after agreeing to a
+
+
 
