@@ -15,6 +15,9 @@
 			- Photo of muscovite:
 				- ![[muscovite.jpg]]
 	- *Specific gravity* - density of a substance compared to the density of water
-- Biotite and muscovite belong to the same mineral family called the *Mica group*
-	- Can easily be split apart
+- Biotite and muscovite belong to the same mineral family called the *Mica group*, despite having different properties
+	- Can easily be split apart due to the sheet structure of the mineral
 	- Used in products like drywall and paints
+	- Diagram of the structure:
+		 ![[sheet-silicate.jpg]]
+- Another group is called the **
