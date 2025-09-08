@@ -6,4 +6,7 @@
 	- Diagram of this: 
 		- ![[silicates.jpg]]
 	- Subdivided into two other categories:
-		- **
+		- *Ferromagnesium silicates* - darker colored, higher specific gravity
+			- Example: Biotite, which is black/brown/dark green and has a specific gravity of 3.0
+		- *Non-ferromagnesium silicates* - ligher colored, lower specific gravity
+	- *S*
