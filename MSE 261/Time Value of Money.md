@@ -52,5 +52,12 @@
 - *Exponential growth* over time
 - Widely used for everything revolving interest
 
+### Rules of Thumb for Quick Calculations
+
+#### Rule of 72
+- For how many years it will take for an investment to double:
+	- Years to double = 72 / Interest Rate (%)
+	- Example
+
 
 
