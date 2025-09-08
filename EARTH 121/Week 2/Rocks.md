@@ -15,3 +15,4 @@
 			- If sample effervesces (gives bubbles) - calcite
 			- If sample between grains is red - iron oxide
 			- Otherwise, it's silica
+- Sand grains can be composed of mineral crystals, fragments, rocks, rock fragments, or any combination of this
