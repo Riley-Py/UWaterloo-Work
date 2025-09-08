@@ -19,4 +19,6 @@
 	- Sand refers size of grains and fragments, not composition
 - *Conglomerate* - rock type that shows variations in grains
 - There are two types of rock that aren't made up of minerals
-	- *Obsidian* - no crystalline structure
+	- *Obsidian (volcanic glass)* - no crystalline structure was formed due to rapid cooling
+	- *Coal* - Plant material compressed through geologic time
+#earth121 
