@@ -30,3 +30,4 @@
 - Comparing the compositions, iron is predominant in the center
 	- Makes sense as the element sank due to gravity to the center of the Earth
 	- Nickel is also considered as well and is for the same reason as iron
+#earth121 
