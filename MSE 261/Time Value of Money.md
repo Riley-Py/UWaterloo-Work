@@ -60,10 +60,15 @@
 		- Example: At 4% interest, money doubles in 18 years
 	- Reasonable for interest rates between 4% and 20%
 ### Equivalence: Present and Future Worth
+- 
 
 #### Future Value Factor
 - Formula: $$ F = P(1+i)^n = P(F/P, i, n)$$
-- This is the Single Payment Compound A
+- This is the single-payment compound-amount factor (*compounding factor*)
+#### Present Value Factor
+- Formula:
+	- $$ P = F (1 + i)^{-n} = P(P/F, i, n) $$
+- This is the single-payment present-worth factor (*discounting factor*)
 
 
 
