@@ -9,4 +9,12 @@
 - *Lustre* - Appearance or quality of light reflected from the surface of a mineral
 - *Streak* - Color of mineral in powdered form
 - *Fracture* - Break/rupture of rock with no observable movement has taken place
-- *Hardness* - 
+- *Hardness* - Mineral's resistance to scratching
+- *Silicon* - Non-metallic element with atomic number 14 and symbol Si
+- *Silica* - Compound $SiO_2$ which in its crystalline form is quartz
+
+## What Does a Geoscientist See?
+- They think about the following about a rock
+	- Minerals that make it up
+	- Compounds that make up the minerals
+	- Atoms that make up the compounds
