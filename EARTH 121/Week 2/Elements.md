@@ -26,4 +26,7 @@
 	8. Magnesium
 	- Diagram of this
 		- ![[physical-geology-2.jpg]]
-	- Note that 
+	- Note that about $3 \over 4$ of the Earth's crust is made of oxygen and silicon
+- Comparing the compositions, iron is predominant in the center
+	- Makes sense as the element sank due to gravity to the center of the Earth
+	- Nickel is also considered as well and is for the same reason as iron
