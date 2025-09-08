@@ -22,4 +22,5 @@
 	- Explain the makeup of rocks
 	- Classify rocks
 	- Figure out past conditions that contribute to rock formation/history
-- When geoscientists see the 
+### Example
+- When a geoscientist sees the rock *quartzite*, they associate it with the mineral quartz and elements silicon and oxygen.  Strong bonds between atoms explain why 
