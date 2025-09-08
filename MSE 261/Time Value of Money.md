@@ -11,5 +11,13 @@
 
 ## Fiat Money VS. Cryptocurrencies
 
-## Fiat
+### Fiat Money
+- Government-issued not backed by physical commodity (i.e. gold)
+- Value is from government declaration/public trust
+- Serves as medium of exchange and store of value in most countries
+	- Examples: US dollar, Euro, Yen
+### Cryptocurrencies
+- Not widely accepted as a medium of exchange
+- Questionable as store of value due to high volatility
+- El S
 
