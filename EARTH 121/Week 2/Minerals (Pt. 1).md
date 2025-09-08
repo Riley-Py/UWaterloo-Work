@@ -33,4 +33,7 @@
 		- Example: Calcite
 	- *Halides* - (F-, Cl-, Br-, I-) + metal
 		- Example: Halite (salt)
-	- *Sulfates*
+	- *Sulfates* - (SO4)2- + elements
+		- Example: Gypsum
+	- *Sulfides* - (S2-) + metal(s), no O
+		- Example: Pyrite
