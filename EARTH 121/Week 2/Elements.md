@@ -1,2 +1,14 @@
 ## What is Earth's Elemental Composition?
-- Earth consists of 118 
+- Earth consists of 118 elements
+	- Not all of them are naturally occurring
+	- Diagram of periodic table:
+		- ![[periodic-table-small.jpg]]
+- Earth's most abundant elements (from most to least), by weight, are:
+	- Iron
+	- Oxygen
+	- Silicon
+	- Magnesium
+	- Nickel
+	- Sulfur
+	- Calcium
+	- Alumi
