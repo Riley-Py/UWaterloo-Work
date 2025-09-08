@@ -4,4 +4,9 @@
 - *Compound* - Substance formed chemically by combining two or more elements and having properties that are different from those individual elements
 - *Mineral* - Inorganic crystalline solid material with an orderly internal structure and definite chemical composition
 - *Rock* - A naturally occurring solid, consisting of minerals or glass or organic matter
-- *Silicate* - An
+- *Silicate* - Minerals that have silicon-oxygen tetrahedron as basic structure
+- *Cleavage* - Mineral breaks along planes of weak bonding
+- *Lustre* - Appearance or quality of light reflected from the surface of a mineral
+- *Streak* - Color of mineral in powdered form
+- *Fracture* - Break/rupture of rock with no observable movement has taken place
+- *Hardness* - 
