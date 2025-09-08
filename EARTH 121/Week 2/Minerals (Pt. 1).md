@@ -20,4 +20,7 @@
 	- Used in products like drywall and paints
 	- Diagram of the structure:
 		 ![[sheet-silicate.jpg]]
-- Another group is called the **
+- Summary of all of the groups:
+	- ![[silicate-mineral-family.jpg]]
+## What About Less Abundant Mineral Families Found In Earth's Crust?
+- There are 8 mineral classes that are grou
