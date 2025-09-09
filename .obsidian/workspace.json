@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Four Ways of Thinking"
             }
+          },
+          {
+            "id": "7a785d46e223725e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Field Note Journal 2 - Are Minerals Important.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Field Note Journal 2 - Are Minerals Important"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -175,8 +190,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "be5c9ba1dae6bf02",
+  "active": "7a785d46e223725e",
   "lastOpenFiles": [
+    "PXL_20250909_192238145.jpg",
+    "PXL_20250909_192230610.jpg",
+    "EARTH 121/Field Notes/Field Note Journal 1 - Why Earth Science.md",
+    "Field Note Journal 2 - Are Minerals Important.md",
+    "EARTH 121/Week 1/Four Ways of Thinking.md",
     "SCI 238/Chapter 2 - Discovering the Universe Yourself/Our View of the Sky.md",
     "SCI 238/Chapter 2 - Discovering the Universe Yourself/Variations in the Sky.md",
     "SCI 238/Chapter 2 - Discovering the Universe Yourself/Seasons on Earth.md",
@@ -199,9 +219,7 @@
     "EARTH 121/Images/silicates.jpg",
     "EARTH 121/Images/physical-geology-2.jpg",
     "EARTH 121/Images/physical-geology.jpg",
-    "EARTH 121/Images/periodic-table-small.jpg",
     "EARTH 121/Week 1/Introduction.md",
-    "EARTH 121/Week 1/Four Ways of Thinking.md",
     "EARTH 121/Week 2",
     "SCI 238/Chapter 1 - A Modern View of the Universe/Age of and Motion Within the Universe.md",
     "SCI 238/Chapter 2 - Discovering the Universe Yourself",
@@ -212,7 +230,6 @@
     "SCI 238/Chapter 1 - A Modern View of the Universe",
     "SCI 238",
     "EARTH 121/Images",
-    "EARTH 121/Field Notes/Field Note Journal 1 - Why Earth Science.md",
     "EARTH 121/Field Notes",
     "EARTH 121",
     "Power of Systematic Rules.md",
@@ -221,7 +238,6 @@
     "CHE 102 (U3-U6)/Include on Cheetsheet.md",
     "HTN CTF Example.md",
     "CHE 102 (U3-U6)/Unit 6 - Electrochemistry/Electrolytic Cell.md",
-    "CHE 102 (U3-U6)/Unit 6 - Electrochemistry/Alternative Form to the Nernst Equation.md",
-    "PSYCH 207 (Complete)/U11 - Making Decisions/Decision Making, Emotions, And The Brain.md"
+    "CHE 102 (U3-U6)/Unit 6 - Electrochemistry/Alternative Form to the Nernst Equation.md"
   ]
 }
