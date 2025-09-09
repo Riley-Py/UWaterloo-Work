@@ -22,7 +22,16 @@
 ## All Together
 
 For part A, I connected all of the minerals that were listed to the fact that there were three common connections between them:
-a). They all originated from the Earth's crust, either from sedimentary rocks or fom
+a). They all originated from the Earth's crust, either from sedimentary rocks or from deposits
+b). They are all inorganic minerals, as observed with their chemical formulas
+c). They are non-silicate, as they don't have that structure between them
+
+For part B, I connected each mineral to everyday life in different ways, such as: 
+- *Halite* - used for food that I commonly eat, such as meats and nuts
+- *Gypsum* - used for drywall, which is used in the construction of the various types of shelters that I use on a daily basis
+- *Calcite* - used for limestone, which serves as a basis for buildings in construction which is used for shelters that I use on a various basis
+- *Hematite*/*Pyrite* - used in jewelry, which are used in luxury goods that my family owns as heirlooms
+- *Gold* - part of the precious metals used in my various pieces of technology, which would be under luxury goods as well
 
 #earth121 
 #field_journal 
