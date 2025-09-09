@@ -21,7 +21,7 @@
 
 ## All Together
 
-
+For part A, I connected all of the minerals that were listed to the fact that there were three common connections between them:
 
 #earth121 
 #field_journal 
