@@ -22,6 +22,7 @@
 ## All Together
 
 For part A, I connected all of the minerals that were listed to the fact that there were three common connections between them:
+a). They all originated from the Earth's crust, either from sedimentary rocks or fom
 
 #earth121 
 #field_journal 
