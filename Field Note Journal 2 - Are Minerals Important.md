@@ -14,7 +14,14 @@
 ### Part B
 - I connected each mineral to everyday life in different ways
 	- *Halite* - used for food that I commonly eat, such as meats and nuts
-	- *Gypsum* - used for drywall, which is 
+	- *Gypsum* - used for drywall, which is used in the construction of the various types of shelters that I use on a daily basis
+	- *Calcite* - used for limestone, which serves as a basis for buildings in construction which is used for shelters that I use on a various basis
+	- *Hematite*/*Pyrite* - used in jewelry, which are used in luxury goods that my family owns as heirlooms
+	- *Gold* - part of the precious metals used in my various pieces of technology, which would be under luxury goods as well
+
+## All Together
+
+
 
 #earth121 
 #field_journal 
