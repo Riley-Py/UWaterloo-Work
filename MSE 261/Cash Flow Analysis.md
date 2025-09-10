@@ -11,3 +11,7 @@
 	- Money is borrowed from a broker (*exchanges*)
 		- Example: 100x leverage on Bybit or 2x on Forex
 #### Danger: Margin Calls & Liquidation
+- This is where brokers can close your positions on the leveraged position
+	- *Asset price drops* - value falls below margin requirements
+	- *Margin call* - broker demands additional funds to cover losses
+	- *Liquidation* - position forcibly closed if funds are not added promptly
