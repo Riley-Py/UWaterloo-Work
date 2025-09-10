@@ -86,3 +86,9 @@
 	- ![[Pasted image 20250910105207.png]]
 #### Future and Present Sum Schedule: Arithmetic Gradient Series
 ![[Pasted image 20250910105403.png]]
+
+### Geometric Gradient Series
+- Cash flow changes by a constant percentage (g) each period
+	- Examples:
+		- Inflation (prices rising 3% anually)
+		- Productivity 
