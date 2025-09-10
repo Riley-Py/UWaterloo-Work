@@ -76,4 +76,12 @@
 ### Arithmetic Gradient Series
 - Cash flow changes by constant amount (G) each period
 	- Examples:
-		- Maintenance 
+		- Maintenance costs that increase $500 each year
+		- Salary increases $2000 annually 
+		- Production ramping up 100 units monthly
+- Cash flow can be divided into two components
+	1. Uniform base amount (A)
+	2. Increasing component that grows by G each period
+- Diagram of this:
+	- ![[Pasted image 20250910105207.png]]
+- 
