@@ -63,4 +63,5 @@
 ## Uniform Series: Equivalence (Present Worth)
 - Present Worth (PW) determines the equivalent value today of a uniform series of future cash flows
 
-## 
+## Future and Present Sum Schedule: Uniform Series
+![[Pasted image 20250910104120.png]]
