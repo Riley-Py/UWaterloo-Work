@@ -15,3 +15,7 @@
 	- *Asset price drops* - value falls below margin requirements
 	- *Margin call* - broker demands additional funds to cover losses
 	- *Liquidation* - position forcibly closed if funds are not added promptly
+
+## What is Cash Flow?
+- Cash moving in and out of a business at a specific point in time
+-
