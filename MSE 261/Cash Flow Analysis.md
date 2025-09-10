@@ -37,6 +37,8 @@
 	- ![[Pasted image 20250910102653.png]]
 ## Uniform Series of Cash Flows
 - Equal cash flows occurring at regular intervals
+- Diagram of this
+	- ![[Pasted image 20250910103234.png]]
 
 ### Examples
 - Monthly mortgage payments
@@ -47,4 +49,4 @@
 ### Assumptions
 - Equal in amount
 - Intervals are equal
-- 
+- Occurs at end of each period (*annuity*)
