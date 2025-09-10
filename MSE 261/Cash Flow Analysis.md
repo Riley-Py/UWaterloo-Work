@@ -90,5 +90,7 @@
 ### Geometric Gradient Series
 - Cash flow changes by a constant percentage (g) each period
 	- Examples:
-		- Inflation (prices rising 3% anually)
-		- Productivity 
+		- Inflation (prices rising 3% annually)
+		- Productivity growth (output increasing 5% yearly)
+		- College tuition (increasing 7% per year)
+- Future worth doesn't have a close form formula, but it does have a present worth
