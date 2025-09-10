@@ -35,3 +35,16 @@
 ## Cash flow Diagrams
 - Illustrates size, sign, and timing of individual cash flows over time
 	- ![[Pasted image 20250910102653.png]]
+## Uniform Series of Cash Flows
+- Equal cash flows occurring at regular intervals
+
+### Examples
+- Monthly mortgage payments
+- Regular deposits into savings
+- Annual insurance premiums
+- Fixed salary payments
+
+### Assumptions
+- Equal in amount
+- Intervals are equal
+- 
