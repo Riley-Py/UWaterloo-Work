@@ -94,3 +94,9 @@
 		- Productivity growth (output increasing 5% yearly)
 		- College tuition (increasing 7% per year)
 - Future worth doesn't have a close form formula, but it does have a present worth
+
+## Different Cash Flow Structures in Projects
+- *Uniform Series (Annuity)* - Same cost each year
+- *Arithmetic Gradient* - Cost or benefits increase by a fixed amount
+- *Geometric Gradient* - Costs or benefits grow by a percentage
+- *One-ti*
