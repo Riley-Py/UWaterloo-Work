@@ -71,4 +71,9 @@
 	- *Business growth* - revenue/expenses increase as companies expand
 	- *Operational changes* - equipment maintenance costs increase with age at predictable rates
 	- *Inflation* - requires more cash for same goods/services
-	- *Market conditions*
+	- *Market conditions* - competitive pressures/economic cycles affect pricing power/costs
+
+### Arithmetic Gradient Series
+- Cash flow changes by constant amount (G) each period
+	- Examples:
+		- Maintenance 
