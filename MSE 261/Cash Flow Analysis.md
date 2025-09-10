@@ -35,6 +35,12 @@
 ## Cash flow Diagrams
 - Illustrates size, sign, and timing of individual cash flows over time
 	- ![[Pasted image 20250910102653.png]]
+### Conventions
+- Present = 0
+- Upward arrows = positive cash flow (*inflows*)
+- Downward arrows = negative cash flow (*outflows*)
+- End of period = Beginning of next period
+
 ## Uniform Series of Cash Flows
 - Equal cash flows occurring at regular intervals
 - Diagram of this
@@ -50,3 +56,5 @@
 - Equal in amount
 - Intervals are equal
 - Occurs at end of each period (*annuity*)
+
+#
