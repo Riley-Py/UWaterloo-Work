@@ -18,4 +18,20 @@
 
 ## What is Cash Flow?
 - Cash moving in and out of a business at a specific point in time
--
+### Cash Inflows (Receipts)
+- Revenue from sales of goods/services
+- Interest income from investments
+- Dividend payments
+- Borrowed money 
+- Asset sales
+### Cash Outflows (Disbursements)
+- Employee wages/benefits
+- Rent/utility
+- Materials/inventory
+- Dividend payments to shareholders
+- Interest payments 
+- Debt repayment
+
+## Cash flow Diagrams
+- Illustrates size, sign, and timing of individual cash flows over time
+	- 
