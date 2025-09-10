@@ -57,4 +57,5 @@
 - Intervals are equal
 - Occurs at end of each period (*annuity*)
 
-#
+## Uniform Series: Future Worth
+- Calculates the total value at the end of the period after all cash flows and interest accumulation
