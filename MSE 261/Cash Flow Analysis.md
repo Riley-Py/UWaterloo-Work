@@ -34,4 +34,4 @@
 
 ## Cash flow Diagrams
 - Illustrates size, sign, and timing of individual cash flows over time
-	- 
+	- ![[Pasted image 20250910102653.png]]
