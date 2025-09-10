@@ -84,4 +84,5 @@
 	2. Increasing component that grows by G each period
 - Diagram of this:
 	- ![[Pasted image 20250910105207.png]]
-- 
+#### Future and Present Sum Schedule: Arithmetic Gradient Series
+![[Pasted image 20250910105403.png]]
