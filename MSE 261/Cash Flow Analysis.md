@@ -65,3 +65,10 @@
 
 ## Future and Present Sum Schedule: Uniform Series
 ![[Pasted image 20250910104120.png]]
+
+## Variable Cash Flows
+- Cash flows often change over time due to factors like:
+	- *Business growth* - revenue/expenses increase as companies expand
+	- *Operational changes* - equipment maintenance costs increase with age at predictable rates
+	- *Inflation* - requires more cash for same goods/services
+	- *Market conditions*
