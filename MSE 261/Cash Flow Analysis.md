@@ -59,3 +59,6 @@
 
 ## Uniform Series: Future Worth
 - Calculates the total value at the end of the period after all cash flows and interest accumulation
+
+## Uniform Series: Equivalence
+- Present Worth (PW) determines the equivalent value today of a uniform series of future cash flows
