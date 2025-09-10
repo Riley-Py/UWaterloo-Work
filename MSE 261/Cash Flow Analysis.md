@@ -7,4 +7,7 @@
 	- *Mortgage loan* - you borrow the remaining (80%) from a lender
 	- *Amortized payments* - you pay both interest/principal over multiple periods, growing equity slowly
 ### Case 2: Leverage Trading
-- Leverage trading (or *margin trading*)
+- Leverage trading (or *margin trading*) is a strategy where investors use borrowed money for investment to take a large position
+	- Money is borrowed from a broker (*exchanges*)
+		- Example: 100x leverage on Bybit or 2x on Forex
+#### Danger: Margin Calls & Liquidation
