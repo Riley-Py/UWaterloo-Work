@@ -44,4 +44,9 @@
 - Galileo saw through his telescope sunspots on Sun ("imperfections") and mountains and valleys on the Moon (proving it is not a perfect sphere)
 #### Third Objection
 - Tycho thought he had measured stellar distance so lack of parallax seemed to rule out an orbiting Earth
-- Galileo showed stars must be much farther than Tycho thought by using his telescope to see the Mi
+- Galileo showed stars must be much farther than Tycho thought by using his telescope to see the Milky Way has countless stars
+	- Also saw four moons orbiting Jupiter, showing that not all objects orbit Earth
+- Phases of Venus showed that it orbits the Sun and not Earth
+
+#sci238 
+#science_astronomy 
