@@ -29,4 +29,5 @@
 	- 7/360 x (circum. Earth) = 5000 stadia and rearrange to find 250 000 stadia
 		- Very close to the modern value (42 000 km on calculation vs 40 100 actual circumference)
 ## How Did The Greeks Explain Planetary Motion?
-- 
+- Greek Geocentric Model
+	- Hard to explain [[Paths of Eclipses and Planets|]]
