@@ -22,3 +22,5 @@
 ## Kepler's Three Laws of Planetary Motion
 - *First Law*: The orbit of each planet around the sun is an *ellipse* with the sun at one focus
 	- When they are the closest to the sun, it's called an *perihelion*, and at the farthest from the sun, it's called an *aphelion*
+- *Second Law*: As a planet moves around its orbit, it sweeps out equal areas in equal times
+	- Planet travels faster when it is nearer to the sun 
