@@ -36,3 +36,5 @@
 		- Arabic translation of Ptolemy's work named *Almagest* ("The great compilation")
 		- Works that each planet moves on a small circle (*epicycle*) whose center moves around Earth on the larger circle (*deferent*)
 			- Diagram of this: 
+				- ![[Pasted image 20250913131539.png]]
+	
