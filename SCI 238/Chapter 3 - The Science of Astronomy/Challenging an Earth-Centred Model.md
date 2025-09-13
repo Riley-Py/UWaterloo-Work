@@ -40,4 +40,8 @@
 	- Aristotle thought that all objects naturally come to rest
 	- Galileo showed that objects will stay in motion unless a force acts to slow them down (Newton's 1st law of motion)
 #### Second Objection
-- Tycho observing comets/supernova alre
+- Tycho observing comets/supernova already challenged the idea
+- Galileo saw through his telescope sunspots on Sun ("imperfections") and mountains and valleys on the Moon (proving it is not a perfect sphere)
+#### Third Objection
+- Tycho thought he had measured stellar distance so lack of parallax seemed to rule out an orbiting Earth
+- Galileo showed stars must be much farther than Tycho thought by using his telescope to see the Mi
