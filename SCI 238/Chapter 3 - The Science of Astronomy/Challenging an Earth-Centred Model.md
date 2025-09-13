@@ -29,3 +29,4 @@
 - *Third Law*: More distant planets orbit the Sun at slower average speeds, using this formula: $$ p^2 = a^3 $$
 	- $p$ = orbital period (years)
 	- $a$ = average distance from Sun (AU)
+
