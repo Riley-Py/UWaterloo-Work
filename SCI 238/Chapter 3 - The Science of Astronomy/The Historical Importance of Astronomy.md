@@ -37,4 +37,6 @@
 		- Works that each planet moves on a small circle (*epicycle*) whose center moves around Earth on the larger circle (*deferent*)
 			- Diagram of this: 
 				- ![[Pasted image 20250913131539.png]]
+	#sci238 
+	#science_astronomy
 	
