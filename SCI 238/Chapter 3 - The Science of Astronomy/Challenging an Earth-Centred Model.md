@@ -8,5 +8,6 @@
 - Model was no more accurate than the [[The Historical Importance of Astronomy|Ptolemaic model]] in due to using perfect circles
 
 #### Tycho
-- Measured very precisely planetary positions (within one arcminute)
-- 
+- Measured very precisely planetary positions (within one [[Our View of the Sky|arcminute]])
+- Couldn't detect [[Paths of Eclipses and Planets|stellar parallax]], still thinking that Earth must be the center of the solar system
+	- Did recognize th
