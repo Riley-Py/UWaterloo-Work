@@ -21,4 +21,6 @@
 	- Model is based around Earth and how it describes the motion of all other objects in space
 ## Eratosthenes Measures Earth
 - Measured the radius of Earth the first time using the distance from Syene to Alexandria
-	- The distance 
+	- The distance between them was 5000 stadia (1 stadia = 0.1577 km)
+- To calculate the circumference of the Earth
+	- 
