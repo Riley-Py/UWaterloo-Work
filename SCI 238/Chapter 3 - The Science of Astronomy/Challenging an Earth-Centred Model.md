@@ -16,3 +16,6 @@
 #### Kepler
 - First tried to match Tycho's observations with circular orbits
 	- An 8-arcminute discrepancy led him to eventually led to *ellipses* (elongated circle)
+
+## Kepler's Three Laws of Planetary Motion
+- *First Law*: The orbit of each planet around the sun is an *ellipse* with the sun at on
