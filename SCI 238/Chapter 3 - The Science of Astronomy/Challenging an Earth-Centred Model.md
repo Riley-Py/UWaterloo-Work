@@ -30,3 +30,9 @@
 	- $p$ = orbital period (years)
 	- $a$ = average distance from Sun (AU)
 
+### How Did Galileo Solidify the Copernican Revolution?
+- Overcame three objections in the Copernican view
+	1. Earth could not be moving because objects in the air would be left behind
+	2. Non-circular orbits aren't "perfect" as heavens should be
+	3. If Earth were really orbiting Sun, we would detect stellar parallax
+- 
