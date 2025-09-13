@@ -12,4 +12,9 @@
 	- Predicting eclipses
 
 ## The Greek Geocentric Model (*Ptolomeic Model*)
-- Prevalent across Africa and Asia
+- Greeks were prevalent across Africa and Asia
+
+### Why Does Modern Science Trace Its Roots to the Greeks
+- Greeks were the first people to make *models* of nature
+	- Tried to explain patterns without myth or the supernatural
+- Greek geocentric model model existed at 400 B.C
