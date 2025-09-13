@@ -34,4 +34,5 @@
 	- The most sophisticated model was the Ptolemaic model (existed A.D 100-170)
 		- Accurate for 1500 years
 		- Arabic translation of Ptolemy's work named *Almagest* ("The great compilation")
-		- Works that planets do go backward in the model
+		- Works that each planet moves on a small circle (*epicycle*) whose center moves around Earth on the larger circle (*deferent*)
+			- Diagram of this: 
