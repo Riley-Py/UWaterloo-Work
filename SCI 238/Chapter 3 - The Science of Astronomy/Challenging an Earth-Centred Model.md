@@ -35,4 +35,9 @@
 	1. Earth could not be moving because objects in the air would be left behind
 	2. Non-circular orbits aren't "perfect" as heavens should be
 	3. If Earth were really orbiting Sun, we would detect stellar parallax
-- 
+#### First Objection
+- Experiments showed that objects in air would stay with Earth as it moves
+	- Aristotle thought that all objects naturally come to rest
+	- Galileo showed that objects will stay in motion unless a force acts to slow them down (Newton's 1st law of motion)
+#### Second Objection
+- Tycho observing comets/supernova alre
