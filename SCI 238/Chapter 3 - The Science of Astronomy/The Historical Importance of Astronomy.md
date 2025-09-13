@@ -10,4 +10,6 @@
 	- Monitoring lunar cycles
 	- Monitoring planets/stars
 	- Predicting eclipses
-- 
+
+## The Greek Geocentric Model (*Ptolomeic Model*)
+- Prevalent across Africa and Asia
