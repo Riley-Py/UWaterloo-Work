@@ -22,5 +22,7 @@
 ## Eratosthenes Measures Earth
 - Measured the radius of Earth the first time using the distance from Syene to Alexandria
 	- The distance between them was 5000 stadia (1 stadia = 0.1577 km)
+	- Angle from Syene to Alexandria was $7 \degree$ 
+	- A circle has $360 \degree$ 
 - To calculate the circumference of the Earth
-	- 
+	- 7/360 x (circum. Earth) = 5000 stadia and rearrange to find 
