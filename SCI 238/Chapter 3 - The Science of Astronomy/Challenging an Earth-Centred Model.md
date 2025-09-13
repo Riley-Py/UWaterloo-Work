@@ -15,4 +15,4 @@
 
 #### Kepler
 - First tried to match Tycho's observations with circular orbits
-	- An 8-arcminute discrepancy led him to eventually led to ellipses
+	- An 8-arcminute discrepancy led him to eventually led to *ellipses* (elongated circle)
