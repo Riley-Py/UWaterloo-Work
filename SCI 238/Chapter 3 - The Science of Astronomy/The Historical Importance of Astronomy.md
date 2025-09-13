@@ -30,8 +30,8 @@
 		- Very close to the modern value (42 000 km on calculation vs 40 100 actual circumference)
 ## How Did The Greeks Explain Planetary Motion?
 - Greek Geocentric Model
-	- Hard to explain [[Paths of Eclipses and Planets|retrograde motion]] of the planets, however
+	- Hard to explain [[Paths of Eclipses and Planets|retrograde motion]] of the planets
 	- The most sophisticated model was the Ptolemaic model (existed A.D 100-170)
 		- Accurate for 1500 years
 		- Arabic translation of Ptolemy's work named *Almagest* ("The great compilation")
-		- 
+		- Works that planets do go backward in the model
