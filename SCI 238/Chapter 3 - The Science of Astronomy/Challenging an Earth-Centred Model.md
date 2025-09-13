@@ -26,4 +26,6 @@
 	- Planet travels faster when it is nearer to the sun and slower when it is farther from the Sun
 	- Diagram of this: 
 		- ![[Pasted image 20250913134105.png]]
-- *Third Law*
+- *Third Law*: More distant planets orbit the Sun at slower average speeds, using this formula: $$ p^2 = a^3 $$
+	- $p$ = orbital period (years)
+	- $a$ = average distance from Sun (AU)
