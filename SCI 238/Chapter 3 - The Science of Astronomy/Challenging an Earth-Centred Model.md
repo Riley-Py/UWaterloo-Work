@@ -47,6 +47,9 @@
 - Galileo showed stars must be much farther than Tycho thought by using his telescope to see the Milky Way has countless stars
 	- Also saw four moons orbiting Jupiter, showing that not all objects orbit Earth
 - Phases of Venus showed that it orbits the Sun and not Earth
+- Catholic Church wanted Galileo to recant his claim that Earth orbits the Sun in 1633
+	- Book was removed from banned books in 1824
+	- Vindicated by the church in 1992
 
 #sci238 
 #science_astronomy 
