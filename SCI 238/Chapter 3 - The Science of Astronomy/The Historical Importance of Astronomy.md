@@ -18,3 +18,7 @@
 - Greeks were the first people to make *models* of nature
 	- Tried to explain patterns without myth or the supernatural
 - Greek geocentric model model existed at 400 B.C
+	- Model is based around Earth and how it describes the motion of all other objects in space
+## Eratosthenes Measures Earth
+- Measured the radius of Earth the first time using the distance from Syene to Alexandria
+	- The distance 
