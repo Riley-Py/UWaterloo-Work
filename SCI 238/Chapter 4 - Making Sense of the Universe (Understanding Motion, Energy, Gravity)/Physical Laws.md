@@ -94,3 +94,6 @@
 	- Example: Planets with equal mass with have their center of mass in the center, while if one planet weighed more than the other, the center of mass would shift towards the planet that weighed more
 
 # Orbits, Tides, Acceleration of Gravity
+
+### How do Gravity and Energy Together Allow Us to Understand Orbits?
+- Total orbit energy (gravitational + )
