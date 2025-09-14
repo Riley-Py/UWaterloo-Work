@@ -7,4 +7,6 @@
 - *Velocity*: Speed and direction
 	- Example: 10 $m/s$, due east
 - *Acceleration*: Rate of change in velocity
-	- 
+	- (distance/time)/time
+	- Has units of $m/s^2$ 
+- 
