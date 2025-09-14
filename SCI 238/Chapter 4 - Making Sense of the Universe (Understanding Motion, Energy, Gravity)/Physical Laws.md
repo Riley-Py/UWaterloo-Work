@@ -88,7 +88,9 @@
 		- p = orbital period
 		- a = average orbital distance (between centers)
 		- ($M_1 + M_2)$ = sum of the masses
-		- $G = 6.
+		- $G = 6.67 \times 10^{-11}$ (Newton's Universal Gravitational constant)
 ### Center of Mass
 - Momentum conversation allows orbiting objects orbit around their center of mass
 	- Example: Planets with equal mass with have their center of mass in the center, while if one planet weighed more than the other, the center of mass would shift towards the planet that weighed more
+
+# Orbits, Tides, Acceleration of Gravity
