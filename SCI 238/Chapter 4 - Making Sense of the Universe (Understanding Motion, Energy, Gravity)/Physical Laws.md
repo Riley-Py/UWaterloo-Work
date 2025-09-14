@@ -26,7 +26,9 @@
 	- Earth has no twisting force acting on it as it orbits the Sun, so its rotation and orbit will continue indefinitely
 	- Example: Figure skating, where they bring the arms in together to go faster (angular momentum is conserved, so less radius and same mass is equal to higher velocity)
 ## Conservation of Energy
-
+- Energy can neither be created nor destroyed
+- It can change form or be exchanged between objects
+- Total energy content in an isolated system is always the same
 ### Where do Objects get their Energy?
 - Energy makes matter move
 - Energy is conserved, but
@@ -60,4 +62,8 @@
 - Mass itself is a form of potential energy
 	- Formula: $E = mc^2$ 
 - A small amount of mass can release a great deal of energy
-	- Example: Hydrogen
+	- Example: Hydrogen bomb
+- Concentrated energy can spontaneously turn into particles
+	- Example: Particle accelerators
+
+# The Universal Law of Gravitation
