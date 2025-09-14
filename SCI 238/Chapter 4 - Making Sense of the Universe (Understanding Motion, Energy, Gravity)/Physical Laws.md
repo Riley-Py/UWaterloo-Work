@@ -74,4 +74,7 @@
 	2. Attraction is directly proportional to the product of their masses
 	3. Attraction is inversely proportional to the square of the distance between their centers
 	- Formula: $F_g = G {{M_1M_2}\over d^2}$ 
-- 
+### How does Newton's Law of Gravity Extend Kepler's Laws?
+- [[Challenging an Earth-Centred Model|Kepler's laws]] apply to all orbiting objects, not just planets
+- Ellipses are not the only orbital paths
+	- *Bound* (ellips)
