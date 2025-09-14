@@ -77,4 +77,10 @@
 ### How does Newton's Law of Gravity Extend Kepler's Laws?
 - [[Challenging an Earth-Centred Model|Kepler's laws]] apply to all orbiting objects, not just planets
 - Ellipses are not the only orbital paths
-	- *Bound* (ellips)
+	- *Bound* (ellipses)
+	- *Unbound*
+		- Parabola
+		- Hyperbola
+	- Diagram of this: 
+		- ![[Pasted image 20250914135942.png]]
+	- 
