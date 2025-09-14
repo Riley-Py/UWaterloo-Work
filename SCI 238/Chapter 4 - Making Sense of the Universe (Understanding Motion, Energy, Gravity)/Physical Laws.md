@@ -114,4 +114,9 @@
 - The sun has a small tidal effect on the Earth
 - Size of tides depend on [[Paths of Eclipses and Planets|phases of the moon]] 
 
-#### Ti
+#### Tidal Friction
+- Slows Earth's rotation (and makes the Moon get farther from Earth)
+- The Moon once orbited faster (or slower)
+	- Friction caused it to "lock" in synchronous rotation
+
+### Why do All Objects Fall at the
