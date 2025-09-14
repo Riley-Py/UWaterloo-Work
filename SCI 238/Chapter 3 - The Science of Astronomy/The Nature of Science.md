@@ -11,4 +11,9 @@
 		- ![[Pasted image 20250914124405.png]]
 - Science rarely proceeds this way, however
 	- Sometimes, we start by "just looking", then coming up with possible explanations
-	- Sometimes, we follow our intuition
+	- Sometimes, we follow our intuition rather than a line of evidence
+#### #1 for Hallmark of Science
+- Modern science seeks explanations for observed phenomena that rely solely on natural causes
+	- Should all be natural and not supernatural
+#### #2 for Hallmark of Science
+- Science progresses t
