@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "orbital period",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,14 +175,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "059c515cd4110e39",
+  "active": "be5c9ba1dae6bf02",
   "lastOpenFiles": [
+    "SCI 238/Chapter 3 - The Science of Astronomy/Challenging an Earth-Centred Model.md",
+    "SCI 238/Chapter 4 - Making Sense of the Universe (Understanding Motion, Energy, Gravity)/Physical Laws.md",
+    "SCI 238/Chapter 4 - Making Sense of the Universe (Understanding Motion, Energy, Gravity)/Motion, Energy, Gravity.md",
+    "SCI 238/Chapter 2 - Discovering the Universe Yourself/Paths of Eclipses and Planets.md",
+    "SCI 238/Chapter 2 - Discovering the Universe Yourself/Our View of the Sky.md",
     "SCI 238/Images/Pasted image 20250914135942.png",
     "SCI 238/Chapter 3 - The Science of Astronomy/The Nature of Science.md",
     "SCI 238/Chapter 3 - The Science of Astronomy/The Historical Importance of Astronomy.md",
-    "SCI 238/Chapter 4 - Making Sense of the Universe (Understanding Motion, Energy, Gravity)/Physical Laws.md",
-    "SCI 238/Chapter 4 - Making Sense of the Universe (Understanding Motion, Energy, Gravity)/Motion, Energy, Gravity.md",
-    "SCI 238/Chapter 3 - The Science of Astronomy/Challenging an Earth-Centred Model.md",
     "SCI 238/Images/Pasted image 20250914134325.png",
     "Untitled.md",
     "SCI 238/Chapter 4 - Making Sense of the Universe (Understanding Motion, Energy, Gravity)",
@@ -190,8 +192,6 @@
     "SCI 238/Images/Pasted image 20250914124405.png",
     "SCI 238/Images/Pasted image 20250913134105.png",
     "SCI 238/Images/Pasted image 20250913133710.png",
-    "SCI 238/Chapter 2 - Discovering the Universe Yourself/Paths of Eclipses and Planets.md",
-    "SCI 238/Chapter 2 - Discovering the Universe Yourself/Our View of the Sky.md",
     "SCI 238/Chapter 2 - Discovering the Universe Yourself/Variations in the Sky.md",
     "SCI 238/Chapter 2 - Discovering the Universe Yourself/Seasons on Earth.md",
     "SCI 238/Chapter 1 - A Modern View of the Universe/Age of and Motion Within the Universe.md",
@@ -205,7 +205,6 @@
     "MSE 261/Images/Pasted image 20250910104120.png",
     "MSE 261/Images/Pasted image 20250910103234.png",
     "MSE 261/Images",
-    "MSE 261/Images/Pasted image 20250910102653.png",
     "EARTH 121/Week 1/Four Ways of Thinking.md",
     "EARTH 121/Field Notes/Field Note Journal 1 - Why Earth Science.md",
     "EARTH 121/Field Notes/Field Note Journal 2 - Are Minerals Important.md",

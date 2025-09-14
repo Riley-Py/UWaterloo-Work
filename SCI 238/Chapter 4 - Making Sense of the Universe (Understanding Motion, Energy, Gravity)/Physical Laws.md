@@ -83,6 +83,7 @@
 		- Hyperbola
 	- Diagram of this: 
 		- ![[Pasted image 20250914135942.png]]
+- Newton's laws of gravity/motion showed that the relationship between 
 ### Center of Mass
 - Momentum conversation allows orbiting objects orbit around their center of mass
-	- Example: Planets with equal mass with have their center of mass in the center, 
+	- Example: Planets with equal mass with have their center of mass in the center, while if one planet weighed more than the other, the center of mass would shift towards the planet that weighed more
