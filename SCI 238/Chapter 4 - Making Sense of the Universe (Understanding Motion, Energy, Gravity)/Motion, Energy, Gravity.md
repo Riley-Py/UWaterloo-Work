@@ -9,4 +9,8 @@
 - *Acceleration*: Rate of change in velocity
 	- (distance/time)/time
 	- Has units of $m/s^2$ 
-- 
+## The Acceleration of Gravity
+- All falling objects at the same rate
+	- Not counting friction of air resistance
+- On Earth, $g = 10 m/s^2$
+	- Speed increases 0
