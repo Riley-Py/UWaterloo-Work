@@ -24,3 +24,7 @@
 	- Formula: $=mvr$ 
 	- Angular momentum can't change unless an external twisting force (torque) acts on it
 	- Earth has no twisting force acting on it as it orbits the Sun, so its rotation and orbit will continue indefinitely
+	- Example: Figure skating, where they bring the arms in together to go faster (angular momentum is conserved, so less radius and same mass is equal to higher velocity)
+## Conservation of Energy
+
+## 
