@@ -111,4 +111,5 @@
 - Difference in Moon's gravitational pull stretches Earth
 
 #### Tides and Phases
-- 
+- The sun has a small tidal effect on the Earth
+- Size of tides depend on [[Paths of Eclipses and Planets|phases of the moon]] 
