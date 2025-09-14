@@ -46,4 +46,9 @@
 ### Temperature Scales
 - Diagram of this: 
 	- ![[Pasted image 20250914134325.png]]
-- Thermal energy is a measure 
+- Thermal energy is a measure of the total kinetic energy of all the particles in a substance.  
+	- Depends on both temperature and density and volume and type of atoms/molecules
+### Gravitational Potential Energy
+- On Earth, depends on:
+	- Object's [[Motion, Energy, Gravity|mass]]
+	- Strength of gravity
