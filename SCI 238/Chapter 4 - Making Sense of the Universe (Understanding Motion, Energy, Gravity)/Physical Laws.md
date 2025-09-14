@@ -106,4 +106,6 @@
 - If an object gains enough orbital energy, it can escape
 	- Change from a bound to unbound orbit
 	- On Earth, it's 11 ${km}/s$ from sea level
-### How 
+### How does Gravity Cause Tides?
+- Moon's gravity pulls harder on near side of Earth than far side
+- Difference in Moon's gravitational pull stretches Earth
