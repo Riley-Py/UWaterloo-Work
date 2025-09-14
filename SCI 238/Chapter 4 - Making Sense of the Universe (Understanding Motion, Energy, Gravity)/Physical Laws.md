@@ -67,3 +67,10 @@
 	- Example: Particle accelerators
 
 # The Universal Law of Gravitation
+
+### What Determines the Strength of Gravity?
+- *Universal Law of gravitation*
+	1. Every mass attracts every other mass
+	2. Attraction is directly proportional to the product of their masses
+	3. Attraction is inversely proportional to the square of the distance between their centers
+	- Formula: $F_g = G {{M_1}}
