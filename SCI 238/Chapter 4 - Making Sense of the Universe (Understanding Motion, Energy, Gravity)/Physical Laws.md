@@ -119,4 +119,8 @@
 - The Moon once orbited faster (or slower)
 	- Friction caused it to "lock" in synchronous rotation
 
-### Why do All Objects Fall at the
+### Why do All Objects Fall at the Same Rate?
+- The gravitational acceleration of an object like a rock does not depend on its mass as it cancels out in the equations
+	- Not well understood until Einstein's General Theory of Relativity
+#sci238 
+#motion_energy_gravity 
