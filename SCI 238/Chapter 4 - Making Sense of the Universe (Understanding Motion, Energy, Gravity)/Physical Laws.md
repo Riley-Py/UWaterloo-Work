@@ -27,4 +27,13 @@
 	- Example: Figure skating, where they bring the arms in together to go faster (angular momentum is conserved, so less radius and same mass is equal to higher velocity)
 ## Conservation of Energy
 
-## 
+### Where do Objects get their Energy?
+- Energy makes matter move
+- Energy is conserved, but
+	- Transfer from one object to another
+	- Change in form
+### Basic Types of Energy
+- *Kinetic* (motion)
+- *Radiative* (light)
+- *Potential* (stored)
+- Energy can change type, but cannot be created/destroyed
