@@ -85,3 +85,4 @@
 		- ![[Pasted image 20250914135942.png]]
 ### Center of Mass
 - Momentum conversation allows orbiting objects orbit around their center of mass
+	- Example: Planets with equal mass with have their center of mass in the center, 
