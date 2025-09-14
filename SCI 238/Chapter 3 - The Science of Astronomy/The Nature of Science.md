@@ -35,3 +35,6 @@
 
 #### Does Astrology have any Scientific Validity?
 - Scientific tests have shown that astrological predictions are no more accurate than we should expect from pure chance
+
+#sci238 
+#science_astronomy 
