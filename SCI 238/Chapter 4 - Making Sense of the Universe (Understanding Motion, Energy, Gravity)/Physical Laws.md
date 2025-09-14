@@ -18,6 +18,9 @@
 - Objects continue at constant velocity because of *Conservation of Momentum*
 	- The total momentum of interacting objects cannot change unless an external force is acting on them
 	- Interacting objects exchange momentum through equal and opposite forces
+	- Formula: $m_1v_1 = m_2v_2$ 
 ### What Keeps a Planet Rotating and Orbiting the Sun?
-- Angular momentum is conserved as Earth orbits the Sun
-	- The closer the planet is to the sun, the 
+- Due to the *Conservation of Angular Momentum*
+	- Formula: $=mvr$ 
+	- Angular momentum can't change unless an external twisting force (torque) acts on it
+	- Earth has no twisting force acting on it as it orbits the Sun, so its rotation and orbit will continue indefinitely
