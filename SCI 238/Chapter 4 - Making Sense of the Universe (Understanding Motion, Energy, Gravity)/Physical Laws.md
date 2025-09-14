@@ -96,4 +96,9 @@
 # Orbits, Tides, Acceleration of Gravity
 
 ### How do Gravity and Energy Together Allow Us to Understand Orbits?
-- Total orbit energy (gravitational + )
+- Total orbit energy (gravitational + kinetic) stays constant if there is no external force
+	- Orbits can't change spontaneously
+	- Total orbital energy stays constant
+#### Changing an Orbit
+- Friction or atmospheric drag
+- Gravitational encounter
