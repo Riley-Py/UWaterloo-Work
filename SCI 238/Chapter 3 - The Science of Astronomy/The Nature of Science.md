@@ -32,3 +32,6 @@
 ### Difference between Astrology and Astronomy
 - *Astronomy* is a science focused on learning about how stars, planets, and other celestial objects work
 - *Astrology* is a search for hidden influences on human lives based on the positions of planets and stars in the sky
+
+#### Does Astrology have any Scientific Validity?
+- Scientific tests have shown that astrological predictions are no more accurate than we should expect from pure chance
