@@ -109,3 +109,6 @@
 ### How does Gravity Cause Tides?
 - Moon's gravity pulls harder on near side of Earth than far side
 - Difference in Moon's gravitational pull stretches Earth
+
+#### Tides and Phases
+- 
