@@ -1,4 +1,4 @@
-## Describing Motion
+# Describing Motion
 
 ### How do we Describe Motion?
 - *Speed*: Rate at which object moves
@@ -14,5 +14,10 @@
 	- Not counting friction of air resistance
 - On Earth, $g = 10 m/s^2$
 	- Speed increases $10 m/s$ with each second of falling
-- [[Challenging an Earth-Centred Model|Galileo]] showed that $g$ is the same for all falling objects, regardless of thei
+- [[Challenging an Earth-Centred Model|Galileo]] showed that $g$ is the same for all falling objects, regardless of their mass
 
+## Momentum and Force
+- *Momentum* = mass x velocity
+	- A *net force* changes momentum, which general means acceleration (change in velocity)
+	- Rotational momentum of a spinning or orbiting object is known as *angular momentum*
+	- 
