@@ -29,4 +29,6 @@
 - Terms in science have different meanings than they do in everyday speech
 	- Examples: model, hypothesis, theory, bias, critical, deviation, enhance, enrich, error, feedback, state, uncertainty, values
 
-## Astrology
+### Difference between Astrology and Astronomy
+- *Astronomy* is a science focused on learning about how stars, planets, and other celestial objects work
+- *Astrology* is a search for hidden influences on human lives based on the positions of planets and stars in the sky
