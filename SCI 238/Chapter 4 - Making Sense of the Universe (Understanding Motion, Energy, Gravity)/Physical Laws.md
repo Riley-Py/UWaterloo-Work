@@ -14,4 +14,8 @@
 
 ## Conservation of Momentum and Conservation of Angular Momentum
 
-##
+### Why do Objects Move at Constant Velocity if no Force Acts on Them?
+- Objects continue at constant velocity because of *Conservation of Momentum*
+	- The total momentum of interacting objects cannot change unless an external force is acting on them
+	- Interacting objects exchange momentum through equal and opposite forces
+	- 
