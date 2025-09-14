@@ -16,4 +16,7 @@
 - Modern science seeks explanations for observed phenomena that rely solely on natural causes
 	- Should all be natural and not supernatural
 #### #2 for Hallmark of Science
-- Science progresses t
+- Science progresses through the creation and testing of models of nature that explain observations as simply as possible
+	- Also known as *Occam's Razor*
+#### #3 for Hallmark of Science
+- A scientific model must make testable predictions about natural phenomena that would force us to revise or abandon the model if the predictions 
