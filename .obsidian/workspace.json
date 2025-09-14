@@ -11,10 +11,14 @@
             "id": "be5c9ba1dae6bf02",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "SCI 238/Chapter 4 - Making Sense of the Universe (Understanding Motion, Energy, Gravity)/Physical Laws.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Physical Laws"
             }
           }
         ]
@@ -49,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#CHE_102",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,12 +175,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6a82a833833d1925",
+  "active": "be5c9ba1dae6bf02",
   "lastOpenFiles": [
+    "SCI 238/Chapter 4 - Making Sense of the Universe (Understanding Motion, Energy, Gravity)/Motion, Energy, Gravity.md",
+    "MSE 261/Cash Flow Analysis.md",
+    "Untitled.base",
+    "Untitled 1.base",
     "SCI 238/Chapter 2 - Discovering the Universe Yourself/Paths of Eclipses and Planets.md",
     "SCI 238/Chapter 4 - Making Sense of the Universe (Understanding Motion, Energy, Gravity)/Physical Laws.md",
     "SCI 238/Chapter 3 - The Science of Astronomy/Challenging an Earth-Centred Model.md",
-    "SCI 238/Chapter 4 - Making Sense of the Universe (Understanding Motion, Energy, Gravity)/Motion, Energy, Gravity.md",
     "SCI 238/Chapter 2 - Discovering the Universe Yourself/Our View of the Sky.md",
     "SCI 238/Images/Pasted image 20250914135942.png",
     "SCI 238/Chapter 3 - The Science of Astronomy/The Nature of Science.md",
@@ -195,7 +201,6 @@
     "SCI 238/Chapter 1 - A Modern View of the Universe/Size of the Universe.md",
     "SCI 238/Chapter 1 - A Modern View of the Universe/A Modern View of the Universe.md",
     "SCI 238/Images/Pasted image 20250913131539.png",
-    "MSE 261/Cash Flow Analysis.md",
     "SCI 238/Chapter 3 - The Science of Astronomy",
     "MSE 261/Images/Pasted image 20250910105403.png",
     "MSE 261/Images/Pasted image 20250910105207.png",
@@ -217,8 +222,6 @@
     "SCI 238/Images",
     "EARTH 121/Week 1",
     "SCI 238/Chapter 1 - A Modern View of the Universe",
-    "SCI 238",
-    "EARTH 121/Images",
     "Untitled.canvas"
   ]
 }
