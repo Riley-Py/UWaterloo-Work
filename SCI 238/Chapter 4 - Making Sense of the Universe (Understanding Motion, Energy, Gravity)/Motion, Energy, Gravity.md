@@ -29,3 +29,8 @@
 ### Weight in Space
 - There is gravity in space
 - Weightlessness is due to constant state of free-fall
+
+## Angular Momentum/Torque
+- *Angular momentum* describes objects that are spinning or moving in circles
+	- A special force called *Torque* is needed to change an object's angular momentum
+- 
