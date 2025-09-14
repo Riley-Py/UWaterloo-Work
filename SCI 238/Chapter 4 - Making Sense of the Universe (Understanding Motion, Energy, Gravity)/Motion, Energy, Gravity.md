@@ -13,4 +13,6 @@
 - All falling objects at the same rate
 	- Not counting friction of air resistance
 - On Earth, $g = 10 m/s^2$
-	- Speed increases 0
+	- Speed increases $10 m/s$ with each second of falling
+- [[Challenging an Earth-Centred Model|Galileo]] showed that $g$ is the same for all falling objects, regardless of thei
+
