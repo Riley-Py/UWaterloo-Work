@@ -52,3 +52,6 @@
 - On Earth, depends on:
 	- Object's [[Motion, Energy, Gravity|mass]]
 	- Strength of gravity
+	- Distance object could potentially fall
+	- Formula: $=mgh$ 
+- In space, 
