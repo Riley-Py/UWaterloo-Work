@@ -20,4 +20,9 @@
 - *Momentum* = mass x velocity
 	- A *net force* changes momentum, which general means acceleration (change in velocity)
 	- Rotational momentum of a spinning or orbiting object is known as *angular momentum*
-	- 
+## Mass and Weight
+
+### How is Mass Different From Weight?
+- *Mass* - A measure of the amount of matter in an object
+- *Weight* - The force that a scale exerts upon an object
+	- Weightless in free-fall 
