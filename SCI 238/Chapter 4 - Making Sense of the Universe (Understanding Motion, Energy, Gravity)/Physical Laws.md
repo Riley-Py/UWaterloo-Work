@@ -44,3 +44,6 @@
 - *Temperature*: average kinetic energy of many particles in a substance
 
 ### Temperature Scales
+- Diagram of this: 
+	- ![[Pasted image 20250914134325.png]]
+- Thermal energy is a measure 
