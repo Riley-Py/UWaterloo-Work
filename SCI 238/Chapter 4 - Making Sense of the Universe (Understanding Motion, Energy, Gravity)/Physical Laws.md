@@ -83,4 +83,5 @@
 		- Hyperbola
 	- Diagram of this: 
 		- ![[Pasted image 20250914135942.png]]
-	- 
+### Center of Mass
+- Momentum conversation allows orbiting objects orbit around their center of mass
