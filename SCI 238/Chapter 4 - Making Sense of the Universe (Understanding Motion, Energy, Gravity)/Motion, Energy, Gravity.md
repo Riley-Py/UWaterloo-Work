@@ -26,3 +26,6 @@
 - *Mass* - A measure of the amount of matter in an object
 - *Weight* - The force that a scale exerts upon an object
 	- Weightless in free-fall 
+### Weight in Space
+- There is gravity in space
+- Weightlessness is due to constant state of free-fall
