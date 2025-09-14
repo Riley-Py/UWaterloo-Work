@@ -102,3 +102,8 @@
 #### Changing an Orbit
 - Friction or atmospheric drag
 - Gravitational encounter
+#### Escape Velocity
+- If an object gains enough orbital energy, it can escape
+	- Change from a bound to unbound orbit
+	- On Earth, it's 11 ${km}/s$ from sea level
+### How 
