@@ -27,4 +27,6 @@
 	- Must be supported by a large, compelling body of evidence
 	- Must not have failed any crucial test of its validity
 - Terms in science have different meanings than they do in everyday speech
-	- Examples
+	- Examples: model, hypothesis, theory, bias, critical, deviation, enhance, enrich, error, feedback, state, uncertainty, values
+
+## Astrology
