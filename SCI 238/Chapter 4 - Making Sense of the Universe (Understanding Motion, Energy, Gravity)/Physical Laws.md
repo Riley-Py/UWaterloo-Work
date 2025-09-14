@@ -54,4 +54,10 @@
 	- Strength of gravity
 	- Distance object could potentially fall
 	- Formula: $=mgh$ 
-- In space, 
+- In space, an object or gas cloud has more gravitational energy when it is spread out than when it contracts
+	- A contracting cloud converts gravitational potential energy to thermal energy
+### Mass-Energy (Nuclear Energy)
+- Mass itself is a form of potential energy
+	- Formula: $E = mc^2$ 
+- A small amount of mass can release a great deal of energy
+	- Example: Hydrogen
