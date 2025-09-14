@@ -37,3 +37,10 @@
 - *Radiative* (light)
 - *Potential* (stored)
 - Energy can change type, but cannot be created/destroyed
+
+### Thermal Energy
+- Collective kinetic energy of many particles
+	- Related to temperature but not the same
+- *Temperature*: average kinetic energy of many particles in a substance
+
+### Temperature Scales
