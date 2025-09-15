@@ -31,5 +31,9 @@
 - Diagram of melting of peridotite:
 	- ![[decompressionmelt.gif]]
 #### Volatiles
+- Fluids/gases lower the melting point of rocks
+- Diagram of this happening to basalt:
+	- ![[volatilemelt.gif]]
+### Where Is Magma Produced Inside Earth?
 - 
 	
