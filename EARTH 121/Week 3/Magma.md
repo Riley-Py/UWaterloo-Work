@@ -35,5 +35,8 @@
 - Diagram of this happening to basalt:
 	- ![[volatilemelt.gif]]
 ### Where Is Magma Produced Inside Earth?
-- 
+- Near tectonic plate boundaries and within plate interiors that are associated with mantle plumes
+- Diagram of where magma is produced in the Earth: 
+	- ![[Pasted image 20250915144638.png]]
+- Magma rises towards the Earth's surface and doesn't sink because 
 	
