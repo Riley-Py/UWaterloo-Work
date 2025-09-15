@@ -30,4 +30,6 @@
 	- ![[parts-and-processes-5.jpg]]
 ### Sedimentary Rock Formation
 - Forms through the *lithification* of sediment (sediment to sedimentary rock)
-	- Transforms 
+	- Transforms loose sediment through *compaction* and *cementation*
+		- *Compaction* - Increasing pressure by adding layers of sediment or overburden on top
+		- *Cementation* - Gluing together sediment by very small crystals/chemical residues
