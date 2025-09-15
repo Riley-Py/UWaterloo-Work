@@ -17,7 +17,7 @@ What I noticed in the video was that initially, when the magma emerged from the 
 	- Has many air bubbles forming and popping, causing the lava to sputter into the air
 ### Answer (under 100 words)
 
-Lava moves across the Earth with a viscous consistency about it.  It isn't runny like vinegar
+Lava moves across the Earth with a viscous consistency about it.  Lava isn't as free-flowing as water, but doesn't move as slow as molasses.  As well, the flow is a bit analogous to a river, as in the video, it showed how the lava was sloshing about, with air bubbles forming and popping, launching the lava into the air in a sputter pattern.  
 
 
 #earth121 
