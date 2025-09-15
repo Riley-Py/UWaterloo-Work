@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SCI 238/Chapter 2 - Discovering the Universe Yourself/Our View of the Sky.md",
+                "file": "EARTH 121/Week 3/Introduction to the Rock Cycle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Our View of the Sky"
+              "title": "Introduction to the Rock Cycle"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "arcminute",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -178,13 +177,15 @@
   },
   "active": "be5c9ba1dae6bf02",
   "lastOpenFiles": [
+    "SCI 238/Chapter 2 - Discovering the Universe Yourself/Our View of the Sky.md",
+    "EARTH 121/Week 3/Introduction to the Rock Cycle.md",
+    "EARTH 121/Week 3",
     "SCI 238/Chapter 2 - Discovering the Universe Yourself/Paths of Eclipses and Planets.md",
     "SCI 238/Chapter 3 - The Science of Astronomy/The Historical Importance of Astronomy.md",
     "SCI 238/Chapter 3 - The Science of Astronomy/The Nature of Science.md",
     "SCI 238/Chapter 3 - The Science of Astronomy/Challenging an Earth-Centred Model.md",
     "SCI 238/Chapter 2 - Discovering the Universe Yourself/Variations in the Sky.md",
     "SCI 238/Chapter 2 - Discovering the Universe Yourself/Seasons on Earth.md",
-    "SCI 238/Chapter 2 - Discovering the Universe Yourself/Our View of the Sky.md",
     "SCI 238/Chapter 1 - A Modern View of the Universe/A Modern View of the Universe.md",
     "SCI 238/Chapter 1 - A Modern View of the Universe/Size of the Universe.md",
     "SCI 238/Chapter 1 - A Modern View of the Universe/Age of and Motion Within the Universe.md",
@@ -222,7 +223,6 @@
     "SCI 238/Chapter 2 - Discovering the Universe Yourself",
     "SCI 238/Images",
     "EARTH 121/Week 1",
-    "SCI 238/Chapter 1 - A Modern View of the Universe",
     "Untitled.canvas"
   ]
 }
