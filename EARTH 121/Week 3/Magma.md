@@ -38,5 +38,8 @@
 - Near tectonic plate boundaries and within plate interiors that are associated with mantle plumes
 - Diagram of where magma is produced in the Earth: 
 	- ![[Pasted image 20250915144638.png]]
-- Magma rises towards the Earth's surface and doesn't sink because 
+- Magma rises towards the Earth's surface and doesn't sink because magma is less dense than the surrounding rocks and the weight of the overlying rocks helps to squeeze magma upwards
+	- Diagram of this happening: 
+		- ![[divergant-plate.jpg]]
+	
 	
