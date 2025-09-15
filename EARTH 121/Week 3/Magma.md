@@ -42,4 +42,4 @@
 	- Diagram of this happening: 
 		- ![[divergant-plate.jpg]]
 	
-	
+	#earth121 
