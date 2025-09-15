@@ -13,4 +13,6 @@
 	- Happens in Earth, in the Lithosphere (crust/upper mantle)
 	- Igneous rocks are always included in the Rock Cycle
 		- Example: Granite, basalt, peridotite describe the continental crust, oceanic crust, and upper mantle, respectively
-- 
+- Magma doesn't occur everywhere below Earth's surface; only in certain geologic settings
+- Melting has three factors to it:
+	- *Temperature* - 
