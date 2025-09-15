@@ -57,4 +57,10 @@
 ### Where are Metamorphic Rocks Produced?
 - Form beneath Earth's surface in extreme conditions with high temperatures, pressures, or hot fluids
 	- Makes it difficult to understand the rock
-- 
+- Seven environments are available for this rock to form
+	- *Contact* - around igneous intrusions
+	- *Regional* - Large areas during mountain building
+	- *Burial* - Deep sedimentary basins
+	- *Hydrothermal* - Near mid-ocean ridges or hot intrusions
+	- *Dynamic* - Fault and shear zones
+	- *Shock* - Meter
