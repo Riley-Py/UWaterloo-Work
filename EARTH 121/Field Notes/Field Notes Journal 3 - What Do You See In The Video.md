@@ -14,7 +14,10 @@ What I noticed in the video was that initially, when the magma emerged from the 
 
 - Viscous in consistency
 - Flows almost like a river
-	- Has many air bubbles forming and popping,
+	- Has many air bubbles forming and popping, causing the lava to sputter into the air
+### Answer (under 100 words)
+
+Lava moves across the Earth with a viscous consistency about it.  It isn't runny like vinegar
 
 
 #earth121 
