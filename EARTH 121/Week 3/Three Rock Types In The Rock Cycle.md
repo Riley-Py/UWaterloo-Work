@@ -46,4 +46,10 @@
 - One quarter of the Earth's crust is composed of this rock
 	- Diagram of this: 
 		- ![[relative-abundance.jpg]]
-### Connection to other parts of the Rock C
+### Connection to other parts of the Rock Cycle
+- Diagram of this:
+	- ![[parts-and-processes-6.jpg]]
+- Connected to every other part of the rock cycle
+
+### How do Metamorphic Rocks Form?
+- Through a process called *metamorphose*
