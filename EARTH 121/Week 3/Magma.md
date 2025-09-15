@@ -26,5 +26,10 @@
 - Diagram of melting:
 	- ![[heatmelt.gif]]
 #### Pressure
-- Pr
+- Increases with depth in the Earth, which limits melting created by temperature
+	- However, if hot rock is carried to shallow depths and pressure decreases through *decompression*, melting can occur
+- Diagram of melting of peridotite:
+	- ![[decompressionmelt.gif]]
+#### Volatiles
+- 
 	
