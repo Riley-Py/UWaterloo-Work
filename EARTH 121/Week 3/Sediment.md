@@ -1,1 +1,6 @@
 - Loose, solid particles
+	- Described as *unconsolidated* as sedimentary grains or particles are separate and unattached to one another
+	- Rocks are described as *consolidated*, as they are a solid, coherent mass of material made up of smaller components
+- Highly variable
+- May contain individual, separated rocks, or rock fragments
+- Rocks may contain sediment that is attached together to create a rock
