@@ -41,4 +41,9 @@
 	- *Sedimentary basins* are where the exposed rock on the continents that are broken down end up
 		- Diagram of this: 
 			- ![[cumulative-sediment.jpg]]
-		- 
+		- Rich in oil and gas resources
+## Metamorphic Rocks
+- One quarter of the Earth's crust is composed of this rock
+	- Diagram of this: 
+		- ![[relative-abundance.jpg]]
+### Connection to other parts of the Rock C
