@@ -15,3 +15,6 @@
 - Both on the surface and inside Earth where magma is cooling and solidifying
 - Also forms under Earth's surface and are hidden from view
 	- Geoscientists use sound waves to image the subsurface to find bodies of magma
+	- Diagram of a volcano, which is a main producer of igneous rocks:
+		- ![[volcano.jpg]]
+- Global distribution of igneous rock formation on Earth's surface can be approximated by mapping active volcanoes on continents/ocean floor
