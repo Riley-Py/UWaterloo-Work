@@ -1,5 +1,4 @@
 
-## Magma
 - Molten material found in the Earth
 - Includes liquid, gas, and solid parts
 - Often believed to be the beginning of the Rock Cycle, but it isn't
@@ -14,5 +13,8 @@
 	- Igneous rocks are always included in the Rock Cycle
 		- Example: Granite, basalt, peridotite describe the continental crust, oceanic crust, and upper mantle, respectively
 - Magma doesn't occur everywhere below Earth's surface; only in certain geologic settings
-- Melting has three factors to it:
-	- *Temperature* - 
+
+### Three Factors that Affect Melting
+
+#### Temperature
+- 
