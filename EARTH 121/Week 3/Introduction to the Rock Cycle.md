@@ -12,4 +12,4 @@
 ## What is the Rock Cycle?
 - Describes Earth's natural recycling of material in the Earth System
 - No beginning and end to the cycle; goes on forever
-- Can be described as a system with a cert
+- Can be described as a system with a certain number of parts that are connected by processes
