@@ -8,7 +8,7 @@
 
 ### Answer (under 100 words)
 
-What I noticed in the video was that initially, when the magma emerged from the volcan
+What I noticed in the video was that initially, when the magma emerged from the volcano to become lava, it was runny and had a bright orange/red hue to it.  However, continuing on, it started to get very dark, and the consistency of the lava turned viscous in consistency, with air bubbles getting created and destroyed frequently.  
 
 ## Does the lava move across the Earth's Surface? 
 
