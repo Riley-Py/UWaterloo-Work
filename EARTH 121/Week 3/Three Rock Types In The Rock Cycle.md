@@ -18,3 +18,10 @@
 	- Diagram of a volcano, which is a main producer of igneous rocks:
 		- ![[volcano.jpg]]
 - Global distribution of igneous rock formation on Earth's surface can be approximated by mapping active volcanoes on continents/ocean floor
+- Formed away from plate boundaries in areas of hot spots where magma is associated with mantle plumes cool and solidify
+
+## Sedimentary Rocks
+- Most common rock on the Earth's surface
+	- Diagram of t
+- Important as they contain natural resources like natural gas, coals, and salts, and also provide a historical record to previous climates, processes, and life
+- 
