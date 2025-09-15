@@ -15,4 +15,9 @@
 - Formed as a result of biological processes
 	- Can be composed of plants/animals or contain evidence of past life
 	- Also called *bioclastic*, as it's similar to detrital sediment but has an organic origin
-	- Also called *biochemical*, as it can be similar to chemical 
+	- Also called *biochemical*, as it can be similar to chemical sediment and has an organic origin
+- Produced in world's oceans from microorganisms
+
+#### Detrital Sediment
+- Formed from pre-existing material, composed of fragmented rock and mineral debris
+	- Also known as *clastic*
