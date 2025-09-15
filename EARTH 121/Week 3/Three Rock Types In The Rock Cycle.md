@@ -22,6 +22,12 @@
 
 ## Sedimentary Rocks
 - Most common rock on the Earth's surface
-	- Diagram of t
+	- Diagram of this: 
+		- ![[relative-rock-types.jpg]]
 - Important as they contain natural resources like natural gas, coals, and salts, and also provide a historical record to previous climates, processes, and life
-- 
+### Connection to Other Parts of the Rock Cycle
+- Diagram of this:
+	- ![[parts-and-processes-5.jpg]]
+### Sedimentary Rock Formation
+- Forms through the *lithification* of sediment (sediment to sedimentary rock)
+	- Transforms 
