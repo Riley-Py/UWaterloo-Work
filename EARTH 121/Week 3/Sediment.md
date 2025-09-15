@@ -8,6 +8,9 @@
 
 ### Three Sediment Types
 
+- Diagram of where you can find them
+	- ![[types-of-sediment.jpg]]
+
 #### Chemical Sediment
 - Formed from precipitation of minerals from a solution (sea water)
 	- Example: Goderich and salt mines, where the salt is used to keep roads and walkways free of ice
@@ -20,4 +23,10 @@
 
 #### Detrital Sediment
 - Formed from pre-existing material, composed of fragmented rock and mineral debris
-	- Also known as *clastic*
+	- Also known as *clastic* (individual grains or *clasts*)
+	- *Detrital* describes the formation of this sediment
+- Found all across Earth's surface
+
+### Is Sediment Connected to Other Parts In The Rock Cycle?
+- Connected to all parts of the rock cycle except to magma
+	- Can be pro
