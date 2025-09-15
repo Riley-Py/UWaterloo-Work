@@ -10,4 +10,7 @@
 		- ![[Pasted image 20250915142441.png]]
 ### How is Magma Produced
 - Forms from the process of melting
-	- Happens 
+	- Happens in Earth, in the Lithosphere (crust/upper mantle)
+	- Igneous rocks are always included in the Rock Cycle
+		- Example: Granite, basalt, peridotite describe the continental crust, oceanic crust, and upper mantle, respectively
+- 
