@@ -29,4 +29,10 @@
 
 ### Is Sediment Connected to Other Parts In The Rock Cycle?
 - Connected to all parts of the rock cycle except to magma
-	- Can be pro
+	- Can be produced by all three rock types and is important in the formation of sedimentary rock
+- Diagram of this
+	- ![[parts-and-processes-3.jpg]]
+
+### How is Sediment Produced?
+- Produced through the process called *sedimentation*
+- 
