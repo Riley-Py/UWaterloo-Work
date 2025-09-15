@@ -33,3 +33,6 @@
 	- Transforms loose sediment through *compaction* and *cementation*
 		- *Compaction* - Increasing pressure by adding layers of sediment or overburden on top
 		- *Cementation* - Gluing together sediment by very small crystals/chemical residues
+	- Diagram of this happening:
+		- ![[compaction-cementation.jpg]]
+##
