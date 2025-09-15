@@ -35,4 +35,10 @@
 		- *Cementation* - Gluing together sediment by very small crystals/chemical residues
 	- Diagram of this happening:
 		- ![[compaction-cementation.jpg]]
-##
+### Where are Sedimentary Rocks Produced?
+- Produced under the Earth's surface where sediments are buried
+	- Thickest accumulations are in the oceans
+	- *Sedimentary basins* are where the exposed rock on the continents that are broken down end up
+		- Diagram of this: 
+			- ![[cumulative-sediment.jpg]]
+		- 
