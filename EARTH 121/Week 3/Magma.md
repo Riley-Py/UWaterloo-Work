@@ -17,4 +17,8 @@
 ### Three Factors that Affect Melting
 
 #### Temperature
-- 
+- Rises with increasing depth below Earth's surface
+- Rocks with higher temperature have increased likelihood of melting
+	- Weight of overlying rocks increases the pressure to limit melting with high temperatures
+		- Explains why Earth's inner core is solid and magma is limited below Earth's surface
+- Magma carries mantle heat that raises temperature and contributes to me
