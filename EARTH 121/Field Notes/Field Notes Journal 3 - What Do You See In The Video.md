@@ -8,10 +8,13 @@
 
 ### Answer (under 100 words)
 
-What I noticed in the video was that initially, when the magma emerged from the volcano to become lava, it was runny and had a bright orange/red hue to it.  However, continuing on, it started to get very dark, and the consistency of the lava turned viscous in consistency, with air bubbles getting created and destroyed frequently.  
+What I noticed in the video was that initially, when the magma emerged from the volcano to become lava, it was runny and had a bright orange/red hue to it.  However, continuing on, it started to get very dark, and the consistency of the lava turned viscous in consistency, with air bubbles getting created and destroyed frequently.  The lava also had a certain level of being uncontrollable, like a dam being broken and being overtaken by the river currents.
 
-## Does the lava move across the Earth's Surface? 
+## How Does the lava move across the Earth's Surface? 
 
+- Viscous in consistency
+- Flows almost like a river
+	- Has many air bubbles forming and popping,
 
 
 #earth121 
