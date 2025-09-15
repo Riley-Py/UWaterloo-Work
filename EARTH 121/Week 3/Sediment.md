@@ -45,3 +45,5 @@
 
 ### Where is Sediment Produced?
 - At/near the Earth's surface by the process above this
+	- Weathering is caused by *mechanical* (disintegration of rock; frost expanding a rock to crack it) or *chemical* (decomposition of rock; hydrolysis where rock reacts with water to produce clay)
+		- Biological activity can also play a role as well
