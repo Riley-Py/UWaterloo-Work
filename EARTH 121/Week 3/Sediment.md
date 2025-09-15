@@ -40,3 +40,8 @@
 	3. *Transportation* - Transport of sediment from source to deposition site (actual movement by water, ice, wind)
 	4. *Deposition* - Accumulation of sediment released from transport system (settle by gravity or precipitate from solution or related to organism)
 - Diagram of this:
+	- ![[phases-of-sedimentation.jpg]]
+- *Uplift* can be included as many rocks form underground and need to be exposed to conditions that break down those rocks
+
+### Where is Sediment Produced?
+- At/near the Earth's surface by the process above this
