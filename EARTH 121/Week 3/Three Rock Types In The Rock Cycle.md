@@ -52,4 +52,8 @@
 - Connected to every other part of the rock cycle
 
 ### How do Metamorphic Rocks Form?
-- Through a process called *metamorphose*
+- Through a process called *metamorphose* (changing forms)
+	- Due to temperature, pressure, tectonic stresses, and hot reactive fluids
+### Where are Metamorphic Rocks Produced?
+- Form beneth Earth's surface in extreme conditions with high temperatures, pressures, or hot fluids
+	- H
