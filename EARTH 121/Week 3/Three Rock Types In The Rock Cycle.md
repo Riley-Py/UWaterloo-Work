@@ -4,7 +4,7 @@
 - Doesn't contain clues from a previous stage or stages in the Rock Cycle
 - They make up the majority of the Earth's crust
 	- Diagram of this: 
-		- ![[relative-abundance.jpg]]
+		- ![[relative-abundance 1.jpg]]
 ### Connection to Other Parts of the Rock Cycle
 - Diagram of this:
 	- ![[parts-and-processes-4.jpg]]
@@ -45,7 +45,7 @@
 ## Metamorphic Rocks
 - One quarter of the Earth's crust is composed of this rock
 	- Diagram of this: 
-		- ![[relative-abundance.jpg]]
+		- ![[relative-abundance 1.jpg]]
 ### Connection to other parts of the Rock Cycle
 - Diagram of this:
 	- ![[parts-and-processes-6.jpg]]
@@ -55,5 +55,6 @@
 - Through a process called *metamorphose* (changing forms)
 	- Due to temperature, pressure, tectonic stresses, and hot reactive fluids
 ### Where are Metamorphic Rocks Produced?
-- Form beneth Earth's surface in extreme conditions with high temperatures, pressures, or hot fluids
-	- H
+- Form beneath Earth's surface in extreme conditions with high temperatures, pressures, or hot fluids
+	- Makes it difficult to understand the rock
+- 
