@@ -10,4 +10,8 @@
 	- ![[parts-and-processes-4.jpg]]
 ### Igneous Rock Formation
 - Formed through *crystallization* 
-	- 
+	- Converts magma to igneous rock with forming solid crystals from a liquid
+### Where Are Igneous Rocks Produced?
+- Both on the surface and inside Earth where magma is cooling and solidifying
+- Also forms under Earth's surface and are hidden from view
+	- Geoscientists use sound waves to image the subsurface to find bodies of magma
