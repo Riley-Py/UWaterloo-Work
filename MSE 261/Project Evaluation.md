@@ -36,4 +36,10 @@
 - *Capitalized cost* - represents present value of annual costs over infinite analysis period
 	- When annual costs remain constant, capitalized cost simplifies to present value of a uniform cash flow series over infinite time periods
 ## University Endowment
-- Universities spend a fixed % of endowment returns (not principal)
+- Universities spend a fixed % of endowment returns (not principal) each year for teaching, research, student services
+- Major share goes to scholarships, fellowships, and tuition assistance, reducing student costs
+	- Also maintains libraries, museums, facilities, and new construction of buildings
+- Provides steady revenue stream during economic downturns
+	- Not relying solely on tuition/government grants
+- Some endowment is earmarked by donors
+	- Example: Only for medical research or scholarships in a spec
