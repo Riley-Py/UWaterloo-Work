@@ -47,4 +47,4 @@
 - Grown from smaller levels in early 1990s to $50B+ in recent times
 - Return rate over 20 years is 8-10% 
 - Harvard distributes ("payout") around 5-5.5% of the market value of endowment
-- 
+	- In the 2024 fiscal year, Harvard distributed 
