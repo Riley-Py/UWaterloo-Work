@@ -47,4 +47,8 @@
 - Grown from smaller levels in early 1990s to $50B+ in recent times
 - Return rate over 20 years is 8-10% 
 - Harvard distributes ("payout") around 5-5.5% of the market value of endowment
-	- In the 2024 fiscal year, Harvard distributed 
+	- In the 2024 fiscal year, Harvard distributed $2.4 billion from its endowment, which accounted for over $1/3$ of Harvard's total operating income
+## Internal Rate of Return
+- Frequently used approaches in project evaluation
+- Assesses the relative size of cash flows compared to initial investment
+	- Example: A project generating $30 000 profit after one year might seem good, but this changes depending on if you invested $100 000 
