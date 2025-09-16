@@ -14,4 +14,6 @@
 	- Job losses, interest rate hikes, market downturns
 - Leverage amplifies gains *and* losses equally
 - Some people thrive on risk and calculated leverage, while others prefer stability and lower exposure
-- Financial success depends on m
+- Financial success depends on matching debt to risk tolerance/discipline
+
+## P
