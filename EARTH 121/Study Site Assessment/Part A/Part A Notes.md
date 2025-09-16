@@ -10,4 +10,4 @@
 - Nearby water bodies _(as applicable)_
 - Nearby parks _(as applicable)_
 - Either describe or use a figure to indicate the boundaries of your site
-### Answer to each bullet point 
+### Answer to each bullet point (along with images)
