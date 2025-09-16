@@ -22,4 +22,11 @@
 - Using [[Cash Flow Analysis|cash flows]], we can construct PW or AW of each project
 	- Need to take project life into consideration with mutually exclusive projects
 #### Equal Project Lives
-- When alternatives have identical time frames, 
+- When alternatives have identical time frames, choose the option with higher PW or AW
+
+#### Different Project Lives
+- Choose the alternative with higher AW
+- If using PW, create a common analysis period to make projects with different time frames comparable
+
+#### Infinite Analysis Period
+- Apply the capitalized cost formula for projects requiring perpetual m
