@@ -42,4 +42,9 @@
 - Provides steady revenue stream during economic downturns
 	- Not relying solely on tuition/government grants
 - Some endowment is earmarked by donors
-	- Example: Only for medical research or scholarships in a spec
+	- Example: Only for medical research or scholarships in a specific field
+### Harvard Case
+- Grown from smaller levels in early 1990s to $50B+ in recent times
+- Return rate over 20 years is 8-10% 
+- Harvard distributes ("payout") around 5-5.5% of the market value of endowment
+- 
