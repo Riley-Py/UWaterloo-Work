@@ -29,4 +29,7 @@
 - If using PW, create a common analysis period to make projects with different time frames comparable
 
 #### Infinite Analysis Period
-- Apply the capitalized cost formula for projects requiring perpetual m
+- Apply the capitalized cost formula for projects requiring perpetual maintenance, such as government infrastructure
+
+## Infinite Service Lives: Capitalized Cost
+- 
