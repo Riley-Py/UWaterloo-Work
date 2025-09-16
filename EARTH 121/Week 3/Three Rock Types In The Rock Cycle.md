@@ -63,4 +63,7 @@
 	- *Burial* - Deep sedimentary basins
 	- *Hydrothermal* - Near mid-ocean ridges or hot intrusions
 	- *Dynamic* - Fault and shear zones
-	- *Shock* - Meter
+	- *Shock* - Meteorite impact sites
+	- *Subduction Zone* - Subducting oceanic crust
+
+#earth121 
