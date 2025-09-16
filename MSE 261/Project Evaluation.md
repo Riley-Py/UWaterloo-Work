@@ -32,4 +32,8 @@
 - Apply the capitalized cost formula for projects requiring perpetual maintenance, such as government infrastructure
 
 ## Infinite Service Lives: Capitalized Cost
-- 
+- Government projects (bridges, pipelines, public utilities) require maintenance for infinite periods
+- *Capitalized cost* - represents present value of annual costs over infinite analysis period
+	- When annual costs remain constant, capitalized cost simplifies to present value of a uniform cash flow series over infinite time periods
+## University Endowment
+- Universities spend a fixed % of endowment returns (not principal)
