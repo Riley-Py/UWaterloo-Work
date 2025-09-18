@@ -11,4 +11,4 @@
 - Nearby parks _(as applicable)_
 - Either describe or use a figure to indicate the boundaries of your site
 ### Answer to each bullet point (along with images and sources)
-- 70 hectares (0.7 ${km}^2$) is the size of Giant's Causeway ([]())
+- 70 hectares (0.7 ${km}^2$) is the size of Giant's Causeway ([source](https://giantscauseway.ccght.org/about-the-world-heritage-site/))
