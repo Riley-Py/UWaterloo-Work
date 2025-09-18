@@ -25,3 +25,6 @@
 	- ![[WHS-Map.jpg]]
 ## 2. Briefly List and Justify your Reasons for Selecting the Particular Site
 
+### Answer
+- It met all of the criteria that was stated in the outline
+- Found it neat that the place was featured in *Game of Thrones*
