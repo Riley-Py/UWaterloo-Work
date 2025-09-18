@@ -16,4 +16,4 @@
 - Relative Location is in Northern Ireland, United Kingdom, 25 miles northeast of Londonderry ([source](https://www.britannica.com/place/Giants-Causeway))
 	- Diagram: 
 		- ![[Screenshot 2025-09-18 115820.png]]
-- Key landmarks are 
+- Key landmarks at the site would be the hexagonal basalt stones as they are unique in shape and haven't been seen anywhere else.  
