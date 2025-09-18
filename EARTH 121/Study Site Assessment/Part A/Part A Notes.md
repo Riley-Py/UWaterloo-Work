@@ -28,6 +28,9 @@
 ### Answer
 - It met all of the criteria that was stated in the outline
 	- Site is attached to Earth's crust
-	- Only 2.3 ${km^2}$ in 
+	- Only 2.3 ${km^2}$ in space
+	- Does have a site boundary
+	- Features only basalt rock
+	- Has a known geologic age, as 
 - Found it neat that the place was near the filming spot for *Game of Thrones*, one of my favorite book series 
 - 
