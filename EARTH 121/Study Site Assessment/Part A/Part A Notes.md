@@ -46,7 +46,7 @@
 
 ### Image 2
 ![[Screenshot 2025-09-18 at 15-32-05 mg20_4_2023_268_holidaygeology_waltham_giants_causeway_2.pdf.png]]
-
+[Source](https://www.emgs.org.uk/uploads/1/4/9/1/149143154/mg20_4_2023_268_holidaygeology_waltham_giants_causeway_2.pdf)
 
 ### Image 3
 ![[Pasted image 20250918152935.png]]
