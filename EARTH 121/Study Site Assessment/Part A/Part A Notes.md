@@ -14,4 +14,6 @@
 - 70 hectares (0.7 ${km}^2$) is the size of Giant's Causeway ([source](https://giantscauseway.ccght.org/about-the-world-heritage-site/))
 - Coordinates are 55.24 Latitude, -6.51 Longitude ([source](https://www.latlong.net/place/the-giant-s-causeway-antrim-northern-ireland-uk-30859.html))
 - Relative Location is in Northern Ireland, United Kingdom, 25 miles northeast of Londonderry ([source](https://www.britannica.com/place/Giants-Causeway))
-	- 
+	- Diagram: 
+		- ![[Screenshot 2025-09-18 115820.png]]
+- Key landmarks are 
