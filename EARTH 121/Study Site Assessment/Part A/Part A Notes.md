@@ -31,6 +31,9 @@
 	- Only 2.3 ${km^2}$ in space
 	- Does have a site boundary
 	- Features only basalt rock
-	- Has a known geologic age, as 
+	- Has a known geologic age (Paleogene Period)
+	- Formed by lava, so not man-made
+	- Not glacial or fluvial origin
+	- Lots of information available from sources like Encyclopedia Britannica and the Northern Ireland official website about the history and geology of the site
 - Found it neat that the place was near the filming spot for *Game of Thrones*, one of my favorite book series 
-- 
+- Fascinating that the rock formation be
