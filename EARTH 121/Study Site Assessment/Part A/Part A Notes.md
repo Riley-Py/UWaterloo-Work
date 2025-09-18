@@ -27,4 +27,7 @@
 
 ### Answer
 - It met all of the criteria that was stated in the outline
-- Found it neat that the place was featured in *Game of Thrones*
+	- Site is attached to Earth's crust
+	- Only 2.3 ${km^2}$ in 
+- Found it neat that the place was near the filming spot for *Game of Thrones*, one of my favorite book series 
+- 
