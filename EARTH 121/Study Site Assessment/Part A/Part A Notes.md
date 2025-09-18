@@ -20,4 +20,8 @@
 - Closest population centers include Bushmills village (2 miles), Coleraine (11 miles) and Ballycastle (13 miles) [source](https://www.nationaltrust.org.uk/visit/northern-ireland/giants-causeway)
 - In Northern Ireland, which is part of the United Kingdom and borders on Ireland and over the sea, is near England and Wales [source](https://www.britannica.com/place/Northern-Ireland) 
 - The nearby water body for my site would be the North Atlantic Ocean
-- 
+- Has many trails around the geological site, but no parks
+- Figure for the boundary of site: 
+	- ![[WHS-Map.jpg]]
+## 2. Briefly List and Justify your Reasons for Selecting the Particular Site
+
