@@ -36,4 +36,5 @@
 	- Not glacial or fluvial origin
 	- Lots of information available from sources like Encyclopedia Britannica and the Northern Ireland official website about the history and geology of the site
 - Found it neat that the place was near the filming spot for *Game of Thrones*, one of my favorite book series 
-- Fascinating that the rock formation be
+- Fascinating that the rock formation were in a hexagonal format, which is unlike anything that I've seen before.  Typically, it's merely volcanoes that I see.
+- 
