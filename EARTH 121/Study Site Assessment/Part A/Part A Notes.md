@@ -19,4 +19,5 @@
 - Key landmarks at the site would be the hexagonal basalt stones as they are unique in shape and haven't been seen anywhere else.  
 - Closest population centers include Bushmills village (2 miles), Coleraine (11 miles) and Ballycastle (13 miles) [source](https://www.nationaltrust.org.uk/visit/northern-ireland/giants-causeway)
 - In Northern Ireland, which is part of the United Kingdom and borders on Ireland and over the sea, is near England and Wales [source](https://www.britannica.com/place/Northern-Ireland) 
+- The nearby water body for my site would be the North Atlantic Ocean
 - 
