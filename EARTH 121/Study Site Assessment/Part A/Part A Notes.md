@@ -11,11 +11,11 @@
 - Nearby parks _(as applicable)_
 - Either describe or use a figure to indicate the boundaries of your site
 ### Answer to each bullet point (along with images and sources)
-- 70 hectares (0.7 ${km}^2$) is the size of Giant's Causeway ([source](https://giantscauseway.ccght.org/about-the-world-heritage-site/))
+- 70 hectares (0.7 ${km}^2$) is the size of Giant's Causeway on land, while for the entire site, it's 230 hectares (2.3 ${km^2}$) ([source](https://giantscauseway.ccght.org/about-the-world-heritage-site/))
 - Coordinates are 55.24 Latitude, -6.51 Longitude ([source](https://www.latlong.net/place/the-giant-s-causeway-antrim-northern-ireland-uk-30859.html))
 - Relative Location is in Northern Ireland, United Kingdom, 25 miles northeast of Londonderry ([source](https://www.britannica.com/place/Giants-Causeway))
 	- Diagram: 
 		- ![[Screenshot 2025-09-18 115820.png]]
 - Key landmarks at the site would be the hexagonal basalt stones as they are unique in shape and haven't been seen anywhere else.  
-- Closest population centers include Bushmills villiage (2 miles), Coleraine (11 miles) and Ballycastle (13 miles) [source](https://www.nationaltrust.org.uk/visit/northern-ireland/giants-causeway)
+- Closest population centers include Bushmills village (2 miles), Coleraine (11 miles) and Ballycastle (13 miles) [source](https://www.nationaltrust.org.uk/visit/northern-ireland/giants-causeway)
 - 
