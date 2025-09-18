@@ -45,3 +45,6 @@
 [Source](https://iugs-geoheritage.org/geoheritage_sites/the-paleocene-volcanic-rocks-of-the-giants-causeway-and-causeway-coast/) 
 
 ### Image 2
+![[1-s2.0-s0016787821000729-gr2.jpg]]
+
+
