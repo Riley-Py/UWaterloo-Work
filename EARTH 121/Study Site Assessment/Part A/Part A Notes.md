@@ -1,7 +1,7 @@
-## Location Chosen:  The Stone Forest (China)
+## Location Chosen:  Giant's Causeway (Northern Ireland)
 
 ## 1. Describe the location
-- Size of the site (either length of outcrop or area in units squared
+- Size of the site (either length of outcrop or area in units squared)
 - Coordinates (latitude, longitude)
 - Relative location
 - Key landmarks (e.g. at the base of ______ mountain) _(as applicable)_
@@ -11,3 +11,4 @@
 - Nearby parks _(as applicable)_
 - Either describe or use a figure to indicate the boundaries of your site
 ### Answer to each bullet point (along with images)
+- 
