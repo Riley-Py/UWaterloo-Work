@@ -51,3 +51,14 @@
 ### Image 3
 ![[Pasted image 20250918152935.png]]
 [source](https://mapapps2.bgs.ac.uk/gsni_geoindex/home.html) 
+
+
+## Final Response
+
+(Title: Location: Giant's Causeway)
+
+(insert figure of giant's causeway with caption "giant's causeway", along with reference)
+
+(text starts)
+
+Giant's Causeway is located in Northern Ireland, UK.  The size of Giant's Caus  
