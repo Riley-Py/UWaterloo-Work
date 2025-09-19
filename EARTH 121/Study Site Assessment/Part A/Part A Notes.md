@@ -69,4 +69,4 @@ Giant's Causeway is located in Northern Ireland, UK.  The size of the site is 70
 
 (title: Reasons for choosing this site)
 
-There are several reasons why I chose this specific site to do my assessment on.  For starters, 
+There are several reasons why I chose this specific site to do my assessment on.  For starters, it met all of the criteria that was outlined by the 
