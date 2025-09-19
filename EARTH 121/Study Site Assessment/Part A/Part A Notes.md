@@ -59,6 +59,14 @@
 
 (insert figure of giant's causeway with caption "giant's causeway", along with reference)
 
-(text starts)
+(paragraph 1 text starts)
 
-Giant's Causeway is located in Northern Ireland, UK.  The size of the site is 70 hectares (0.7 km^2) on land, but including the sea, this size gets extended to 230 hectares (2.3 km^2) (insert source here).  The coordinates of Giant's Causeway on Earth are 55.24 Latitude, -6.51 Longitude (insert source here).  The relative location of the site is about 40 km northeast of Londonberry (insert image with caption "Map that shows where Giant's Causeway is relative to everything else).  The main key landmark of Giant's Causeway would be the hexagonal basalt stones that line the shoreline, as that is something that has never been seen elsewhere before in the world.  The closest population centers to Giant's Causeway would be Bushmill village (3.2 km), followed by Coleraine (17.7 km) and Bally Castle (21 km) (insert source here).  The site is located in Northern Ireland, part of the United Kingdom.  Northern Ireland borders on Ireland and over the sea to the main land, Wales and England are present.  The nearest waterbody for Giant's Causeway would be the North Atlantic Ocean.  There are no parks near Giant's Causeway; however, there are many trails that run through the site for tourists to experience.  
+(title: Description of Site)
+
+Giant's Causeway is located in Northern Ireland, UK.  The size of the site is 70 hectares (0.7 km^2) on land, but including the sea, this size gets extended to 230 hectares (2.3 km^2) (insert source here).  The coordinates of Giant's Causeway on Earth are 55.24 Latitude, -6.51 Longitude (insert source here).  The relative location of the site is about 40 km northeast of Londonberry (insert image with caption "Map that shows where Giant's Causeway is relative to everything else).  The main key landmark of Giant's Causeway would be the hexagonal basalt stones that line the shoreline, as that is something that has never been seen elsewhere before in the world.  The closest population centers to Giant's Causeway would be Bushmill village (3.2 km), followed by Coleraine (17.7 km) and Bally Castle (21 km) (insert source here).  The site is located in Northern Ireland, part of the United Kingdom.  Northern Ireland borders on Ireland and over the sea to the main land, Wales and England are present.  The nearest waterbody for Giant's Causeway would be the North Atlantic Ocean.  There are no parks near Giant's Causeway; however, there are many trails that run through the site for tourists to experience.  Below is the boundary of Giant's Causeway (insert image, along with caption "Boundary of Giant's Causeway" and source)
+
+(paragraph 2 starts)
+
+(title: Reasons for choosing this site)
+
+There are several reasons why I chose this specific site to do my assessment on.  For starters, 
