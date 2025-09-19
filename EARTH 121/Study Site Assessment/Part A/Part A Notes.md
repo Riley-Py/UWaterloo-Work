@@ -55,10 +55,10 @@
 
 ## Final Response
 
-(Title: Location: Giant's Causeway)
+(Title: Location: Giant's Causeway, Northern Ireland, UK)
 
 (insert figure of giant's causeway with caption "giant's causeway", along with reference)
 
 (text starts)
 
-Giant's Causeway is located in Northern Ireland, UK.  The size of Giant's Caus  
+Giant's Causeway is located in Northern Ireland, UK.  The size of Giant's Causeway is 70 hectares (0.7 km^2) on land, but including the sea, this size gets extended to 230 hectares (2.3 km^2) (insert source here).  The coordinates of Giant's Causeway on Earth are 55.24 Lat
