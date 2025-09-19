@@ -69,4 +69,12 @@ Giant's Causeway is located in Northern Ireland, UK.  The size of the site is 70
 
 (title: Reasons for choosing this site)
 
-There are several reasons why I chose this specific site to do my assessment on.  For starters, it met all of the criteria that was outlined by the 
+There are several reasons why I chose this specific site to do my assessment on.  For starters, it met all of the criteria that was outlined by the requirements:
+1. The site is attached to the Earth's crust
+2. Only 2.3 km^2 max in size
+3. Has a clear site boundary as shown in the figure above
+4. Features primarily one rock type (basalt)
+5. Has a known geologic age (Palogene Period) (insert source)
+6. Formed by lava, so not man-made
+7. Not glacial nor of fluvial origin
+8. 
