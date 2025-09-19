@@ -77,4 +77,5 @@ There are several reasons why I chose this specific site to do my assessment on.
 5. Has a known geologic age (Palogene Period) (insert source)
 6. Formed by lava, so not man-made
 7. Not glacial nor of fluvial origin
-8. 
+8. Lots of information from reputable sources, such as the Encyclopedia Britannica, Ireland's official website, and other journals about the geology of Giant's Causeway
+Another reason why I chose this site was because it's near the site of where HBO filmed *Game of Thrones*, which I think is great as that universe describes Nordic landscapes that one can dream of going, and I thought that doing Giant's Causeway would 
