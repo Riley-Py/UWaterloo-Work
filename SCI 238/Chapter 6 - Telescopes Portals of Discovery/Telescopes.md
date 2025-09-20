@@ -2,7 +2,9 @@
 ## Light-Collecting Area
 - Telescopes with a larger collecting area can gather a greater amount of light in a shorter time
 - A telescope's diameter tells us its light-collecting area
-	- Formula: $A = \pi({d \over 2})$ 
+	- Formula: $A = \pi({d \over 2})^2$ 
+- Largest optical telescopes currently in use have a diameter of about 10 meters
 
 ## Angular Resolution
 - Telescopes that are larger are capable of taking images with greater detail
+- The *minimum* angular separation that the telescope can distinguish
