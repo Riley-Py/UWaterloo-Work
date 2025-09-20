@@ -1,3 +1,6 @@
+
+## Light in Everyday Life
+
 ### How do we Experience Light?
 - Sunlight tells us that light is a form of energy
 - Flow of energy in light is measured in *watts*, where 1 watt is 1 joule/s
@@ -14,4 +17,8 @@
 - Reflection/scattering
 	- Example: Mirror reflects light in a particular direction, or a movie screen scatters light in all directions
 ### Interactions of Light with Matter
-- Example: 
+- Diagram:
+	![[Pasted image 20250920113205.png]]
+
+## Properties of Light
+
