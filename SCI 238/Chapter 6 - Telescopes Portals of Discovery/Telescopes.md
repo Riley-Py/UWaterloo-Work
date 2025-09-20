@@ -14,3 +14,10 @@
 	- Known as *diffraction limit*
 - Formula for this (in radians): $$1.22 \times {{light \space wavelength} \over {primary \space diameter}}$$
 - Conversion from radians to degrees: $2\pi \space {degrees} = 360 \space {degrees}$ 
+
+### What are the Two Basic Designs of Telescopes?
+- *Refracting telescopes* - Focuses light with lenses
+- *Reflecting telescopes* - Focuses light with mirrors
+
+#### Refracting 
+- Need to be very long, with large, heavy lenses
