@@ -9,3 +9,5 @@
 ## Chemical Fingerprints
 - Each atom has unique energy levels
 - Each transition corresponds to a unique photon energy, frequency, and wavelength
+- Downward transitions produce unique patter of emission lines
+
