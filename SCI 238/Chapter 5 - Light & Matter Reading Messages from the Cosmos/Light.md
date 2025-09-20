@@ -32,4 +32,6 @@
 - *Wavelength* - distance between two wave peaks
 - *Frequency* - number of times per second that a wave vibrates up and down
 	- Wave speed = wavelength x frequency
-- 
+### Light: Electromagnetic Waves
+- A *light wave* is a vibration of electric and magnetic fields
+- Light interacts with charged particles through these electric/magnetic fields
