@@ -32,3 +32,6 @@
 - *Law 2: Wien's Law*
 	- Formula: $$\lambda_{max} = {29000000 \over {T(Kelvin \space scale)}}mm$$
 - Where $\lambda_{max}$ is wavelength (in nanometers) of maximum intensity, which is the peak of a thermal radiation spectrum
+
+## Doppler Effect
+- 
