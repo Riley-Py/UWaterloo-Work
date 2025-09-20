@@ -12,4 +12,6 @@
 	- Transparent transmit light
 	- Opaque blocks (absorbs) light
 - Reflection/scattering
-	- Example: Mirror reflects light in a particular direction, or a movie screen scatters light in all direction
+	- Example: Mirror reflects light in a particular direction, or a movie screen scatters light in all directions
+### Interactions of Light with Matter
+- Example: 
