@@ -18,3 +18,6 @@
 	- CCD detectors in digital cameras is similar to those used in modern telescopes
 ### Image Processing
 - Astronomers use computer software to combine, sharpen, or refine images
+
+#sci238 
+#telescopes 
