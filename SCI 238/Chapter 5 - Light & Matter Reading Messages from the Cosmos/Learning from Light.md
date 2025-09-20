@@ -26,4 +26,5 @@
 ### Properties of Thermal Radiation
 - Hotter objects emit more light at all frequencies per unit area
 - Hotter objects emit photons with a higher average energy
+- *Law 1* - 
 
