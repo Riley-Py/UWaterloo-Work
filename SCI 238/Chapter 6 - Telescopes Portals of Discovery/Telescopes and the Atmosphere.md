@@ -21,3 +21,4 @@
 ### How do we Observe Invisible Light?
 - A standard satellite dish is a telescope for observing radio waves
 - *Radio telescope* - Giant mirror that reflect radio waves to a focus
+- *Infrared/ultraviolet* - Operate like visible-light telescopes, but need to be above atmosphere to see all wavelengths
