@@ -22,3 +22,8 @@
 
 ## Properties of Light
 
+### What is Light?
+- Can act either like a wave or like a particle
+	- Particles of light are called *photons*
+### Waves
+- Pattern of motion that can carry energy without carrying matter along with it
