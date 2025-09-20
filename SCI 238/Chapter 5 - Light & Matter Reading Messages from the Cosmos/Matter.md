@@ -9,4 +9,7 @@
 - *Atomic Mass Number* - # of protons + neutrons
 - *Molecules* - two or more atoms
 - Diagram of this: 
-	- 
+	- ![[Pasted image 20250920115953.png]]
+- *Isotopes* - same # of protons, but different # of neutrons
+	- Diagram of this:
+		- ![[Pasted image 20250920120110.png]]
