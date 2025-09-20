@@ -15,4 +15,8 @@
 	- ![[Pasted image 20250920122923.png]]
 - Each type of atom has a unique spectral fingerprint
 	- Observation of the fingerprints in a spectrum tells us which kind of atoms are present
+### Energy Levels of Molecules
+- Have additional energy levels since they can vibrate and rotate
+- Large number of vibrational and rotational energy levels make the spectra of molecules very complicated
+	- Many of these molecular transitions are in the infrared part of the spectrum
 
