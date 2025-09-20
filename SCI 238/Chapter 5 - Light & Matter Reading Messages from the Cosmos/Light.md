@@ -52,5 +52,9 @@
 ### Polarized Sunglasses
 - *Polarization* - direction in which light wave is vibrating
 	- Reflection/scattering can change the polarization of light
-- Polarized sunglasses block light that reflects off the 
+- Polarized sunglasses block light that reflects off of horizontal surfaces
 
+### The Electromagnetic Spectrum
+- Diagram of this:
+	- ![[Pasted image 20250920115119.png]]
+- 
