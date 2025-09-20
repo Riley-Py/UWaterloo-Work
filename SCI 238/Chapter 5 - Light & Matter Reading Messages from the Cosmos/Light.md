@@ -39,4 +39,10 @@
 ### Wavelength and Frequency
 - Diagram of this;
 	- ![[Pasted image 20250920114027.png]]
-- 
+### Particles of Light
+- Each photon has a wavelength and a frequency
+	- Energy of photon depends on frequency
+
+### Wavelength, Frequency, Energy
+- Formula for speed of light: $$\lambda \times f = c$$
+	- 
