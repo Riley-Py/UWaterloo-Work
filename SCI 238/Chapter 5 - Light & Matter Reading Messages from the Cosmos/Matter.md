@@ -13,3 +13,11 @@
 - *Isotopes* - same # of protons, but different # of neutrons
 	- Diagram of this:
 		- ![[Pasted image 20250920120110.png]]
+## Phases of Matter
+
+### What are the Phases of Matter?
+- Phases:
+	1. *Solid* (ice)
+	2. *Liquid* (water)
+	3. *Gas* (water vapour)
+- Phases of the same material behave differently because of dif
