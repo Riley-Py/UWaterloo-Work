@@ -12,4 +12,5 @@
 - Larger telescopes are capable of greater resolution because there's less interference
 - The rings in capturing a star come from interference of light wave
 	- Known as *diffraction limit*
-- Formula for this (in radians): $
+- Formula for this (in radians): $$1.22 \times {{light \space wavelength} \over {primary \space diameter}}$$
+- Conversion from radians to degrees: $2\pi \space {degrees} = 360 \space {degrees}$ 
