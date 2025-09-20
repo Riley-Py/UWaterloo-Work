@@ -19,4 +19,11 @@
 - Have additional energy levels since they can vibrate and rotate
 - Large number of vibrational and rotational energy levels make the spectra of molecules very complicated
 	- Many of these molecular transitions are in the infrared part of the spectrum
+## Thermal Radiation
+- All large/dense objects emit thermal radiation (planets, stars, humans)
+- Thermal radiation spectrum depends on only one property: *Temperature*
+
+### Properties of Thermal Radiation
+- Hotter objects emit more light at all frequencies per unit area
+- Hotter objects emit photons with a higher average energy
 
