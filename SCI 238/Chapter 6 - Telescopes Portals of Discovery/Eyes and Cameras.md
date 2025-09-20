@@ -14,4 +14,7 @@
 
 ### Recording Images
 - A camera focuses light like an eye and captures the image with a detector
-- Digital cameras detect light with 
+- Digital cameras detect light with charge-coupled devices (CCD)
+	- CCD detectors in digital cameras is similar to those used in modern telescopes
+### Image Processing
+- Astronomers use computer software to combine, sharpen, or refine images
