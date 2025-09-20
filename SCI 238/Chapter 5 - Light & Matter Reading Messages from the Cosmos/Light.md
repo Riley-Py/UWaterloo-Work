@@ -27,3 +27,9 @@
 	- Particles of light are called *photons*
 ### Waves
 - Pattern of motion that can carry energy without carrying matter along with it
+
+### Properties of Waves
+- *Wavelength* - distance between two wave peaks
+- *Frequency* - number of times per second that a wave vibrates up and down
+	- Wave speed = wavelength x frequency
+- 
