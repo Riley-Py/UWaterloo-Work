@@ -32,4 +32,9 @@
 - *Time Monitoring* - measuring how light output varies with time
 
 #### Imaging
-- Astronomical detectors re
+- Astronomical detectors record only one color of light at a time
+	- Several images must be combined to make a full color image
+- Astronomical detectors can record forms of light our eyes can't see
+	- Color is sometimes used to represent different energies of non-visible light
+#### Spectroscopy
+- 
