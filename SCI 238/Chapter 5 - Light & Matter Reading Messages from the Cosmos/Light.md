@@ -35,3 +35,8 @@
 ### Light: Electromagnetic Waves
 - A *light wave* is a vibration of electric and magnetic fields
 - Light interacts with charged particles through these electric/magnetic fields
+
+### Wavelength and Frequency
+- Diagram of this;
+	- ![[Pasted image 20250920114027.png]]
+- 
