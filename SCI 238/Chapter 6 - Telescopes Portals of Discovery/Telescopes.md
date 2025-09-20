@@ -25,3 +25,11 @@
 #### Reflecting
 - Can have much greater diameters
 - Modern telescopes are of this type
+
+### What do Astronomers Do With Telescopes?
+- *Imaging* - taking pictures of the sky
+- *Spectroscopy* - breaking light into spectra
+- *Time Monitoring* - measuring how light output varies with time
+
+#### Imaging
+- Astronomical detectors re
