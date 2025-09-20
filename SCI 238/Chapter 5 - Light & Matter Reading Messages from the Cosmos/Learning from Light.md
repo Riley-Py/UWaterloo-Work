@@ -30,5 +30,5 @@
 	- Formula: $$\sigma T^4$$
 	- Where $\sigma$ is $5.7 \times 10^{-8}$watts/($m^2 \times K^4$) and $T$ is on the Kelvin scale ($K$)
 - *Law 2: Wien's Law*
-	- Formula: $$\lambda_{max} = {29000000 \over {T(Kelvin \space scale)}}
-
+	- Formula: $$\lambda_{max} = {29000000 \over {T(Kelvin \space scale)}}mm$$
+- Where $\lambda_{max}$ is wavelength (in nanometers) of maximum intensity, which is the peak of a thermal radiation spectrum
