@@ -43,3 +43,7 @@
 
 ### Rotation Rates
 - Different Doppler shifts from different sides of a rotation object spread out its spectral lines
+- Spectral lines are wider when an object rotates faster
+
+#sci238 
+#light_matter 
