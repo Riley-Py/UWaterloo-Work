@@ -20,4 +20,10 @@
 	1. *Solid* (ice)
 	2. *Liquid* (water)
 	3. *Gas* (water vapour)
-- Phases of the same material behave differently because of dif
+- Phases of the same material behave differently because of differences in chemical bonds
+
+### Phase Changes
+- *Ionization* - Stripping electrons, changing atoms to *plasma*
+- *Dissociation* - breaking molecules into atoms
+- *Evaporation* - breaking flexible chemical bonds, changing liquid into gas
+- *Melting* - breaking of rigid chemical bonds, changing solid into liquid
