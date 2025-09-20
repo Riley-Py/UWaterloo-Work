@@ -10,3 +10,6 @@
 - The *minimum* angular separation that the telescope can distinguish
 - Ultimate limit to resolution comes from interference of light waves within a telescope
 - Larger telescopes are capable of greater resolution because there's less interference
+- The rings in capturing a star come from interference of light wave
+	- Known as *diffraction limit*
+- Formula for this (in radians): $
