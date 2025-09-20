@@ -8,3 +8,5 @@
 ## Angular Resolution
 - Telescopes that are larger are capable of taking images with greater detail
 - The *minimum* angular separation that the telescope can distinguish
+- Ultimate limit to resolution comes from interference of light waves within a telescope
+- Larger telescopes are capable of greater resolution because there's less interference
