@@ -42,3 +42,6 @@
 
 #### Time Monitoring
 - A *light curve* represents a series of brightness measurements made over a period of time
+
+#sci238 
+#telescopes 
