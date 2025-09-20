@@ -13,5 +13,6 @@
 - Upward transitions produce a pattern of absorption lines at the same wavelengths
 - Diagram of this: 
 	- ![[Pasted image 20250920122923.png]]
-- 
+- Each type of atom has a unique spectral fingerprint
+	- Observation of the fingerprints in a spectrum tells us which kind of atoms are present
 
