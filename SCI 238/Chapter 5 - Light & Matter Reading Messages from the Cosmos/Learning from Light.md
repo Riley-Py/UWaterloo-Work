@@ -6,4 +6,6 @@
 - *Absorption Line Spectrum* - A cloud of gas between us and a light bulb can absorb light of specific wavelengths, leaving dark absorption lines in the spectrum
 - Diagram of this:
 	- ![[Pasted image 20250920122251.png]]
-- 
+## Chemical Fingerprints
+- Each atom has unique energy levels
+- Each transition corresponds to a unique photon energy, frequency, and wavelength
