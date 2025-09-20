@@ -57,4 +57,4 @@
 ### The Electromagnetic Spectrum
 - Diagram of this:
 	- ![[Pasted image 20250920115119.png]]
-- 
+- Visible light only makes a small amount of visible light
