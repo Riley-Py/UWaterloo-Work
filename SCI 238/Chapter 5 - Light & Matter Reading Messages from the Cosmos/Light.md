@@ -48,6 +48,7 @@
 - $\lambda$ is wavelength, $f$ is frequency, and $c$ is speed of light ($3.00 \times 10^6 {m \over s}$)
 - Formula for photon energy: $$E = h \times f$$
 - $h$ is Planck's constant ($6.626 \times 10^{-34}$ joules)
+- Formula for photon energy with wavelength involved is: $$E = h \times c \div \lambda $$
 
 ### Polarized Sunglasses
 - *Polarization* - direction in which light wave is vibrating
@@ -58,3 +59,6 @@
 - Diagram of this:
 	- ![[Pasted image 20250920115119.png]]
 - Visible light only makes a small amount of visible light
+
+#sci238 
+#light_matter
