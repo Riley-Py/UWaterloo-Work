@@ -11,3 +11,7 @@
 ### Image Formation
 - The focal plane is where light from different directions come into focus
 - The image behind a single (convex) lens is upside-down
+
+### Recording Images
+- A camera focuses light like an eye and captures the image with a detector
+- Digital cameras detect light with 
