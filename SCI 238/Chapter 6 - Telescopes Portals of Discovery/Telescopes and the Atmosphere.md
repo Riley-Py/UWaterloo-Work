@@ -13,4 +13,8 @@
 - Changes the shape of a telescope's mirror compensates for some of the effects of turbulence
 
 ### Why do we put Telescopes into Space?
+- Only radio and visible light pass easily through Earth's atmosphere
+- We need telescopes in space to observe other forms of light
+
+## Using Multiple Telescopes Together
 - 
