@@ -11,3 +11,6 @@
 
 ### Adaptive Optics
 - Changes the shape of a telescope's mirror compensates for some of the effects of turbulence
+
+### Why do we put Telescopes into Space?
+- 
