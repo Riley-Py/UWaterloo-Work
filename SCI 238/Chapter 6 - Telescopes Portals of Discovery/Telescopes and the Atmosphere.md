@@ -22,3 +22,4 @@
 - A standard satellite dish is a telescope for observing radio waves
 - *Radio telescope* - Giant mirror that reflect radio waves to a focus
 - *Infrared/ultraviolet* - Operate like visible-light telescopes, but need to be above atmosphere to see all wavelengths
+- *X-Ray Telescopes* - need to be above the atmosphere to work (can't penetrate atmosphere); focusing of X-rays requires special mirrors and the mirrors are arranged to focus X-ray photons through grazing bounc
