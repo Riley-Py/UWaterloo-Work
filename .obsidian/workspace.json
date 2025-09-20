@@ -11,12 +11,14 @@
             "id": "be5c9ba1dae6bf02",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "EARTH 121/Study Site Assessment/Part A/EARTH 121 - Site Assessment Part A - Giant's Causeway.pdf"
+                "file": "SCI 238/Chapter 5 - Light & Matter Reading Messages from the Cosmos/Light.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "EARTH 121 - Site Assessment Part A - Giant's Causeway"
+              "icon": "lucide-file",
+              "title": "Light"
             }
           }
         ]
@@ -176,6 +178,8 @@
   "active": "be5c9ba1dae6bf02",
   "lastOpenFiles": [
     "EARTH 121/Study Site Assessment/Part A/Part A Notes.md",
+    "SCI 238/Chapter 5 - Light & Matter Reading Messages from the Cosmos/Light.md",
+    "SCI 238/Chapter 5 - Light & Matter Reading Messages from the Cosmos",
     "EARTH 121/Study Site Assessment/Part A/EARTH 121 - Site Assessment Part A - Giant's Causeway.pdf",
     "EARTH 121/Study Site Assessment/Part A/mso4F19.tmp",
     "EARTH 121/Week 1/Introduction.md",
@@ -219,7 +223,6 @@
     "Untitled.base",
     "Untitled 1.base",
     "SCI 238/Chapter 4 - Making Sense of the Universe (Understanding Motion, Energy, Gravity)",
-    "SCI 238/Chapter 3 - The Science of Astronomy",
     "Untitled.canvas"
   ]
 }
