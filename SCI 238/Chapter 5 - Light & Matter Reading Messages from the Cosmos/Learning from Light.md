@@ -38,4 +38,5 @@
 	- Measured from shifts in wavelengths of spectral lines
 
 ### Measuring the Shift
-- The amount of blueshift (moving towards you) or redshift (moving away from you) 
+- The amount of blueshift (moving towards you) or redshift (moving away from you) tells us an object's speed toward or away from us
+- Only tells about an object's motion toward or away from us
