@@ -10,4 +10,8 @@
 - Each atom has unique energy levels
 - Each transition corresponds to a unique photon energy, frequency, and wavelength
 - Downward transitions produce unique patter of emission lines
+- Upward transitions produce a pattern of absorption lines at the same wavelengths
+- Diagram of this: 
+	- ![[Pasted image 20250920122923.png]]
+- 
 
