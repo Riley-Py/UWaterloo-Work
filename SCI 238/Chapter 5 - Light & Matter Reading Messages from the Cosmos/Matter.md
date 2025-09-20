@@ -27,3 +27,5 @@
 - *Dissociation* - breaking molecules into atoms
 - *Evaporation* - breaking flexible chemical bonds, changing liquid into gas
 - *Melting* - breaking of rigid chemical bonds, changing solid into liquid
+- Diagram of this:
+	- 
