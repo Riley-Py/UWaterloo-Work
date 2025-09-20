@@ -49,3 +49,8 @@
 - Formula for photon energy: $$E = h \times f$$
 - $h$ is Planck's constant ($6.626 \times 10^{-34}$ joules)
 
+### Polarized Sunglasses
+- *Polarization* - direction in which light wave is vibrating
+	- Reflection/scattering can change the polarization of light
+- Polarized sunglasses block light that reflects off the 
+
