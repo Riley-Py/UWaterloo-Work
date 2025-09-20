@@ -31,3 +31,8 @@
 ### Phases and Pressure
 - Phase depends on both temperature and pressure
 	- More than one phase is present at one time
+
+## How Atoms Store Energy?
+
+### Energy Level Transitions
+- Only allowed changes in energy are those corresponding to a transition between energy levels
