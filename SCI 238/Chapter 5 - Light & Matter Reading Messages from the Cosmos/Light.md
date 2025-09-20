@@ -47,4 +47,5 @@
 - Formula for speed of light: $$\lambda \times f = c$$
 - $\lambda$ is wavelength, $f$ is frequency, and $c$ is speed of light ($3.00 \times 10^6 {m \over s}$)
 - Formula for photon energy: $$E = h \times f$$
-- $h$ is Planck's constant ($6.626 )
+- $h$ is Planck's constant ($6.626 \times 10^{-34}$ joules)
+
