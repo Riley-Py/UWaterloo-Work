@@ -17,7 +17,8 @@
 - We need telescopes in space to observe other forms of light
 
 ## Using Multiple Telescopes Together
-- *Interferometry*
+- *Interferometry* - technique of linking two or more telescopes so they have the angular resolution of a single large telescope
+	- Easy to do with radio telescopes
 ### How do we Observe Invisible Light?
 - A standard satellite dish is a telescope for observing radio waves
 - *Radio telescope* - Giant mirror that reflect radio waves to a focus
