@@ -6,3 +6,8 @@
 	- High (less atmosphere)
 	- Dark (far from city lights)
 	- Dry (few cloudy nights)
+### Light Pollution
+- Scattering of human-made light in atmosphere is an issue for astronomy
+
+### Adaptive Optics
+- Changes the shape of a telescope's mirror compensates for some of the effects of turbulence
