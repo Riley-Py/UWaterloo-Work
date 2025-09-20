@@ -37,4 +37,4 @@
 - Astronomical detectors can record forms of light our eyes can't see
 	- Color is sometimes used to represent different energies of non-visible light
 #### Spectroscopy
-- 
+- A spectrograph separates the different wavelengths of light before they hit the detector
