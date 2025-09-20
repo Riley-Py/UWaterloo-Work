@@ -38,3 +38,7 @@
 	- Color is sometimes used to represent different energies of non-visible light
 #### Spectroscopy
 - A spectrograph separates the different wavelengths of light before they hit the detector
+- Graphing relative brightness of light at each wavelength shows the details in a spectrum
+
+#### Time Monitoring
+- A *light curve* represents a series of brightness measurements made over a period of time
