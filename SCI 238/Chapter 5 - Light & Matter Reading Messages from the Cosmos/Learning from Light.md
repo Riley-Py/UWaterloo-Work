@@ -40,3 +40,6 @@
 ### Measuring the Shift
 - The amount of blueshift (moving towards you) or redshift (moving away from you) tells us an object's speed toward or away from us
 - Only tells about an object's motion toward or away from us
+
+### Rotation Rates
+- Different Doppler shifts from different sides of a rotation object spread out its spectral lines
