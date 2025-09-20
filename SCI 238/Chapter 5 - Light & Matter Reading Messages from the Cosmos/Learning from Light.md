@@ -34,4 +34,4 @@
 - Where $\lambda_{max}$ is wavelength (in nanometers) of maximum intensity, which is the peak of a thermal radiation spectrum
 
 ## Doppler Effect
-- 
+- An appar
