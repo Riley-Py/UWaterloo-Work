@@ -22,3 +22,6 @@
 #### Refracting 
 - Need to be very long, with large, heavy lenses
 	- Due to focal length and how to focus the light
+#### Reflecting
+- Can have much greater diameters
+- Modern telescopes are of this type
