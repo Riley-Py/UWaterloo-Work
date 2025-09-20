@@ -34,4 +34,8 @@
 - Where $\lambda_{max}$ is wavelength (in nanometers) of maximum intensity, which is the peak of a thermal radiation spectrum
 
 ## Doppler Effect
-- An appar
+- An apparent change in frequency of a wave caused by relative motion between the wave's source and an observer
+	- Measured from shifts in wavelengths of spectral lines
+
+### Measuring the Shift
+- The amount of blueshift (moving towards you) or redshift (moving away from you) 
