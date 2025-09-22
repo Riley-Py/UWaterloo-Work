@@ -53,4 +53,11 @@
 ## Boundaries
 - Igneous/metamorphic rock textures are crystalline with interlocking crystals
 	- Like a jigsaw
-- Sedimentary rock textures are clastic with discrite 
+- Sedimentary rock textures are clastic with discrete particulate material (mineral crystals/rock fragments) held together with cement/crystalline
+- Diagram of this: 
+	- ![[Pasted image 20250922123523.png]]
+## Size
+- Used in all three rock types
+
+### Igneous 
+- 
