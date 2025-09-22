@@ -58,6 +58,7 @@
 	- ![[Pasted image 20250922123523.png]]
 ## Size
 - Used in all three rock types
-
 ### Igneous 
-- 
+- Classified by whether a person can see a crystal with their eye or with a microscope
+	- Small/no crystals - fast rate of crystallization above Earth's surface (*apahntic texture*)
+	- Medium/large crystals - slow rate of crystallization below Earth's surface (*phaneritic texture*)
