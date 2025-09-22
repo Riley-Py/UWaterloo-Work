@@ -15,4 +15,13 @@
 - Recognized visually by the crystal form 
 - Hard (7 on Moh's Hardness Scale)
 - Reflect light at various angles
-	- Due to conchoidal fracture or smoothed curved surfaces
+	- Due to conchoidal fracture (doesn't follow plane of separation) or smoothed curved surfaces
+- Transparent
+- Photo of Quartz:
+	- ![[quartz.png]]
+### Feldspars
+- 2 planes of cleavage at 90 degrees that form edges
+- Opaque 
+- Hard (7 on Moh's Hardness Scale)
+- Two types of feldspar occur:
+	- *Orthoclase* - salmon pink in color
