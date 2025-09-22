@@ -10,4 +10,4 @@ Source: [ducksters](https://www.ducksters.com/science/rocks.php)
 
 ## Impact of Incomplete Rock Cycle (example of Systems Thinking) (300 Words Max)
 
-The impact of an incomplete rock cycle for learning about the systems 
+The impact of an incomplete rock cycle for learning about the systems of the Earth is substantial.  The original 
