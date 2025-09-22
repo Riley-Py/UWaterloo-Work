@@ -8,4 +8,4 @@ Source: [ducksters](https://www.ducksters.com/science/rocks.php)
 
 ![[annotated_image.png]]
 
-## 
+## Impact of Incomplete Rock Cycle (example of Systems Thinking) 
