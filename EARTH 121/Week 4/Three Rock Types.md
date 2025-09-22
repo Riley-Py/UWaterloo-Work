@@ -8,4 +8,6 @@
 # What Are The Compositional Similarities and Differences Among Rock Groups?
 - Chart of common minerals of each of the three rock types, where similar minerals are aligned in common rows to compare rock types:
 	- ![[Pasted image 20250922121614.png]]
-- 
+- These 11 minerals are called *Earth's rock-forming minerals* 
+- 5 common minerals are found in the three rock types
+	- Important due to how much of the mineral there is on Earth
