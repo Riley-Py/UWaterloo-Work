@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cement",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -175,7 +176,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "059c515cd4110e39",
+  "active": "6a82a833833d1925",
   "lastOpenFiles": [
     "EARTH 121/Images/Pasted image 20250922121614.png",
     "EARTH 121/Week 4/Rock Classification.md",
