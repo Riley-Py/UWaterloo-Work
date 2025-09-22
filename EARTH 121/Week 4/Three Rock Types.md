@@ -11,6 +11,8 @@
 - These 11 minerals are called *Earth's rock-forming minerals* 
 - 5 common minerals are found in the three rock types
 	- Important due to how much of the mineral there is on Earth
+- Less common minerals among rock types to differentiate rock types
+	- 
 ### Quartz
 - Recognized visually by the crystal form 
 - Hard (7 on Moh's Hardness Scale)
@@ -36,4 +38,5 @@
 - Easily scratched (2-3 on Moh's Hardness Scale)
 	- Diagram of *Muscovite* (pale brown, yellow, or colourless)
 		-![[muscovite.jpg]]
-	- Diagram of **
+	- Diagram of *Biotite* (black and glossy)
+		- ![[biotite 1.jpg]]

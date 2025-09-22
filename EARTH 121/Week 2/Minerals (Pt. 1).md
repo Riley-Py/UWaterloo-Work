@@ -9,11 +9,11 @@
 		- *Ferromagnesium silicates* - darker colored, higher specific gravity
 			- Example: Biotite, which is black/brown/dark green and has a specific gravity of 3.0
 			- Photo of biotite
-				- ![[biotite.jpg]]
+				- ![[biotite 1.jpg]]
 		- *Non-ferromagnesium silicates* - ligher colored, lower specific gravity
 			- Example: Muscovite, which is white/beige/yellow and has a specific gravity of 2.8
 			- Photo of muscovite:
-				- ![[muscovite.jpg]]
+				- ![[muscovite 1.jpg]]
 	- *Specific gravity* - density of a substance compared to the density of water
 - Biotite and muscovite belong to the same mineral family called the *Mica group*, despite having different properties
 	- Can easily be split apart due to the sheet structure of the mineral
