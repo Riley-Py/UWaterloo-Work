@@ -12,3 +12,13 @@
 	- *Igneous rocks* - formed by crystalization of magma in subsurface or lava on Earth's surface
 	- *Sedimentary rocks* - formed by [[Introduction to the Rock Cycle|lithification]] and cementation of sediments (products of pre-existing igneous, sedimentary, or metamorphic rock)
 	- *Metamorphic rock* - formed by heat, pressure, or chemically active fluids (*metamorphism*)
+
+### Characteristics of the Different Rock Types
+
+#### Igneous Rock
+- Interlocking mineral crystals (crystalline texture) in hand sample
+	- Can be any grain size
+- Intrusive bodies that cut across layers of bedrock (i.e. dyke) in outcrop
+
+#### Sedimentary Rock
+- Individual particles of fragmented minerals, rocks, and potentially fossils held together by 
