@@ -21,4 +21,8 @@
 - Intrusive bodies that cut across layers of bedrock (i.e. dyke) in outcrop
 
 #### Sedimentary Rock
-- Individual particles of fragmented minerals, rocks, and potentially fossils held together by 
+- Individual particles of fragmented minerals, rocks, and potentially fossils held together by [[Rocks|cement]] 
+- Horizontal layers or presence of sedimentary structures within layers (i.e. ripple marks) in outcrop
+#### Metamorphic Rock
+- Interlocking mineral crystals with parallel alignment of platy minerals (foliated texture)
+- Relatively bent, distorted, or folded layers in outcrop
