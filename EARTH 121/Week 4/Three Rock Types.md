@@ -72,4 +72,7 @@
 
 ### Sedimentary
 - Classified by size of particles in clastic and size of mineral crystals in chemical 
-	- *Clastic* - specific ranges of particle sizes in millimeters
+	- *Clastic* - specific ranges of particle sizes in millimeters, which indicates energy conditions during sedimentation
+## Shape
+- Less commonly used for classification
+- In igneous rocks, a frag
