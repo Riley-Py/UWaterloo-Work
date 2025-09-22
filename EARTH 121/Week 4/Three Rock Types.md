@@ -67,3 +67,9 @@
 ### Metamorphic
 - Classified by general size
 	- Very fine mineral crystals cannot be seen by the naked eye
+	- Fine and coarse mineral crystals can be seen by naked eye
+- Relatively fine crystals indicate lower grade of metamorphism, while coarse crystals indicate higher grade of metamorphism
+
+### Sedimentary
+- Classified by size of particles in clastic and size of mineral crystals in chemical 
+	- *Clastic* - specific ranges of particle sizes in millimeters
