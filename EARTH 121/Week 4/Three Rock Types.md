@@ -80,7 +80,7 @@
 - Used to classify metamorphic rocks
 - *Foliation* - a planar type of texture
 - Three types of foliation shown:
-	- 
+	- ![[Pasted image 20250922125301.png]]
 
 ### Slate Cleavage
 - Rock splits along parallel planes
@@ -92,3 +92,5 @@
 
 ### Gneissic
 - Visible banding of alternating layers of equigranular minerals (quartz/feldspar) and platy minerals that include mica that are aligned
+
+#earth121 
