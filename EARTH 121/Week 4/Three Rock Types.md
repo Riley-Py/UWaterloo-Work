@@ -75,4 +75,8 @@
 	- *Clastic* - specific ranges of particle sizes in millimeters, which indicates energy conditions during sedimentation
 ## Shape
 - Less commonly used for classification
-- In igneous rocks, a frag
+
+## Arrangement/Distribution
+- Used to classify metamorphic rocks
+- *Foliation* - a planar type of texture
+- Two types 
