@@ -26,3 +26,5 @@
 #### Metamorphic Rock
 - Interlocking mineral crystals with parallel alignment of platy minerals (foliated texture)
 - Relatively bent, distorted, or folded layers in outcrop
+
+#earth121 
