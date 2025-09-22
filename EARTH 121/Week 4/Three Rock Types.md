@@ -79,11 +79,16 @@
 ## Arrangement/Distribution
 - Used to classify metamorphic rocks
 - *Foliation* - a planar type of texture
-- Three types of foliation shown 
+- Three types of foliation shown:
+	- 
 
 ### Slate Cleavage
 - Rock splits along parallel planes
 - Due to parallel alignment of many microscopic platy minerals
 
 ### Schistosity
-- 
+- Comprised of platy minerals that are easily seen by naked eye
+- In parallel and sub-parallel alignment
+
+### Gneissic
+- Visible banding of alternating layers of equigranular minerals (quartz/feldspar) and platy minerals that include mica that are aligned
