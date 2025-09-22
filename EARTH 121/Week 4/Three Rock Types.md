@@ -47,4 +47,10 @@
 		- ![[biotite 1.jpg]]
 
 # What Are Textural Similarities + Differences Among Rock Groups
+- Texture depends upon the components that it comprises
+- When looking at texture, geoscientists use the following components below
 
+## Boundaries
+- Igneous/metamorphic rock textures are crystalline with interlocking crystals
+	- Like a jigsaw
+- Sedimentary rock textures are clastic with discrite 
