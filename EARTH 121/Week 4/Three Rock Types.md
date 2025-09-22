@@ -60,5 +60,10 @@
 - Used in all three rock types
 ### Igneous 
 - Classified by whether a person can see a crystal with their eye or with a microscope
-	- Small/no crystals - fast rate of crystallization above Earth's surface (*apahntic texture*)
+	- Small/no crystals - fast rate of crystallization above Earth's surface (*aphantic texture*)
 	- Medium/large crystals - slow rate of crystallization below Earth's surface (*phaneritic texture*)
+- Similar composition, but with different textures, suggests that they may have formed in different locations
+
+### Metamorphic
+- Classified by general size
+	- Very fine mineral crystals cannot be seen by the naked eye
