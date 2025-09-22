@@ -27,4 +27,13 @@
 	- *Orthoclase* - salmon pink in color; contains a surface pattern called *exsolution lamellae*
 		- Diagram
 			- ![[orthoclase-feldspar.jpg]]
-	- *Plagioclase* - contains *striations* (parallel lines that are hairline grooves)
+	- *Plagioclase* - contains *striations* (parallel lines that are hairline grooves, can see with reflections)
+		- Diagram
+			- ![[plagioclase-feldspar.jpg]]
+### Micas
+- One plane of cleavage
+	- Mineral can occur in elastic sheets
+- Easily scratched (2-3 on Moh's Hardness Scale)
+	- Diagram of *Muscovite* (pale brown, yellow, or colourless)
+		-![[muscovite.jpg]]
+	- Diagram of **
