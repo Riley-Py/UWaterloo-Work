@@ -14,7 +14,10 @@
 - Less common minerals among rock types to differentiate rock types
 	- *Hornblende, augite* - identified by cleavage, common to igneous/metamorphic rocks
 	- *Olivine* - common to igneous/metamorphic rocks (colour/granular or sugary texture)
-	- *Calcite, dolomite* - identified by cleavage/acid test, common only to sedimentary/metamorphic rock
+	- *Calcite, dolomite* - identified by cleavage/acid test, common only to sedimentary/metamorphic rocks
+	- *Gypsum* - identified by soft hardness, found only in sedimentary rock
+	- *Halite* - identified by cleavage/salty taste, found only in sedimentary rocks
+	- Sedimentary rocks can contain rock fragments, fossils, and plant fragments
 ### Quartz
 - Recognized visually by the crystal form 
 - Hard (7 on Moh's Hardness Scale)
@@ -42,3 +45,6 @@
 		-![[muscovite.jpg]]
 	- Diagram of *Biotite* (black and glossy)
 		- ![[biotite 1.jpg]]
+
+# What Are Textural Similarities + Differences Among Rock Groups
+
