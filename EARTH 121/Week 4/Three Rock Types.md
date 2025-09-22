@@ -24,4 +24,7 @@
 - Opaque 
 - Hard (7 on Moh's Hardness Scale)
 - Two types of feldspar occur:
-	- *Orthoclase* - salmon pink in color
+	- *Orthoclase* - salmon pink in color; contains a surface pattern called *exsolution lamellae*
+		- Diagram
+			- ![[orthoclase-feldspar.jpg]]
+	- *Plagioclase* - contains *striations* (parallel lines that are hairline grooves)
