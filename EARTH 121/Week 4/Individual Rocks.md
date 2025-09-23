@@ -16,4 +16,5 @@
 - Diagram of this:
 	- ![[Pasted image 20250923092320.png]]
 # Composition/Texture for Metamorphic Rocks
-- Diagram
+- Diagram of this:
+	- 
