@@ -11,3 +11,9 @@
 	- ![[Pasted image 20250923092202.png]]
 ## Chemical Sedimentary Rocks
 - Diagram of this: 
+	- ![[Pasted image 20250923092243.png]]
+## Biogenic Sedimentary Rocks
+- Diagram of this:
+	- ![[Pasted image 20250923092320.png]]
+# Composition/Texture for Metamorphic Rocks
+- Diagram
