@@ -11,10 +11,14 @@
             "id": "119fc1c55c0e5a2b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "EARTH 121/Week 4/Individual Rocks.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Individual Rocks"
             }
           }
         ]
@@ -173,6 +177,7 @@
   },
   "active": "119fc1c55c0e5a2b",
   "lastOpenFiles": [
+    "EARTH 121/Week 4/Individual Rocks.md",
     "EARTH 121/Week 4/Three Rock Types.md",
     "EARTH 121/Images/Pasted image 20250922125301.png",
     "EARTH 121/Images/Pasted image 20250922123523.png",
