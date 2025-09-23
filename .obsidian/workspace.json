@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "intrusive",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -202,7 +203,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a4722f2c5d2ec259",
+  "active": "6a82a833833d1925",
   "lastOpenFiles": [
     "EARTH 121/Week 3/Introduction to the Rock Cycle.md",
     "EARTH 121/Week 3/Three Rock Types In The Rock Cycle.md",
