@@ -52,5 +52,10 @@
 	- No solid surface
 - 300 times more massive than Earth
 - Many moons and rings
+	- Jupiter has four *Galilean* moons
+		1. Io - active volcanoes
+		2. Europa - possible subsurface ocean
+		3. Ganymede - largest moon in solar system
+		4. Callisto - large, cratered "ice ball"
 
-#### 
+#### Saturn
