@@ -23,4 +23,8 @@
 - Composed of Hydrogen/Helium gas (plasma)
 - Converts 4 million tons of mass into energy each second
 
-#### 
+#### Mercury
+- Closest planet to sun
+- Made of metal and rock (iron core)
+- Long, tall, steep cliffs, cratered
+- Very hot, very cold: 425 $\degree C$ (day), $150 
