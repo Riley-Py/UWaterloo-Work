@@ -20,5 +20,9 @@
 
 ## Spacecraft Exploration of Solar System
 
-### How do Robotic Space Craft W
+### How do Robotic Space Craft Work?
+- *Flyby* - flies by a planet just once
+	- Cheaper than other missions, but less time to gather data
+	- Example: Voyager 2
+- 
 
