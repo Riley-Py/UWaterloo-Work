@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,7 +175,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6a82a833833d1925",
+  "active": "059c515cd4110e39",
   "lastOpenFiles": [
     "SCI 238/Chapter 7 - Our Planetary System/Discovering our Solar System.md",
     "SCI 238/Chapter 13 - Exoplanets The New Science of Distant Worlds/Detecting Planets Around Other Stars.md",
