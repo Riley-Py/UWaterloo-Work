@@ -80,3 +80,6 @@
 - Much smaller than major planets
 - Icy, comet-like composition
 - Pluto's main moon (*Charon*) is of similar size
+
+
+Table of all of the planets: 
