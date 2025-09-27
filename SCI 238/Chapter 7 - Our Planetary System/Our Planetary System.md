@@ -33,4 +33,12 @@
 - Identical in size to Earth
 	- Surface hidden in clouds
 - Extreme *greenhouse effect* (sunlight gets in, but the thick atmosphere makes it so that the infrared light doesn't get out)
-- Hotter than Mercury for day and night 
+- Hotter than Mercury for day and night (470 $\degree C$)
+- Gets less sunlight than Mercury
+
+#### Earth
+- Only known planet that has life
+- Oceans + ice caps
+- Large moon
+
+#### 
