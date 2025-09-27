@@ -29,4 +29,6 @@
 - *Probes/Landers* - lands on surface of another world
 	- Explore surface in detail
 	- Very expensive
+- *Sample Return Missions* - Land on surface of another world to get a sample and then return back
+	- Example
 
