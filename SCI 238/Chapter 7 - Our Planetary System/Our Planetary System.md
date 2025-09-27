@@ -13,3 +13,14 @@
 - Focuses on the *processes* common to multiple planets instead of individual facts specific to a particular planet
 - Can reveal patterns between planets
 	- Provides insights that help us understand Earth
+
+## The Sun and Inner Planets
+
+### Major Features of the Sun and Planets
+
+#### Sun
+- Over 99.9% of solar system's mass
+- Composed of Hydrogen/Helium gas (plasma)
+- Converts 4 million tons of mass into energy each second
+
+#### 
