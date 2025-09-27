@@ -16,3 +16,9 @@
 #### 4. Notable Exceptions
 - Earth's large moon
 - Uranus' extreme tilt
+- Position of Venus on Sun during transit depends on distances in solar system and position on Earth
+
+## Spacecraft Exploration of Solar System
+
+### How do Robotic Space Craft W
+
