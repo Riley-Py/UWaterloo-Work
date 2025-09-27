@@ -14,4 +14,6 @@
 ### Gravitational Tugs
 - Sun and Jupiter orbit around their common center of mass
 	- Sun wobbles around the center of mass with the same period as Jupiter
-- 
+- Sun's motion around the solar system's center of mass depends on tugs from all the planets
+- Astronomers around other stars measuring this motion could determine the masses + orbits of all planets
+- *Astrometric Technique* - measuring the ch
