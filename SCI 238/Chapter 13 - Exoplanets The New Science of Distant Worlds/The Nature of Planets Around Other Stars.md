@@ -9,3 +9,9 @@
 	- Gives lower limits on masses
 ### TRAPPIST-1 System
 - Periods and sizes of 7 known planets can be determined using [[Detecting Planets Around Other Stars|transit]] data
+
+### Calculating Density
+- Using mass from Doppler and size from transit technique, density can be calculated
+
+### Spectrum During Transit
+- Change in spectrum during a transit tellus 
