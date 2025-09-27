@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SCI 238/Chapter 7 - Our Planetary System/Discovering our Solar System.md",
+                "file": "SCI 238/Chapter 13 - Exoplanets The New Science of Distant Worlds/Detecting Planets Around Other Stars.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Discovering our Solar System"
+              "title": "Detecting Planets Around Other Stars"
             }
           }
         ]
@@ -175,11 +175,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "059c515cd4110e39",
+  "active": "a4722f2c5d2ec259",
   "lastOpenFiles": [
+    "SCI 238/Chapter 7 - Our Planetary System/Discovering our Solar System.md",
+    "SCI 238/Chapter 13 - Exoplanets The New Science of Distant Worlds/Detecting Planets Around Other Stars.md",
     "SCI 238/Chapter 13 - Exoplanets The New Science of Distant Worlds",
     "SCI 238/Chapter 7 - Our Planetary System/Our Planetary System.md",
-    "SCI 238/Chapter 7 - Our Planetary System/Discovering our Solar System.md",
     "SCI 238/Images/Screenshot 2025-09-27 124346.jpg",
     "SCI 238/Chapter 7 - Our Planetary System/Screenshot 2025-09-27 123940.png",
     "SCI 238/Images/phases-Moon-Earth-orbit.webp",
@@ -222,7 +223,6 @@
     "EARTH 121/Study Site Assessment/Part A/mso4F19.tmp",
     "EARTH 121/Study Site Assessment/Part A/Images",
     "EARTH 121/Study Site Assessment/Part A",
-    "EARTH 121/Study Site Assessment",
     "Untitled.canvas"
   ]
 }
