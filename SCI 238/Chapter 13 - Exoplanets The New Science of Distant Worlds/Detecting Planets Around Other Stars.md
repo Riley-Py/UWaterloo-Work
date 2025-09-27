@@ -16,4 +16,9 @@
 	- Sun wobbles around the center of mass with the same period as Jupiter
 - Sun's motion around the solar system's center of mass depends on tugs from all the planets
 - Astronomers around other stars measuring this motion could determine the masses + orbits of all planets
-- *Astrometric Technique* - measuring the ch
+- *Astrometric Technique* - measuring the change ina star's position in the sky
+
+### Doppler Technique
+- Measuring a star's [[Learning from Light|Doppler]] shift can tell us its motion toward and away from us
+	- Can measure motions as small as 1 $m \over s$ 
+	- 
