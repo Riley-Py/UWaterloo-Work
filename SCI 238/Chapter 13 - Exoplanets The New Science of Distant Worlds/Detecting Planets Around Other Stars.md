@@ -42,3 +42,6 @@
 ### Other Planet-Hunting Strategies
 - *Gravitational Lensing* - mass bends light in a special way when a star with planets passes in front of another star
 - *Features in Dust Disks* - gaps, waves, ripples in disks of dusty gas around stars can indicate presence of planets
+
+#sci238 
+#exoplanets
