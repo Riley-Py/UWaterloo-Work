@@ -7,4 +7,9 @@
 - Most also rotate in that direction
 #### 2. Two Major Planet Types
 - *Terrestrial* - rocky, relatively small, close to the sun
-- *Jovian* - gaseous, larger
+	- Example: Earth
+- *Jovian* - gaseous, larger, and farther from the Sun
+	- Example: Jupiter
+#### 3. Swarms of Smaller Bodies
+- Many rocky asteroids and icy comets populate the solar system
+- 
