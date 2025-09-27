@@ -12,4 +12,6 @@
 	- Example: Jupiter
 #### 3. Swarms of Smaller Bodies
 - Many rocky asteroids and icy comets populate the solar system
-- 
+
+#### 4. Notable Exceptions
+- Earth's large moon
