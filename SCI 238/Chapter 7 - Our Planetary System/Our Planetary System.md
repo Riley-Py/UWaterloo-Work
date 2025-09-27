@@ -60,7 +60,17 @@
 #### Saturn
 - Giant and gaseous like Jupiter
 - Many rings
-	- 
+	- Not solid; made out of ice and rock
 - Many moons
 	- Most notable is *Titan*
-#### 
+#### Uranus
+- Smaller than Jupiter/Saturn, but larger than Earth
+- Made out of Hydrogen and Helium gas
+	- Made out of Hydrogen compounds ($H_2O$, $NH_3$, $CH_4$)
+- Extreme axis tilt
+- Moons and rings
+
+#### Neptune
+- Similar to Uranus
+	- Exception: axis tilt
+	- 
