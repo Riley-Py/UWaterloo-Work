@@ -24,5 +24,9 @@
 - *Flyby* - flies by a planet just once
 	- Cheaper than other missions, but less time to gather data
 	- Example: Voyager 2
-- 
+- *Orbiters* - go into orbit another world
+	- More time to gather data, but can't obtain detailed info about planet's surface
+- *Probes/Landers* - lands on surface of another world
+	- Explore surface in detail
+	- Very expensive
 
