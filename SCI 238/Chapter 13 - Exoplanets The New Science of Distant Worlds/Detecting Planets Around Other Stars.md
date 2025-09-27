@@ -8,4 +8,10 @@
 		- Showed that, if stars were like the Sun, they must be at great distances, consistent with the lack of an observed [[Paths of Eclipses and Planets|parallax]]
 ## Direct and Indirect Techniques for Detecting Extrasolar Planets
 
-- *Direct* - pictures or spectra of p
+- *Direct* - pictures or spectra of planets themselves
+- *Indirect* - measurements of stellar properties revealing the effects of orbiting planets
+
+### Gravitational Tugs
+- Sun and Jupiter orbit around their common center of mass
+	- Sun wobbles around the center of mass with the same period as Jupiter
+- 
