@@ -20,5 +20,11 @@
 
 ## Future of Extrasolar Planetary Science
 
-### TESS Mission
-- Designed to monitor hundreds of thoustands of 
+### TESS & CHEOPS Missions
+- Designed to monitor hundreds of thousands of the brightest and nearest stars across the whole sky for transit events
+- Builds off of the Kepler mission
+
+### Direct Detection
+- Adaptive optics are aiding to enable direct planet detection
+	- James Webb Space Telescope will aid in this
+
