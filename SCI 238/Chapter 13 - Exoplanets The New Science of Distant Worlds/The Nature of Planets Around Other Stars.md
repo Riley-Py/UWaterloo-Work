@@ -17,4 +17,10 @@
 - Change in spectrum during a transit tells us about composition of planet's atmosphere
 
 ### Surface Temperature Map
-- Measuring the change in infrared brig
+- Measuring the change in infrared brightness during an eclipse enables us to map a planet's surface temperature
+
+## Comparing Other Planets to Solar System Planets
+
+### Orbits of Extrasolar Planets
+- Most of the detected planets have orbits smaller than Jupiter
+- Pl
