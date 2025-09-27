@@ -27,3 +27,8 @@
 	- Planet has small orbital distance
 - First extrasolar planet to be discovered around a Sun-like star
 - Mass similar to Jupiter
+
+### Transits and Eclipses
+- *Transit* - planet crosses in front of a star, results in a dip in brightness
+- *Eclipse* - planet passes behind the star
+- No orbital tilt: accurate measurement of planet mass
