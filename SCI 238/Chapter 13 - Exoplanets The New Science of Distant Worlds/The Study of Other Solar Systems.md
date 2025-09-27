@@ -29,3 +29,6 @@
 	- James Webb Space Telescope will aid in this
 - Blocking the bright light from stars are also helping us to find planets around them
 
+#sci238 
+#exoplanets 
+
