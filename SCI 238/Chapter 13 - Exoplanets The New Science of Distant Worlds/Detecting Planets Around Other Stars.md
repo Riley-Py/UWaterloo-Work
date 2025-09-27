@@ -21,4 +21,8 @@
 ### Doppler Technique
 - Measuring a star's [[Learning from Light|Doppler]] shift can tell us its motion toward and away from us
 	- Can measure motions as small as 1 $m \over s$ 
-	- 
+
+### First Extrasolar Planet
+- Doppler shifts of the star 51 Pegasi indirectly revealed a planet with a 4 day orbital period
+	- Planet has small orbital distance
+- 
