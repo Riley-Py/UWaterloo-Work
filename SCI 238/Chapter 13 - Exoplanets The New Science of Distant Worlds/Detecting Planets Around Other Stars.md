@@ -1,1 +1,4 @@
-## Challenges in de
+## Challenges in Detecting Extrasolar Planets
+
+### Brightness and Distance
+- 
