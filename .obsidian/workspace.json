@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "orbital period",
+                "query": "conservation of energy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -175,7 +176,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a4722f2c5d2ec259",
+  "active": "6a82a833833d1925",
   "lastOpenFiles": [
     "SCI 238/Chapter 13 - Exoplanets The New Science of Distant Worlds/The Nature of Planets Around Other Stars.md",
     "SCI 238/Chapter 13 - Exoplanets The New Science of Distant Worlds/The Study of Other Solar Systems.md",
