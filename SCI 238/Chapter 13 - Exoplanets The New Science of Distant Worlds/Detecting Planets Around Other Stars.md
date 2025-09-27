@@ -32,3 +32,10 @@
 - *Transit* - planet crosses in front of a star, results in a dip in brightness
 - *Eclipse* - planet passes behind the star
 - No orbital tilt: accurate measurement of planet mass
+
+#### Kepler
+- Launched in 2008 to look for transiting planets
+- Designed to measure 0.008% decline in brightness when an Earth-mass planet eclipses a Sun-like star
+- Found over 4500 planet candidates as of 2018
+
+
