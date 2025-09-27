@@ -26,3 +26,11 @@
 - Planets at greater distances are harder to detect with Doppler technique
 - Planets detected by [[Detecting Planets Around Other Stars|Kepler]] have lower mass than Jupiter
 	- Percentages will certainly go up as we discover planets with longer periods
+
+### Surprising Characteristics
+- Some extrasolar planets have highly elliptical orbits
+- Planets show huge diversity in size/density
+- Some massive planets, called *hot Jupiters*, orbit very close to their stars
+
+#sci238 
+#exoplanets 
