@@ -73,4 +73,10 @@
 #### Neptune
 - Similar to Uranus
 	- Exception: axis tilt
-	- 
+- Many moons
+	- Most notable: *Triton*
+
+### Dwarf Planets: Pluto, Eris, and more
+- Much smaller than major planets
+- Icy, comet-like composition
+- Pluto's main moon (*Charon*) is of similar size
