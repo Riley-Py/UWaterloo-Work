@@ -14,4 +14,7 @@
 - Using mass from Doppler and size from transit technique, density can be calculated
 
 ### Spectrum During Transit
-- Change in spectrum during a transit tellus 
+- Change in spectrum during a transit tells us about composition of planet's atmosphere
+
+### Surface Temperature Map
+- Measuring the change in infrared brig
