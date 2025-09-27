@@ -7,4 +7,8 @@
 
 ### Planetary Migration
 - Young planet's motion can create waves in a planet-forming disk
-- Models show that matter in these waves can tug 
+- Models show that matter in these waves can tug on planet, causing its orbit to migrate inward
+
+### Gravitational Encounters + Resonances
+- Close gravitational encounters between two massive planets can eject one planet while flinging the other into a highly elliptical orbit
+- Multip
