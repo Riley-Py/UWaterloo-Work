@@ -29,7 +29,8 @@
 - Mass similar to Jupiter
 
 ### Transits and Eclipses
-- *Transit* - planet crosses in front of a star, results in a dip in brightness
+- *Transit* - planet crosses in front of a star, results in a dip in brightness 
+	- Most productive in terms of finding planets
 - *Eclipse* - planet passes behind the star
 - No orbital tilt: accurate measurement of planet mass
 
@@ -38,4 +39,6 @@
 - Designed to measure 0.008% decline in brightness when an Earth-mass planet eclipses a Sun-like star
 - Found over 4500 planet candidates as of 2018
 
-
+### Other Planet-Hunting Strategies
+- *Gravitational Lensing* - mass bends light in a special way when a star with planets passes in front of another star
+- *Features in Dust Disks* - gaps, waves, ripples in disks of dusty gas around stars can indicate presence of planets
