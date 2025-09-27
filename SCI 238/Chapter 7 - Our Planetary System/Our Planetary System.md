@@ -40,5 +40,8 @@
 - Only known planet that has life
 - Oceans + ice caps
 - Large moon
-
-#### 
+#### Mars
+- Looks like Earth, but has less atmosphere
+- Volcanoes, canyons, polar caps - like Earth
+- Water flowed in the past
+	- People have theorized that there could have been life in the distant past
