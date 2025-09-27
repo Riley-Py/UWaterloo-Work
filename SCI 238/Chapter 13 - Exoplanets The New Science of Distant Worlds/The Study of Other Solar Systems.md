@@ -11,7 +11,9 @@
 
 ### Gravitational Encounters + Resonances
 - Close gravitational encounters between two massive planets can eject one planet while flinging the other into a highly elliptical orbit
-	- One loses energy and the other gains energy due to the 
+	- One loses energy and the other gains energy due to the [[Physical Laws|conservation of energy]] 
 - Multiple close encounters with smaller planetesimals can cause inward migration
 - Resonances can also contribute to this
-- 
+
+### Our System Rare?
+- 20% of stars may have Earth-like planets in habitable zones
