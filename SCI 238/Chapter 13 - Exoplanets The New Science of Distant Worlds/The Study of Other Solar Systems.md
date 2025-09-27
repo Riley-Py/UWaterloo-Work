@@ -17,3 +17,8 @@
 
 ### Our System Rare?
 - 20% of stars may have Earth-like planets in habitable zones
+
+## Future of Extrasolar Planetary Science
+
+### TESS Mission
+- Designed to monitor hundreds of thoustands of 
