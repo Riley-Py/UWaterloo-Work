@@ -27,4 +27,10 @@
 - Closest planet to sun
 - Made of metal and rock (iron core)
 - Long, tall, steep cliffs, cratered
-- Very hot, very cold: 425 $\degree C$ (day), $150 
+- Very hot, very cold: 425 $\degree C$ (day), 150 $\degree C$ (night)
+
+#### Venus
+- Identical in size to Earth
+	- Surface hidden in clouds
+- Extreme *greenhouse effect* (sunlight gets in, but the thick atmosphere makes it so that the infrared light doesn't get out)
+- Hotter than Mercury for day and night 
