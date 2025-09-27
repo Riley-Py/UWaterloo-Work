@@ -9,4 +9,7 @@
 - Planets all orbit in the same direction and nearly in the same plane
 
 ### Comparative Planetology
-- Learn more about a world like Earth by studying it in context with other worlds in the solar sy
+- Learn more about a world like Earth by studying it in context with other worlds in the solar system
+- Focuses on the *processes* common to multiple planets instead of individual facts specific to a particular planet
+- Can reveal patterns between planets
+	- Provides insights that help us understand Earth
