@@ -3,4 +3,5 @@
 - Planet mass, size, density
 - Atmospheric properties
 
-### W
+### Doppler Shift
+- Tells us about a planet's mass and the shape of its orbit
