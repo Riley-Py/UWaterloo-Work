@@ -83,3 +83,4 @@
 
 
 Table of all of the planets: 
+![[Screenshot 2025-09-27 124346.jpg]]
