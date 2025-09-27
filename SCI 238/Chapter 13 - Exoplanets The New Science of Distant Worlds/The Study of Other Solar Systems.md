@@ -27,4 +27,5 @@
 ### Direct Detection
 - Adaptive optics are aiding to enable direct planet detection
 	- James Webb Space Telescope will aid in this
+- Blocking the bright light from stars are also helping us to find planets around them
 
