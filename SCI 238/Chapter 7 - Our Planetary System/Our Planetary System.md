@@ -45,3 +45,12 @@
 - Volcanoes, canyons, polar caps - like Earth
 - Water flowed in the past
 	- People have theorized that there could have been life in the distant past
+
+#### Jupiter
+- Farther from Sun than inner planets (the above planets)
+- Made out of Hydrogen/Helium
+	- No solid surface
+- 300 times more massive than Earth
+- Many moons and rings
+
+#### 
