@@ -24,4 +24,5 @@
 ### Orbits of Extrasolar Planets
 - Most of the detected planets have orbits smaller than Jupiter
 - Planets at greater distances are harder to detect with Doppler technique
-- Planets detected by [[]]
+- Planets detected by [[Detecting Planets Around Other Stars|Kepler]] have lower mass than Jupiter
+	- Percentages will certainly go up as we discover planets with longer periods
