@@ -24,3 +24,4 @@
 ### Orbits of Extrasolar Planets
 - Most of the detected planets have orbits smaller than Jupiter
 - Planets at greater distances are harder to detect with Doppler technique
+- Planets detected by [[]]
