@@ -25,4 +25,11 @@
 - Must take into account various rates of change in Earth System, ranging from seconds (earthquakes) to millions of years (mountain building)
 - Assess slow rates of geologic processes by age-dating sediments, minerals, rocks, and organic material through modern processes like analogues
 - Diagram of changes throughout time:
+	- ![[Pasted image 20250929092749.png]]
+
+## Relate Time Measured in Billions of Years
+ - *Saving one billion dollars*
+	 - To accumulate one billion dollars if saving 100 dollars a day would be about 27 thousand years
+	- Would take 274 generations to save 1 billion dollars if each descendent lived for 100 years
+- *Walking one billion steps*
 	- 
