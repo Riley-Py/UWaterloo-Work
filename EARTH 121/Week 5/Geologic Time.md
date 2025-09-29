@@ -15,4 +15,8 @@
 ## A Book Depicting Earth History
 - Pages of a book that represent Earth's layers and the story detailing Earth's history
 - Book covers all of Earth's history and each page talks about events in Earth history that relate to Earth's layers
-- Book's table of contents is like the Geologic Time Scale to reassemble the book af
+- Book's table of contents is like the Geologic Time Scale to reassemble the book after it gets destroyed
+- Relating the book to geologic time
+	- Thickness of book = amount of events that Earth has experienced throughout its history
+	- Chapters/sections of book = subdivisions of Geologic Time Scale based on fossils
+	- Missing parts
