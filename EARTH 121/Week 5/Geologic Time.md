@@ -1,4 +1,11 @@
 ## Key Terms + Concepts
 - *Epoch* - Unit of Geologic Time Scale that is a subdivision of a Period
 - *Era* - Major time division on Geologic Time Scale; divided into shorter units (Periods)
-- *Geologic Time Scale* - division of Earth history into blocks of 
+- *Geologic Time Scale* - division of Earth history into blocks of time; created using relative dating rules/numerical ages
+	- Eons
+	- Eras
+	- Periods
+	- Epochs
+- *Unconformity* - Surface that represents break in rock record, caused by erosion/nondeposition
+- *Eon* - Largest unit on Geologic Time Scale, next above Era
+- *Periods* - 
