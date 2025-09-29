@@ -39,4 +39,7 @@
 ## The Geologic Time Scale
 
 ### Deep Time
-- The time-fa
+- The time-frame within which the Earth has existed
+- Diagram of this:
+	- ![[Deep-Time-II.png]]
+#earth121 
