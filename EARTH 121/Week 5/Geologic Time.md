@@ -23,4 +23,6 @@
 	- Adding parts of book = discoveries/revisions of Earth's history by geoscientists
 ## Geoscientist Insights
 - Must take into account various rates of change in Earth System, ranging from seconds (earthquakes) to millions of years (mountain building)
-- 
+- Assess slow rates of geologic processes by age-dating sediments, minerals, rocks, and organic material through modern processes like analogues
+- Diagram of changes throughout time:
+	- 
