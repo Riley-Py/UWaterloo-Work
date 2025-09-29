@@ -34,4 +34,7 @@
 - *Walking one billion steps*
 	- With a one metre stride, you can make one billion steps by walking around the equator (40 000km) 25 times
 - *Building a book of 4.6 billion years of Earth history*
-	- A stack of 4.6 billion sheets of paper, assuming a package of 500 sheets stand 5 cm tall
+	- A stack of 4.6 billion sheets of paper, assuming a package of 500 sheets stand 5 cm tall, would be 460 km
+	- If each page represents one million years, the book would be 46cm thick (half a metre approximately)
+## The Geologic Time Scale
+- 
