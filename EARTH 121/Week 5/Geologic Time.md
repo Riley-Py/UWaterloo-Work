@@ -8,4 +8,8 @@
 	- Epochs
 - *Unconformity* - Surface that represents break in rock record, caused by erosion/nondeposition
 - *Eon* - Largest unit on Geologic Time Scale, next above Era
-- *Periods* - 
+- *Periods* - Unit of Geologic Time Scale that is a subdivision of an Era; can be divided into smaller units called Epochs
+- *Law of Superposition* - In any undeformed sequence of sedimentary rocks, each bed is older than the one above and younger than the one below
+- *Radiometric dating* - The calculation of absolute ages of rocks + minerals from certain radioactive isotopes
+
+## A Book Dep
