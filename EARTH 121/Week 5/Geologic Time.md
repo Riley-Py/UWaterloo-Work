@@ -12,4 +12,7 @@
 - *Law of Superposition* - In any undeformed sequence of sedimentary rocks, each bed is older than the one above and younger than the one below
 - *Radiometric dating* - The calculation of absolute ages of rocks + minerals from certain radioactive isotopes
 
-## A Book Dep
+## A Book Depicting Earth History
+- Pages of a book that represent Earth's layers and the story detailing Earth's history
+- Book covers all of Earth's history and each page talks about events in Earth history that relate to Earth's layers
+- Book's table of contents is like the Geologic Time Scale to reassemble the book af
