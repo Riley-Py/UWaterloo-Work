@@ -21,3 +21,6 @@
 	- Chapters/sections of book = subdivisions of Geologic Time Scale based on fossils
 	- Missing parts of book = events that may not have been preserved in Earth's history due to erosion
 	- Adding parts of book = discoveries/revisions of Earth's history by geoscientists
+## Geoscientist Insights
+- Must take into account various rates of change in Earth System, ranging from seconds (earthquakes) to millions of years (mountain building)
+- 
