@@ -19,4 +19,5 @@
 - Relating the book to geologic time
 	- Thickness of book = amount of events that Earth has experienced throughout its history
 	- Chapters/sections of book = subdivisions of Geologic Time Scale based on fossils
-	- Missing parts
+	- Missing parts of book = events that may not have been preserved in Earth's history due to erosion
+	- Adding parts of book = discoveries/revisions of Earth's history by geoscientists
