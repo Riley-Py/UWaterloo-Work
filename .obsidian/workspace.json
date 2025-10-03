@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Telescopes"
             }
+          },
+          {
+            "id": "1abc63252cc83692",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,7 +189,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a4722f2c5d2ec259",
+  "active": "1abc63252cc83692",
   "lastOpenFiles": [
     "SCI 238/Chapter 2 - Discovering the Universe Yourself/Our View of the Sky.md",
     "SCI 238/Chapter 2 - Discovering the Universe Yourself/Paths of Eclipses and Planets.md",
