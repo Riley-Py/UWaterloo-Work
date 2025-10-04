@@ -39,3 +39,5 @@
 ### How hot is the planet?
 - Thermal Equilibrium, [[Learning from Light|Stefan-Boltzmann law]]
 	- Diagram of formula: 
+		- ![[Pasted image 20251004151711.png]]
+	- Left hand is energy per unit time absorbed and right hand is what is being emitted 
