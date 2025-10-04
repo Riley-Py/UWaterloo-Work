@@ -22,5 +22,16 @@
 2. Need to have stable orbits (rules out multiple star systems - 50%)
 3. Size of "habitable zone": region in which planet of the right size could have liquid water on its surface (surface life is not the only possibility; subsurface life can be possible)
 	- More massive the star, the larger the habitable zone, and higher probability of a planet existing in the zone
+	- Less luminous = need to get closer to star for habitability
 - Even with these constraints, billions of stars in Milky Way could have habitable worlds
+
+#### Ingredients for Habitability?
+- *Habitable zone*
+	- Right distance from star to maintain liquid water
+- *Volcanism*
+	- Creation of atmosphere and oceans
+- *Plate tectonics*
+	- Carbon-dioxide cycle
+- *Planetary magnetic field*
+	- Protect atmosphere from solar winds
 
