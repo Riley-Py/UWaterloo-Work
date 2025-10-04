@@ -44,4 +44,13 @@
 	- (1-p) should be multiplied with the L (no symbol)
 
 ### What kind of Extrasolar Worlds might be Habitable?
-- There are possible 
+- There are possible locations for extrasolar life other than just surfaces of Earth-like worlds
+	- Moons with habitable surfaces
+	- Super-Earths/water-worlds in extended habitable zones
+	- Sub-surfaces
+	- Orphan planets
+
+#### Spectral Signatures of Life
+- Diagram of this: 
+	- ![[Pasted image 20251004152221.png]]
+- 
