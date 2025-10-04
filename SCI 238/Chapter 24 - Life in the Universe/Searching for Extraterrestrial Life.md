@@ -7,4 +7,13 @@
 	- $f_{life}$ is hard to say (0 or 1)
 	- $f_{civ}$ is unknown (took 4 billion years on Earth)
 	- $f_{now}$ is unknown (depends on whether civilizations can survive long-term)
-- 
+
+
+### Are we Smart?
+- Humans have large brains
+- We don't know
+
+### SETI
+- SETI experiments look for deliberate signals from extraterrestrial life
+- We have sent signals out to globular cluster M13
+	- We will hear back in 42 000 years (if there is life out there)
