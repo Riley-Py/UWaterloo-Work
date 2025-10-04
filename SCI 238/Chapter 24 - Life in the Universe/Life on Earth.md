@@ -28,4 +28,8 @@
 ### Lab Experiments
 - Miller-Urey experiment showed that building blocks of life form easily under conditions of early Earth (with enough energy/humidity)
 - Enclosed membranes or "*pre-cells*" have been created in the lab
-- 
+
+#### Chemicals to Life
+- Diagram of this
+	- ![[Pasted image 20251004145212.png]]
+- Can't repl
