@@ -11,9 +11,14 @@
 
 ### Are we Smart?
 - Humans have large brains
-- We don't know
+- We don't know if we are the smartest or not
 
 ### SETI
 - SETI experiments look for deliberate signals from extraterrestrial life
 - We have sent signals out to globular cluster M13
 	- We will hear back in 42 000 years (if there is life out there)
+
+### How difficult is Interstellar Travel?
+- Current spacecraft travel at a fraction of the speed of light
+	- 100 000 years it would take those aircraft to get to the nearest stars
+	- Put some plaque 
