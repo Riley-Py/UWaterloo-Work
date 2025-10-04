@@ -24,3 +24,8 @@
 - Mapping genetic relationships led to biologists to discover *Tree of Life*
 	- Plants and animals are small part of tree
 	- Suggests likely characteristics of common ancestor
+
+### Lab Experiments
+- Miller-Urey experiment showed that building blocks of life form easily under conditions of early Earth (with enough energy/humidity)
+- Enclosed membranes or "*pre-cells*" have been created in the lab
+- 
