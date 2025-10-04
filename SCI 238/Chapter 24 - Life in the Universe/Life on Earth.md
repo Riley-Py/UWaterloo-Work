@@ -13,6 +13,7 @@
 - Life evolves through time (Darwin's theory)
 - All life shares a common ancestry
 - We don't know how the first organism arose, but lab experiments suggest scenarios
+- Earliest life on Earth may have resembled bacteria found near deep ocean volcanic vents (*black smokers*)
 
 #### The Theory of Evolution
 - Evolution has occurred through time
@@ -20,4 +21,6 @@
 	- Supported by discovery of DNA: evolution through *mutations*
 
 #### Tree of Life
-- Mapping genetic relationships 
+- Mapping genetic relationships led to biologists to discover *Tree of Life*
+	- Plants and animals are small part of tree
+	- Suggests likely characteristics of common ancestor
