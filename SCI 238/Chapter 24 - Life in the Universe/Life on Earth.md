@@ -42,4 +42,13 @@
 ### Brief History of Life
 - 4.4 billion years - early oceans form
 - 3.5 billion years - cyanobacteria (first bacteria) releases oxygen
-- 2 billion years - oxygen builds in atmosphe
+- 2 billion years - oxygen builds in atmosphere
+- 540-500 million years - Cambrian Explosion
+- 225-65 million years - dinosaurs and small mammals
+- Few million years - earliest hominids (humans that are similar to us)
+
+### Origin of Oxygen
+- *Cyanobacteria* helped more complicated life forms by releasing oxygen into atmosphere through *photosynthesis*
+
+#### Necessitities of Life
+- 
