@@ -21,4 +21,12 @@
 ### How difficult is Interstellar Travel?
 - Current spacecraft travel at a fraction of the speed of light
 	- 100 000 years it would take those aircraft to get to the nearest stars
-	- Put some plaque 
+	- Put a plaque on Pioneer and a record on Voyager (both left the solar system)
+- Far more efficient engines are needed
+- Energy requirements are large
+- Ordinary interstellar particles become like cosmic rays
+- Time dilation (i.e. time gets manipulated)
+
+### Where are the Aliens?
+- Diagram of pioneer plaque, sent to possible life forms: 
+	- 
