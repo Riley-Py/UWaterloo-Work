@@ -12,4 +12,12 @@
 ### How did Life Arise on Earth?
 - Life evolves through time (Darwin's theory)
 - All life shares a common ancestry
-- We don't know how the first organism arose, but 
+- We don't know how the first organism arose, but lab experiments suggest scenarios
+
+#### The Theory of Evolution
+- Evolution has occurred through time
+- Darwin's theory tells how evolution occurs: *Natural selection*
+	- Supported by discovery of DNA: evolution through *mutations*
+
+#### Tree of Life
+- Mapping genetic relationships 
