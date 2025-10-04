@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "transit",
+                "query": "stefan",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,7 +175,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a4722f2c5d2ec259",
+  "active": "059c515cd4110e39",
   "lastOpenFiles": [
     "SCI 238/Chapter 24 - Life in the Universe/Life on Earth.md",
     "SCI 238/Chapter 24 - Life in the Universe/Extraterrestrial Life.md",

@@ -34,4 +34,8 @@
 	- Carbon-dioxide cycle
 - *Planetary magnetic field*
 	- Protect atmosphere from solar winds
+- All of these are on Earth
 
+### How hot is the planet?
+- Thermal Equilibrium, [[Learning from Light|Stefan-Boltzmann law]]
+	- Diagram of formula: 
