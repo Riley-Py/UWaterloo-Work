@@ -41,3 +41,7 @@
 	- Diagram of formula: 
 		- ![[Pasted image 20251004151711.png]]
 	- Left hand is energy per unit time absorbed and right hand is what is being emitted 
+	- (1-p) should be multiplied with the L (no symbol)
+
+### What kind of Extrasolar Worlds might be Habitable?
+- There are possible 
