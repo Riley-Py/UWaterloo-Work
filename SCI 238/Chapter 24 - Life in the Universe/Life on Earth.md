@@ -32,4 +32,14 @@
 #### Chemicals to Life
 - Diagram of this
 	- ![[Pasted image 20251004145212.png]]
-- Can't repl
+- Can't replicate this in the lab
+
+### Could Life Migrated to Earth?
+- Venus, Earth, Mars have exchanged tons of rock
+	- Blasted into orbit by impacts
+- Some microbes and larger organisms can survive years in space
+
+### Brief History of Life
+- 4.4 billion years - early oceans form
+- 3.5 billion years - cyanobacteria (first bacteria) releases oxygen
+- 2 billion years - oxygen builds in atmosphe
