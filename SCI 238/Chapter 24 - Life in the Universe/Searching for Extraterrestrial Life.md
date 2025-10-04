@@ -36,4 +36,6 @@
 - Why haven't we detected them?
 - Possible solutions:
 	1. *We are alone* - life/civilization is much rarer than we guessed
-	2. **
+	2. *Civilizations are common, but interstellar travel isn't* - harder than we think; desire to explore is rare; civilizations destroy themselves before achieving interstellar travel
+	3. *There IS a galactic civilization* - we will meet them soon
+
