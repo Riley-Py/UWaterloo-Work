@@ -16,4 +16,9 @@
 ### What are the Requirements of surface life?
 - *Habitable planets* - contains basic [[Life on Earth|necessities]] for life 
 	- Doesn't have life necessarily
+
+#### Star System Constraints:
+1. Old enough to allow time for evolution (rules out high-mass stars - 1%)
+2. Need to have stable orbits (rules out multiple star systems - 50%)
+3. Size of "habitable zone": region in which planet of the right size could have liquid water on its surface (surface life is not the only possibility; subsurface life can be possible)
 - 
