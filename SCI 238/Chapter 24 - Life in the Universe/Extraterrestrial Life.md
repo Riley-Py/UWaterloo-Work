@@ -53,4 +53,7 @@
 #### Spectral Signatures of Life
 - Diagram of this: 
 	- ![[Pasted image 20251004152221.png]]
-- 
+- Seeing oxygen in atmosphere can be a signature of life
+
+#sci238 
+#life_universe 
