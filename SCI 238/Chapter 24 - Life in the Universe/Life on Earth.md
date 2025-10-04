@@ -55,4 +55,7 @@
 - Energy (sunlight, chemical reactions, internal heat)
 - Water (or some other liquid)
 	- Subjective, but all life we know are necessary
-- All other 
+	- Hard to find in other planets
+- All other sources are optional
+#sci238 
+#life_universe
