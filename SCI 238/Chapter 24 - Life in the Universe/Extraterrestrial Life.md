@@ -10,4 +10,7 @@
 - Little energy for life, but there could be enough 
 - *Titan* (Saturn moon) is too cold for liquid water (could be some deep underground)
 	- Lakes of liquid ethane/methane on surface
-	- Has dunes
+	- Has dunes made of hydrocarbon sediments
+- *Enceladus* (Uranus moon) has ice fountains, suggesting a subsurface ocean
+
+### What are the Requiremen
