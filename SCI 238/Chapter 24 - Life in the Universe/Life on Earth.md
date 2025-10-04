@@ -5,3 +5,6 @@
 	- *Relative ages* - deeper layers formed earlier
 	- *Absolute ages* - radiometric dating (i.e. C-14 isotopes and the fraction of them)
 	- Rock layers in Grand Canyon record 2 billion years of Earth's history
+- Earliest fossils show that bacteria organisms were present over 3.5 billion years ago
+- Carbon isotopes dates origin of life to more than 3.85 billion years ago
+- 
