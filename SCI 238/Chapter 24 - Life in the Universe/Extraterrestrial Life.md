@@ -13,4 +13,7 @@
 	- Has dunes made of hydrocarbon sediments
 - *Enceladus* (Uranus moon) has ice fountains, suggesting a subsurface ocean
 
-### What are the Requiremen
+### What are the Requirements of surface life?
+- *Habitable planets* - contains basic [[Life on Earth|necessities]] for life 
+	- Doesn't have life necessarily
+- 
