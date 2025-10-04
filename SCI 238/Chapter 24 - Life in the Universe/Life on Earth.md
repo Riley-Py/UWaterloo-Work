@@ -50,5 +50,9 @@
 ### Origin of Oxygen
 - *Cyanobacteria* helped more complicated life forms by releasing oxygen into atmosphere through *photosynthesis*
 
-#### Necessitities of Life
-- 
+#### Necessities of Life
+- Nutrient source
+- Energy (sunlight, chemical reactions, internal heat)
+- Water (or some other liquid)
+	- Subjective, but all life we know are necessary
+- All other 
