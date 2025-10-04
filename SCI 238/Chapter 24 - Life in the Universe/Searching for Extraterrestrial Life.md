@@ -28,5 +28,12 @@
 - Time dilation (i.e. time gets manipulated)
 
 ### Where are the Aliens?
-- Diagram of pioneer plaque, sent to possible life forms: 
-	- 
+- Diagram of pioneer plaque, sent to possible life forms that aliens could understand
+
+### Fermi's Paradox
+- Civilizations should be common
+	- Example: even if only 1 in 1 million stars gets a civilization at some time, there should be 100 000 civilizations in just our galaxy
+- Why haven't we detected them?
+- Possible solutions:
+	1. *We are alone* - life/civilization is much rarer than we guessed
+	2. **
