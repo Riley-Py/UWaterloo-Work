@@ -29,6 +29,8 @@
 
 ### Where are the Aliens?
 - Diagram of pioneer plaque, sent to possible life forms that aliens could understand
+- *Oumuamua* was one of the first unknown objects detected in 2017 that was an object that had a hyperbolic orbit
+	- Could be a light sail
 
 ### Fermi's Paradox
 - Civilizations should be common
@@ -38,4 +40,7 @@
 	1. *We are alone* - life/civilization is much rarer than we guessed
 	2. *Civilizations are common, but interstellar travel isn't* - harder than we think; desire to explore is rare; civilizations destroy themselves before achieving interstellar travel
 	3. *There IS a galactic civilization* - we will meet them soon
+
+#sci238 
+#life_universe 
 
