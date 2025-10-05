@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SCI 238/Chapter 24 - Life in the Universe/Searching for Extraterrestrial Life.md",
+                "file": "SCI 238/Chapter 6 - Telescopes Portals of Discovery/Telescopes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Searching for Extraterrestrial Life"
+              "title": "Telescopes"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stefan",
+                "query": "angular separation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -177,8 +178,8 @@
   },
   "active": "a4722f2c5d2ec259",
   "lastOpenFiles": [
-    "SCI 238/Chapter 24 - Life in the Universe/Extraterrestrial Life.md",
     "SCI 238/Chapter 24 - Life in the Universe/Searching for Extraterrestrial Life.md",
+    "SCI 238/Chapter 24 - Life in the Universe/Extraterrestrial Life.md",
     "SCI 238/Images/Pasted image 20251004152221.png",
     "SCI 238/Images/Pasted image 20251004151711.png",
     "SCI 238/Chapter 24 - Life in the Universe/Life on Earth.md",
