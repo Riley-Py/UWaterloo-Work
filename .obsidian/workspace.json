@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SCI 238/Chapter 4 - Making Sense of the Universe (Understanding Motion, Energy, Gravity)/Physical Laws.md",
+                "file": "SCI 238/Chapter 3 - The Science of Astronomy/Challenging an Earth-Centred Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Physical Laws"
+              "title": "Challenging an Earth-Centred Model"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "gravitational",
+                "query": "kepler's third law",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,6 +178,7 @@
   },
   "active": "a4722f2c5d2ec259",
   "lastOpenFiles": [
+    "SCI 238/Chapter 4 - Making Sense of the Universe (Understanding Motion, Energy, Gravity)/Physical Laws.md",
     "SCI 238/Chapter 13 - Exoplanets The New Science of Distant Worlds/Detecting Planets Around Other Stars.md",
     "SCI 238/Chapter 5 - Light & Matter Reading Messages from the Cosmos/Learning from Light.md",
     "SCI 238/Chapter 6 - Telescopes Portals of Discovery/Telescopes.md",
@@ -188,7 +189,6 @@
     "SCI 238/Images/Pasted image 20251004151711.png",
     "SCI 238/Chapter 24 - Life in the Universe/Life on Earth.md",
     "SCI 238/Images/Pasted image 20251004145212.png",
-    "SCI 238/Chapter 4 - Making Sense of the Universe (Understanding Motion, Energy, Gravity)/Physical Laws.md",
     "SCI 238/Chapter 24 - Life in the Universe",
     "SCI 238/Chapter 3 - The Science of Astronomy/The Nature of Science.md",
     "SCI 238/Chapter 7 - Our Planetary System/Discovering our Solar System.md",
