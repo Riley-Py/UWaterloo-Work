@@ -25,4 +25,5 @@
 			- ![[Pasted image 20251006095208.png]]
 	2. Correlate these exposures together.  Final product is a geologic cross section including data from individually measured outcrops
 		- Diagram of this:
-			- 
+			- ![[Pasted image 20251006095448.png]]
+	- 
