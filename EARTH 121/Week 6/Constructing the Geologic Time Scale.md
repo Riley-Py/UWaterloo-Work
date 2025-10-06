@@ -9,3 +9,5 @@
 ## How Do We Create A Full Story of Geologic Time?
 - Investigating many locations across Earth's surface
 - Extending 2D view of North America to a 3D one to expose rock sections
+	- Occurs the most near water bodies (erosion) or in mountain ranges (tectonic processes)
+- One of the best places on Earth for this 
