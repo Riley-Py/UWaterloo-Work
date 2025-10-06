@@ -11,12 +11,14 @@
             "id": "a4722f2c5d2ec259",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "EARTH 121/Images/PXL_20250909_192230610.jpg"
+                "file": "EARTH 121/Field Notes/Field Note Journal 2 - Are Minerals Important.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "PXL_20250909_192230610"
+              "icon": "lucide-file",
+              "title": "Field Note Journal 2 - Are Minerals Important"
             }
           }
         ]
@@ -175,6 +177,7 @@
   },
   "active": "a4722f2c5d2ec259",
   "lastOpenFiles": [
+    "EARTH 121/Images/PXL_20250909_192230610.jpg",
     "EARTH 121/Field Notes/Field Note Journal 2 - Are Minerals Important.md",
     "EARTH 121/Field Notes/Field Note Journal 1 - Why Earth Science.md",
     "SCI 238/Chapter 5 - Light & Matter Reading Messages from the Cosmos/Learning from Light.md",
@@ -207,7 +210,6 @@
     "SCI 238/Chapter 6 - Telescopes Portals of Discovery/Telescopes and the Atmosphere.md",
     "SCI 238/Chapter 6 - Telescopes Portals of Discovery/Eyes and Cameras.md",
     "SCI 238/Chapter 13 - Exoplanets The New Science of Distant Worlds/The Study of Other Solar Systems.md",
-    "SCI 238/Chapter 13 - Exoplanets The New Science of Distant Worlds/The Nature of Planets Around Other Stars.md",
     "SCI 238/Chapter 13 - Exoplanets The New Science of Distant Worlds",
     "SCI 238/Images/Screenshot 2025-09-27 124346.jpg",
     "SCI 238/Chapter 7 - Our Planetary System/Screenshot 2025-09-27 123940.png",
