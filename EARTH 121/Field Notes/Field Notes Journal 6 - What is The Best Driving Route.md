@@ -20,7 +20,7 @@ The driving plan is as follows to travel through from the Archean age to the Qua
 2. From Thunder Bay, Ontario, cross the border with Highway 61 to the United States and go to Duluth, Minnesota, taking the Interstate 35
 3. From Duluth, Minnesota, catch US 53 highway passing through Superior, Minnesota, then switch to US 63 highway to Spooner, Wisconsin (One period in Paleozoic (Paibian))
 4. From Spooner, Wisconsin, take US 63 to Forest City, Iowa (Givetian (2nd period in Paleozoic))
-5. Go south of Forest City on US 69 until Gamer, Iowa, then take US 18
+5. 
 
 
 #earth121 
