@@ -81,6 +81,6 @@ There are several reasons why I chose this specific site to do my assessment on.
 Another reason why I chose this site was because it's near the site of where HBO filmed *Game of Thrones*, which I think is great as that universe describes Nordic landscapes that one can dream of going, and I thought that doing Giant's Causeway would satisfy that interest in me.  Finally, I've never seen basalt rocks formed in a hexagonal pattern before, so learning about how that was done and how it came to be eventually allowed the decision to be made to do Giant's Causeway after considering some other sites.
 
 #earth121 
-#study
+#study_site_assessment
 
 
