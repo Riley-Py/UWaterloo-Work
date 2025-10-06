@@ -16,3 +16,6 @@
 ## Grand Canyon Superposition
 - Grand Canyon has much of the Geologic Time Scale, but there are missing units
 	- Must travel to different locations to fill in the gaps
+- Diagram of the different rock types and their associated ages within different canyons:
+	- ![[Pasted image 20251006094909.png]]
+- 
