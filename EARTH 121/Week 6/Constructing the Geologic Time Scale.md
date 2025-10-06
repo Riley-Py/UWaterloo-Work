@@ -10,4 +10,9 @@
 - Investigating many locations across Earth's surface
 - Extending 2D view of North America to a 3D one to expose rock sections
 	- Occurs the most near water bodies (erosion) or in mountain ranges (tectonic processes)
-- One of the best places on Earth for this 
+- One of the best places on Earth to see the layers would be the Grand Canyon
+	- Can see layers from the Precambrian Eon to the Cenozoic Era
+
+## Grand Canyon Superposition
+- Grand Canyon has much of the Geologic Time Scale, but there are missing units
+	- Must travel to different locations to fill in the gaps
