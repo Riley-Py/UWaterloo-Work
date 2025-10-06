@@ -28,4 +28,4 @@
 			- ![[Pasted image 20251006095448.png]]
 	- Geoscientists also use different principles to describe the sequence of each:
 		- *Principle of Superposition* - Oldest rocks are at the bottom and the youngest rocks are at the top
-		- **
+		- *Princple of cross-cutting relations* - A fault or intrusion that cuts across or disrupts older rock layers or other geological features must be younger than those it cuts
