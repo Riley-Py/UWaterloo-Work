@@ -17,6 +17,7 @@
 The driving plan is as follows to travel through from the Archean age to the Quaternary age:
 
 1. Start at Longlac, Ontario, and go to Thunder Bay, Ontario (travels through Archean and Proterozoic) via Highway 11
+2. From Thunder Bay, Ontario, cross
 
 
 #earth121 
