@@ -30,4 +30,6 @@
 		- *Principle of Superposition* - Oldest rocks are at the bottom and the youngest rocks are at the top
 		- *Principle of cross-cutting relations* - A fault or intrusion that cuts across or disrupts older rock layers or other geological features must be younger than those it cuts
 		- *Principle of inclusion* - fragments of rock embedded in another rock layer must be older than that rock layer
-- 
+## Radiometric Dating
+- Useful for age-dating igneous/metamorphic rocks
+	- In 
