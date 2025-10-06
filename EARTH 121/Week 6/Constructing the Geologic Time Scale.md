@@ -26,4 +26,6 @@
 	2. Correlate these exposures together.  Final product is a geologic cross section including data from individually measured outcrops
 		- Diagram of this:
 			- ![[Pasted image 20251006095448.png]]
-	- 
+	- Geoscientists also use different principles to describe the sequence of each:
+		- *Principle of Superposition* - Oldest rocks are at the bottom and the youngest rocks are at the top
+		- **
