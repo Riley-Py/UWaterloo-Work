@@ -22,7 +22,9 @@ The driving plan is as follows to travel through from the Archean age to the Qua
 4. From Spooner, Wisconsin, take US 63 to Forest City, Iowa (Givetian (2nd period in Paleozoic))
 5. From Spooner, Wisconsin, take US 69 to Omaha, Nebraska, then take US 6 to Lincoln, Nebraska (Mesozoic)
 6. From Lincoln, Nebraska, take US-30 to Lexington, Nebraska (Period 1 in Cenozoic (Miocene))
-7. From Lincoln, Nebraska, 
+7. From Lincoln, Nebraska, take US-83 to Goodland, Kansas
+
+All of this was from Google Maps and Macrostrat
 
 
 #earth121 
