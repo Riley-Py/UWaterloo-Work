@@ -16,7 +16,7 @@
 ## Driving Plan: 
 The driving plan is as follows to travel through from the Archean age to the Quaternary age:
 
-1. Start at Longlac, Ontario, and go to Nipigon, Ontario.  Then, via Highway 11, go straiThunder Bay, Ontario (travels through Archean and Proterozoic) via Highway 11
+1. Start at Longlac, Ontario, and go to Nipigon, Ontario via Highway 11.  Then, via Highway 17, go straight to Thunder Bay, Ontario (travels through Archean and Proterozoic) 
 2. From Thunder Bay, Ontario, cross
 
 
