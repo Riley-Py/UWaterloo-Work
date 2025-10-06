@@ -33,4 +33,6 @@
 ## Radiometric Dating
 - Useful for age-dating igneous/metamorphic rocks
 	- In Grand Canyon, metamorphic/igneous rocks are at the bottom among the sedimentary rock layers.  
-- 
+- Works by using the known decay rate of radioactive isotopes
+
+#earth121 
