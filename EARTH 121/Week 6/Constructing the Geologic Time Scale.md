@@ -18,4 +18,9 @@
 	- Must travel to different locations to fill in the gaps
 - Diagram of the different rock types and their associated ages within different canyons:
 	- ![[Pasted image 20251006094909.png]]
-- 
+- To compile a regional compilation
+	1. Plot locations of measured exposure on a map
+		- A line connects all of the locations together
+		- Diagram of this
+			- ![[Pasted image 20251006095208.png]]
+			- 
