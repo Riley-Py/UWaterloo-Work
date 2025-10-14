@@ -67,7 +67,7 @@
 - Two or more projects of different scales (size of initial investment), have to calculate the incremental values of two competing projects
 	- *Incremental investment* - cash outflow (losing money)
 	- *Incremental return* - cash inflow (making money)
-- Incremental IRR is calculated using incremental investment and return ()
+- Incremental IRR is calculated using incremental investment and return: $$ $$
 
 
 #mse261 
