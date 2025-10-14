@@ -70,6 +70,8 @@
 - Incremental IRR is calculated using incremental investment and return: $${outflow} = {{inflow} \over (1+i)} $$
 - If incremental IRR is over hurdle rate, that option should be chosen
 
+## Climate-
+
 
 #mse261 
 #topic_3 
