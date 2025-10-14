@@ -1,0 +1,2 @@
+- Cash flow is changing by constant amount
+	- Examples: Costs that go up $500 each year, salary increases $2000 annually, production that ramps up 100 units monthly
