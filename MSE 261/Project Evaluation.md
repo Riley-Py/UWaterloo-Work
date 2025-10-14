@@ -63,7 +63,9 @@
 - Represents the same approach as Present Worth analysis, but now in ratio form
 	- Expressed as B/C >= 1
 	- Project is acceptable when the benefits outweigh the costs
-
+## Incremental Analysis
+- Two or more projects of different scales (size of initial investment), have to calculate the incremental values of two competing projects
+- Incremental IRR is calculated using incremental investment and return
 
 
 #mse261 
