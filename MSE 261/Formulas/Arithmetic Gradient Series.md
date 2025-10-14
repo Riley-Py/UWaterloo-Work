@@ -1,6 +1,6 @@
 - Cash flow is changing by constant amount ($G$) each time
 	- Examples: Costs that go up $500 each year, salary increases $2000 annually, production that ramps up 100 units monthly
-- If it's a gradient series, must separate the star
+- **NOTE:** If it's a gradient series, must separate the starting cost and put that to a uniform series, while putting the increases into the arithmetic gradient series
 
 ## Future Worth
 

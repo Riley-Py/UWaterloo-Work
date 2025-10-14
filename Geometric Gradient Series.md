@@ -1,0 +1,2 @@
+- Cash flow changes by constant percentage
+	- Example: Inflation, productivity growth, college tuition

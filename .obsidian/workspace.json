@@ -8,77 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dd713ea7587fa49d",
+            "id": "b6056ab341c4ee37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSE 261/Topic 1/Introduction (Topic 1).md",
+                "file": "Geometric Gradient Series.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction (Topic 1)"
-            }
-          },
-          {
-            "id": "cfb36d65a0cedcf1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSE 261/Formulas/Present and Future Worth.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Present and Future Worth"
-            }
-          },
-          {
-            "id": "e57f37b1fae2bad0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSE 261/Cash Flow Analysis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cash Flow Analysis"
-            }
-          },
-          {
-            "id": "ffcfcce854908dbf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSE 261/Formulas/Uniform Cash Flow.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Uniform Cash Flow"
-            }
-          },
-          {
-            "id": "e3769137d7565ac7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSE 261/Formulas/Arithmetic Gradient Series.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Arithmetic Gradient Series"
+              "title": "Geometric Gradient Series"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -232,10 +175,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "059c515cd4110e39",
+  "active": "b6056ab341c4ee37",
   "lastOpenFiles": [
-    "MSE 261/Formulas/Uniform Cash Flow.md",
     "MSE 261/Formulas/Arithmetic Gradient Series.md",
+    "Geometric Gradient Series.md",
+    "MSE 261/Formulas/Uniform Cash Flow.md",
     "MSE 261/Cash Flow Analysis.md",
     "MSE 261/Topic 1/Time Value of Money (Topic 1).md",
     "MSE 261/Topic 1/Introduction (Topic 1).md",
@@ -273,7 +217,6 @@
     "SCI 238/Chapter 24 - Life in the Universe/Life on Earth.md",
     "SCI 238/Images/Pasted image 20251004145212.png",
     "SCI 238/Chapter 24 - Life in the Universe",
-    "SCI 238/Chapter 3 - The Science of Astronomy/The Nature of Science.md",
     "EARTH 121/Images/Deep-Time-II.png",
     "EARTH 121/Images/Pasted image 20250929092749.png",
     "EARTH 121/Week 5",
