@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSE 261/Project Evaluation.md",
+                "file": "MSE 261/Formulas/Capitalized Cost.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Project Evaluation"
+              "title": "Capitalized Cost"
             }
           }
         ]
@@ -177,9 +177,9 @@
   },
   "active": "b6056ab341c4ee37",
   "lastOpenFiles": [
+    "MSE 261/Project Evaluation.md",
     "MSE 261/Formulas/Capitalized Cost.md",
     "MSE 261/Formulas/Uniform Cash Flow.md",
-    "MSE 261/Project Evaluation.md",
     "MSE 261/Formulas/Arithmetic Gradient Series.md",
     "MSE 261/Topic 2",
     "MSE 261/Formulas/Present and Future Worth.md",
