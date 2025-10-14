@@ -1,0 +1,1 @@
+- Annual cost is constant over time, *capitalized cost* is present value of uniform series over infinite time periods

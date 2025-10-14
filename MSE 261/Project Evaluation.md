@@ -53,3 +53,4 @@
 - Assesses the relative size of cash flows compared to initial investment
 	- Example: A project generating $30 000 profit after one year might seem good, but this changes depending on if you invested $100 000 or $1 million
 #mse261 
+#topic_3 
