@@ -106,7 +106,13 @@
 #### Conventional Factors
 - *Origin* - Fuel prices, labor costs, business cycles
 - *Behavior* - swings in moderate range, clustered around average expectations
-- *Affected parties* - 
+- *Affected parties* - Project, firm, or sector-specific; diversifiable across portfolios
+- *Time horizon* - short-medium term fluctuations that average out
+
+#### Climate Risk
+- *Origin* - Storms, floods, new regulations
+- *Behavior* - Small, but real chances of large losses
+- *Affected parties* - Across industr
 
 
 #mse261 
