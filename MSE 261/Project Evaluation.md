@@ -70,7 +70,12 @@
 - Incremental IRR is calculated using incremental investment and return: $${outflow} = {{inflow} \over (1+i)} $$
 - If incremental IRR is over hurdle rate, that option should be chosen
 
-## Climate-
+## Climate-Adjusted Project Evaluation
+
+### Why Climate Adjustment Matters?
+- Physical risks (extreme weather that traditional analysis overlooks)
+- Transition risks (policy changes create stranded assets/compliance costs)
+- Uncertainty (wider outcome ranges require distribution of NPVs rather than single point estimates for r)
 
 
 #mse261 
