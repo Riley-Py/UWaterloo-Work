@@ -56,7 +56,11 @@
 
 ## Cost of Capital and Hurdle
 - *Cost of capital* - represents the rate at which money is financed through external sources
-- *Hurdle rate/minimum acceptable rate of return (MARR)* - lowest rate of return project needs to earn to cover the 
+- *Hurdle rate/minimum acceptable rate of return (MARR)* - lowest rate of return project needs to earn to cover the cost of capital
+- IRR needs to be greater than hurdle rate
+
+## Benefit-Cost Ratio
+- 
 
 
 #mse261 
