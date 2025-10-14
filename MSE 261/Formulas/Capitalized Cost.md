@@ -7,4 +7,8 @@ Where:
 - $i$ is interest rate
 
 ### Cost with a growth factor
-$$
+$$P = {A \over {i - g}}$$
+Where:
+- $g$ is percentage of growth over time
+- Rest of variables are the same
+
