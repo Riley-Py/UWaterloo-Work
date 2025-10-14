@@ -54,6 +54,10 @@
 	- Example: A project generating $30 000 profit after one year might seem good, but this changes depending on if you invested $100 000 or $1 million
 - Net Present Value provides a more practical basis when comparing projects than IRR - IRR can have multiple solutions given different criteria and assumptions
 
+## Cost of Capital and Hurdle
+- *Cost of capital* - represents the rate at which money is financed through external sources
+- *Hurdle rate/minimum acceptable rate of return (MARR)* - lowest rate of return project needs to earn to cover the 
+
 
 #mse261 
 #topic_3 
