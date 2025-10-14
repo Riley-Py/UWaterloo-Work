@@ -12,3 +12,8 @@ Where:
 - $i$ is interest rate
 
 ### When i is equal to g
+$$P = A_1 {n \over 1 + i}$$
+- Variables mean the same as above
+
+#mse261 
+#formulas 
