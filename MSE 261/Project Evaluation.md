@@ -60,7 +60,10 @@
 - IRR needs to be greater than hurdle rate
 
 ## Benefit-Cost Ratio
-- Represents the same approach as PW
+- Represents the same approach as Present Worth analysis, but now in ratio form
+	- Expressed as B/C >= 1
+	- Project is acceptable when the benefits outweigh the costs
+
 
 
 #mse261 
