@@ -75,7 +75,10 @@
 ### Why Climate Adjustment Matters?
 - Physical risks (extreme weather that traditional analysis overlooks)
 - Transition risks (policy changes create stranded assets/compliance costs)
-- Uncertainty (wider outcome ranges require distribution of NPVs rather than single point estimates for r)
+- Uncertainty (wider outcome ranges require distribution of NPVs rather than single point estimates for robust decision-making)
+
+### Risk Typology for Project Appraisal
+- Maps both *traditional* and **
 
 
 #mse261 
