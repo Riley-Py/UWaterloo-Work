@@ -13,3 +13,8 @@ Where:
 $$P = F(1+i)^{-n} = F(P/F, i, n)$$
 Where:
 - $(P/F, i, n) = (1+i)^{-n}$
+- The same variables as in the future value factor
+- Also called *discounting factor* 
+
+#mse261 
+#formulas
