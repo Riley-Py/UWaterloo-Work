@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -175,7 +176,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b6056ab341c4ee37",
+  "active": "6a82a833833d1925",
   "lastOpenFiles": [
     "MSE 261/Formulas/Geometric Gradient Series.md",
     "MSE 261/Formulas/Uniform Cash Flow.md",
