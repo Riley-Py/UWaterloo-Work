@@ -98,7 +98,15 @@
 - Single NPV gives illusion of certainty, but climate change makes future less predictable
 - Projects can turn out much better/worse depending on various factors
 - Looking at a distribution of NPVs gives both upside potential and downside danger
-	- Even if 
+	- Even if average NPV looks good, the chances of going below 0 can still be high
+- Thinking in distributions helps us see projects not as "sure bets" but as outcomes spread across a range of possible futures
+
+### Conventional Uncertainty VS. Climate Risk
+
+#### Conventional Factors
+- *Origin* - Fuel prices, labor costs, business cycles
+- *Behavior* - swings in moderate range, clustered around average expectations
+- *Affected parties* - 
 
 
 #mse261 
