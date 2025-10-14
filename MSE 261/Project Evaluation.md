@@ -19,7 +19,7 @@
 ## Projects with Varying Service Life
 
 ### Which Projects are Worth More?
-- Using [[Cash Flow Analysis|cash flows]], we can construct PW or AW of each project
+- Using [[Cash Flow Analysis (Topic 2)|cash flows]], we can construct PW or AW of each project
 	- Need to take project life into consideration with mutually exclusive projects
 #### Equal Project Lives
 - When alternatives have identical time frames, choose the option with higher PW or AW
