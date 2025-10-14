@@ -7,3 +7,9 @@
 
 ## Future Worth
 
+$$ F = A{{(1+i)^n - 1 } \over i}$$
+Where:
+- $F$ is the future value
+- $A$ is payment made at regular intervals
+- $n$ is compounding periods
+- $i$ is interes
