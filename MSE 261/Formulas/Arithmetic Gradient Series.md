@@ -15,3 +15,6 @@ $$ P = G {{(1 + i)^n - 1 - in} \over i^2(1 + i)^n}$$
 Where:
 - $P$ is present worth
 - Rest of the variables are the same as future worth
+
+#mse261 
+#formulas 
