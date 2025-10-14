@@ -17,3 +17,4 @@ $$P = A_1 {n \over 1 + i}$$
 
 #mse261 
 #formulas 
+#topic_2 

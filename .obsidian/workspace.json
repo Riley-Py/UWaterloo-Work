@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSE 261/Formulas/Geometric Gradient Series.md",
+                "file": "MSE 261/Formulas/Present and Future Worth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Geometric Gradient Series"
+              "title": "Present and Future Worth"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "stefan",
+                "query": "2",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,19 +175,20 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b6056ab341c4ee37",
+  "active": "059c515cd4110e39",
   "lastOpenFiles": [
+    "Topic 2",
+    "MSE 261/Formulas/Uniform Cash Flow.md",
     "MSE 261/Formulas/Arithmetic Gradient Series.md",
     "MSE 261/Formulas/Geometric Gradient Series.md",
-    "MSE 261/Formulas/Uniform Cash Flow.md",
+    "MSE 261/Formulas/Present and Future Worth.md",
+    "MSE 261/Formulas/Effective Interest Rate.md",
     "MSE 261/Cash Flow Analysis.md",
     "MSE 261/Topic 1/Time Value of Money (Topic 1).md",
     "MSE 261/Topic 1/Introduction (Topic 1).md",
     "MSE 261/Topic 1",
     "MSE 261/Project Evaluation.md",
-    "MSE 261/Formulas/Effective Interest Rate.md",
     "EARTH 121/Field Notes/EARTH 121 - Field Notes Journal 1-5.pdf",
-    "MSE 261/Formulas/Present and Future Worth.md",
     "MSE 261/Formulas",
     "EARTH 121/Field Notes/Field Notes Journal 6 - What is The Best Driving Route.md",
     "EARTH 121/Week 6/Constructing the Geologic Time Scale.md",
@@ -214,7 +215,6 @@
     "SCI 238/Chapter 24 - Life in the Universe/Searching for Extraterrestrial Life.md",
     "SCI 238/Images/Pasted image 20251004152221.png",
     "SCI 238/Images/Pasted image 20251004151711.png",
-    "SCI 238/Chapter 24 - Life in the Universe/Life on Earth.md",
     "SCI 238/Images/Pasted image 20251004145212.png",
     "SCI 238/Chapter 24 - Life in the Universe",
     "EARTH 121/Images/Deep-Time-II.png",
