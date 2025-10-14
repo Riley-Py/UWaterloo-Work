@@ -112,7 +112,8 @@
 #### Climate Risk
 - *Origin* - Storms, floods, new regulations
 - *Behavior* - Small, but real chances of large losses
-- *Affected parties* - Across industr
+- *Affected parties* - Across industries and geographies; limited diversification
+- *Time horizon* - Compounds over decades, shaping the entire life of long-lived assets
 
 
 #mse261 
