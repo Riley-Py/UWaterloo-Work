@@ -60,7 +60,7 @@
 - IRR needs to be greater than hurdle rate
 
 ## Benefit-Cost Ratio
-- 
+- Represents the same approach as PW
 
 
 #mse261 
