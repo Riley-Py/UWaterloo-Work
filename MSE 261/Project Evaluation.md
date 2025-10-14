@@ -52,5 +52,8 @@
 - Frequently used approaches in project evaluation
 - Assesses the relative size of cash flows compared to initial investment
 	- Example: A project generating $30 000 profit after one year might seem good, but this changes depending on if you invested $100 000 or $1 million
+- Net Present Value provides a more practical basis when comparing projects than IRR - IRR can have multiple solutions given different criteria and assumptions
+
+
 #mse261 
 #topic_3 
