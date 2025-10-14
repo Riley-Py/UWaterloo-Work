@@ -78,7 +78,23 @@
 - Uncertainty (wider outcome ranges require distribution of NPVs rather than single point estimates for robust decision-making)
 
 ### Risk Typology for Project Appraisal
-- Maps both *traditional* and **
+- Maps both *traditional* and *climate-specific channels* to initial cost, operating cost, revenues, and salvage values
+
+#### Traditional Channels
+- Demand volatility
+- Financing costs
+- Competition effects
+- Input price changes
+- Operational risks
+
+#### Climate-Specific Channels
+- Extreme weather/downtime
+- Insurance cost increases
+- Carbon pricing/compliance
+- Shift in tech
+- Heat/flood O&M and resilience retrofits
+
+
 
 
 #mse261 
