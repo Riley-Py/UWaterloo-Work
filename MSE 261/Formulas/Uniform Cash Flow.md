@@ -12,4 +12,14 @@ Where:
 - $F$ is the future value
 - $A$ is payment made at regular intervals
 - $n$ is compounding periods
-- $i$ is interes
+- $i$ is interest rate
+
+## Present Worth
+
+$$ P = A {{(1+i)^n - 1} \over i(1+i)^n}$$
+Where:
+- $P$ is the present value
+- Rest of the variables same as future worth
+
+#mse261 
+#formulas 
