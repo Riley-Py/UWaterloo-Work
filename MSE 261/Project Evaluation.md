@@ -94,7 +94,11 @@
 - Shift in tech
 - Heat/flood O&M and resilience retrofits
 
-
+### Probabilistic Evaluation of NPV
+- Single NPV gives illusion of certainty, but climate change makes future less predictable
+- Projects can turn out much better/worse depending on various factors
+- Looking at a distribution of NPVs gives both upside potential and downside danger
+	- Even if 
 
 
 #mse261 
