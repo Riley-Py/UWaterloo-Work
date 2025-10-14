@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSE 261/Formulas/Geometric Gradient Series.md",
+                "file": "MSE 261/Formulas/Arithmetic Gradient Series.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Geometric Gradient Series"
+              "title": "Arithmetic Gradient Series"
             }
           }
         ]
@@ -175,10 +175,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "059c515cd4110e39",
+  "active": "b6056ab341c4ee37",
   "lastOpenFiles": [
-    "MSE 261/Formulas/Arithmetic Gradient Series.md",
     "MSE 261/Formulas/Geometric Gradient Series.md",
+    "MSE 261/Formulas/Arithmetic Gradient Series.md",
     "MSE 261/Formulas/Uniform Cash Flow.md",
     "MSE 261/Cash Flow Analysis.md",
     "MSE 261/Topic 1/Time Value of Money (Topic 1).md",
