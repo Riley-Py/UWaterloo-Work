@@ -21,3 +21,10 @@
 	3. *Series B* - $10-$50 M, expand/hire/infrastructure
 	4. *Series C+* - (hundreds of millions, global expansion/acquisitions/IPO prep)
 - Outcomes: exits via IPO/direct listing/SPAC/acquisition; occasional secondary sales before exit
+
+### Initial Public Offerings (IPO)
+- Transforms private companies to publicly traded entities
+	- Provides access to capital markets
+	- Enhanced transparency and regulatory requirements
+- Steps for IPO
+	1. *Private Company Status* - company operates with limited shareholders and minimal disclosure requirements,
