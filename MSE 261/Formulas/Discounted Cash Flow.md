@@ -3,6 +3,7 @@
 	- $DCF$ is discounted cash flow
 	- $n$ is time
 	- $r$ is discount rate
+	- $CF$ is cash flow
 #mse261 
 #formulas 
 #topic_4 
