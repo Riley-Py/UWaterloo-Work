@@ -34,4 +34,9 @@
 - *War bonds* - military operations (i.e. U.S. War Bond)
 - *Infrastructure bonds* - large infrastructure projects (i.e. Indian Infrastructure Bond)
 
-## Bond Yiel
+## Bond Yield
+
+### Bond Certificate Components
+1. *Face (par) value* - principal amount that will be repaid to bondholder at maturity
+2. *Maturity date* - date which the issuer must repay full face value to bondholders
+3. *Coupon rate* - annual interest rate paid on face value, determining periodic interest payments
