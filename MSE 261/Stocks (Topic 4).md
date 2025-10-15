@@ -45,4 +45,5 @@
 - Theoretical value of companies and their stocks
 - Stocks don't have a promised cash flow
 	- Present worth requires prediction of future cash flows
-	- 
+	- More volatile than bond cash flows and the degree of volatility needs to be taken into account
+
