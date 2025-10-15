@@ -57,5 +57,7 @@
 	- Represents value that the market places on each dollar of sales
 	- Useful for evaluating companies whose net profit is not stable/negative
 - *Return on Invested Capital (ROIC)* - ratio of company's profit to its invested capital is used
-	- Represents how m
+	- Represents how much profit it generates per dollar of invested capital
+### Interest Rate, Bond Price, Stock Returns
+- Negative relationship between interest
 
