@@ -17,4 +17,7 @@
 - Startups raise money through investor agreement that set valuation and terms; investors get special shares, ownership is diluted each round, and value rises
 - Funding ladder
 	1. *Seed (prototype)*
-	2. *Series A* - $2-$15 M, scale product
+	2. *Series A* - $2-$15 M, scale product/customers
+	3. *Series B* - $10-$50 M, expand/hire/infrastructure
+	4. *Series C+* - (hundreds of millions, global expansion/acquisitions/IPO prep)
+- Outcomes: exits via IPO/direct listing/SPAC/acquisition; occasional secondary sales before exit; VC returns 
