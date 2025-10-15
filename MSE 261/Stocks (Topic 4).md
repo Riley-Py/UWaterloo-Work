@@ -59,5 +59,9 @@
 - *Return on Invested Capital (ROIC)* - ratio of company's profit to its invested capital is used
 	- Represents how much profit it generates per dollar of invested capital
 ### Interest Rate, Bond Price, Stock Returns
-- Negative relationship between interest
+- Negative relationship between interest rate and stock prices
+	- As interest rates rise, corporations face increasing borrowing cost that will curb their profits, which will be a strain on stock growth.  Also, higher borrowing cost will make stock investors less leveraged
+	- The relationship does not always hold
+## Purpose Driven Finance
+
 
