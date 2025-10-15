@@ -60,3 +60,5 @@
 
 ### Yield-to-Maturity (YTM)
 - Long-term bond yield that accounts for the present value of bond given bond maturity date
+- IRR on bond
+- Equates the present value of all cash flows from a bond to current bond price
