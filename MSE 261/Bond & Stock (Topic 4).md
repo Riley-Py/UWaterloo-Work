@@ -81,4 +81,5 @@
 
 ### Yield Spread: Measuring Credit Risk Premiums
 - Quantifies additional compensation investors demand for accepting higher credit risk
-	- Market-based indicators of risk perception
+	- Market-based indicators of risk perception/economic stress levels
+- *Bond yield spread* - difference between yields (rate of return) on two different bonds of varying risk level
