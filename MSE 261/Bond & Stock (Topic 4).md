@@ -89,4 +89,7 @@
 ### Government Bonds
 - *Treasury Bills* - Short-term securities with maturities less than one year.  Serve as cash equivalents for institutional investors
 - *Treasury Notes* - Medium-term securities with maturities between 1-10 years.  Benchmark for mortgage rates/corporate bonds
-- *T*
+- *Treasury Bonds* - Long-term securities with maturities from 10-30 years.  Highest sensitivity to interest rate changes
+
+### Spreads between Bonds with Different Maturity
+- 
