@@ -63,7 +63,7 @@
 - IRR on bond
 - Equates the present value of all cash flows from a bond to current bond price
 
-## Yield Spread + Yield Curve
+## Yield Spread
 
 ### Bond Ratings
 - Coupon rate is determined by risk level of bond
@@ -92,4 +92,11 @@
 - *Treasury Bonds* - Long-term securities with maturities from 10-30 years.  Highest sensitivity to interest rate changes
 
 ### Spreads between Bonds with Different Maturity
-- 
+- Bond with longer maturity date has higher yield
+	- Due to higher uncertainties and foregone liquidity (being able to turn it into money quick isn't possible)
+
+## Yield Curve
+- Can compare multiple bonds with varying maturity
+	- Called a *Yield curve*
+- Yield is up-sloped as maturity increases in normal times
+
