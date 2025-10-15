@@ -47,3 +47,9 @@
 	- Present worth requires prediction of future cash flows
 	- More volatile than bond cash flows and the degree of volatility needs to be taken into account
 
+### Relative Valuations
+- *Earnings per Share (EPS)* - ratio of company's profit to outstanding shares of its stock
+	- Represents how much profit the company generates per share
+- *Price to Earnings Ratio (P/E)* - ratio of company's share price to EPS
+	- Compares market value of stock to company's profitability
+
