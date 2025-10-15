@@ -34,4 +34,9 @@
 ### SPACs (Special Purpose Acquisition Companies)
 - Blank check companies that are listed on the exchange, raise capital through public offerings, then seek private companies to acquire and bring public through merger transactions
 	- Involves lower fees compared to IPO and faster access to public markets
-	- 
+	- Allows for negotiation of valuations and terms with SPAC management, providing more certainty
+## Stock Trading & Valuation
+
+### Stock Trading on Stock Exchange
+- Investors in stock market look for two sources of gain: dividend payout and capital gain through increasing share value
+- 
