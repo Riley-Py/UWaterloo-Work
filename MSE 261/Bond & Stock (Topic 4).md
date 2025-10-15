@@ -31,4 +31,7 @@
 ### Bond Categories by Purposes
 - *Green bonds* - funds climate/environmental projects (i.e. Apple Green Bond)
 - *Social bonds* - funds projects with social impact, like healthcare and housing (i.e. International Finance Corporation Social Bond)
-- *War bonds* - military opera
+- *War bonds* - military operations (i.e. U.S. War Bond)
+- *Infrastructure bonds* - large infrastructure projects (i.e. Indian Infrastructure Bond)
+
+## Bond Yiel
