@@ -20,4 +20,4 @@
 	2. *Series A* - $2-$15 M, scale product/customers
 	3. *Series B* - $10-$50 M, expand/hire/infrastructure
 	4. *Series C+* - (hundreds of millions, global expansion/acquisitions/IPO prep)
-- Outcomes: exits via IPO/direct listing/SPAC/acquisition; occasional secondary sales before exit; VC returns 
+- Outcomes: exits via IPO/direct listing/SPAC/acquisition; occasional secondary sales before exit
