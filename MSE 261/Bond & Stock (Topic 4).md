@@ -102,4 +102,6 @@
 
 ### Treasury Yield Curve
 - Yield curve for Treasury securities with varying maturity
-	- Slope is indicator for future inters
+	- Slope is indicator for future interest rate/economic activity
+
+#### Inverted Y
