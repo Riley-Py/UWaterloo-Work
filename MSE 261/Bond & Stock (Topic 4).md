@@ -35,6 +35,9 @@
 - *Infrastructure bonds* - large infrastructure projects (i.e. Indian Infrastructure Bond)
 
 ## Bond Yield
+- If bonds are not issued at their face value, the coupon rates/rate of return of the bond are different
+- Example:
+	- 1-year maturity bond of $1000 face value and pays 4% coupon rate ($40)
 
 ### Bond Certificate Components
 1. *Face (par) value* - principal amount that will be repaid to bondholder at maturity
