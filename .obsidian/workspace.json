@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSE 261/Formulas/Dividend Based Valuation.md",
+                "file": "MSE 261/Formulas/Dividend Discount Model.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dividend Based Valuation"
+              "title": "Dividend Discount Model"
             }
           }
         ],
@@ -207,7 +207,7 @@
   "active": "d8a8ab6165dd059c",
   "lastOpenFiles": [
     "MSE 261/Stocks (Topic 4).md",
-    "MSE 261/Formulas/Dividend Based Valuation.md",
+    "MSE 261/Formulas/Dividend Discount Model.md",
     "MSE 261/Formulas/Discounted Cash Flow.md",
     "MSE 261/Formulas/Capitalized Cost.md",
     "MSE 261/Formulas/Effective Interest Rate.md",
