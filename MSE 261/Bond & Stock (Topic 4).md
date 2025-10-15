@@ -17,4 +17,9 @@
 - Borrowed capital that companies repay with interest
 - Creates legal obligations/doesn't dilute ownership control
 - Steps of debt financing
-	1. *Company issues bond* - debt secrui
+	1. *Company issues bond* - debt securities with specific terms
+	2. *Investors provide capital* - bondholders lend money in exchange for securities
+	3. *Periodic Interest Payments* - regular coupon payments throughout bond life
+	4. *Principal Repayment* - full face value returned at maturity
+### Bond Categories by Issuer Type
+- *Sovereign bonds* - government-issued debt securities backed by national credit ()
