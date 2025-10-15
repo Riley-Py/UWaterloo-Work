@@ -39,4 +39,10 @@
 
 ### Stock Trading on Stock Exchange
 - Investors in stock market look for two sources of gain: dividend payout and capital gain through increasing share value
-- 
+- Some stocks grow fast without much dividend (*growth stock*) while others don't grow much but have large dividend payout (*dividend stock*)
+
+### Stock Valuation
+- Theoretical value of companies and their stocks
+- Stocks don't have a promised cash flow
+	- Present worth requires prediction of future cash flows
+	- 
