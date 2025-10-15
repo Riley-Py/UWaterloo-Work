@@ -4,4 +4,6 @@
 - Shareholders become co-owners
 - Residual claimants
 - Optional dividends (profit distributions)
-- 
+
+## Global Stock Markets
+- U.S. repree
