@@ -73,3 +73,6 @@
 - *Political backlash* - ESG is a political issue, with criticism that it imposes non-financial agendas on firms/investors
 - *Structural challenges* - Greenwashing, inconsistent ratings, gap between ESG labels and actual impact created skepticism/regulatory concerns
 
+### Implications for Engineering Economics
+- ESG-aligned investments can improve reputation and attract capital, but fin
+
