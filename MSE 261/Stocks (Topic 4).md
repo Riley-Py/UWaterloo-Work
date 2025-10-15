@@ -13,3 +13,8 @@
 
 ### How Firms Raise Money Pre-IPO
 - *Pre-IPO* - sell equity (ownership) to founders/friends & family, angels/accelerators, venture capital, corporate VC
+	- Selling equity due to early firms burning cash and facing high uncertainty; fixed interest payments are impractical
+- Startups raise money through investor agreement that set valuation and terms; investors get special shares, ownership is diluted each round, and value rises
+- Funding ladder
+	1. *Seed (prototype)*
+	2. *Series A* - $2-$15 M, scale product
