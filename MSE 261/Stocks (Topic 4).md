@@ -63,5 +63,11 @@
 	- As interest rates rise, corporations face increasing borrowing cost that will curb their profits, which will be a strain on stock growth.  Also, higher borrowing cost will make stock investors less leveraged
 	- The relationship does not always hold
 ## Purpose Driven Finance
+- Directs capital toward social, environmental, and governance objectives
+	- Goes beyond profit maxing by aiming to achieve both financial returns and societal impact
+	- Part of mainstream corporate financing practices
+- Examples include Green Bonds, Social Bonds, and ESG ETFs
 
+### ESG Faced Setbacks
+- *Geopolitical *
 
