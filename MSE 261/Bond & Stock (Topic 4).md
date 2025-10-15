@@ -109,3 +109,4 @@
 - Under unusual circumstances, short-term bond yields become higher than long-term yields
 	- Due to economic contraction
 	- Interest rates will go down in the future
+- Happened during the 2008 financial crisis 
