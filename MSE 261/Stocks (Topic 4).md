@@ -27,4 +27,7 @@
 	- Provides access to capital markets
 	- Enhanced transparency and regulatory requirements
 - Steps for IPO
-	1. *Private Company Status* - company operates with limited shareholders and minimal disclosure requirements,
+	1. *Private Company Status* - company operates with limited shareholders and minimal disclosure requirements, funded through private investors and retained earnings
+	2. *IPO Process* - Investment banks underwrite the offering, conducting due diligence, preparing regulatory filings, and marketing shares to institutional investors
+	3. *Exchange Listing* - Shares begin trading on major exchanges like NASDAQ, meeting strict listing requirements for financial transparency
+	4. *Public Trading* - Investors can buy/sell shares, with prices determined by supply and demand
