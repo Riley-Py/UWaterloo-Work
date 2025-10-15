@@ -74,5 +74,12 @@
 - *Structural challenges* - Greenwashing, inconsistent ratings, gap between ESG labels and actual impact created skepticism/regulatory concerns
 
 ### Implications for Engineering Economics
-- ESG-aligned investments can improve reputation and attract capital, but fin
+- ESG-aligned investments can improve reputation and attract capital, but financial payoffs aren't guaranteed
+- Operational realities must be integrated into project evaluation, not just financing
+- Market dynamics can undermine expected returns even if ESG goals are met
+- Engineers/managers should balance sustainability objectives with risk, cost, and lifecycle economics to ensure resilient decision-making
+
+#mse261 
+#topic_4 
+
 
