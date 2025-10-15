@@ -1,0 +1,1 @@
+- Formula: $$P = {{C \over (1 + {YTM})} + {C\over(1+YTM)^2} + {}}$$
