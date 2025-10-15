@@ -79,4 +79,6 @@
 - Bond whose credit rating has been downgraded from investment grade to junk bond grade
 - Triggers forced selling as big players in bond market aren't allowed to hold junk bonds
 
-
+### Yield Spread: Measuring Credit Risk Premiums
+- Quantifies additional compensation investors demand for accepting higher credit risk
+	- Market-based indicators of risk perception
