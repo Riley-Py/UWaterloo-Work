@@ -70,3 +70,7 @@
 	- Non-zero probability of *default* - bond issuer not able to repay the debt in full
 - Issuer of high risk bonds needs to pay higher rate of interest to compensate the higher risk
 - Corporate bonds are rated by credit rating companies (i.e. Standard & Poor's)
+- Diagram of bond ratings
+	- ![[Pasted image 20251015104336.png]]
+	- *Investment Grade* - suitable for pension funds, insurance companies, and conservative portfolios
+	- *Speculative (Junk) Grade* - higher yields, but higher ri
