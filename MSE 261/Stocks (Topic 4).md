@@ -52,4 +52,10 @@
 	- Represents how much profit the company generates per share
 - *Price to Earnings Ratio (P/E)* - ratio of company's share price to EPS
 	- Compares market value of stock to company's profitability
+	- High P/E means that company is overvalued
+- *Price to Sales Ratio* - ratio of company's market capitalization to total sales
+	- Represents value that the market places on each dollar of sales
+	- Useful for evaluating companies whose net profit is not stable/negative
+- *Return on Invested Capital (ROIC)* - ratio of company's profit to its invested capital is used
+	- Represents how m
 
