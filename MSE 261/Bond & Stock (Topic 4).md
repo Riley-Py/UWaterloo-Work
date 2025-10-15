@@ -38,8 +38,16 @@
 - If bonds are not issued at their face value, the coupon rates/rate of return of the bond are different
 - Example:
 	- 1-year maturity bond of $1000 face value and pays 4% coupon rate ($40)
+	- Annual return is 4%
+	- If this bond trades at a discount - like $800 - annual return is 
+		- Coupon payment + difference between face value and price of bond
+		- (40 + 200)/800 = 240/800 = 30%
+	- Called *bond yield*
 
 ### Bond Certificate Components
 1. *Face (par) value* - principal amount that will be repaid to bondholder at maturity
 2. *Maturity date* - date which the issuer must repay full face value to bondholders
 3. *Coupon rate* - annual interest rate paid on face value, determining periodic interest payments
+
+### Premium & Discount Bonds
+- **
