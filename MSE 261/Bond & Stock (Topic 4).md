@@ -12,3 +12,9 @@
 	- No repayment schedule
 	- Dividends paid at management discretion
 	- Shareholders participate in company growth
+
+## Debt Financing
+- Borrowed capital that companies repay with interest
+- Creates legal obligations/doesn't dilute ownership control
+- Steps of debt financing
+	1. *Company issues bond* - debt secrui
