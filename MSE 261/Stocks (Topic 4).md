@@ -71,5 +71,5 @@
 ### ESG Faced Setbacks
 - *Geopolitical shocks* - Russia's invasion of Ukraine shifted investor priorities toward energy security, reducing ESG objectives
 - *Political backlash* - ESG is a political issue, with criticism that it imposes non-financial agendas on firms/investors
-- *Structural challenges* - Greenwashing, inconsistent ratings, gap between ESG labels and actual impact created skepticism/re
+- *Structural challenges* - Greenwashing, inconsistent ratings, gap between ESG labels and actual impact created skepticism/regulatory concerns
 
