@@ -25,4 +25,5 @@
 - *Sovereign bonds* - government-issued debt securities backed by national credit (i.e. U.S. Treasury Notes)
 - *Supranational bonds* - issued by international organizations with multiple government backing (i.e. World Bank Bonds)
 - *Municipal bonds* - local and state government securities (i.e. Ontario Bond)
-- *Agency Bonds* - government-sponsored enterprises (i.e. )
+- *Agency bonds* - government-sponsored enterprises (i.e. Fannie Mae)
+- *Corporate bonds* - Private company (i.e. Apple Corporate Notes)
