@@ -73,4 +73,10 @@
 - Diagram of bond ratings
 	- ![[Pasted image 20251015104336.png]]
 	- *Investment Grade* - suitable for pension funds, insurance companies, and conservative portfolios
-	- *Speculative (Junk) Grade* - higher yields, but higher ri
+	- *Speculative (Junk) Grade* - higher yields, but higher risk
+
+### Fallen Angels
+- Bond whose credit rating has been downgraded from investment grade to junk bond grade
+- Triggers forced selling as big players in bond market aren't allowed to hold junk bonds
+
+
