@@ -83,3 +83,7 @@
 - Quantifies additional compensation investors demand for accepting higher credit risk
 	- Market-based indicators of risk perception/economic stress levels
 - *Bond yield spread* - difference between yields (rate of return) on two different bonds of varying risk level
+- If the spread narrows, investors expect a lower risk of default for low grade bonds
+- If the spread widens, investors expect a greater risk of default for low grade bonds
+
+###
