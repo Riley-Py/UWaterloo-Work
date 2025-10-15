@@ -22,4 +22,7 @@
 	3. *Periodic Interest Payments* - regular coupon payments throughout bond life
 	4. *Principal Repayment* - full face value returned at maturity
 ### Bond Categories by Issuer Type
-- *Sovereign bonds* - government-issued debt securities backed by national credit ()
+- *Sovereign bonds* - government-issued debt securities backed by national credit (i.e. U.S. Treasury Notes)
+- *Supranational bonds* - issued by international organizations with multiple government backing (i.e. World Bank Bonds)
+- *Municipal bonds* - local and state government securities (i.e. Ontario Bond)
+- *Agency Bonds* - government-sponsored enterprises (i.e. )
