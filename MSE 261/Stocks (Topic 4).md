@@ -32,4 +32,6 @@
 	3. *Exchange Listing* - Shares begin trading on major exchanges like NASDAQ, meeting strict listing requirements for financial transparency
 	4. *Public Trading* - Investors can buy/sell shares, with prices determined by supply and demand
 ### SPACs (Special Purpose Acquisition Companies)
-- Blank check companies that 
+- Blank check companies that are listed on the exchange, raise capital through public offerings, then seek private companies to acquire and bring public through merger transactions
+	- Involves lower fees compared to IPO and faster access to public markets
+	- 
