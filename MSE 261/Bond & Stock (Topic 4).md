@@ -104,4 +104,8 @@
 - Yield curve for Treasury securities with varying maturity
 	- Slope is indicator for future interest rate/economic activity
 
-#### Inverted Y
+#### Inverted Yield Curve
+- Treasury yield is normally up-sloped
+- Under unusual circumstances, short-term bond yields become higher than long-term yields
+	- Due to economic contraction
+	- Interest rates will go down in the future
