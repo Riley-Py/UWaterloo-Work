@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSE 261/Formulas/Geometric Gradient Series.md",
+                "file": "MSE 261/Formulas/Discounted Cash Flow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Geometric Gradient Series"
+              "title": "Discounted Cash Flow"
             }
           }
         ],
@@ -206,12 +206,12 @@
   },
   "active": "d8a8ab6165dd059c",
   "lastOpenFiles": [
+    "MSE 261/Formulas/Geometric Gradient Series.md",
     "MSE 261/Formulas/Effective Interest Rate.md",
     "MSE 261/Formulas/Capitalized Cost.md",
     "MSE 261/Formulas/Arithmetic Gradient Series.md",
     "MSE 261/Formulas/Discounted Cash Flow.md",
     "MSE 261/Formulas/Internal Rate of Return.md",
-    "MSE 261/Formulas/Geometric Gradient Series.md",
     "MSE 261/Formulas/Uniform Cash Flow.md",
     "MSE 261/Formulas/Present and Future Worth.md",
     "MSE 261/Formulas/Market Capitalization.md",
