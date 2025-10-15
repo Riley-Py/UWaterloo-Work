@@ -5,3 +5,7 @@
 	- $C$ is coupon payment
 	- $M$ is value at maturity (face value)
 	- $n$ is number of periods
+
+#mse261 
+#formulas 
+#topic_4 
