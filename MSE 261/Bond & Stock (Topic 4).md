@@ -86,4 +86,7 @@
 - If the spread narrows, investors expect a lower risk of default for low grade bonds
 - If the spread widens, investors expect a greater risk of default for low grade bonds
 
-###
+### Government Bonds
+- *Treasury Bills* - Short-term securities with maturities less than one year.  Serve as cash equivalents for institutional investors
+- *Treasury Notes* - Medium-term securities with maturities between 1-10 years.  Benchmark for mortgage rates/corporate bonds
+- *T*
