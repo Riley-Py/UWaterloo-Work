@@ -54,3 +54,5 @@
 - *Discount* - trades below par (price < face value) when coupon rate < market yield
 - For a given coupon and maturity, bond prices move inversely to yields/interest rates (when yields rise, prices fall; when yields fall, prices rise)
 
+### Interest Rate and Bond Price: Zero Coupon Bonds
+- 
