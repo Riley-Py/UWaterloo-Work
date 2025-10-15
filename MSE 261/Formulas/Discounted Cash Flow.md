@@ -5,4 +5,4 @@
 	- $r$ is discount rate
 #mse261 
 #formulas 
-#topic_4
+#topic_4 
