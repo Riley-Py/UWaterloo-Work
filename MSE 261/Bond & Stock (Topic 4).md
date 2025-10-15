@@ -67,4 +67,6 @@
 
 ### Bond Ratings
 - Coupon rate is determined by risk level of bond
-- 
+	- Non-zero probability of *default* - bond issuer not able to repay the debt in full
+- Issuer of high risk bonds needs to pay higher rate of interest to compensate the higher risk
+- Corporate bonds are rated by credit rating companies (i.e. Standard & Poor's)
