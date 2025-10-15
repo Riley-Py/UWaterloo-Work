@@ -1,0 +1,1 @@
+- Formula: $${DCF} = {C{F_1}\over (1 + r)^1} + {{C}}$$
