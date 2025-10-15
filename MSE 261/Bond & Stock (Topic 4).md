@@ -55,4 +55,8 @@
 - For a given coupon and maturity, bond prices move inversely to yields/interest rates (when yields rise, prices fall; when yields fall, prices rise)
 
 ### Interest Rate and Bond Price: Zero Coupon Bonds
-- 
+- There's a negative relationship between bond prices and interest rates
+	- Due to the fact that if the market interest rate is higher than the rate of return, the issuer of zero-coupon bond would need to lower its price
+
+### Yield-to-Maturity (YTM)
+- Long-term bond yield that accounts for the present value of bond given bond maturity date
