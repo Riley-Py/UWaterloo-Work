@@ -110,3 +110,6 @@
 	- Due to economic contraction
 	- Interest rates will go down in the future
 - Happened during the 2008 financial crisis 
+
+#mse261 
+#topic_4 
