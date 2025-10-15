@@ -101,4 +101,5 @@
 - Yield is up-sloped as maturity increases in normal times
 
 ### Treasury Yield Curve
-- 
+- Yield curve for Treasury securities with varying maturity
+	- Slope is indicator for future inters
