@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSE 261/Formulas/Capitalized Cost.md",
+                "file": "MSE 261/Formulas/Dividend Based Valuation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Capitalized Cost"
+              "title": "Dividend Based Valuation"
             }
           }
         ],
@@ -206,19 +206,20 @@
   },
   "active": "d8a8ab6165dd059c",
   "lastOpenFiles": [
-    "MSE 261/Formulas/Effective Interest Rate.md",
-    "MSE 261/Formulas/Geometric Gradient Series.md",
+    "MSE 261/Stocks (Topic 4).md",
+    "MSE 261/Formulas/Dividend Based Valuation.md",
     "MSE 261/Formulas/Discounted Cash Flow.md",
     "MSE 261/Formulas/Capitalized Cost.md",
-    "MSE 261/Formulas/Arithmetic Gradient Series.md",
+    "MSE 261/Formulas/Effective Interest Rate.md",
+    "MSE 261/Formulas/Geometric Gradient Series.md",
     "MSE 261/Formulas/Internal Rate of Return.md",
+    "MSE 261/Formulas/Market Capitalization.md",
+    "MSE 261/Formulas/Yield-To-Maturity (YTM).md",
+    "MSE 261/Formulas/Arithmetic Gradient Series.md",
     "MSE 261/Formulas/Uniform Cash Flow.md",
     "MSE 261/Formulas/Present and Future Worth.md",
-    "MSE 261/Formulas/Market Capitalization.md",
-    "MSE 261/Stocks (Topic 4).md",
     "MSE 261/Bond (Topic 4).md",
     "MSE 261/Images/Pasted image 20251015104336.png",
-    "MSE 261/Formulas/Yield-To-Maturity (YTM).md",
     "MSE 261/Topic 3/Project Evaluation (Topic 3).md",
     "MSE 261/Topic 3",
     "MSE 261/Formulas/Benefit-Cost Ratio.md",
@@ -245,7 +246,6 @@
     "EARTH 121/Field Notes/Field Note Journal 2 - Are Minerals Important.md",
     "EARTH 121/Images/PXL_20250909_192230610.jpg",
     "EARTH 121/Field Notes/Field Note Journal 1 - Why Earth Science.md",
-    "SCI 238/Chapter 5 - Light & Matter Reading Messages from the Cosmos/Learning from Light.md",
     "SCI 238/Images/Pasted image 20251004152221.png",
     "SCI 238/Images/Pasted image 20251004151711.png",
     "SCI 238/Images/Pasted image 20251004145212.png",
