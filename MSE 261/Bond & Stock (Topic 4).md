@@ -50,4 +50,7 @@
 3. *Coupon rate* - annual interest rate paid on face value, determining periodic interest payments
 
 ### Premium & Discount Bonds
-- **
+- *Premium*  - trades above par (price > face value) when coupon rate > market yield
+- *Discount* - trades below par (price < face value) when coupon rate < market yield
+- For a given coupon and maturity, bond prices move inversely to yields/interest rates (when yields rise, prices fall; when yields fall, prices rise)
+
