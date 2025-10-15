@@ -27,3 +27,8 @@
 - *Municipal bonds* - local and state government securities (i.e. Ontario Bond)
 - *Agency bonds* - government-sponsored enterprises (i.e. Fannie Mae)
 - *Corporate bonds* - Private company (i.e. Apple Corporate Notes)
+
+### Bond Categories by Purposes
+- *Green bonds* - funds climate/environmental projects (i.e. Apple Green Bond)
+- *Social bonds* - funds projects with social impact, like healthcare and housing (i.e. International Finance Corporation Social Bond)
+- *War bonds* - military opera
