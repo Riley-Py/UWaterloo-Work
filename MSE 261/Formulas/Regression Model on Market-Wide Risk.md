@@ -4,4 +4,4 @@
 	- $r_m$ is an asset's market return
 	- $\beta$ is the slope, and measures how sensitive an individual asset is to market movements
 	- $\alpha$ is the intercept, and is the baseline performance of the asset compared to market performance
-	- $\eplison$
+	- $\epsilon$ is an asset specific shock
