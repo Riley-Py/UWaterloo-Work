@@ -16,4 +16,8 @@
 ## Efficient Frontier
 - The upper part of the parabola should dominate the lower part in the sense that investors always choose the upper portfolios
 	- Upper parts have higher expected value for same level of risk
-	- Trade-off between returns
+	- Trade-off between returns/risk on efficient frontier
+- Diagram of efficient frontier:
+	- ![[Pasted image 20251016100652.png]]
+	- X-axis is the risk (standard deviation) and Y-axis is expected return
+- More diversified the portfolio = the
