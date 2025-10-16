@@ -1,0 +1,2 @@
+- Formula: $$S_a = {E \left [R_a - R_f\right] \over \sigma_a}$$
+- Where
