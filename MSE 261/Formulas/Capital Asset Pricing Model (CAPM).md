@@ -6,4 +6,4 @@
 	- $\beta_j$ is the $\beta$ of asset $j$ 
 #mse261 
 #formulas 
-#
+#topic_5 
