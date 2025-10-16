@@ -1,0 +1,1 @@
+- Formula: $$r_j = \alpha + \beta{r_m} + \ $$
