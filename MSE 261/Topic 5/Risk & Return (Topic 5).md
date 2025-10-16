@@ -20,4 +20,5 @@
 - Diagram of efficient frontier:
 	- ![[Pasted image 20251016100652.png]]
 	- X-axis is the risk (standard deviation) and Y-axis is expected return
-- More diversified the portfolio = the
+- More diversified the portfolio = the lower the standard deviation (risk) of investment
+	- *Law of large numbers* - as sample size grows, standard deviation gets smaller
