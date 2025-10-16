@@ -9,4 +9,5 @@
 	- *Low standard deviation* - low risk, low return
 - Doesn't distinguish between company specific shocks from economy wide shocks
 
-## Risk VS. Expe
+## Risk VS. Expected Returns: Sharpe Ratio
+- Measures a company's stock performance adjusting for its risk
