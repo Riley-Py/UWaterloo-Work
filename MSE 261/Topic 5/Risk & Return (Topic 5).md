@@ -27,4 +27,5 @@
 - All assets are subject to systemic risk, so it can't be diversified away
 - $\beta$ is a slope coefficient in simple regression and represents degree of association between individual asset returns and overall market returns
 	- $\beta$ less than one - implies that individual stock is less volatile than market
-	- $\beta$ greater than one - implies that individual stock is more volatile than mark
+	- $\beta$ greater than one - implies that individual stock is more volatile than market
+	- $\beta$ is negative - hedges the market volatility
