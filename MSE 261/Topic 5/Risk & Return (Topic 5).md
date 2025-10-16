@@ -13,4 +13,7 @@
 - Measures a company's stock performance adjusting for its risk
 - If $S_a$ is higher for stock A than B, it means that stock A performs better than stock B with adjustments to risk
 
-## 
+## Efficient Frontier
+- The upper part of the parabola should dominate the lower part in the sense that investors always choose the upper portfolios
+	- Upper parts have higher expected value for same level of risk
+	- Trade-off between returns
