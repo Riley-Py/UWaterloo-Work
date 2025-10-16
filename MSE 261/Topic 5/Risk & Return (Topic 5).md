@@ -22,3 +22,6 @@
 	- X-axis is the risk (standard deviation) and Y-axis is expected return
 - More diversified the portfolio = the lower the standard deviation (risk) of investment
 	- *Law of large numbers* - as sample size grows, standard deviation gets smaller
+## Systemic Risk
+- Market-wide variability is called *systemic risk*
+- All assets are subject to systemic risk, so it can't be diversified away
