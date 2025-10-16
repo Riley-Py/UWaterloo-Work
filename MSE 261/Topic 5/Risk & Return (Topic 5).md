@@ -41,3 +41,5 @@
 - When returns on assets fall on the line, the asset is correctly priced and expected returns match required returns (risk premium matches level of risk)
 	- If below, asset is overpriced
 	- If above, asset is underpriced
+### Limits of CAPM
+- Empirical results are mixed and contradict theoretical results based on
