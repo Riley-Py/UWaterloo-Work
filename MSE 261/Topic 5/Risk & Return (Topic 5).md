@@ -12,3 +12,5 @@
 ## Risk VS. Expected Returns: Sharpe Ratio
 - Measures a company's stock performance adjusting for its risk
 - If $S_a$ is higher for stock A than B, it means that stock A performs better than stock B with adjustments to risk
+
+## 
