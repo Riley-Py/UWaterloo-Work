@@ -3,4 +3,4 @@
 	- $E[R_j]$ is expected return on asset $j$ 
 	- $R_f$ is risk-free return
 	- $E[R_m]$ is expected market return
-	- $\beta_j$ is 
+	- $\beta_j$ is the $\beta$ of asset $j$ 

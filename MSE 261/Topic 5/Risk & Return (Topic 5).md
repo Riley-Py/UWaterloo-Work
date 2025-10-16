@@ -29,3 +29,6 @@
 	- $\beta$ less than one - implies that individual stock is less volatile than market
 	- $\beta$ greater than one - implies that individual stock is more volatile than market
 	- $\beta$ is negative - hedges the market volatility
+## $\beta$ and Risk Premium: CAPM
+- *Capital Asset Pricing Model* relates $\beta$ (risk) to returns
+- 
