@@ -5,3 +5,6 @@
 
 ## Variability of Returns
 - Simple measure is standard deviation of returns
+	- *High standard deviation* - high risk, high return
+	- *Low standard deviation* - low risk, low return
+- Doesn't distinguish between company specific shocks from economy wide shocks
