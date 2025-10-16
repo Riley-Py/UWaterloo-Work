@@ -31,4 +31,9 @@
 	- $\beta$ is negative - hedges the market volatility
 ## $\beta$ and Risk Premium: CAPM
 - *Capital Asset Pricing Model* relates $\beta$ (risk) to returns
-- 
+- There is a positive relationship between risk and risk premium
+	- Higher risk, higher risk premium
+	- Required rate of return (hurdle rate) on an individual asset that makes its risk premium high enough to tolerate level of risk, $\beta_j$ 
+	- $\beta = 0$, expected return is simply risk-free rate
+### Security Market Line
+- Linear line relating the expected return on assets $E(R_j)$
