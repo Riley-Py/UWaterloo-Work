@@ -4,3 +4,6 @@
 	- $R_f$ is risk-free return
 	- $E[R_m]$ is expected market return
 	- $\beta_j$ is the $\beta$ of asset $j$ 
+#mse261 
+#formulas 
+#

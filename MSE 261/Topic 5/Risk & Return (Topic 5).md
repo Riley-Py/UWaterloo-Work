@@ -42,4 +42,9 @@
 	- If below, asset is overpriced
 	- If above, asset is underpriced
 ### Limits of CAPM
-- Empirical results are mixed and contradict theoretical results based on
+- Empirical results are mixed and contradict theoretical results based on CAPM
+- CAPM assumes fully diversified investors
+- CAPM assumes that markets are efficient and investors are rational
+
+#mse261 
+#topic_5 

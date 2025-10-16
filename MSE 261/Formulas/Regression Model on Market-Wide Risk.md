@@ -5,3 +5,6 @@
 	- $\beta$ is the slope, and measures how sensitive an individual asset is to market movements
 	- $\alpha$ is the intercept, and is the baseline performance of the asset compared to market performance
 	- $\epsilon$ is an asset specific shock
+#mse261 
+#formulas 
+#topic_5 
