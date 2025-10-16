@@ -1,0 +1,1 @@
+- Formula: $$ \sigma = \sqrt{E\left[(R_a-\right]}$$
