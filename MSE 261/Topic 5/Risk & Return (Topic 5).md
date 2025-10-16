@@ -36,4 +36,7 @@
 	- Required rate of return (hurdle rate) on an individual asset that makes its risk premium high enough to tolerate level of risk, $\beta_j$ 
 	- $\beta = 0$, expected return is simply risk-free rate
 ### Security Market Line
-- Linear line relating the expected return on assets $E(R_j)$
+- Linear line relating the expected return on assets $E(R_j)$ to systemic risk $\beta_j$ 
+- Intercept is $R_f$, while slope is risk premium
+- When returns on assets fall on the line, the asset is correctly priced and expected returns match required returns (risk premium matches level of risk)
+	- If b
