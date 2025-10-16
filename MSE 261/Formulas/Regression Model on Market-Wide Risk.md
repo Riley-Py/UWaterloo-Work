@@ -1,1 +1,7 @@
-- Formula: $$r_j = \alpha + \beta{r_m} + \ $$
+- Formula: $$r_j = \alpha + \beta{r_m} + \epsilon $$
+- Where:
+	- $r_j$ is an asset's historical return
+	- $r_m$ is an asset's market return
+	- $\beta$ is the slope, and measures how sensitive an individual asset is to market movements
+	- $\alpha$ is the intercept, and is the baseline performance of the asset compared to market performance
+	- $\eplison$
