@@ -11,12 +11,14 @@
             "id": "edd6db3c0b934dcb",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "MSE 261/Images/Pasted image 20251016100652.png"
+                "file": "MSE 261/Formulas/Uniform Cash Flow.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251016100652"
+              "icon": "lucide-file",
+              "title": "Uniform Cash Flow"
             }
           }
         ]
@@ -173,8 +175,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "059c515cd4110e39",
+  "active": "edd6db3c0b934dcb",
   "lastOpenFiles": [
+    "MSE 261/Images/Pasted image 20251016100652.png",
     "MSE 261/Topic 4/Bond (Topic 4).md",
     "MSE 261/Topic 4/Stocks (Topic 4).md",
     "MSE 261/Formulas/Capital Asset Pricing Model (CAPM).md",
@@ -193,7 +196,6 @@
     "MSE 261/Formulas/Uniform Cash Flow.md",
     "MSE 261/Formulas/Yield-To-Maturity (YTM).md",
     "MSE 261/Topic 5/Risk & Return (Topic 5).md",
-    "MSE 261/Images/Pasted image 20251016100652.png",
     "MSE 261/Topic 5",
     "MSE 261/Topic 4",
     "MSE 261/Images/Pasted image 20251015104336.png",
@@ -210,7 +212,6 @@
     "MSE 261/Formulas",
     "EARTH 121/Field Notes/Field Notes Journal 6 - What is The Best Driving Route.md",
     "EARTH 121/Week 6/Constructing the Geologic Time Scale.md",
-    "EARTH 121/Week 5/Geologic Time.md",
     "EARTH 121/Images/Pasted image 20251006095448.png",
     "EARTH 121/Images/Pasted image 20251006095208.png",
     "EARTH 121/Images/Pasted image 20251006094909.png",
