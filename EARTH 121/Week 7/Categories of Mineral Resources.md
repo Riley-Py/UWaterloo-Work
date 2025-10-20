@@ -5,4 +5,6 @@
 	- ![[metallic-non-metallics.jpg]]
 ### Metallic
 - Contain metal/opaque solid
-- Lustr
+- Lustrous/shiny
+- Conductor of heat/electricity
+- Pressed into sheets (*malleable*) or drawn into wire (*ductile*) without breaking/cracking
