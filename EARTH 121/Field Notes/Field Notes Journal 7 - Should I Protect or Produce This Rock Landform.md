@@ -8,7 +8,7 @@
 
 ## Response (Taking the role as a citizen)
 
-As a citizen going to buy a home near Toronto, I believe that there are some things to consider within this debate.  Aggregates are used to make homes, with concrete being the main use.  As well, they are used to make roads, so transportation would be easier with more roads.  However, it can ruin 
+As a citizen going to buy a home near Toronto, I believe that there are some things to consider within this debate.  Aggregates are used to make homes, with concrete being the main use.  As well, they are used to make roads, so transportation would be easier with more roads.  However, it can ruin the parks and recreation at the Niagara Escarpment, which I would like to go to to get away from the hustle and bustle of metropolitian life.   
 
 
 ## Sources:
