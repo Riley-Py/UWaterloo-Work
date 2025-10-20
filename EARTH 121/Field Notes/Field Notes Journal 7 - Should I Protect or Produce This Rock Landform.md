@@ -1,1 +1,10 @@
-- 
+## Details of assignment: 
+- The debate of protecting the Niagara Escarpment versus producing aggregates from this internationally recognized landform for urban expansion arises because there are many viewpoints for this complex topic. For this Field Notes Journal entry, place yourself in one of the four groups of people/groups listed below and consider multiple perspectives and positions on the controversial topic of aggregates, one of Earth’s natural, nonrenewable, nonmetallic mineral resources. From whatever viewpoint that you’re taking—supporting the protection of the Niagara Escarpment or the production of aggregate in the Milton quarry—be sure to make a compelling argument in one of the roles of the groups listed below (100-150 words). Please include the source(s) of your reliable information that inform your argument.
+
+- Member of the Niagara Escarpment Commission
+- Employee of a construction company that requires aggregate
+- Member of the Bruce Trail Association
+- Citizen about to buy a newly built home near Toronto
+
+## Response (Taking the role as a citizen)
+
