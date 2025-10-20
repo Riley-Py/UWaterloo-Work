@@ -1,3 +1,5 @@
+-  
+
 ## Key Terms/Concepts
 
 *Resource* - Earth's natural material identified, available to be extracted profitably, and useful to humans
@@ -8,4 +10,6 @@
 *Smelting* - Extract metal from its ore by melting
 *Slag* - By-product left over after metal has been separated through the processes of smelting from its ore
 *Aggregate* - Non-renewable, non-metallic mineral resource consisting of any combination of sand, gravel, crushed rock
+
+
 
