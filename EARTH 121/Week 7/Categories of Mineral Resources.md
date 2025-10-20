@@ -10,6 +10,6 @@
 - Pressed into sheets (*malleable*) or drawn into wire (*ductile*) without breaking/cracking
 
 ## Native Metal & Ore
-- *Native metal* - look and behave like metal
-	- 
-- *Ore* - source of mineral in bedrock
+- *Native metal* - look and behave like metal, disengaged from ore
+- *Ore* - source of mineral/metal in bedrock
+	- Metal is removed by smelting, and produces a non-metallic residue called slag
