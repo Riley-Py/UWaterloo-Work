@@ -20,3 +20,4 @@
 - *Native metal* - look and behave like metal, disengaged from ore
 - *Ore* - source of mineral/metal in bedrock
 	- Metal is removed by smelting, and produces a non-metallic residue called slag
+#earth121 
