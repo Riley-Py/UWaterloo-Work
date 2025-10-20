@@ -20,6 +20,13 @@
 	- *Technology* - Current capabilities in expertise/equipment
 	- *Trade* - Existing or potential import/export agreements or opportunities
 	- *Reserves* - How much is remaining; Is it recoverable; Is the grade suitable
+- Management of existing natural resources/development of new natural resources requires long-term vision
+	- Short-term vision/policies produce negative impacts on environment and aren't sustainable for the long-term
+
+## Categories of Natural Resources
+- Divided into two categories:
+	- *Non-renewable* - Available in finite amount, replaced by natural processes on Geologic Time Scales
+	- 
 
 
 
