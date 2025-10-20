@@ -8,4 +8,11 @@
 
 ## Response (Taking the role as a citizen)
 
-As a citizen going to buy a home near Toronto, I believe that there are some things to consider within this debate.  Aggregates are used to make homes, with concrete being the main use.  As well, they are used to make roads, so transportation would be
+As a citizen going to buy a home near Toronto, I believe that there are some things to consider within this debate.  Aggregates are used to make homes, with concrete being the main use.  As well, they are used to make roads, so transportation would be easier with more roads.  However, it can ruin 
+
+
+## Sources:
+
+1). https://www.ossga.com/multimedia/0/ossga_2825_-_infographic_-_who_uses_ontarios_aggregate_final.pdf
+
+2). 
