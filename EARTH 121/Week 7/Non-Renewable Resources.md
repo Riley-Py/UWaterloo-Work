@@ -34,4 +34,4 @@
 - The two fossil fuels that have gained media attention are:
 	- *Oil sands* (mining/steam assisted gravity discharge)
 	- *Shale gas* (fracking)
-- 
+- Due to the extraction methods used to get these minerals
