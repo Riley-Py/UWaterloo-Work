@@ -1,6 +1,8 @@
 ## Fossil Fuels
 - Hydrocarbon (compound of hydrogen + carbon) that originated from organic matter that is used as a fuel
 	- Examples are Coal, Oil, Gas, Natural gas
+- Provide large amounts of energy when burned
+- Diagram of products got by crud
 ### Formation of Fossil Fuels
 - Oil is from aquatic organisms, while coal is from plants
 - Fossil fuels form after organic matter is buried under Earth's surface
@@ -12,7 +14,8 @@
 ## Conventional & Unconventional Fossil Fuels
 
 - Diagram of conventional/unconventional extraction of fossil fuels
-	- 
+	- ![[Pasted image 20251020131513.png]]
+- 
 
 ### Conventional
 - Coal, oil, natural gas
