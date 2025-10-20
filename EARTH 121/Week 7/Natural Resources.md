@@ -26,7 +26,9 @@
 ## Categories of Natural Resources
 - Divided into two categories:
 	- *Non-renewable* - Available in finite amount, replaced by natural processes on Geologic Time Scales
-	- 
-
+	- *Renewable* - Infinite supply, replaced by natural processes on Human Time Scales
+- Diagram of flowchart of resources:
+	![[Pasted image 20251020125820.png]]
+#earth121 
 
 
