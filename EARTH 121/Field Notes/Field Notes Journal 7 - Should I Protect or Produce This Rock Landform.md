@@ -8,3 +8,4 @@
 
 ## Response (Taking the role as a citizen)
 
+As a citizen going to buy a home near Toronto, I believe that ther
