@@ -35,3 +35,4 @@
 	- *Oil sands* (mining/steam assisted gravity discharge)
 	- *Shale gas* (fracking)
 - Due to the extraction methods used to get these minerals
+	- *Bitumen (heavy oil)* - crude oil that has a high viscosity reduced with the addition of heat and its high density is used in separation techniques like gravity drainage
