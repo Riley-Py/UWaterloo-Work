@@ -1,4 +1,5 @@
--  
+- Hidden/bound within a combination of materials around the planet
+- Geoscientists are involved with identifying Earth materials and classifying these materials to create maps of Earth's crust
 
 ## Key Terms/Concepts
 
@@ -10,6 +11,10 @@
 *Smelting* - Extract metal from its ore by melting
 *Slag* - By-product left over after metal has been separated through the processes of smelting from its ore
 *Aggregate* - Non-renewable, non-metallic mineral resource consisting of any combination of sand, gravel, crushed rock
+
+## Resources Valuable to Humans
+- Every type of mineral/rock can be used for something
+- Factors that influence focus on particular res
 
 
 
