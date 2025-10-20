@@ -11,5 +11,17 @@
 
 ## Conventional & Unconventional Fossil Fuels
 
+- Diagram of conventional/unconventional extraction of fossil fuels
+	- 
+
 ### Conventional
-- Coal
+- Coal, oil, natural gas
+- Widely used/accepted
+- Standard methods for extraction
+- Easier/less expensive to produce
+
+### Unconventional
+- Coal bed methane, oil sands, shale gas
+- Not widely used
+- Innovative methods for extraction
+- Harder/more expensive to produce
