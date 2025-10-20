@@ -14,7 +14,12 @@
 
 ## Resources Valuable to Humans
 - Every type of mineral/rock can be used for something
-- Factors that influence focus on particular res
+- Factors that influence focus on particular resources include:
+	- *Consumption* - Demand (i.e. what minerals are needed for electronics)
+	- *Economics* - Cost from exploration to production to delivery
+	- *Technology* - Current capabilities in expertise/equipment
+	- *Trade* - Existing or potential import/export agreements or opportunities
+	- *Reserves* - How much is remaining; Is it recoverable; Is the grade suitable
 
 
 
