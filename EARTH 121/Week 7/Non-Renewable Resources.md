@@ -2,7 +2,8 @@
 - Hydrocarbon (compound of hydrogen + carbon) that originated from organic matter that is used as a fuel
 	- Examples are Coal, Oil, Gas, Natural gas
 - Provide large amounts of energy when burned
-- Diagram of products got by crud
+- Diagram of products got by crude oil
+	- ![[Pasted image 20251020131722.png]]
 ### Formation of Fossil Fuels
 - Oil is from aquatic organisms, while coal is from plants
 - Fossil fuels form after organic matter is buried under Earth's surface
@@ -28,3 +29,9 @@
 - Not widely used
 - Innovative methods for extraction
 - Harder/more expensive to produce
+
+## Fossil Fuels that are Fueling Debate
+- The two fossil fuels that have gained media attention are:
+	- *Oil sands* (mining/steam assisted gravity discharge)
+	- *Shale gas* (fracking)
+- 
