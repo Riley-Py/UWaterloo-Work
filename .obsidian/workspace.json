@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSE 261/Topic 5/Risk & Return (Topic 5).md",
+                "file": "MSE 261/Formulas/Capitalized Cost.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Risk & Return (Topic 5)"
+              "title": "Capitalized Cost"
             }
           }
         ]
@@ -177,6 +177,9 @@
   },
   "active": "edd6db3c0b934dcb",
   "lastOpenFiles": [
+    "MSE 261/Formulas/Capital Asset Pricing Model (CAPM).md",
+    "MSE 261/Formulas/Arithmetic Gradient Series.md",
+    "MSE 261/Topic 5/Risk & Return (Topic 5).md",
     "MSE 261/Topic 4/Stocks (Topic 4).md",
     "MSE 261/Topic 4/Bond (Topic 4).md",
     "MSE 261/Topic 3/Project Evaluation (Topic 3).md",
@@ -194,8 +197,6 @@
     "EARTH 121/Images/Pasted image 20251020125820.png",
     "EARTH 121/Week 6/Constructing the Geologic Time Scale.md",
     "EARTH 121/Week 7",
-    "MSE 261/Formulas/Arithmetic Gradient Series.md",
-    "MSE 261/Formulas/Capital Asset Pricing Model (CAPM).md",
     "MSE 261/Formulas/Capitalized Cost.md",
     "MSE 261/Formulas/Discounted Cash Flow.md",
     "MSE 261/Formulas/Dividend Discount Model.md",
@@ -208,7 +209,6 @@
     "MSE 261/Formulas/Sharpe Ratio.md",
     "MSE 261/Formulas/Standard Deviation of Returns.md",
     "MSE 261/Formulas/Uniform Cash Flow.md",
-    "MSE 261/Formulas/Yield-To-Maturity (YTM).md",
     "MSE 261/Images/Pasted image 20251016100652.png",
     "MSE 261/Topic 5",
     "MSE 261/Topic 4",
