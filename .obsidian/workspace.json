@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSE 261/Formulas/Internal Rate of Return.md",
+                "file": "MSE 261/Formulas/Capitalized Cost.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Internal Rate of Return"
+              "title": "Capitalized Cost"
             }
           }
         ]
@@ -177,7 +177,11 @@
   },
   "active": "edd6db3c0b934dcb",
   "lastOpenFiles": [
+    "MSE 261/Formulas/Discounted Cash Flow.md",
+    "MSE 261/Formulas/Dividend Discount Model.md",
+    "MSE 261/Formulas/Effective Interest Rate.md",
     "MSE 261/Formulas/Geometric Gradient Series.md",
+    "MSE 261/Formulas/Internal Rate of Return.md",
     "MSE 261/Formulas/Market Capitalization.md",
     "MSE 261/Formulas/Present and Future Worth.md",
     "MSE 261/Formulas/Regression Model on Market-Wide Risk.md",
@@ -204,10 +208,6 @@
     "EARTH 121/Images/Pasted image 20251020125820.png",
     "EARTH 121/Week 6/Constructing the Geologic Time Scale.md",
     "EARTH 121/Week 7",
-    "MSE 261/Formulas/Discounted Cash Flow.md",
-    "MSE 261/Formulas/Dividend Discount Model.md",
-    "MSE 261/Formulas/Effective Interest Rate.md",
-    "MSE 261/Formulas/Internal Rate of Return.md",
     "MSE 261/Formulas/Uniform Cash Flow.md",
     "MSE 261/Images/Pasted image 20251016100652.png",
     "MSE 261/Topic 5",
