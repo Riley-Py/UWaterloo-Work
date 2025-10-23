@@ -8,7 +8,7 @@
 
 ## Response (Taking the role as a citizen)
 
-As a citizen going to buy a home near Toronto, I believe that there are some things to consider within this debate.  Aggregates are used to make homes, with concrete being the main use.  As well, they are used to make roads, so transportation would be easier with more roads and houses could potentially be cheaper with more of them built and with the aggregates being local to the area.  The only concern that I would have with the expansion would be the destruction of the ecology and ecosystems that are present there, as well as water quality deteriorating due to the dust produced with the aggregates at the quarry.  
+As a citizen going to buy a home near Toronto, I believe that there are some things to consider within this debate.  Aggregates are used to make homes, with concrete being the main use.  As well, they are used to make roads, so transportation would be easier with more roads and houses could potentially be cheaper with more of them built and with the aggregates being local to the area.  The only concern that I would have with the expansion would be the destruction of the ecology and ecosystems that are present there, as well as water quality deteriorating due to the dust produced with the aggregates at the quarry.  This dust is also harmful for us humans, which I wouldn't personally want to be inhaling.
 
 
 ## Sources:
@@ -17,4 +17,4 @@ As a citizen going to buy a home near Toronto, I believe that there are some thi
 
 2). https://www.torontoenvironment.org/gravel/impacts 
 
-3). 
+3). https://gravelwatch.org/legacy%20site/laws-gravel.pdf 
