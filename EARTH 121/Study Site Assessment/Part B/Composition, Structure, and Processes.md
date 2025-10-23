@@ -13,7 +13,8 @@
 	- Low silica content
 	- High iron/magnesium content
 	- Made out of pyroxene, olivine, and plagioclase
-- Features of basalt roc
+- Features of basalt rock at Giant's Causeway
+	- 
 
 
 ## Sources:
