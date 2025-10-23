@@ -12,6 +12,8 @@
 	- Igneous rock
 	- Low silica content
 	- High iron/magnesium content
+	- Made out of pyroxene, olivine, and plagioclase
+- 
 
 
 ## Sources:
