@@ -9,12 +9,14 @@
 
 ### Part 1:
 - Black basalt rocks
-	- 
+	- Igneous rock
+	- Low silica content
+	- High iron/magnesium content
 
 
 ## Sources:
 
 - https://whc.unesco.org/en/list/369/ 
-- 
+- https://www.regattaexports.com/everything-you-need-to-know-about-black-basalt/
 #earth121 
 #study_site_assessment 
