@@ -25,7 +25,8 @@
 - Created through columnar jointing, which is formed through the cooling of lava flows
 	- Creates contraction and then fracturing, which is exhibited at Giant's Causeway
 - Basically, on the rock cycle, just include the Magma and then the crystallization of said magma into igneous rock (the basalt)
-- D
+- Diagram of modification of the rock cycle:
+	- 
 
 
 
