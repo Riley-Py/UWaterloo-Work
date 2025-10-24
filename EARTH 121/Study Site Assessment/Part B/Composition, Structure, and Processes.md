@@ -26,7 +26,9 @@
 	- Creates contraction and then fracturing, which is exhibited at Giant's Causeway
 - Basically, on the rock cycle, just include the Magma and then the crystallization of said magma into igneous rock (the basalt)
 - Diagram of modification of the rock cycle:
-	- 
+	- ![[rock_cycle_modified.png]]
+### Part 4:
+- 
 
 
 
@@ -37,5 +39,6 @@
 - https://www.bgs.ac.uk/discovering-geology/maps-and-resources/office-geology/the-giants-causeway-and-causeway-coast/
 - https://www.nationaltrust.org.uk/visit/northern-ireland/giants-causeway/history-of-giants-causeway
 - https://www.nps.gov/subjects/volcanoes/columnar-jointing.htm
+- https://thinkbluemarble.com/learning-galaxy/food-for-thought/rock-types/ (image)
 #earth121 
 #study_site_assessment 
