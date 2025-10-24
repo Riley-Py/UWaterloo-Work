@@ -19,6 +19,8 @@
 	- The hexagonal columns indicate columnar jointing, which is a common feature of basaltic lava flows and igneous rock lava flows
 - History of volcanic activity at the site, where lava rapidly cooled and solidified, which is how basalt is created
 - Has an aphanitic texture to the basalt, which is common to igneous rocks
+
+### Part 3:
 - 
 
 
