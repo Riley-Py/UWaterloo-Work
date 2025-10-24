@@ -18,7 +18,8 @@
 	- Creates geological features that are unique, which the hexagonal basalt columns are when compared to other basalt forms
 	- The hexagonal columns indicate columnar jointing, which is a common feature of basaltic lava flows and igneous rock lava flows
 - History of volcanic activity at the site, where lava rapidly cooled and solidified, which is how basalt is created
-- Has an aphanitic texture to it, whi
+- Has an aphanitic texture to the basalt, which is common to igneous rocks
+- 
 
 
 ## Sources:
