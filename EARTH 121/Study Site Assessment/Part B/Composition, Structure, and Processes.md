@@ -30,7 +30,7 @@
 ### Part 4:
 - Learnt that the hexagonal basalt columns were created through the process of columnar jointing
 - Learnt that Giant's Causeway's formation was from millions of years ago when the Earth's mantle had active volcanic activity
-- 
+- Learnt that sometimes, not the entire rock cycle is used for the formation of rocks, as is the case with Giant's Causeway and the formation of the black basalt
 
 
 
