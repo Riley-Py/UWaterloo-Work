@@ -28,6 +28,8 @@
 - Diagram of modification of the rock cycle:
 	- ![[rock_cycle_modified.png]]
 ### Part 4:
+- Learnt that the hexagonal basalt columns were created through the process of columnar jointing
+- Learnt that Giant's Causeway's formation was from millions of years ago when the Earth's mantle had active volcanic activity
 - 
 
 
