@@ -14,7 +14,9 @@
 	- High iron/magnesium content
 	- Made out of pyroxene, olivine, and plagioclase
 - Features of basalt rock at Giant's Causeway
-	- Indicates vol
+	- Indicates volcanic activity that happened at Giant's Causeway
+	- Creates geological features that are unique, which the hexagonal basalt columns are when compared to other basalt forms
+	- 
 
 
 ## Sources:
