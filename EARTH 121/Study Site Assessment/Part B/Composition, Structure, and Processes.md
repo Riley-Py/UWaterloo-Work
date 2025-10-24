@@ -17,7 +17,7 @@
 	- Indicates volcanic activity that happened at Giant's Causeway
 	- Creates geological features that are unique, which the hexagonal basalt columns are when compared to other basalt forms
 	- The hexagonal columns indicate columnar jointing, which is a common feature of basaltic lava flows and igneous rock lava flows
-- History of volcanic activity at the site, which indicate
+- History of volcanic activity at the site, where lava rapidly cooled, which solidified
 
 
 ## Sources:
