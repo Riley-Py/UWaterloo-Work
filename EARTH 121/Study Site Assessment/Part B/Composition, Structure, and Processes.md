@@ -16,7 +16,7 @@
 - Features of basalt rock at Giant's Causeway
 	- Indicates volcanic activity that happened at Giant's Causeway
 	- Creates geological features that are unique, which the hexagonal basalt columns are when compared to other basalt forms
-	- The hexagonal columns indicate columnar jointing, which is a common feature of basaltic lava flows
+	- The hexagonal columns indicate columnar jointing, which is a common feature of basaltic lava flows and igneous rock lava flows
 	- 
 
 
