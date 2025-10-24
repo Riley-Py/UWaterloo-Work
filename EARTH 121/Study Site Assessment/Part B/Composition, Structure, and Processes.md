@@ -7,14 +7,14 @@
 
 ## Research to Each Part:
 
-### Part 1:/2
+### Part 1/2:
 - Black basalt rocks
 	- Igneous rock
 	- Low silica content
 	- High iron/magnesium content
 	- Made out of pyroxene, olivine, and plagioclase
 - Features of basalt rock at Giant's Causeway
-	- 
+	- Indicates vol
 
 
 ## Sources:
