@@ -21,7 +21,9 @@
 - Has an aphanitic texture to the basalt, which is common to igneous rocks
 
 ### Part 3:
-- 
+- Formed from magma and then crystalized into the basalt columns
+- Created through columnar jointing, which is formed through the cooling of lava flows
+	- Creates contraction and then fracturing, which is exhibited at Giant's Causeway
 
 
 ## Sources:
