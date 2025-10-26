@@ -2,7 +2,7 @@
 - *Special Theory of Relativity (1905)*
 	- No gravity in the theory
 	- Usual notions of space/time must be revised for speeds approaching light speed ($c$)
-	- Light speed is constant
+	- Light speed is constant (*absolute*)
 	- $E = mc^2$ (Energy = mass times the speed of light squared)
 	- No material object can travel faster than light
 	- If you observe something moving near light speed:
@@ -15,5 +15,7 @@
 	- Included gravity in the theory
 
 ### Relativity of Motion
-- Motion is not absolute - we must measure 
+- Motion is not absolute - we must measure speed of one object relative to another
+	- Example: A plane moving at 1670 km/hr from east to west would appear from space to be standing still due to the Earth moving at about the same speed
+
 	
