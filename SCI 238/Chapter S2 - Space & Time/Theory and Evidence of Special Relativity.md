@@ -18,3 +18,7 @@
 	- $v$ is speed
 - Time will appear to pass more slowly in a moving object by an amount depending on its speed
 - Time almost halts for objects nearing the speed of light
+
+### Simultaneous Events
+- ![[Pasted image 20251026150724.png]]
+- 
