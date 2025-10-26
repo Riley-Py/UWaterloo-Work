@@ -29,4 +29,9 @@
 - A force applied to a rapidly moving object produces less acceleration than if the object were motionless
 	- Attributed to a mass increase in moving object
 ### Velocity Addition
-- 
+- ![[Pasted image 20251026151047.png]]
+### Formulas of Special Relativity
+- ![[Pasted image 20251026151155.png]]
+- Where:
+	- $l'$ is measured by us (static)
+	- $l$ is measured by the moving 
