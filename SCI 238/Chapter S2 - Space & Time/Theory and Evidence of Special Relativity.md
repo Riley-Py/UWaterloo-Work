@@ -21,4 +21,12 @@
 
 ### Simultaneous Events
 - ![[Pasted image 20251026150724.png]]
+
+### Length Contraction
+- ![[Pasted image 20251026150902.png]]
+### Mass Increase
+- ![[Pasted image 20251026150940.png]]
+- A force applied to a rapidly moving object produces less acceleration than if the object were motionless
+	- Attributed to a mass increase in moving object
+### Velocity Addition
 - 
