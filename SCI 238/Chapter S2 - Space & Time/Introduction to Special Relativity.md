@@ -41,4 +41,4 @@
 	- ![[Pasted image 20251026145050.png]]
 	- ![[Pasted image 20251026145115.png]]
 	- ![[Pasted image 20251026145156.png]]
-	- 
+- You can approach the speed of light, but can never reach the speed of light at all
