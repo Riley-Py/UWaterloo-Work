@@ -30,3 +30,9 @@
 ### Reference Frames
 - Motion can be defined with respect to a particular frame of reference
 - Light will move the same for all frames of reference
+
+## Relative Motion
+
+### Thought Experiments
+- Einstein explored the consequences of the absoluteness of light speed using "thought experiments"
+	- Consequences are easiest to see with thought experiments involving spaceships in free floating reference frames (no gravity/acceleration)
