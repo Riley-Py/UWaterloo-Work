@@ -26,3 +26,7 @@
 - We thought of "up" and "down" different when we learnt that the Earth is round
 	- It's relative to the observer
 - Relativity forces us to revise how to think of "space" and "time"
+
+### Reference Frames
+- Motion can be defined with respect to a particular frame of reference
+- Light will move the same for all frames of reference
