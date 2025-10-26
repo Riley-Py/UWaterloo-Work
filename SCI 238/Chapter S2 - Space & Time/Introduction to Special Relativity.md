@@ -36,4 +36,9 @@
 ### Thought Experiments
 - Einstein explored the consequences of the absoluteness of light speed using "thought experiments"
 	- Consequences are easiest to see with thought experiments involving spaceships in free floating reference frames (no gravity/acceleration)
-- Diagrams
+- Diagrams:
+	- ![[Pasted image 20251026145029.png]]
+	- ![[Pasted image 20251026145050.png]]
+	- ![[Pasted image 20251026145115.png]]
+	- ![[Pasted image 20251026145156.png]]
+	- 
