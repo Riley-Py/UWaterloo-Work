@@ -8,4 +8,9 @@
 	- Light beam moving at c travels a longer path in a moving object
 	- Time must be passing slowly there
 	- Diagram of this: 
-		- 
+		- ![[Pasted image 20251026150234.png]]
+### Time Dilation Formula
+![[Pasted image 20251026150415.png]]
+- Where
+	- $c$ is speed of light
+	- $t
