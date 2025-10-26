@@ -21,3 +21,8 @@
 ### Postulates of Special Relativity
 1. The laws of nature are the same for everyone
 2. The speed of light is the same for everyone
+
+### Analogy: "Up and Down"
+- We thought of "up" and "down" different when we learnt that the Earth is round
+	- It's relative to the observer
+- Relativity forces us to revise how to think of "space" and "time"
