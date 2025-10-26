@@ -34,4 +34,4 @@
 - ![[Pasted image 20251026151155.png]]
 - Where:
 	- $l'$ is measured by us (static)
-	- $l$ is measured by the moving 
+	- $l$ is measured by the moving object
