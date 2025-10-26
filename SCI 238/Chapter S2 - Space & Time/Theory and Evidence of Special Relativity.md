@@ -13,4 +13,8 @@
 ![[Pasted image 20251026150415.png]]
 - Where
 	- $c$ is speed of light
-	- $t
+	- $t'$ is time by moving observer
+	- $t$ is time by static observer
+	- $v$ is speed
+- Time will appear to pass more slowly in a moving object by an amount depending on its speed
+- Time almost halts for objects nearing the speed of light
