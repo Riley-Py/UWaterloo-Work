@@ -18,4 +18,6 @@
 - Motion is not absolute - we must measure speed of one object relative to another
 	- Example: A plane moving at 1670 km/hr from east to west would appear from space to be standing still due to the Earth moving at about the same speed
 
-	
+### Postulates of Special Relativity
+1. The laws of nature are the same for everyone
+2. The speed of light is the same for everyone
