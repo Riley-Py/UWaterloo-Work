@@ -11,12 +11,14 @@
             "id": "edd6db3c0b934dcb",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "EARTH 121/Study Site Assessment/Part B/EARTH 121 - Study Site Assessment Part B.pdf"
+                "file": "SCI 238/Chapter S2 - Space & Time/Introduction to Special Relativity.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "EARTH 121 - Study Site Assessment Part B"
+              "icon": "lucide-file",
+              "title": "Introduction to Special Relativity"
             }
           }
         ]
@@ -175,9 +177,11 @@
   },
   "active": "edd6db3c0b934dcb",
   "lastOpenFiles": [
+    "EARTH 121/Study Site Assessment/Part B/EARTH 121 - Study Site Assessment Part B.pdf",
+    "SCI 238/Chapter S2 - Space & Time/Introduction to Special Relativity.md",
+    "SCI 238/Chapter S2 - Space & Time",
     "EARTH 121/Study Site Assessment/Part B/mso42FF.tmp",
     "EARTH 121/Study Site Assessment/Part A/EARTH 121 - Site Assessment Part A - Giant's Causeway.pdf",
-    "EARTH 121/Study Site Assessment/Part B/EARTH 121 - Study Site Assessment Part B.pdf",
     "EARTH 121/Study Site Assessment/Part B/mso83B.tmp",
     "EARTH 121/Study Site Assessment/Part B/Composition, Structure, and Processes.md",
     "EARTH 121/Week 4/Three Rock Types.md",
@@ -205,7 +209,6 @@
     "MSE 261/Formulas/Present and Future Worth.md",
     "MSE 261/Formulas/Regression Model on Market-Wide Risk.md",
     "MSE 261/Topic 3/Project Evaluation (Topic 3).md",
-    "MSE 261/Topic 4/Bond (Topic 4).md",
     "EARTH 121/Images/metallic-non-metallics.jpg",
     "EARTH 121/Images/Pasted image 20251020132407.png",
     "EARTH 121/Images/Pasted image 20251020131722.png",
@@ -217,8 +220,6 @@
     "MSE 261/Topic 4",
     "MSE 261/Images/Pasted image 20251015104336.png",
     "MSE 261/Topic 3",
-    "MSE 261/Topic 2",
-    "MSE 261/Images/Topic 2",
     "EARTH 121/Images/Pasted image 20251006095448.png",
     "EARTH 121/Images/Pasted image 20251006095208.png",
     "Untitled.canvas"
