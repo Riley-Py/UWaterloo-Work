@@ -42,3 +42,7 @@
 	- ![[Pasted image 20251026145115.png]]
 	- ![[Pasted image 20251026145156.png]]
 - You can approach the speed of light, but can never reach the speed of light at all
+- There are some things that are faster than the speed of light, but no information can be communicated faster than the speed of light
+
+#sci238 
+#space_time 
