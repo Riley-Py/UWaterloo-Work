@@ -9,7 +9,11 @@
 		- Time slows
 		- Length contracts in direction of motion
 		- Mass increases
-	- Two events are simultaneous depen
+	- Two events are simultaneous depending on frame of reference
+	- Time is relative, not absolute
 - *General Theory of Relativity (1915)*
 	- Included gravity in the theory
+
+### Relativity of Motion
+- Motion is not absolute - we must measure 
 	
