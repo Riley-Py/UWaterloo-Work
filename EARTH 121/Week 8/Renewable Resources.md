@@ -24,4 +24,5 @@
 	- *Groundwater* - depletion of groundwater occurs when new industry/expanding population extracts it that exceeds natural replenishment rate
 		- Will decrease the supply of water, potentially contributing to an increased competition of water supplies
 	- *Surface water* - water resources have become depleted due to diverting water for irrigation/cities, climate change, and the building of dams.
-		- Example: Colorado River Basin
+		- Example: Colorado River Basin, where the challenges arise with increased population, declining ecosystems, drought, agriculture, irrigation, recreational use, and expected climate change
+#earth121 

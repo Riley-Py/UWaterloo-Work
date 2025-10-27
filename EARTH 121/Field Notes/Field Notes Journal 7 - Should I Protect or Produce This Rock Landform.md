@@ -18,3 +18,6 @@ As a citizen going to buy a home near Toronto, I believe that there are some thi
 2). https://www.torontoenvironment.org/gravel/impacts 
 
 3). https://gravelwatch.org/legacy%20site/laws-gravel.pdf 
+
+#earth121 
+#field_journal 
