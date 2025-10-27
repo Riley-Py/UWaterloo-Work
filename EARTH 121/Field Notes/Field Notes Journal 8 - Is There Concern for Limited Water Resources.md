@@ -18,4 +18,6 @@ Big Idea 1.1: Earth scientists find solutions to society's needs. List two poten
 - **Big Idea 5.2**  - In each of the examples, ecosystems and humans are negatively impacted, as living organisms need water to survive and thrive on Earth
 - **Big Idea 1.1** - Two potential solutions for each of the two examples are as follows:
 	- *Ground water* - Increased advocacy of water usage (i.e. using water responsibly for recreational use - showers, cleaning, fixing leaks, etc.)
-	- *Surface water* - More efficient a
+	- *Surface water* - More efficient agricultural management to grow more food with less land and water through using reservoirs to collect rain water
+#earth121 
+#field_journal 
