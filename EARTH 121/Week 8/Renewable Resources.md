@@ -21,4 +21,6 @@
 	- Soil
 - Water is also potentially renewable, and important to sustain life
 - There are two types of water resources
-	- *Groundwater* - depletion of gro
+	- *Groundwater* - depletion of groundwater occurs when new industry/expanding population extracts it that exceeds natural replenishment rate
+		- Will decrease the supply of water, potentially contributing to an increased competition of water supplies
+	- *Surface water* - 
