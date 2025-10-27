@@ -6,4 +6,7 @@
 	- *Wind turbines* - Turns wind into electricity by turning a generator
 		- Diagram: 
 			- ![[wind-energy.png]]
+	- *Water turbines* - Turns water into electricity by a generator capturing the flow of water
+		- Diagram: 
+			- ![[tidal-energy.png]]
 	- 
