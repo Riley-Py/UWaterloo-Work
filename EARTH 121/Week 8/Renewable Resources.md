@@ -20,3 +20,5 @@
 	- Animals
 	- Soil
 - Water is also potentially renewable, and important to sustain life
+- There are two types of water resources
+	- *Groundwater* - depletion of gro
