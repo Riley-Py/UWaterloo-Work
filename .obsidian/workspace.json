@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SCI 238/Chapter S2 - Space & Time/Theory and Evidence of Special Relativity.md",
+                "file": "EARTH 121/Week 8/Renewable Resources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Theory and Evidence of Special Relativity"
+              "title": "Renewable Resources"
             }
           }
         ]
@@ -175,8 +175,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "059c515cd4110e39",
+  "active": "edd6db3c0b934dcb",
   "lastOpenFiles": [
+    "SCI 238/Chapter S2 - Space & Time/Theory and Evidence of Special Relativity.md",
+    "EARTH 121/Week 8/Renewable Resources.md",
+    "EARTH 121/Week 8",
     "SCI 238/Images/Pasted image 20251026151155.png",
     "SCI 238/Images/Pasted image 20251026151047.png",
     "SCI 238/Images/Pasted image 20251026150940.png",
@@ -185,11 +188,9 @@
     "SCI 238/Images/Pasted image 20251026150415.png",
     "SCI 238/Images/Pasted image 20251026150234.png",
     "SCI 238/Chapter S2 - Space & Time/Introduction to Special Relativity.md",
-    "SCI 238/Chapter S2 - Space & Time/Theory and Evidence of Special Relativity.md",
     "SCI 238/Images/Pasted image 20251026145156.png",
     "SCI 238/Images/Pasted image 20251026145115.png",
     "SCI 238/Images/Pasted image 20251026145050.png",
-    "SCI 238/Images/Pasted image 20251026145029.png",
     "EARTH 121/Study Site Assessment/Part B/EARTH 121 - Study Site Assessment Part B.pdf",
     "SCI 238/Chapter S2 - Space & Time",
     "EARTH 121/Study Site Assessment/Part B/mso42FF.tmp",
@@ -222,7 +223,6 @@
     "EARTH 121/Week 7",
     "MSE 261/Topic 5",
     "MSE 261/Topic 4",
-    "MSE 261/Topic 3",
     "Untitled.canvas"
   ]
 }
