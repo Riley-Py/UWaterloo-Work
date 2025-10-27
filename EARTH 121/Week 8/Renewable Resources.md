@@ -9,4 +9,7 @@
 	- *Water turbines* - Turns water into electricity by a generator capturing the flow of water
 		- Diagram: 
 			- ![[tidal-energy.png]]
+	- *Geothermal heat* - Electricity is produced through the natural decay of radioactive isotopes in Earth, using the steam to turn turbines
+		- Diagram:
+			- ![[geothermal-energy.png]]
 	- 
