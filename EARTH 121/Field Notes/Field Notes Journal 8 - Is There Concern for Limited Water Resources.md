@@ -13,4 +13,5 @@ Big Idea 1.1: Earth scientists find solutions to society's needs. List two poten
 
 ## Answer to Each:
 
-- **Big Idea 9.4** - the human activities that are affecting the availability, quality and distribution of Earth's water are increased population growth, recreational use, 
+- **Big Idea 9.4** - the human activities that are affecting the availability, quality and distribution of Earth's water are increased population growth, recreational use, and agriculture use
+- **Big Idea 7.3** - Water is considered a limited resource in these two examples as it can't be replenished.  With ground water, once all of that water has been drained, it can't be replenished with more ground water.  With surface water
