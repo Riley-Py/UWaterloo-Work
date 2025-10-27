@@ -1,0 +1,6 @@
+- *Perpetual* - resource is nearly inexhaustible
+- Four perpetual resources:
+	- *Solar panels* - converts sunlight to electricity
+		- Diagram of this:
+			- ![[solar-energy.png]]
+	- *Wind turbines* - 
