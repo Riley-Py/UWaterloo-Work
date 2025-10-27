@@ -12,4 +12,11 @@
 	- *Geothermal heat* - Electricity is produced through the natural decay of radioactive isotopes in Earth, using the steam to turn turbines
 		- Diagram:
 			- ![[geothermal-energy.png]]
-	- 
+	- Diagram of other types of renewable energy:
+		- ![[renewable-energy.jpg]]
+## Potentially Renewable
+- Living organisms
+	- Plants
+	- Animals
+	- Soil
+- Water is also potentially renewable, and important to sustain life
