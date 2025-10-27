@@ -3,4 +3,7 @@
 	- *Solar panels* - converts sunlight to electricity
 		- Diagram of this:
 			- ![[solar-energy.png]]
-	- *Wind turbines* - 
+	- *Wind turbines* - Turns wind into electricity by turning a generator
+		- Diagram: 
+			- ![[wind-energy.png]]
+	- 
