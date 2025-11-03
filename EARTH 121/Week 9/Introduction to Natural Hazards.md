@@ -10,4 +10,6 @@
 - *Ring of Fire* - Surrounds the Pacific Ocean that experiences much volcanic activity/earthquakes
 - *Frequency-Magnitude Concept* - High magnitude events are less frequent and low magnitude events are more frequent
 - *Modified Mercalli Intensity Scale* - Earthquake intensity scale with 12 categories of ground shaking/structural damage
-- *Richter Scale* - 
+- *Richter Scale* - 10 categories of the amount of energy released by an earthquake.  It is determined empirically by seismograph records.  Replaced by Moment Magnitude
+- *Moment Magnitude* - 10 categories of the amount of energy released by an earthquake.  Defined by area of rupture surface on the fault plane, slippage, or average amount of displacement, rigidity, or strength of faulted material
+- *Volcanic Explosivity *
