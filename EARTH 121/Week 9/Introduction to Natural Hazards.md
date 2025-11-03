@@ -6,4 +6,8 @@
 - *Earthquake* - Sudden movement of Earth material (sediment/rock) on opposite sides of a fault that releases energy/produces vibration of Earth
 - *Mass Movement* - Downslope movement of Earth materials caused by gravity
 - *Earthquake Belt* - Area with high concentration of earthquakes
-- *Tsunami* - Series of large waves with long wavelength(s) and period caused by sudden large displacement of water in 
+- *Tsunami* - Series of large waves with long wavelength(s) and period caused by sudden large displacement of water in the ocean (earthquake moving ocean floor) or near the coastline (i.e. landslide)
+- *Ring of Fire* - Surrounds the Pacific Ocean that experiences much volcanic activity/earthquakes
+- *Frequency-Magnitude Concept* - High magnitude events are less frequent and low magnitude events are more frequent
+- *Modified Mercalli Intensity Scale* - Earthquake intensity scale with 12 categories of ground shaking/structural damage
+- *Richter Scale* - 
