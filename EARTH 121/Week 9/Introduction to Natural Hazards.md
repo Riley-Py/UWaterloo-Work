@@ -28,3 +28,8 @@
 - There are six categories of disasters:
 	- *Geophysical* - Earthquake, volcanic activity
 	- *Hydrological* - Flood, landslide
+	- *Meteorological* - Storm, extreme temperature
+	- *Climatological* - Drought, wildfire
+	- *Biological* - Animal accident, epidemic
+	- *Extra-terrestrial* - Space weather
+#earth121 
