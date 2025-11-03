@@ -12,4 +12,9 @@
 - *Modified Mercalli Intensity Scale* - Earthquake intensity scale with 12 categories of ground shaking/structural damage
 - *Richter Scale* - 10 categories of the amount of energy released by an earthquake.  It is determined empirically by seismograph records.  Replaced by Moment Magnitude
 - *Moment Magnitude* - 10 categories of the amount of energy released by an earthquake.  Defined by area of rupture surface on the fault plane, slippage, or average amount of displacement, rigidity, or strength of faulted material
-- *Volcanic Explosivity *
+- *Volcanic Explosivity Index (VEI)* - Classify volcanic activity with 8 categories that are based upon the volume of tephra/volcanic ash, plume height, and duration of eruption
+- *Fault* - A break in Earth material (sediment/rock) along which movement has occurred
+- *Mitigation* - Any action to reduce the negative impact of hazardous natural processes to life/property
+
+## Introduction
+
