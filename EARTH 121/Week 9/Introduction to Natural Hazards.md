@@ -20,5 +20,8 @@
 
 - Events that contribute to changes inside Earth/Earth's surface
 	- If it negatively impacts people/property, can be considered a disaster/catastrophe after the event occurs
-	- 
+	- If it threatens to negatively impact people/property, can be considered a natural hazard
+- Flowchart of this:
+	- ![[hazards-flow.png]]
+- 
 
