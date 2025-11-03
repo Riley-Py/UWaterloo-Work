@@ -16,5 +16,9 @@
 - *Fault* - A break in Earth material (sediment/rock) along which movement has occurred
 - *Mitigation* - Any action to reduce the negative impact of hazardous natural processes to life/property
 
-## Introduction
+## Natural Processes
+
+- Events that contribute to changes inside Earth/Earth's surface
+	- If it negatively impacts people/property, can be considered a disaster/catastrophe after the event occurs
+	- 
 
