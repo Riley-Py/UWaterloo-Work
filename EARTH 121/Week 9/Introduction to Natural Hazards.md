@@ -23,5 +23,8 @@
 	- If it threatens to negatively impact people/property, can be considered a natural hazard
 - Flowchart of this:
 	- ![[hazards-flow.png]]
-- 
 
+## Classification of Disasters
+- There are six categories of disasters:
+	- *Geophysical* - Earthquake, volcanic activity
+	- *Hydrological* - Flood, landslide
