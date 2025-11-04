@@ -23,4 +23,5 @@
 	- Area of great concern, as there are many active volcanoes, but also have the highest concentration of earthquakes present
 	- Diagram of Ring of Fire: 
 		- ![[ring-of-fire.gif]]
-	- 
+	- Diagram of plate boundaries along the "Ring of Fire":
+		- ![[Pasted image 20251104113706.png]]
