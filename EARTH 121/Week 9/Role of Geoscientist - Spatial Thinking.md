@@ -4,3 +4,5 @@
 	- Pattern appears when past events are plotted on a world map and placed in context with natural processes (certain areas are where earthquakes, volcanic activity, mass movement occurs)
 		- Earthquakes/volcanoes are near tectonic plate boundaries
 		- Mass movement is found in areas of high relief/high rainfall
+## Distribution of Earthquakes
+- Most earthquakes are concentrated in a belt around 
