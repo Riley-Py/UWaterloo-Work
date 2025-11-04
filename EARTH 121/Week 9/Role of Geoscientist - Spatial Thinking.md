@@ -12,4 +12,6 @@
 	- ![[infographic-anatomyofanearthquake.jpg]]
 - Diagram of earthquake distribution across the world:
 	- ![[historic-earthquakes.png]]
-	- 
+- Location/depth of historical earthquakes helps to define location/type of tectonic plate boundary
+	- Shallow/deep-focus earthquakes that are laterally spread apart define convergent plate boundaries
+		- Great interest as Earth's largest magnitude earthquakes 
