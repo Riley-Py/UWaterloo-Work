@@ -21,3 +21,6 @@
 - Located near tectonic plate boundaries
 	- Chain of active volcanoes referred as "Ring of Fire"
 	- Area of great concern, as there are many active volcanoes, but also have the highest concentration of earthquakes present
+	- Diagram of Ring of Fire: 
+		- ![[ring-of-fire.gif]]
+	- 
