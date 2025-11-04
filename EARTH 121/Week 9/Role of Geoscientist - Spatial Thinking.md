@@ -27,4 +27,7 @@
 		- ![[Pasted image 20251104113706.png]]
 ## Distribution of Mass Movement
 - Occurs in Earth's mountainous regions/areas of high rainfall (tropics)
-- Mountain ranges, like ones in the Himalayas, have steep slopes/active processes that contribute to lare number of natu
+- Mountain ranges, like ones in the Himalayas, have steep slopes/active processes that contribute to lare number of natural mass movement events
+- Diagram of fatal mass movement events:
+	- ![[fatal-mass.png]]
+#earth121 
