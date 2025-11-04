@@ -14,4 +14,8 @@
 	- ![[historic-earthquakes.png]]
 - Location/depth of historical earthquakes helps to define location/type of tectonic plate boundary
 	- Shallow/deep-focus earthquakes that are laterally spread apart define convergent plate boundaries
-		- Great interest as Earth's largest magnitude earthquakes 
+		- Great interest as Earth's largest magnitude earthquakes/tsunamis originate in tectonic settings
+- Diagram of plate boundaries:
+	- ![[tectonic-plates.png]]
+## Distribution of Volcanoes
+- Located near tectonic plate boundaires
