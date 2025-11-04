@@ -10,4 +10,6 @@
 - Along mid-Atlantic ridge on the bottom of the Atlantic Ocean/across Iceland
 - Diagram of earthquakes:
 	- ![[infographic-anatomyofanearthquake.jpg]]
-- 
+- Diagram of earthquake distribution across the world:
+	- ![[historic-earthquakes.png]]
+	- 
