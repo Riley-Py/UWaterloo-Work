@@ -5,4 +5,9 @@
 		- Earthquakes/volcanoes are near tectonic plate boundaries
 		- Mass movement is found in areas of high relief/high rainfall
 ## Distribution of Earthquakes
-- Most earthquakes are concentrated in a belt around 
+- Most earthquakes are concentrated in a belt around Pacific Ocean
+- Mountainous regions that include Himalayas/Alps
+- Along mid-Atlantic ridge on the bottom of the Atlantic Ocean/across Iceland
+- Diagram of earthquakes:
+	- ![[infographic-anatomyofanearthquake.jpg]]
+- 
