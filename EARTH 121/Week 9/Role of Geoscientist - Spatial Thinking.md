@@ -18,4 +18,6 @@
 - Diagram of plate boundaries:
 	- ![[tectonic-plates.png]]
 ## Distribution of Volcanoes
-- Located near tectonic plate boundaires
+- Located near tectonic plate boundaries
+	- Chain of active volcanoes referred as "Ring of Fire"
+	- Area of great concern, as there are many active volcanoes, but also have the highest concentration of earthquakes present
