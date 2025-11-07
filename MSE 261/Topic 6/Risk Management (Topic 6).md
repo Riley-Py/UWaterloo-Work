@@ -42,3 +42,9 @@
 - *Betting on decline*
 	- *Buying put* - pay premium to get right to sell stock in future
 	- *Selling call* - receive premium and give up right to buy stock in future
+## Short Selling
+- Reverses the order of buying/selling
+	- Sellers sell first and buy later
+- Can result in a massive lost if the price of the underlying asset increases
+	- Obliged to give back the stocks you borrowed
+- If price increases rapidly, short sellers are 
