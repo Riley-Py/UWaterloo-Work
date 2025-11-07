@@ -1,0 +1,3 @@
+- *Diversification* - reduces financial risk
+	- More unrelated assets in portfolio = lower overall risk
+- *Hedging* - 
