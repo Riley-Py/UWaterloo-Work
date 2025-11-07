@@ -27,7 +27,7 @@
 - *Put option* - right to sell an underlying asset
 	- Makes a profit when price of underlying asset decreases
 	- Diagram of this:
-		- 
+		- ![[Pasted image 20251107113329.png]]
 - *Leverage effect* - magnifies gains/losses
 	- Traders purchase the right to buy stocks
 	- Controls stocks of higher value than initial investment, and only need to pay the option premium upfront, not the stock price
