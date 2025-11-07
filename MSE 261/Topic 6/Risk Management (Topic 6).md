@@ -31,8 +31,13 @@
 	- *Intrinsic value* - option premium needs to be greater than this value, which is derived from strike price subtracted from current price when the stock is below the strike price
 	- *Extrinsic value* - option premium varies depending on investors' expectation of the future price of the stock.  Happens when the put option strike price is below the current price of the share (i.e. the share went up)
 	- Can be thought of as insurance on individual stocks, and insurance itself is just a put option
-		- Example: Pay a fee in order to 
+		- Example: Pay a fee in order to ensure against any damages for a car
 - *Leverage effect* - magnifies gains/losses
 	- Traders purchase the right to buy stocks
 	- Controls stocks of higher value than initial investment, and only need to pay the option premium upfront, not the stock price
 	- Risk is potential loss of partial/entire initial investment (the option premium)
+- *Betting on rise*
+	- *Buying call* - pay premium to get right to buy stock in future
+	- *Selling put* - receive premium and give up right to sell stock in future
+- *Betting on decline*
+	- *Buying put* - pay premium to g
