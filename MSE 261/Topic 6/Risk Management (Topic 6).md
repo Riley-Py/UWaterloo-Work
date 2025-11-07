@@ -11,4 +11,7 @@
 - Two parties agree to transact at a pre-determined price on a future date
 - *Forward contract* - private contract between two parties to trade at pre-determined price/rate on future date(s)
 	- Hedge against changes in commodity price/currency exchange rate
-- *Futures contract* - 
+- *Futures contract* - standardized forward-type contract that is traded on a futures exchange
+	- Transact at a fixed price in the future
+	- Buyers of these are able to sell contracts on a futures exchange before expiry date
+- 
