@@ -19,7 +19,8 @@
 - *Call option* - right to buy an underlying asset
 	- Makes a profit when the price of underlying asset increases
 	- Diagram of this: 
-		- 
+		- ![[Pasted image 20251107112436.png]]
+	- *Intrinsic value* - 
 - *Put option* - right to sell an underlying asset
 	- Makes a profit when price of underlying asset decreases
 - *Leverage effect* - magnifies gains/losses
