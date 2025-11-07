@@ -40,4 +40,5 @@
 	- *Buying call* - pay premium to get right to buy stock in future
 	- *Selling put* - receive premium and give up right to sell stock in future
 - *Betting on decline*
-	- *Buying put* - pay premium to g
+	- *Buying put* - pay premium to get right to sell stock in future
+	- *Selling call* - receive premium and give up right to buy stock in future
