@@ -20,4 +20,6 @@
 	- Makes a profit when the price of underlying asset increases
 - *Put option* - right to sell an underlying asset
 	- Makes a profit when price of underlying asset decreases
-- 
+- *Leverage effect* - magnifies gains/losses
+	- Traders purchase the right to buy stocks
+	- 
