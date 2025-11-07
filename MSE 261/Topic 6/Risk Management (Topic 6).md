@@ -6,7 +6,6 @@
 	- Example: In insurance, the claim is positive when you have negative results (damage to property)
 	- When traded as a financial product, they are called *derivatives*, as they represent a claim to another financial asset (value derived from an underlying asset)
 		- Example: Stocks, bonds, commodities, currencies
-
 ### Forward-Type Hedging
 - Two parties want to eliminate any uncertainty about future transactions
 - Two parties agree to transact at a pre-determined price on a future date
@@ -23,8 +22,12 @@
 		- ![[Pasted image 20251107112436.png]]
 	- *Intrinsic value* - option premium has to be greater than this value, which is derived from strike price and the current (*spot*) price
 	- *Extrinsic value* - option premium varies depending on investors' expectation of future price of stock.  Happens when the call option calls to buy at a higher price than what the stock is currently trading at
+	- Employees/executives get stock options that are call options as compensation
+		- Allows them to get the stock at a discount to resell at a higher price later on
 - *Put option* - right to sell an underlying asset
 	- Makes a profit when price of underlying asset decreases
+	- Diagram of this:
+		- 
 - *Leverage effect* - magnifies gains/losses
 	- Traders purchase the right to buy stocks
 	- Controls stocks of higher value than initial investment, and only need to pay the option premium upfront, not the stock price
