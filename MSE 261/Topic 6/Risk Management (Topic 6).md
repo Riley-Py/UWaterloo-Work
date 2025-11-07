@@ -14,4 +14,6 @@
 - *Futures contract* - standardized forward-type contract that is traded on a futures exchange
 	- Transact at a fixed price in the future
 	- Buyers of these are able to sell contracts on a futures exchange before expiry date
-- 
+### Option-Type Hedging
+- *Option contract* - gives the owner the right, but not the obligation, to buy/sell underlying assets at a specified (*strike/exercise*) price, within a specified time
+- *Call option* - right to buy an underlying asset
