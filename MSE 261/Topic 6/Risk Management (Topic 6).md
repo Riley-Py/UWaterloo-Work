@@ -51,4 +51,7 @@
 - Investors bet on future direction of market/diversify their portfolio
 - Restraint on irrationality in the market, preventing stock prices from going to high in bull market
 - Bets on the fall of the company that is getting shorted (example: GameStop)
-- *Bear raid* - short sellers spread negative rumors about company to push the price of the company down in order to make money on downfall.  Illegal and opposite of **
+- *Bear raid* - short sellers spread negative rumors about company to push the price of the company down in order to make money on downfall.  Illegal and opposite of *pump-and-dump* (hyping up a stock to then sell at its apex to make maximum profit, but at the expense of the people holding on to the stock, as there is more stock than demand, and therefore, the stock is worthless)
+
+#mse261 
+#topic_6 
