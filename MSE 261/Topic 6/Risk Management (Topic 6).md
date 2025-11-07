@@ -18,8 +18,11 @@
 - *Option contract* - gives the owner the right, but not the obligation, to buy/sell underlying assets at a specified (*strike/exercise*) price, within a specified time
 - *Call option* - right to buy an underlying asset
 	- Makes a profit when the price of underlying asset increases
+	- Diagram of this: 
+		- 
 - *Put option* - right to sell an underlying asset
 	- Makes a profit when price of underlying asset decreases
 - *Leverage effect* - magnifies gains/losses
 	- Traders purchase the right to buy stocks
-	- 
+	- Controls stocks of higher value than initial investment, and only need to pay the option premium upfront, not the stock price
+	- Risk is potential loss of partial/entire initial investment (the option premium)
