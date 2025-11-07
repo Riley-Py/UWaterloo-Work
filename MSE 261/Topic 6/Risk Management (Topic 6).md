@@ -20,7 +20,8 @@
 	- Makes a profit when the price of underlying asset increases
 	- Diagram of this: 
 		- ![[Pasted image 20251107112436.png]]
-	- *Intrinsic value* - 
+	- *Intrinsic value* - option premium has to be greater than this value, which is derived from strike price and the current (*spot*) price
+	- *Extrinsic value* - option premium varies depending on investors' expectation of future price of stock.  Happens when 
 - *Put option* - right to sell an underlying asset
 	- Makes a profit when price of underlying asset decreases
 - *Leverage effect* - magnifies gains/losses
