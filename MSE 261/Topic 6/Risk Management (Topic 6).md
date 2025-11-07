@@ -17,3 +17,7 @@
 ### Option-Type Hedging
 - *Option contract* - gives the owner the right, but not the obligation, to buy/sell underlying assets at a specified (*strike/exercise*) price, within a specified time
 - *Call option* - right to buy an underlying asset
+	- Makes a profit when the price of underlying asset increases
+- *Put option* - right to sell an underlying asset
+	- Makes a profit when price of underlying asset decreases
+- 
