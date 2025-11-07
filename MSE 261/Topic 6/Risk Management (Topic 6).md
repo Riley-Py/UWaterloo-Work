@@ -50,3 +50,5 @@
 - If price increases rapidly, short sellers are compelled to exit positions to avoid any further losses (*short squeeze*)
 - Investors bet on future direction of market/diversify their portfolio
 - Restraint on irrationality in the market, preventing stock prices from going to high in bull market
+- Bets on the fall of the company that is getting shorted (example: GameStop)
+- *Bear raid* - short sellers spread negative rumors about company to push the price of the company down in order to make money on downfall.  Illegal and opposite of **
