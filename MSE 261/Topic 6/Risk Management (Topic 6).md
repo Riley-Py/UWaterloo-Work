@@ -1,3 +1,5 @@
 - *Diversification* - reduces financial risk
 	- More unrelated assets in portfolio = lower overall risk
-- *Hedging* - 
+- *Hedging* - selects inverse correlated assets in portfolio
+	- Example: In insurance, the claim is positive when you have negative results (damage to property)
+	- When traded as a financial product, they are 
