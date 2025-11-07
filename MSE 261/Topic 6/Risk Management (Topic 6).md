@@ -20,7 +20,7 @@
 	- Makes a profit when the price of underlying asset increases
 	- Diagram of this: 
 		- ![[Pasted image 20251107112436.png]]
-	- *Intrinsic value* - option premium has to be greater than this value, which is derived from strike price and the current (*spot*) price
+	- *Intrinsic value* - option premium has to be greater than this value, which is derived from strike price and the current (*spot*) price when the stock is above the strike price
 	- *Extrinsic value* - option premium varies depending on investors' expectation of future price of stock.  Happens when the call option calls to buy at a higher price than what the stock is currently trading at
 	- Employees/executives get stock options that are call options as compensation
 		- Allows them to get the stock at a discount to resell at a higher price later on
@@ -28,6 +28,8 @@
 	- Makes a profit when price of underlying asset decreases
 	- Diagram of this:
 		- ![[Pasted image 20251107113329.png]]
+	- *Intrinsic value* - option premium needs to be greater than this value, which is derived from strike price subtracted from current price when the stock is below the strike price
+	- *Extrinsic value* - option premium varies depending on invest
 - *Leverage effect* - magnifies gains/losses
 	- Traders purchase the right to buy stocks
 	- Controls stocks of higher value than initial investment, and only need to pay the option premium upfront, not the stock price
