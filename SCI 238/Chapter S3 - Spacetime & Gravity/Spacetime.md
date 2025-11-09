@@ -10,4 +10,11 @@
 	- When the line is linear, it's a constant velocity; when the line curves, there's acceleration that happens
 ## Worldlines
 - Shows object's path through spacetime in a spacetime diagram
-	- X is the 
+	- X-axis is the space
+	- Y-axis is the time
+	- Vertical - no motion
+	- Diagonal - constant velocity
+	- Curved - accelerating
+- Diagram of this:
+	- ![[Pasted image 20251109144045.png]]
+- Wordlines for light go at 45 degree angles in diagrams with light-seconds (space) and seconds (time) on the ax
