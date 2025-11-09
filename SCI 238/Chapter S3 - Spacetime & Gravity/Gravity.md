@@ -11,4 +11,8 @@
 	- Light can not get out or in the black hole
 - The point of no return is called the *event horizon*
 	- Three-dimensional surface
-- 
+## Gravitational Time Dilation
+- Diagram of this: 
+	- ![[Pasted image 20251109151007.png]]
+- Time must run more quickly at higher altitudes in a gravitational field than at lower altitudes
+- Effects of gravity are
