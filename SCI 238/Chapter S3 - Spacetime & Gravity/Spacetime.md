@@ -1,2 +1,6 @@
 - Object's number of dimensions is the number of independent directions in which movement is possible within the object
-- Spac
+- Spacetime has 4 dimensions - X, Y, Z, and t (time)
+- Space and time look different from different perspectives in spacetime
+	- Space is different for different observers
+	- Time is different for different observers
+	- Therefore, spacetime is the same for everyone
