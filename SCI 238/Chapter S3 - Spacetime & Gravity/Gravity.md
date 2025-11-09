@@ -15,4 +15,8 @@
 - Diagram of this: 
 	- ![[Pasted image 20251109151007.png]]
 - Time must run more quickly at higher altitudes in a gravitational field than at lower altitudes
-- Effects of gravity are
+- Effects of gravity are equivalent to acceleration
+
+## Twin Paradox
+- One twin takes high-speed round trip to a distant star, that twin will have aged less than the other that remains on Earth
+	- However, time on Earth appears to run slower from the perspective of the twin on the high-speed 
