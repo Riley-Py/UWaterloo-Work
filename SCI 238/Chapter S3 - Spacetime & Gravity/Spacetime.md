@@ -4,3 +4,6 @@
 	- Space is different for different observers
 	- Time is different for different observers
 	- Therefore, spacetime is the same for everyone
+- Spacetime diagram plots an object's position in space at different moments in time
+	- Diagram of this: 
+		- ![[Pasted image 20251109143705.png]]
