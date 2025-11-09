@@ -30,6 +30,7 @@
 - Circumference of circle is $2\pi r$ 
 
 ## Rules of Geometry on Curved Surface
-- Straight lines on sphere are great circles sharing the same center as sphere
-- Great circles intersect 
-- Great circles are the shortest paths b
+- A great circle is the shortest distance between two points
+- Parallel lines converge
+- Angles of triangle add up beyond $180 \degree$ 
+- Circumference of circle is less than $2 \pi r$ 
