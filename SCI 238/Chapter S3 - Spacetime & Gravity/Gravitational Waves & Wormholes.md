@@ -11,4 +11,8 @@
 ## Gravitational Waves
 - Movements of massive objects can produce *gravitational waves* just as movements of a charged particle produce light waves
 - First detected in 2015
-	- Distortions of spacetime geometry, caused measurable effects on the interference pattern of lasers across the km-long arms 
+	- Distortions of spacetime geometry, caused measurable effects on the interference pattern of lasers across the km-long arms of LIGO
+- Observed changes in orbit of a binary system consisting of two neutron stars agree with the predictions of general relativity
+	- Orbital energy is carried away by gravitational waves
+	- Diagram of this: 
+		- 
