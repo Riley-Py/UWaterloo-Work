@@ -1,2 +1,4 @@
 - Newton viewed it as "action at a distance"
-- Einstein 
+- Einstein showed that gravity arises from curvature of spacetime
+	- Gravitational force curves the spacetime around it
+- Mass of Sun curves spaceti
