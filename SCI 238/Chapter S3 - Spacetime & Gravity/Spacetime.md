@@ -17,4 +17,7 @@
 	- Curved - accelerating
 - Diagram of this:
 	- ![[Pasted image 20251109144045.png]]
-- Wordlines for light go at 45 degree angles in diagrams with light-seconds (space) and seconds (time) on the ax
+- Wordlines for light go at 45 degree angles in diagrams with light-seconds (space) and seconds (time) on the axis
+	- Diagram of this:
+		- ![[Pasted image 20251109144205.png]]
+	- Worldlines look different in different reference frames
