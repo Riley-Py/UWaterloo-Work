@@ -28,15 +28,24 @@
 - Parallel lines stay the same distance apart
 - Angles of triangle add up to $180 \degree$ 
 - Circumference of circle is $2\pi r$ 
+- Infinite in universe
+	- No center/edge
 
 ## Rules of Geometry on Curved Surface
 - A great circle is the shortest distance between two points
 - Parallel lines converge (these are great circles)
 - Angles of triangle add up beyond $180 \degree$ 
 - Circumference of circle is less than $2 \pi r$ 
+- Finite in universe
+	- No center/edge
 
 ## Rules of Geometry on Saddle-Shaped Surface
 - A piece of a hyperbola is the shortest distance between two points
 - Parallel lines diverge
 - Angles of triangle add up to less than $180 \degree$ 
 - Circumference of circle is beyond $2 \pi r$ 
+- Infinite in universe
+	- No center/edge
+## Straight lines in Spacetime
+- If you are floating freely, then your worldline is following the straightest possible path through spacetime
+	- If you feel weight, then you aren't on the straightest possible path
