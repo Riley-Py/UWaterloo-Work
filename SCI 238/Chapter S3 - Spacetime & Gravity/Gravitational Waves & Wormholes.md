@@ -4,4 +4,6 @@
 	- General relativity accounts for this
 - *Gravitational Lensing*
 	- Curved spacetime alters the paths of light rays, shifting the apparent positions of objects
-	- 
+	- Distort the images of objects
+		- Can make one object appear to be at multiple points in the sky
+- *Gravitational *
