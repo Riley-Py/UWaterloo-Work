@@ -15,4 +15,7 @@
 - Observed changes in orbit of a binary system consisting of two neutron stars agree with the predictions of general relativity
 	- Orbital energy is carried away by gravitational waves
 	- Diagram of this: 
-		- 
+		- ![[Pasted image 20251109152534.png]]
+## Wormholes
+- Some math solutions of the equations of general relativity allow for shortcuts called *wormholes* that are tunnels through *hyperspace*
+- 
