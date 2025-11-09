@@ -18,4 +18,10 @@
 		- ![[Pasted image 20251109152534.png]]
 ## Wormholes
 - Some math solutions of the equations of general relativity allow for shortcuts called *wormholes* that are tunnels through *hyperspace*
-- 
+	- They are contrived solutions
+	- Purely speculative so far
+- Not prohibited by physics
+- Can be used for time travel, but paradoxes deny the existence of time travel
+
+#sci238 
+#spacetime 
