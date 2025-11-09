@@ -10,4 +10,5 @@
 - Continued shrinkage of Sun would eventually make curvature so great that it would be like a bottomless pit in spacetime
 	- Light can not get out or in the black hole
 - The point of no return is called the *event horizon*
+	- Three-dimensional surface
 - 
