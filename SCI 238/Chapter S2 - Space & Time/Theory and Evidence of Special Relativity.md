@@ -42,4 +42,7 @@
 	- Also verified through precision measurements in airplanes moving at slower speeds
 - $E = mc^2$ is verified through nuclear reactors/core of Sun
 - If speed of light were not absolute, binary stars would not look like two distinct points of light
-- If speed of light were not absolute, you would see a car comin
+- If speed of light were not absolute, you would see a car coming toward you reach the collision point before the car it struck
+	- There is no paradox if light speed is same for everyone
+
+
