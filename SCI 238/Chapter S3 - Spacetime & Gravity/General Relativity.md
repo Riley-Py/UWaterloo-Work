@@ -16,4 +16,9 @@
 	- Diagram showing this: 
 		- ![[Pasted image 20251109142640.png]]
 ## Gravity and Relative Motion
-- Someone who feels a force 
+- Someone who feels a force may be hovering in a gravitational field
+- Someone who feels weightless may be in free-fall
+- Diagram of this:
+	- ![[Pasted image 20251109143030.png]]
+#sci238 
+#spacetime 
