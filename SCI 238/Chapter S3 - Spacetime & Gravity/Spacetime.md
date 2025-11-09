@@ -35,5 +35,8 @@
 - Angles of triangle add up beyond $180 \degree$ 
 - Circumference of circle is less than $2 \pi r$ 
 
-## Rules of Geometry on Saddle-Shaped
-- 
+## Rules of Geometry on Saddle-Shaped Surface
+- A piece of a hyperbola is the shortest distance between two points
+- Parallel lines diverge
+- Angles of triangle add up to less than $180 \degree$ 
+- Circumference of circle is beyond $2 \pi r$ 
