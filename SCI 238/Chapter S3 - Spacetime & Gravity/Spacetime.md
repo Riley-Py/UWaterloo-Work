@@ -7,3 +7,7 @@
 - Spacetime diagram plots an object's position in space at different moments in time
 	- Diagram of this: 
 		- ![[Pasted image 20251109143705.png]]
+	- When the line is linear, it's a constant velocity; when the line curves, there's acceleration that happens
+## Worldlines
+- Shows object's path through spacetime in a spacetime diagram
+	- X is the 
