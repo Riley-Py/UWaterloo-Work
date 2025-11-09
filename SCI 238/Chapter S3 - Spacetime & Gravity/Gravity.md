@@ -1,4 +1,7 @@
 - Newton viewed it as "action at a distance"
 - Einstein showed that gravity arises from curvature of spacetime
 	- Gravitational force curves the spacetime around it
-- Mass of Sun curves spaceti
+- Mass of Sun curves spacetime
+	- Circles near Sun have circumference less than $2 \pi r$ 
+- Masses do not rest upon the spacetime like on the rubber sheet
+- Rubber sheet only shows two dimensions, not three
