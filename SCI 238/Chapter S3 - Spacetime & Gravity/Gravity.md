@@ -1,0 +1,2 @@
+- Newton viewed it as "action at a distance"
+- Einstein 

@@ -49,3 +49,5 @@
 ## Straight lines in Spacetime
 - If you are floating freely, then your worldline is following the straightest possible path through spacetime
 	- If you feel weight, then you aren't on the straightest possible path
+#sci238 
+#spacetime 
