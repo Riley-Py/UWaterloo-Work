@@ -5,3 +5,6 @@
 	- Circles near Sun have circumference less than $2 \pi r$ 
 - Masses do not rest upon the spacetime like on the rubber sheet
 - Rubber sheet only shows two dimensions, not three
+	- Path of orbiting object actually spirals through spacetime as it moves forward in time
+## Black Holes
+- 
