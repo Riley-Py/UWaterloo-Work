@@ -10,3 +10,6 @@
 - Rapid changes in the motion of large masses can create gravitational waves
 
 ## Relativity and Acceleration
+- Diagram of this: 
+	- ![[Pasted image 20251109142407.png]]
+- *Equivalence Principle* - All motion is relativ
