@@ -12,4 +12,7 @@
 ## Relativity and Acceleration
 - Diagram of this: 
 	- ![[Pasted image 20251109142407.png]]
-- *Equivalence Principle* - All motion is relativ
+- *Equivalence Principle* - The effects of acceleration are exactly equivalent to those of gravity
+	- Diagram showing this: 
+		- ![[Pasted image 20251109142640.png]]
+	- 
