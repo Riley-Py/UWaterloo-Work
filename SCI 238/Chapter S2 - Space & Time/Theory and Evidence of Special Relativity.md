@@ -35,3 +35,7 @@
 - Where:
 	- $l'$ is measured by us (static)
 	- $l$ is measured by the moving object
+
+### Tests of Relativity
+- Absoluteness of speed of light came from Michelson-Morley experiment in 1887
+- Time dilation happens to suba
