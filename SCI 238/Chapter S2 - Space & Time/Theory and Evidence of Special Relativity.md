@@ -45,4 +45,7 @@
 - If speed of light were not absolute, you would see a car coming toward you reach the collision point before the car it struck
 	- There is no paradox if light speed is same for everyone
 
+#sci238 
+#space_time 
+
 
