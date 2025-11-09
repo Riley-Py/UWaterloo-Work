@@ -4,4 +4,9 @@
 - Gravity can cause two space probes around Earth to meet
 	- Due to spacetime being curved
 - Matter distorts spacetime like heavy weights on a rubber sheet - the heavier the matter, the more the space time curves
-- Time runs 
+- Time runs slowly in gravitational fields
+- Black holes exist in spacetime
+- Universe has no boundaries/no center, but can have finite volume
+- Rapid changes in the motion of large masses can create gravitational waves
+
+## Relativity and Acceleration
