@@ -12,7 +12,8 @@
 ## Relativity and Acceleration
 - Diagram of this: 
 	- ![[Pasted image 20251109142407.png]]
-- *Equivalence Principle* - The effects of acceleration are exactly equivalent to those of gravity
+- *Equivalence Principle* - The effects of acceleration are exactly equivalent to those of gravity - there is no way to distinguish between them as an observer
 	- Diagram showing this: 
 		- ![[Pasted image 20251109142640.png]]
-	- 
+## Gravity and Relative Motion
+- Someone who feels a force 
