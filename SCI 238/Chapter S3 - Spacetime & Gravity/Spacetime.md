@@ -31,6 +31,9 @@
 
 ## Rules of Geometry on Curved Surface
 - A great circle is the shortest distance between two points
-- Parallel lines converge
+- Parallel lines converge (these are great circles)
 - Angles of triangle add up beyond $180 \degree$ 
 - Circumference of circle is less than $2 \pi r$ 
+
+## Rules of Geometry on Saddle-Shaped
+- 
