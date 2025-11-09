@@ -23,4 +23,8 @@
 - Worldlines look different in different reference frames
 - Distance is constant regardless of reference frame
 	- Formula: $$x^2 + y^2 + z^2 - (ct)^2$$
-- 
+## Rules of Geometry in Flat Space
+- Straight line is shortest distance between two points
+- Parallel lines stay the same distance apart
+- Angles of triangle add up to $180 \degree$ 
+- Circumference of circle is $2\pi r$
