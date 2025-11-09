@@ -21,3 +21,6 @@
 - One twin takes high-speed round trip to a distant star, that twin will have aged less than the other that remains on Earth
 	- However, time on Earth appears to run slower from the perspective of the twin on the high-speed trip
 - The twin on the trip is accelerating as the solution to the paradox
+- Longest time always passes for the twin going the in the straightest line
+#sci238 
+#spacetime 
