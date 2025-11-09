@@ -20,4 +20,7 @@
 - Wordlines for light go at 45 degree angles in diagrams with light-seconds (space) and seconds (time) on the axis
 	- Diagram of this:
 		- ![[Pasted image 20251109144205.png]]
-	- Worldlines look different in different reference frames
+- Worldlines look different in different reference frames
+- Distance is constant regardless of reference frame
+	- Formula: $$x^2 + y^2 + z^2 - (ct)^2$$
+- 
