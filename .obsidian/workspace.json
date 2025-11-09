@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SCI 238/Chapter S3 - Spacetime & Gravity/General Relativity.md",
+                "file": "SCI 238/Chapter S3 - Spacetime & Gravity/Spacetime.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "General Relativity"
+              "title": "Spacetime"
             }
           }
         ]
@@ -175,13 +175,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "059c515cd4110e39",
+  "active": "edd6db3c0b934dcb",
   "lastOpenFiles": [
+    "SCI 238/Chapter S3 - Spacetime & Gravity/General Relativity.md",
+    "SCI 238/Chapter S3 - Spacetime & Gravity/Spacetime.md",
     "SCI 238/Images/Pasted image 20251109143030.png",
     "SCI 238/Images/Pasted image 20251109142640.png",
     "SCI 238/Images/Pasted image 20251109142407.png",
     "SCI 238/Chapter S2 - Space & Time/Theory and Evidence of Special Relativity.md",
-    "SCI 238/Chapter S3 - Spacetime & Gravity/General Relativity.md",
     "SCI 238/Chapter S3 - Spacetime & Gravity",
     "SCI 238/Chapter S2 - Space & Time/Introduction to Special Relativity.md",
     "MSE 261/Topic 6/Risk Management (Topic 6).md",
@@ -197,7 +198,6 @@
     "EARTH 121/Images/Pasted image 20251104113706.png",
     "EARTH 121/Images/ring-of-fire.gif",
     "EARTH 121/Images/tectonic-plates.png",
-    "EARTH 121/Images/historic-earthquakes.png",
     "EARTH 121/Week 6/Constructing the Geologic Time Scale.md",
     "EARTH 121/Week 9",
     "EARTH 121/Week 5/Geologic Time.md",

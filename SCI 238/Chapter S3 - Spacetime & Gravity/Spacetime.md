@@ -1,0 +1,2 @@
+- Object's number of dimensions is the number of independent directions in which movement is possible within the object
+- Spac
