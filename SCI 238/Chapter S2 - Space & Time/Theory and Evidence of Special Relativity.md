@@ -38,4 +38,6 @@
 
 ### Tests of Relativity
 - Absoluteness of speed of light came from Michelson-Morley experiment in 1887
-- Time dilation happens to suba
+- Time dilation happens to subatomic particles that approach the speed of light in accelerators
+	- Also verified through precision measurements in airplanes moving at slower speeds
+- 
