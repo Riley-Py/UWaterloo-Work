@@ -11,4 +11,13 @@
 	- Example: Number of books in a book store
 - *Flow* - quantities that make stocks increase/decrease over a period of time
 	- Example: New books and sold books
-- Balance sheets record *financial stock*, while cash flow statements record
+- Balance sheets record *financial stock*, while cash flow statements record *financial flow*
+
+## Balance Sheet
+
+### Stock Variables: Asset, Liability, Equity
+
+- *Asset* - Anything of value owned by business
+- *Liability* - Anything of value owed by business
+- *Equity* - Asset - Liability
+	- Company's remaining value 
