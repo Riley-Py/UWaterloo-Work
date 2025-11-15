@@ -43,4 +43,11 @@
 #### Equity
 - *Capital stock* - Stocks owned by shareholder (shares outstanding)
 - *Treasury stock* - Stocks owned by company.  Total number of stocks issued subtract capital stock
-- 
+- *Retained earnings* - Accumulated profit that hasn't been reinvested/distributed to shareholders as dividend
+
+### Share Buyback
+- Companies buy back their shares from stock market
+	- Boosts the share price as there are less outstanding shares
+- Shareholders prefer dividend payout or share buybacks depending on tax strategy
+	- Dividends are taxed instantly
+	- Capital gains from stock appreciation are te
