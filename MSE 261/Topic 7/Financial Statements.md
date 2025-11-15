@@ -55,4 +55,9 @@
 - Tech companies' business model is based on intangible assets 
 	- Examples: Data, algorithms, brands
 - When tech companies want to spend money on intangible assets, large portion of their investment is not capitalized by current accounting rule
-	- Investments by a digital compan
+	- Investments by a digital company are treated as an expense rather than an increase in intangible assets
+- Intangible assets are underrepresented in the balance sheet, even though investments into these assets have exceeded tangible investments
+
+### Goodwill
+- Intangible asset that records the excess paid in acquiring another company
+- Need to revaluate size of Goodwill anually by assessing increased costs, declined cash flows, and 
