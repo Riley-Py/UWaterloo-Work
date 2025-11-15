@@ -97,4 +97,10 @@
 	- Revenues are recorded when earned, not when cash is received
 	- Expenses are recorded when incurred, not when cash is paid
 - Non-cash items like depreciation, amortization, stock-based compensation reduce net income but do not reduce cash
-	- 
+	- When depreciation charge is large, net income can be negative while net cash flow is positive
+- Company can report profit, but run of out cash, or can report a loss, but still generate cash
+	- When investment on fixed asset is large, a net income can be positive (capitalized and not counted as expense), but net cash flow can be negative
+- Cash flow statement reveals company's true liquidity position and ability to fund operations, invest, pay debts
+
+### Sources of Cash Flows
+- 
