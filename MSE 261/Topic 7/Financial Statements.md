@@ -132,4 +132,9 @@
 - *Return on Asset (ROA)* - How efficiently assets are utilized to generate income
 	- Formula: Net income/Total assets
 
-## Carbon Accounting
+## Carbon Accounting 
+- *Carbon tax* - company pays fixed charge per ton of emissions
+	- Recorded as operating expense
+- *Cap-and-Trade* - company gives back one permit for every ton of $CO_2$ it emits
+	- Purchased/granted - record as intangible asset until used, then expense when surrendered
+- 
