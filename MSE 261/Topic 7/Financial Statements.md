@@ -50,4 +50,9 @@
 	- Boosts the share price as there are less outstanding shares
 - Shareholders prefer dividend payout or share buybacks depending on tax strategy
 	- Dividends are taxed instantly
-	- Capital gains from stock appreciation are te
+	- Capital gains from stock appreciation are taxed when shares are sold
+### Digital Economy/Intangibles
+- Tech companies' business model is based on intangible assets 
+	- Examples: Data, algorithms, brands
+- When tech companies want to spend money on intangible assets, large portion of their investment is not capitalized by current accounting rule
+	- Investments by a digital compan
