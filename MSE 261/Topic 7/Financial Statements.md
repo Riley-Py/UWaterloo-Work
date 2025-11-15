@@ -69,4 +69,11 @@
 ### Revenues
 - Total amount of money earned by company from its business
 - *Operating (recurring) revenues* - Comes from primary activities of a company
-- *Non-operating*
+- *Non-operating (recurring) revenues* - Comes from non-primary activities of a company
+- *Gain* - Revenues from non-recurring transactions
+
+### Expense
+- Total amount of money that company pays for its business
+- *Operating expenses* - Expenses from primary activities of a company
+	- *Cost of goods sold (production costs)* - Material costs/wages
+	- *Non-production costs* - Marketing, advertisement, accounting, lea
