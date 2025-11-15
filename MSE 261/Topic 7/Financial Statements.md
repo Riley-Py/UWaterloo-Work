@@ -118,4 +118,11 @@
 
 ### Liquidity Ratios
 - Firm's ability to repay liabilities
-	- 
+- *Current ratio* - company's ability to pay off short-term liabilities
+	- Formula: Current assets/Current liabilities
+- *Cash ratio* - company's ability to pay off short-term liabilities with cash
+	- Formula: Cash/cash equivalents/current liabilities
+
+### Profit Ratios
+- Company's ability to generate profits
+- *Gross pro*
