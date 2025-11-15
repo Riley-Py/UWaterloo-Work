@@ -35,3 +35,7 @@
 	- Examples: Copyrights, trade secret, intellectual property, brand, goodwill
 
 #### Liability
+- *Current liability* - Short-term liabilities that need to be paid within less than a year
+	- Examples: Wage, dividends, taxes (*Account payable*); Interest from short-term loans
+- *Long-term liability* - Long-term liabilities that need to be paid within more than a year
+	- Examples: Interest from long-term loans (mortage)
