@@ -76,4 +76,10 @@
 - Total amount of money that company pays for its business
 - *Operating expenses* - Expenses from primary activities of a company
 	- *Cost of goods sold (production costs)* - Material costs/wages
-	- *Non-production costs* - Marketing, advertisement, accounting, lea
+	- *Non-production costs* - Marketing, advertisement, accounting, legal, admin, etc.
+	- *Depreciation & Amortization* - Partial allocation of tangible/intangible assets as expenses
+- *Non-operating expenses* - Expenses from non-primary activities of a company
+
+### Income
+- *Gross income (profit)* - Total revenue(s) - Cost of goods sold
+	- Reflects operational efficiency, not total profitability
