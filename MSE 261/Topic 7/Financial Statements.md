@@ -93,4 +93,8 @@
 ## Cash Flow Statement
 
 ### Cash Flow VS. Income 
-- Cash flow only records 
+- Cash flow statement only records movement of company's cash, while income statement is based on accounting
+	- Revenues are recorded when earned, not when cash is received
+	- Expenses are recorded when incurred, not when cash is paid
+- Non-cash items like depreciation, amortization, stock-based compensation reduce net income but do not reduce cash
+	- 
