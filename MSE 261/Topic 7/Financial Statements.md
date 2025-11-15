@@ -22,10 +22,16 @@
 - *Equity* - Asset - Liability
 	- Company's remaining value that is distributed to owners/shareholders after liquidation
 	- If liability exceeds asset worth, shareholders/owners get paid $0
+#### Assets
 - *Current (liquid) asset* - Short-term asset that can be converted to cash
 	- *Cash* - domestic/foreign currencies
 		- Equivalents: Cheque, bank drafts, money order, short-term government bonds, Treasury bills
 	- *Inventory* - goods/materials waiting for sales
 - *Fixed (illiquid) asset* - Long-term asset that's not easy to convert to cash in short period of time
 	- Examples: Property, Plant, Equipment (PPE); Copyrights, trade secret, intellectual property
-- 
+- *Tangible asset* - Physical asset that has stable market value
+	- Examples: Cash/cash equivalents, PPE
+- *Intangible asset* - Non-physical asset type whose value is subjective/not stable
+	- Examples: Copyrights, trade secret, intellectual property, brand, goodwill
+
+#### Liability
