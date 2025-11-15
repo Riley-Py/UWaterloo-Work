@@ -82,4 +82,9 @@
 
 ### Income
 - *Gross income (profit)* - Total revenue(s) - Cost of goods sold
+	- Company earns from its core products or services before accounting for other expenses
 	- Reflects operational efficiency, not total profitability
+- *Net income (profit)* - Total revenue(s) - All expenses (cost of goods sold, operating expenses, interest, taxes)
+	- Represents final profit after everything is paid
+	- Amount can be reinvested in business (retained earnings) or distributed to shareholders as dividends
+- 
