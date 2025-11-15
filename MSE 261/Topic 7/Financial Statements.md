@@ -108,4 +108,14 @@
 - *Financing activities*
 	- Paying dividend/interest (-) and receiving dividend/interest (+)
 	- Repayment of debt principle (-) and debt borrowing (+)
-- 
+
+## Financial Ratios
+
+### Financial Ratio Analysis
+- Summary statistics that show a company's financial status
+- Calculated in financial statements
+- Compared over time, sector, countries, key competitors
+
+### Liquidity Ratios
+- Firm's ability to repay liabilities
+	- 
