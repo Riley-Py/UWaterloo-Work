@@ -103,4 +103,9 @@
 - Cash flow statement reveals company's true liquidity position and ability to fund operations, invest, pay debts
 
 ### Sources of Cash Flows
+- *Operating activities* - Net income after adding back depreciation/amortization
+- *Investing activities* - Purchasing assets (-) and selling assets (+)
+- *Financing activities*
+	- Paying dividend/interest (-) and receiving dividend/interest (+)
+	- Repayment of debt principle (-) and debt borrowing (+)
 - 
