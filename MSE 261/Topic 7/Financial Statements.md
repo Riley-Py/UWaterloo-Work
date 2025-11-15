@@ -150,4 +150,8 @@
 	- Measured in tons of $CO_2$-equivalent
 	- Assigned a monetary value using a carbon price
 ### Carbon Cost and Operating Income
-- Operating income: 
+- *Operating income*: Revenue - (Operating Cost + Carbon Cost) - Depreciation
+- *Carbon cost*: Emissions x Carbon Price
+
+#mse261 
+#topic_7 
