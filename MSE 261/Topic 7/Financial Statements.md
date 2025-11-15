@@ -143,4 +143,11 @@
 - In carbon accounting, emissions represent use/decline of *common capital* (shared capacity of atmosphere to absorb $CO_2$)
 - Both are flows derived from stock
 	- *Depreciation* - private capital consumption
-	- **
+	- *Emissions* - environmental capital consumption
+
+### Carbon as Flow Variable
+- Each operation generates emissions as part of its production process
+	- Measured in tons of $CO_2$-equivalent
+	- Assigned a monetary value using a carbon price
+### Carbon Cost and Operating Income
+- Operating income: 
