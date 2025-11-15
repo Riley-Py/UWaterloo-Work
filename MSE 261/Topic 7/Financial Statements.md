@@ -87,4 +87,10 @@
 - *Net income (profit)* - Total revenue(s) - All expenses (cost of goods sold, operating expenses, interest, taxes)
 	- Represents final profit after everything is paid
 	- Amount can be reinvested in business (retained earnings) or distributed to shareholders as dividends
-- 
+- *EBIT* - Earnings Before Interest and Taxes
+- *EBITDA* - Earnings Before Interest, Taxes, Depreciation, Amortization
+
+## Cash Flow Statement
+
+### Cash Flow VS. Income 
+- Cash flow only records 
