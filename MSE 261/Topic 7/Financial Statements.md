@@ -38,4 +38,9 @@
 - *Current liability* - Short-term liabilities that need to be paid within less than a year
 	- Examples: Wage, dividends, taxes (*Account payable*); Interest from short-term loans
 - *Long-term liability* - Long-term liabilities that need to be paid within more than a year
-	- Examples: Interest from long-term loans (mortage)
+	- Examples: Interest from long-term loans (mortgage), bonds payable from bond issuance, long-term lease
+
+#### Equity
+- *Capital stock* - Stocks owned by shareholder (shares outstanding)
+- *Treasury stock* - Stocks owned by company.  Total number of stocks issued subtract capital stock
+- 
