@@ -6,3 +6,9 @@
 	- *Cash flow statement* - Summary of cash inflows/outflows (operating, investing, financing) over a specific time period
 
 ## Stocks VS. Flow
+
+- *Stock* - quantities that exist at one specific time 
+	- Example: Number of books in a book store
+- *Flow* - quantities that make stocks increase/decrease over a period of time
+	- Example: New books and sold books
+- Balance sheets record *financial stock*, while cash flow statements record
