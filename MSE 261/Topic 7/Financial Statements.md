@@ -20,4 +20,8 @@
 - *Asset* - Anything of value owned by business
 - *Liability* - Anything of value owed by business
 - *Equity* - Asset - Liability
-	- Company's remaining value 
+	- Company's remaining value that is distributed to owners/shareholders after liquidation
+	- If liability exceeds asset worth, shareholders/owners get paid $0
+- *Current (liquid) asset* - Short-term asset that can be converted to cash
+	- *Cash* - domestic/foreign currencies
+		- Equivalents: Cheque, bank drafts, money order, short-
