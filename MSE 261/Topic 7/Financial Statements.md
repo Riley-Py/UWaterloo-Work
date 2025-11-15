@@ -63,3 +63,10 @@
 - Need to revaluate size of Goodwill annually by assessing increased costs, declined cash flows, and other negative factors affecting the acquired company (*Goodwill impairment testing*)
 - Hard to price as it's based on future cash flows of acquired company
 	- Much volatility in company's financial statements
+
+## Income Statement
+
+### Revenues
+- Total amount of money earned by company from its business
+- *Operating (recurring) revenues* - Comes from primary activities of a company
+- *Non-operating*
