@@ -137,4 +137,10 @@
 	- Recorded as operating expense
 - *Cap-and-Trade* - company gives back one permit for every ton of $CO_2$ it emits
 	- Purchased/granted - record as intangible asset until used, then expense when surrendered
-- 
+
+### Carbon as Depreciation on Common Goods
+- In financial accounting, *depreciation* measures use/decline of private capital
+- In carbon accounting, emissions represent use/decline of *common capital* (shared capacity of atmosphere to absorb $CO_2$)
+- Both are flows derived from stock
+	- *Depreciation* - private capital consumption
+	- **
