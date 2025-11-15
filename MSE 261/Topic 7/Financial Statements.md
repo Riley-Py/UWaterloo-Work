@@ -125,4 +125,11 @@
 
 ### Profit Ratios
 - Company's ability to generate profits
-- *Gross pro*
+- *Gross profit margin* - How much gross profit a company makes compared to its sale
+	- Formula: Gross profit/Revenue
+- *Net profit margin* - How much net profit a company makes compared to its sale
+	- Formula: Net income / Revenue
+- *Return on Asset (ROA)* - How efficiently assets are utilized to generate income
+	- Formula: Net income/Total assets
+
+## Carbon Accounting
