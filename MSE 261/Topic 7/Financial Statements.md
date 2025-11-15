@@ -60,4 +60,6 @@
 
 ### Goodwill
 - Intangible asset that records the excess paid in acquiring another company
-- Need to revaluate size of Goodwill anually by assessing increased costs, declined cash flows, and 
+- Need to revaluate size of Goodwill annually by assessing increased costs, declined cash flows, and other negative factors affecting the acquired company (*Goodwill impairment testing*)
+- Hard to price as it's based on future cash flows of acquired company
+	- Much volatility in company's financial statements
