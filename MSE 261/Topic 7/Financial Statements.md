@@ -24,4 +24,8 @@
 	- If liability exceeds asset worth, shareholders/owners get paid $0
 - *Current (liquid) asset* - Short-term asset that can be converted to cash
 	- *Cash* - domestic/foreign currencies
-		- Equivalents: Cheque, bank drafts, money order, short-
+		- Equivalents: Cheque, bank drafts, money order, short-term government bonds, Treasury bills
+	- *Inventory* - goods/materials waiting for sales
+- *Fixed (illiquid) asset* - Long-term asset that's not easy to convert to cash in short period of time
+	- Examples: Property, Plant, Equipment (PPE); Copyrights, trade secret, intellectual property
+- 
