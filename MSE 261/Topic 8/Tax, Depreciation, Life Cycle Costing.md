@@ -24,3 +24,7 @@
 
 - *Average tax rate* - Percentage of total taxable income that is paid in taxes
 - *Marginal tax rate* - Percentage of the additional taxable income that is paid in taxes
+
+## Personal Income Tax
+- Taxes levied on personal earnings (salaries/wages) and on investment (dividends, interests, rental rece)
+- 
