@@ -64,3 +64,8 @@
 
 #### Unit-Of-Production Depreciation
 - Based on the use or amount of production, instead on years of use
+
+## Life-Cycle Costing
+- Extends financial analysis to include operation, maintenance, tax effects, and disposal
+	- Evaluates total cost of owning, operating, maintaining, and disposing an asset over its useful life
+- 
