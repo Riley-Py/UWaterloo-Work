@@ -84,4 +84,7 @@
 
 ### Capital Gain
 - An asset is sold for more than the basis
-- Excess over the origin
+- Excess over the original cost is a "capital gain" and the company should pay tax of one-half of the tax rate
+
+#mse261 
+#topic_8 
