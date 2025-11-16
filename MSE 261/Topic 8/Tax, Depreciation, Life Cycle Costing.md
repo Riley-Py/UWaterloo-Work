@@ -12,4 +12,10 @@
 - Amount of tax goes up by income level to keep tax rate constant
 
 ### Progressive Tax
-- Higher tax rates for h
+- Higher tax rates for higher income earners
+- Amount of tax is in higher proportion to income level to make the tax rate higher
+	- Example: Personal income tax (more you earn, the higher the tax rate)
+### Regressive Tax
+- Higher tax rate for lower income earners
+- Amount of tax is in lower proportion to income level to make tax rate lower
+	- Example: Consumption tax
