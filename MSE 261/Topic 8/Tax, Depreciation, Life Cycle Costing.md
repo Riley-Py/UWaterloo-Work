@@ -50,3 +50,10 @@
 - No actual monetary transaction
 	- Written off from the value of the fixed asset in balance sheet, which is treated as incurred costs in income statement
 
+### Book Value and Salvage Value
+- An asset's book value after the asset's depreciable life, $N$, is called a salvage value, $S$ 
+
+### Depreciation Methods
+
+#### Straight-Line Depreciation
+- Amount of depreciation of an asset
