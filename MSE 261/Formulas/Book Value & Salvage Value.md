@@ -1,0 +1,4 @@
+- Formula: $$ BV_t = B - \sum d_j$$
+- $BV_t$ : Book value at end of time $t$ 
+- $B$: Base asset price
+- $\sum d_j$: A
