@@ -18,4 +18,9 @@
 ### Regressive Tax
 - Higher tax rate for lower income earners
 - Amount of tax is in lower proportion to income level to make tax rate lower
-	- Example: Consumption tax
+	- Example: Consumption tax, where low income earners spend more of their income on sales goods, paying a higher tax rate
+
+### Average VS. Marginal Tax Rates
+
+- *Average tax rate* - Percentage of total taxable income that is paid in taxes
+- *Marginal tax rate* - Percentage of the additional taxable income that is paid in taxes
