@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSE 261/Formulas/Straight-Line Depreciation.md",
+                "file": "MSE 261/Formulas/Declining-Balance Depreciation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Straight-Line Depreciation"
+              "title": "Declining-Balance Depreciation"
             }
           }
         ]
@@ -177,10 +177,11 @@
   },
   "active": "af46bd642e8085ac",
   "lastOpenFiles": [
-    "MSE 261/Formulas/Book Value & Salvage Value.md",
-    "MSE 261/Formulas/Straight-Line Depreciation.md",
-    "MSE 261/Formulas/Untitled.md",
     "MSE 261/Topic 8/Tax, Depreciation, Life Cycle Costing.md",
+    "MSE 261/Formulas/Declining-Balance Depreciation.md",
+    "MSE 261/Formulas/Straight-Line Depreciation.md",
+    "MSE 261/Formulas/Book Value & Salvage Value.md",
+    "MSE 261/Formulas/Untitled.md",
     "MSE 261/Images/Pasted image 20251116170617.png",
     "MSE 261/Topic 7/Financial Statements.md",
     "MSE 261/Topic 8",
@@ -218,7 +219,6 @@
     "EARTH 121/Field Notes/Field Notes Journal 7 - Should I Protect or Produce This Rock Landform.md",
     "EARTH 121/Field Notes/Field Notes Journal 6 - What is The Best Driving Route.md",
     "EARTH 121/Field Notes/EARTH 121 - Field Notes Journal 1-5.pdf",
-    "EARTH 121/Field Notes/Field Notes Journal 4 - Is This Depiction of the Rock Cycle Complete & Accurate.md",
     "EARTH 121/Week 8",
     "EARTH 121/Study Site Assessment/Part B/EARTH 121 - Study Site Assessment Part B.pdf",
     "SCI 238/Chapter S2 - Space & Time",

@@ -58,3 +58,6 @@
 #### Straight-Line Depreciation
 - Amount of depreciation of an asset is constant over time
 - Approach is used for depreciation of intangible property
+
+#### Declining-Balance Depreciation
+- Depreciation is applied at a constant depreciation rate to the property's declining book value
