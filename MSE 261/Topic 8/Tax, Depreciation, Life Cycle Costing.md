@@ -73,4 +73,15 @@
 - At disposal, remaining book value/resale price determine the final cash-flow adjustment
 	- Depreciate too much, you have to pay tax
 	- *Net salvage value* - Tax-adjusted remaining amount of asset
-- 
+
+### Recaptured Depreciation
+- An asset is sold for more than its book value, but less than cost basis
+- Excessive depreciation, which has to be recaptured by paying taxes
+
+### Loss on Disposal
+- An asset is sold for less than book value
+- Company has not claimed enough depreciation expense, and the loss will be deductible via tax credit
+
+### Capital Gain
+- An asset is sold for more than the basis
+- Excess over the origin
