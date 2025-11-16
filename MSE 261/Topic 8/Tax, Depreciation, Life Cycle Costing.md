@@ -47,3 +47,6 @@
 	- ![[Pasted image 20251116170617.png]]
 ### Depreciation/Amortization
 - Purely an accounting concept and doesn't involve cash flow
+- No actual monetary transaction
+	- Written off from the value of the fixed asset in balance sheet, which is treated as incurred costs in income statement
+
