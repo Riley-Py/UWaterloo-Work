@@ -31,3 +31,7 @@
 - *Taxable income* - Gross income - Deductions
 - *Gross income* - Wages/salary, rental income, capital gains, etc.
 - *Deductions* - Child care expenses, charitable donations, etc.
+
+## Corporate Tax
+- Taxes levied on business profits/net income
+- Flat rate
