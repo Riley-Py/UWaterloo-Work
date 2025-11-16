@@ -42,4 +42,8 @@
 - Corporate income tax is levied on corporate taxable income after expenses have been deducted
 - Depreciation/amortization are part of operating expenses and are tax deductible
 	- Company usually wants to depreciate quickly because tax saving in early periods can generate interest income
-- 
+### Different Terms
+- Diagram of different terms: 
+	- ![[Pasted image 20251116170617.png]]
+### Depreciation/Amortization
+- Purely an accounting concept and doesn't involve cash flow
