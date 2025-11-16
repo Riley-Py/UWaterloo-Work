@@ -26,5 +26,8 @@
 - *Marginal tax rate* - Percentage of the additional taxable income that is paid in taxes
 
 ## Personal Income Tax
-- Taxes levied on personal earnings (salaries/wages) and on investment (dividends, interests, rental rece)
-- 
+- Taxes levied on personal earnings (salaries/wages) and on investment (dividends, interests, rental receipts, capital gains)
+- Amount depends on taxable income/tax rates
+- *Taxable income* - Gross income - Deductions
+- *Gross income* - Wages/salary, rental income, capital gains, etc.
+- *Deductions* - Child care expenses, charitable donations, etc.
