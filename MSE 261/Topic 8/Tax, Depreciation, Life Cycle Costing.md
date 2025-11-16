@@ -56,4 +56,5 @@
 ### Depreciation Methods
 
 #### Straight-Line Depreciation
-- Amount of depreciation of an asset
+- Amount of depreciation of an asset is constant over time
+- Approach is used for depreciation of intangible property
