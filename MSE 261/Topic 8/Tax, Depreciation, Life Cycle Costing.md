@@ -34,4 +34,4 @@
 
 ## Corporate Tax
 - Taxes levied on business profits/net income
-- Flat rate
+- Flat rate tax
