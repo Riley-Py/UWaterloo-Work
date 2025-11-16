@@ -68,4 +68,9 @@
 ## Life-Cycle Costing
 - Extends financial analysis to include operation, maintenance, tax effects, and disposal
 	- Evaluates total cost of owning, operating, maintaining, and disposing an asset over its useful life
+
+## Asset Disposition & End-of-Life Accounting
+- At disposal, remaining book value/resale price determine the final cash-flow adjustment
+	- Depreciate too much, you have to pay tax
+	- *Net salvage value* - Tax-adjusted remaining amount of asset
 - 
