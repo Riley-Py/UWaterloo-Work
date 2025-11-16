@@ -61,3 +61,6 @@
 
 #### Declining-Balance Depreciation
 - Depreciation is applied at a constant depreciation rate to the property's declining book value
+
+#### Unit-Of-Production Depreciation
+- Based on the use or amount of production, instead on years of use
