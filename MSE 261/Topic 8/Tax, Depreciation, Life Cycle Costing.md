@@ -35,3 +35,8 @@
 ## Corporate Tax
 - Taxes levied on business profits/net income
 - Flat rate tax
+
+## Tax Calculation
+
+### Depreciation/Taxes
+- Corporate income 
