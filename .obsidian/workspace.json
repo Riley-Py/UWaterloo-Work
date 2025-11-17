@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSE 261/Topic 8/Tax, Depreciation, Life Cycle Costing.md",
+                "file": "MSE 261/Topic 9/Inflation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tax, Depreciation, Life Cycle Costing"
+              "title": "Inflation"
             }
           }
         ]
@@ -175,11 +175,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "059c515cd4110e39",
+  "active": "af46bd642e8085ac",
   "lastOpenFiles": [
+    "MSE 261/Topic 8/Tax, Depreciation, Life Cycle Costing.md",
+    "MSE 261/Topic 9/Inflation.md",
+    "MSE 261/Topic 9",
     "MSE 261/Formulas/Life-Cycle Costing.md",
     "MSE 261/Images/Pasted image 20251116173152.png",
-    "MSE 261/Topic 8/Tax, Depreciation, Life Cycle Costing.md",
     "MSE 261/Formulas/After Tax Profit.md",
     "MSE 261/Formulas/Capital Cost Allowance.md",
     "MSE 261/Formulas/Unit-Of-Production.md",
@@ -221,7 +223,6 @@
     "EARTH 121/Week 8",
     "EARTH 121/Study Site Assessment/Part B/EARTH 121 - Study Site Assessment Part B.pdf",
     "SCI 238/Chapter S2 - Space & Time",
-    "EARTH 121/Study Site Assessment/Part B/mso42FF.tmp",
     "Untitled.canvas"
   ]
 }
