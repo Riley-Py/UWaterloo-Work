@@ -63,6 +63,10 @@
 - Water extracted more than 2 km deep in a mine through Earth's crust has been dated to 2.6 billion years old
 
 ## Great Civilizations
-- Egypitans, Veneti
+- Egyptians, Venetians, Romans survived and thrived around water
+	- Trade, transportation, defense, and social well-being 
+- Egyptians: Nile River
+	- Supported agricultural practices, increased population density
+- Venetians: 
 
 
