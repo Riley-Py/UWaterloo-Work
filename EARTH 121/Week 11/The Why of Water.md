@@ -45,4 +45,6 @@
 ### Geosphere
 - Creates erosion on Earth and through geologic time
 - Craters have been created by water-related processes, which provide clues to Earth's early history
+- Connected to many different parts of Earth's natural processes
+	- *Water causes rock to melt at lower temperatures in plate tectonics (Igneous/Metamorphic Rocks)*
 
