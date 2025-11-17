@@ -47,4 +47,10 @@
 - Craters have been created by water-related processes, which provide clues to Earth's early history
 - Connected to many different parts of Earth's natural processes
 	- *Water causes rock to melt at lower temperatures in plate tectonics (Igneous/Metamorphic Rocks)*
+	- *Water is bound within certain crystal structures of minerals, and contributes to rock formation*
+	- *Water contributes to concentration of many valuable resources*
+	- *Water breaks down Earth's raw material through prying rocks apart or dissolving rocks*
+	- *Water initiates movement of Earth materials*
+	- *Water moves material short and long distances*
+	- *Water destroys and builds landforms*
 
