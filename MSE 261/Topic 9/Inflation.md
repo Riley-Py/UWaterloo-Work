@@ -25,3 +25,11 @@
 - *Consumer Price Index* - Consumer goods and services
 - *Producer Price Index* - Production inputs
 - *Labor Price Index* - Wages
+
+### Actual VS. Real Dollar
+
+#### Actual Dollars
+- At time of transaction
+- Money we think of (pay cheques, card receipts, mortgages)
+- Expressed in value at time of transaction
+- *Current dollars*, *inflated dollars*, *nominal dollars*

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSE 261/Formulas/Interest Rate & Inflation.md",
+                "file": "MSE 261/Topic 9/Inflation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Interest Rate & Inflation"
+              "title": "Inflation"
             }
           }
         ]
@@ -177,8 +177,8 @@
   },
   "active": "af46bd642e8085ac",
   "lastOpenFiles": [
-    "MSE 261/Topic 9/Inflation.md",
     "MSE 261/Formulas/Interest Rate & Inflation.md",
+    "MSE 261/Topic 9/Inflation.md",
     "MSE 261/Topic 8/Tax, Depreciation, Life Cycle Costing.md",
     "MSE 261/Topic 9",
     "MSE 261/Formulas/Life-Cycle Costing.md",

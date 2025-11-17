@@ -6,3 +6,5 @@
 	- "Real" time value of money without effect of inflation
 - Formulas: $$i = r + \pi + r\pi$$ $$ r = {(i - \pi) \over (1 + \pi)}$$
 - Either or works
+#mse261 
+#topic_9 
