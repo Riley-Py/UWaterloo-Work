@@ -54,4 +54,9 @@
 	- *Water moves material short and long distances*
 	- *Water destroys and builds landforms*
 
+## Origin of Water on Earth
+- Appeared about four billion years ago after Earth's heat production/bombardment was reduced and before Earth was hospitable for life
+- Came from an internal source inside Earth
+	- Transferred to Earth's surface through *outgassing* - large volumes of gas were expelled from the geosphere 
+
 
