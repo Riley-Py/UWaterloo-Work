@@ -1,0 +1,5 @@
+- *Basket of goods* - predetermined set of goods/services whose prices are tracked on a regular basis
+	- Economy-wide price level is calculated as weighted average of price of products in basket of goods
+- *Inflation* - increase in general price of goods and services
+	- Future dollars are less valu
+- *Deflation* - decrease in general price of goods and services
