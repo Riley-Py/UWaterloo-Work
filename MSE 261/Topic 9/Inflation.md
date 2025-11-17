@@ -52,4 +52,6 @@
 	- Inflation rate may be changing over the study period
 - *Inflation effect on after-tax calculation*
 	- Value of depreciation deduction is diminished by inflation
-	- Inflation is important in after-tax pre
+	- Inflation is important in after-tax present worth calculation
+#mse261 
+#topic_9 
