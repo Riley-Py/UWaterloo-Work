@@ -20,3 +20,9 @@
 - Water contains its own sphere called *Hydrosphere*
 	- Is interwoven between the spheres that Earth requires to function: *Biosphere*, *Geosphere*, and *Atmosphere*
 
+### Biosphere
+- Water is essential for life
+- Humans require the following from water
+	- *Regular replenishment of water* - We wouldn't be able to survive without water beyond a few days
+	- *Clean, fresh water* - We cannot survive consuming contaminated, salt, or muddy water, as it's bad for health
+
