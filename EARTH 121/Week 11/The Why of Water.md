@@ -36,5 +36,10 @@
 	- Sun emits more energy at shorter wavelengths than Earth
 - *Sun* - About 45% of EM energy from the sun reaches Earth's surface, where it's absorbed by Earth, increasing Earth's temperature temporarily and re-radiated by Earth to exit the system
 - *Earth* - Emits longer-wavelength energy than the sun as it's a cooler body
-- *Atmospheric gases* - Different gases influence Earth's energy balance by allowing 
+- *Atmospheric gases* - Different gases influence Earth's energy balance by allowing entrance/exit of energy
+	- Water is important greenhouse gas in atmosphere along with others like carbon dioxide
+	- Human activity has altered composition of these gases
+- Diagram of this: 
+	- ![[greenhouse.png]]
+- 
 
