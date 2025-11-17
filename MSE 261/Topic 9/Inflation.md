@@ -20,5 +20,8 @@
 - *Hyperinflation* - extreme inflation
 
 ### Measuring Inflation
+- *Price index* - Relative price fluctuation of a basket of goods/services
+	- All have a *base year* with value of 100
 - *Consumer Price Index* - Consumer goods and services
-- *Producer Price Inde*
+- *Producer Price Index* - Production inputs
+- *Labor Price Index* - Wages
