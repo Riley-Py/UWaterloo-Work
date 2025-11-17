@@ -16,3 +16,7 @@
 - *Laurentide Ice Sheet* - Continental glacier that oscillated across North America during Quaternary
 - *Recharge* - Movement of surface water to groundwater that replenishes aquifers
 
+## Important Role of Water in Earth System
+- Water contains its own sphere called *Hydrosphere*
+	- Is interwoven between the spheres that Earth requires to function: *Biosphere*, *Geosphere*, and *Atmosphere*
+
