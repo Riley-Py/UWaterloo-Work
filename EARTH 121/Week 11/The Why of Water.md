@@ -25,4 +25,8 @@
 - Humans require the following from water
 	- *Regular replenishment of water* - We wouldn't be able to survive without water beyond a few days
 	- *Clean, fresh water* - We cannot survive consuming contaminated, salt, or muddy water, as it's bad for health
+### Atmosphere
+- Water aids in maintaining habitable temperatures for life
+	- Earth would be too hot/cold for living things in the biosphere
+- Water vapour is required for climate regulation on Earth
 
