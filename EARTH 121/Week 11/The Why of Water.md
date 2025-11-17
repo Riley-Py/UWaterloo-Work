@@ -33,5 +33,8 @@
 	- Called *Greenhouse Effect*
 #### Greenhouse Effect
 - *EM Radiation* - Sun and Earth emit energy in the EM spectrum
-	- Sun emits more energy at shorter wavelengths 
+	- Sun emits more energy at shorter wavelengths than Earth
+- *Sun* - About 45% of EM energy from the sun reaches Earth's surface, where it's absorbed by Earth, increasing Earth's temperature temporarily and re-radiated by Earth to exit the system
+- *Earth* - Emits longer-wavelength energy than the sun as it's a cooler body
+- *Atmospheric gases* - Different gases influence Earth's energy balance by allowing 
 
