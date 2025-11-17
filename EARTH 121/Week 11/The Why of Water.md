@@ -14,4 +14,5 @@
 - *Aquitard* - Impermeable body of rock or sediment that hinders/prevents groundwater movement and cannot be extracted for use by humans
 - *Laurentia* - Ancient geological landmass that was an independent continent more than 500 million years ago and presently forms ancient core of North America
 - *Laurentide Ice Sheet* - Continental glacier that oscillated across North America during Quaternary
-- *Recharge* - M
+- *Recharge* - Movement of surface water to groundwater that replenishes aquifers
+
