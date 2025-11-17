@@ -1,0 +1,5 @@
+- *Inflation rate*: $\pi$ 
+	- Decrease in purchasing power of dollars per year
+- *Nominal (combined) interest rate*: $i$ 
+	- Interest rate you observe in the market
+- *Real (inflation-free) interest*
