@@ -57,6 +57,12 @@
 ## Origin of Water on Earth
 - Appeared about four billion years ago after Earth's heat production/bombardment was reduced and before Earth was hospitable for life
 - Came from an internal source inside Earth
-	- Transferred to Earth's surface through *outgassing* - large volumes of gas were expelled from the geosphere 
+	- Transferred to Earth's surface through *outgassing* - large volumes of gas were expelled from the geosphere, became temporarily suspended above Earth to form an atmosphere, then condensed to form oceans and early forms of life on Earth
+
+## Oldest Flowing Water Found in Earth
+- Water extracted more than 2 km deep in a mine through Earth's crust has been dated to 2.6 billion years old
+
+## Great Civilizations
+- Egypitans, Veneti
 
 
