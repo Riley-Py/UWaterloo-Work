@@ -29,4 +29,9 @@
 - Water aids in maintaining habitable temperatures for life
 	- Earth would be too hot/cold for living things in the biosphere
 - Water vapour is required for climate regulation on Earth
+	- Delays exit of energy from Earth into space
+	- Called *Greenhouse Effect*
+#### Greenhouse Effect
+- *EM Radiation* - Sun and Earth emit energy in the EM spectrum
+	- Sun emits more energy at shorter wavelengths 
 
