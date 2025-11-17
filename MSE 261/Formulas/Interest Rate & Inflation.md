@@ -2,4 +2,7 @@
 	- Decrease in purchasing power of dollars per year
 - *Nominal (combined) interest rate*: $i$ 
 	- Interest rate you observe in the market
-- *Real (inflation-free) interest*
+- *Real (inflation-free) interest rate*: $r$ 
+	- "Real" time value of money without effect of inflation
+- Formulas: $$i = r + \pi + r\pi$$ $$ r = {(i - \pi) \over (1 + \pi)}$$
+- Either or works
