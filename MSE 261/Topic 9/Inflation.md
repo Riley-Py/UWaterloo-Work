@@ -12,3 +12,13 @@
 	- Cost of production goes up (oil price), companies increase price
 - *Demand-Pull*
 	- Increased demand leads to increased prices
+
+### Inflation Bad?
+- Only if it's not anticipated/size is large
+	- Companies invest less due to uncertain future revenues from investment
+	- Consumers save less, due to loss of purchasing power
+- *Hyperinflation* - extreme inflation
+
+### Measuring Inflation
+- *Consumer Price Index* - Consumer goods and services
+- *Producer Price Inde*
