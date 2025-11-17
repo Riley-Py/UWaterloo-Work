@@ -10,4 +10,5 @@
 - *Continental glacier (ice sheet)* - Large, thick mass of glacial ice on a continent flowing outward in all directions from one or more accumulation centers
 - *Moraine* - Landform or pile of sediment commonly composed of till deposited by glacier
 - *Soil* - Combo of minerals, organic matter, water, air that supports plant growth
-- *Aquifer* - Body of permeable rock/sediment that contains/transmits groundwater and can be extracted for use by hu
+- *Aquifer* - Body of permeable rock/sediment that contains/transmits groundwater and can be extracted for use by humans
+- *Aquitard* - Impermeable body of rock or sediment that hinders/prevents groundwater movement and cannot be extracted for use by humans
