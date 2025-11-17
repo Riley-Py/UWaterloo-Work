@@ -35,7 +35,8 @@
               "title": "Field Notes Journal 9 - What Do You See From That Unusual Perspective"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -189,10 +190,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "af46bd642e8085ac",
+  "active": "e7add3e873949278",
   "lastOpenFiles": [
-    "EARTH 121/Field Notes/Field Notes Journal 9 - What Do You See From That Unusual Perspective.md",
     "EARTH 121/Week 11/The Why of Water.md",
+    "EARTH 121/Field Notes/Field Notes Journal 9 - What Do You See From That Unusual Perspective.md",
     "EARTH 121/Study Site Assessment/Part B/EARTH 121 - Study Site Assessment Part B.pdf",
     "EARTH 121/Study Site Assessment/Part B/Composition, Structure, and Processes.md",
     "EARTH 121/Images/great-lakes.png",
