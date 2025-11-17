@@ -32,4 +32,14 @@
 - At time of transaction
 - Money we think of (pay cheques, card receipts, mortgages)
 - Expressed in value at time of transaction
+- Carries any inflation
 - *Current dollars*, *inflated dollars*, *nominal dollars*
+- Use actual interest rate for discounting
+
+#### Real Dollars
+- Purchasing power
+- Purchasing power of a base year
+	- Example: Today's dollars
+- Doesn't carry effects of inflation
+- *Constant dollar*, *constant purchasing power dollars*
+- Use real interest rat
