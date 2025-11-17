@@ -67,6 +67,10 @@
 	- Trade, transportation, defense, and social well-being 
 - Egyptians: Nile River
 	- Supported agricultural practices, increased population density
-- Venetians: 
+- Venetians: Mediterranean Sea
+	- Port for goods to enter Europe
+- Romans: Aqueducts
+	- Transport water great distances for bath facilities
+#earth121 
 
 

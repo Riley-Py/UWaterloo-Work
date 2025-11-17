@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "32a993a37b85d01f",
+        "id": "c8c939895370aa65",
         "type": "tabs",
         "children": [
           {
-            "id": "af46bd642e8085ac",
+            "id": "c7971a8661e693e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EARTH 121/Week 11/The Why of Water.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "The Why of Water"
-            }
-          },
-          {
-            "id": "e7add3e873949278",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "EARTH 121/Week 11/The Why of Water.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "The Why of Water"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,11 +171,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e7add3e873949278",
+  "active": "c7971a8661e693e2",
   "lastOpenFiles": [
+    "EARTH 121/Week 11/The Why of Water.md",
     "EARTH 121/Field Notes/Field Notes Journal 9 - What Do You See From That Unusual Perspective.md",
     "EARTH 121/Field Notes/Field Notes Journal 8 - Is There Concern for Limited Water Resources.md",
-    "EARTH 121/Week 11/The Why of Water.md",
     "EARTH 121/Study Site Assessment/Part B/EARTH 121 - Study Site Assessment Part B.pdf",
     "EARTH 121/Study Site Assessment/Part B/Composition, Structure, and Processes.md",
     "EARTH 121/Images/great-lakes.png",
