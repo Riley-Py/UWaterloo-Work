@@ -42,4 +42,14 @@
 	- Example: Today's dollars
 - Doesn't carry effects of inflation
 - *Constant dollar*, *constant purchasing power dollars*
-- Use real interest rat
+- Use real interest rate for discounting
+
+## Cash Flow Analysis with Inflation
+- *Different price change for products* 
+	- Company may need to estimate price of various items
+	- May inflate/deflate at different rates
+- *Changing inflation rates*
+	- Inflation rate may be changing over the study period
+- *Inflation effect on after-tax calculation*
+	- Value of depreciation deduction is diminished by inflation
+	- Inflation is important in after-tax pre
