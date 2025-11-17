@@ -7,4 +7,7 @@
 - *Hypsographic Curve* - Plot of cumulative area on the Earth's surface that occurs at various elevations relative to average sea level
 - *Firn* - Granular re-crystallized snow (transition between snow and glacial ice)
 - *Alpine glacier* - Mass of glacial ice in elevated terrain or mountains that descends down valleys
-- 
+- *Continental glacier (ice sheet)* - Large, thick mass of glacial ice on a continent flowing outward in all directions from one or more accumulation centers
+- *Moraine* - Landform or pile of sediment commonly composed of till deposited by glacier
+- *Soil* - Combo of minerals, organic matter, water, air that supports plant growth
+- *Aquifer* - Body of permeable rock/sediment that contains/transmits groundwater and can be extracted for use by hu
