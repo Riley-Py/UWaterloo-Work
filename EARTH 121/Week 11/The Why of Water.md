@@ -41,5 +41,8 @@
 	- Human activity has altered composition of these gases
 - Diagram of this: 
 	- ![[greenhouse.png]]
-- 
+
+### Geosphere
+- Creates erosion on Earth and through geologic time
+- Craters have been created by water-related processes, which provide clues to Earth's early history
 
