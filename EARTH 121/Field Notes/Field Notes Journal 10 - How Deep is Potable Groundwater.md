@@ -7,6 +7,6 @@
 
 | Water Well Locations | Depth to Water (M) | Lithology | Mapped Lithologic Geology | Bedrock Elevation | Overburden Thickness |
 | -------------------- | ------------------ | --------- | ------------------------- | ----------------- | -------------------- |
-| 7231805              | ~26                | Granite   |                           |                   |                      |
+| 7231805              | ~26                | Granite   | Crystalline Basement      |                   |                      |
 | 6919310              | ~44                | Med Sand  | Shale                     |                   |                      |
 | 6406391              | ~5                 | Limestone | Limestone                 |                   |                      |
