@@ -11,12 +11,14 @@
             "id": "c7971a8661e693e2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "EARTH 121/Images/map_earth121_fnj10.png"
+                "file": "EARTH 121/Field Notes/Field Notes Journal 10 - How Deep is Potable Groundwater.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "map_earth121_fnj10"
+              "icon": "lucide-file",
+              "title": "Field Notes Journal 10 - How Deep is Potable Groundwater"
             }
           }
         ]
@@ -175,10 +177,10 @@
   },
   "active": "c7971a8661e693e2",
   "lastOpenFiles": [
-    "EARTH 121/Field Notes/Field Notes Journal 10 - How Deep is Potable Groundwater.md",
-    "EARTH 121/Week 11/The Why of Water.md",
-    "EARTH 121/Images/map_earth121_fnj10.png",
     "EARTH 121/Field Notes/Field Notes Journal 9 - What Do You See From That Unusual Perspective.md",
+    "EARTH 121/Field Notes/Field Notes Journal 10 - How Deep is Potable Groundwater.md",
+    "EARTH 121/Images/map_earth121_fnj10.png",
+    "EARTH 121/Week 11/The Why of Water.md",
     "EARTH 121/Week 11/Where is Water Found.md",
     "EARTH 121/Field Notes/Field Notes Journal 8 - Is There Concern for Limited Water Resources.md",
     "EARTH 121/Study Site Assessment/Part B/EARTH 121 - Study Site Assessment Part B.pdf",
@@ -216,7 +218,6 @@
     "SCI 238/Chapter S3 - Spacetime & Gravity",
     "SCI 238/Chapter S2 - Space & Time/Introduction to Special Relativity.md",
     "MSE 261/Topic 6/Risk Management (Topic 6).md",
-    "MSE 261/Topic 5/Risk & Return (Topic 5).md",
     "MSE 261/Topic 6",
     "EARTH 121/Week 9",
     "EARTH 121/Field Notes/EARTH 121 - Field Notes Journal 1-5.pdf",
