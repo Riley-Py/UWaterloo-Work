@@ -5,8 +5,8 @@
 
 ## Part 2: Table
 
-| Water Well Locations | Depth to Water (M) | Lithology | Mapped Lithologic Geology | Bedrock Elevation | Overburden Thickness |
-| -------------------- | ------------------ | --------- | ------------------------- | ----------------- | -------------------- |
-| 7231805              | ~26                |           |                           |                   |                      |
-| 6919310              |                    |           |                           |                   |                      |
-| 6406391              |                    |           |                           |                   |                      |
+| Water Well Locations | Depth to Water (M)  | Lithology | Mapped Lithologic Geology | Bedrock Elevation | Overburden Thickness |
+| -------------------- | ------------------- | --------- | ------------------------- | ----------------- | -------------------- |
+| 7231805              | ~26                 |           |                           |                   |                      |
+| 6919310              | ~44                 |           |                           |                   |                      |
+| 6406391              | ~5                  |           |                           |                   |                      |
