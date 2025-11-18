@@ -13,4 +13,4 @@
 
 ## Part 3: Paragraph
 
-The potential groundwater source for the waterwell location with granite would be from the fact that the granite could be faulted or when the granite is sheared.  This is the reason why the depth to water is the 2nd largest; granite doesn't store water directly, but only when it's broken.  The potential groundwater source for the water well location with limestone 
+The potential groundwater source for the waterwell location with granite would be from the fact that the granite could be faulted or when the granite is sheared.  This is the reason why the depth to water is the 2nd largest; granite doesn't store water directly, but only when it's broken.  Additionally, the location of the water well is within the CanThe potential groundwater source for the water well location with limestone would be within the limestone itself, as limestone is quite porous as a material.  Therefore, you don't need to drill too deep in this location to find groundwater.  
