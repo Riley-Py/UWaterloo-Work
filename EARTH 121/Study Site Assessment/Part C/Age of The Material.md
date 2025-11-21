@@ -43,4 +43,5 @@ Word count: 700-1000 words (aim for 750).  Not including captions
 - https://iugs-geoheritage.org/geoheritage_sites/the-paleocene-volcanic-rocks-of-the-giants-causeway-and-causeway-coast/
 - https://www.sciencedirect.com/topics/earth-and-planetary-sciences/argon-argon-dating 
 - https://www.hullgeolsoc.co.uk/hg1506.htm
-- 
+- https://www.researchgate.net/figure/Location-maps-of-the-North-Atlantic-Igneous-Province-NAIP-and-sediment-cores-sites_fig2_354247454 
+
