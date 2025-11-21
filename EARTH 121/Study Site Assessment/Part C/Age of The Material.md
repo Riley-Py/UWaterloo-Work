@@ -8,8 +8,8 @@ Word count: 700-1000 words (aim for 750)
 ## Research
 
 ### Part 1
-- Absolute age: Formed 60 million years ago
-- Relative age: Part of the tertiary (paleogene) period, between the Eocene and paleocene epoch
+- Absolute age: Formed just under 60 million years ago
+- Relative age: Part of the tertiary (paleogene) period, between the Eocene and paleocene epoch (~56-66 million years ago)
 
 
 ## Sources
