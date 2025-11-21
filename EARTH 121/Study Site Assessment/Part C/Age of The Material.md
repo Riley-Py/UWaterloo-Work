@@ -18,6 +18,7 @@ Word count: 700-1000 words (aim for 750)
 - Giant's Causeway is part of North Atlantic Igneous Province
 	- Major volcanism happened during early opening of North Atlantic Ocean, where tectonic plates were pulled
 	- Estimations of this event were about 58-62 Ma
+- The basalt columns sit on older sediment, so by the Law of Superposition, the basalt columns must be younger than the sediment
 - 
 
 
