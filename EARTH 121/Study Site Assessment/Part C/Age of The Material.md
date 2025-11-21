@@ -12,13 +12,15 @@ Word count: 700-1000 words (aim for 750)
 - Relative age: Part of the tertiary (paleogene) period, between the Eocene and paleocene epoch (~56-66 million years ago)
 
 ### Part 2
-- Utilizing radiometric dating 
+- Utilizing radiometric dating with regards to the 40Ar/39Ar method
 	- Found that for the lower basalt formation, it was about 62.6 Ma
 	- Found that for the upper basalt formation, it was about 59.6 Ma
 - Giant's Causeway is part of North Atlantic Igneous Province
 	- Major volcanism happened during early opening of North Atlantic Ocean, where tectonic plates were pulled
 	- Estimations of this event were about 58-62 Ma
 - The basalt columns sit on older sediment, so by the Law of Superposition, the basalt columns must be younger than the sediment
+
+### Part 3
 - 
 
 
