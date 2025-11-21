@@ -8,9 +8,10 @@ Word count: 700-1000 words (aim for 750)
 ## Research
 
 ### Part 1
-- Formed 60 million years ago
-- Part of the tertiary period, between the Neogene and P
+- Absolute age: Formed 60 million years ago
+- Relative age: Part of the tertiary (paleogene) period, between the Eocene and paleocene epoch
 
 
 ## Sources
 - https://www.nationaltrust.org.uk/visit/northern-ireland/giants-causeway/history-of-giants-causeway
+- https://www2.habitas.org.uk/escr/summary.php?item=533
