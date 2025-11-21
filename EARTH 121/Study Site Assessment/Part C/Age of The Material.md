@@ -40,3 +40,5 @@ Word count: 700-1000 words (aim for 750).  Not including captions
 - https://academic.oup.com/gji/article/182/1/183/560521
 - https://stratigraphy.org/chart/
 - https://www.britannica.com/science/Eocene-Epoch
+- https://iugs-geoheritage.org/geoheritage_sites/the-paleocene-volcanic-rocks-of-the-giants-causeway-and-causeway-coast/
+- 
