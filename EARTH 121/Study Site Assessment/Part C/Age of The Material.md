@@ -39,3 +39,4 @@ Word count: 700-1000 words (aim for 750).  Not including captions
 - https://www2.habitas.org.uk/escr/summary.php?item=533
 - https://academic.oup.com/gji/article/182/1/183/560521
 - https://stratigraphy.org/chart/
+- https://www.britannica.com/science/Eocene-Epoch
