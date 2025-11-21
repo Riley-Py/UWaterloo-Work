@@ -15,6 +15,9 @@ Word count: 700-1000 words (aim for 750)
 - Utilizing radiometric dating 
 	- Found that for the lower basalt formation, it was about 62.6 Ma
 	- Found that for the upper basalt formation, it was about 59.6 Ma
+- Giant's Causeway is part of North Atlantic Igneous Province
+	- Major volcanism happened during early opening of North Atlantic Ocean, where tectonic plates were pulled
+	- Estimations of this event were about 58-62 Ma
 - 
 
 
