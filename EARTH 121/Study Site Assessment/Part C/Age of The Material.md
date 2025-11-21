@@ -24,7 +24,10 @@ Word count: 700-1000 words (aim for 750).  Not including captions
 - Diagram of customized geologic time scale:
 	- ![[Pasted image 20251121104630.png]]
 - For my rock specifically, the only formation was from the magma to the igneous rock (basalt) through the process of cooling and recrystallization, and the unique columns were created through a process of columnar jointing
-- Basalt rock formed during the time 
+- Basalt rock formed during  Paleogene system, within the Paleocene Series, as the numeric age is 56 Ma - ~62 Ma, consistent with the research done 
+
+### Part 4
+- Learnt about how major volcani
 
 
 ## Sources
