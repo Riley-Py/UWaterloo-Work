@@ -29,7 +29,9 @@ Word count: 700-1000 words (aim for 750).  Not including captions
 ### Part 4
 - Learnt about Giant's Causeway was part of a major volcanism event
 - Learnt about how a certain radiometric dating technique involving Argon was utilized to identify the age of the basalt in the area
-- Learnt that the basalt columns are more recent than
+- Learnt that the basalt columns are more recent than the sediment that is below it through the Law of Superposition
+- Learnt that the formation of the hexagonal columns of Giant's Causeway were through columnar jointing
+- Learnt that not all of the rock cycle is used when forming rocks, and only a fraction is used
 
 
 ## Sources
