@@ -9,7 +9,7 @@ Word count: 700-1000 words (aim for 750)
 
 ### Part 1
 - Formed 60 million years ago
-- Part of the tertiary group  
+- Part of the tertiary period, between the Neogene and P
 
 
 ## Sources
