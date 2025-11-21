@@ -3,7 +3,7 @@
 3. Customize the Geologic Time Scale to indicate the time periods during which your rock formed.  If your rock had different stages of formation, discuss these stages within the context of your time scale. When might these events have occurred?  What evidence do you have to make these conclusions?
 4. Discuss any final conclusions you have upon completing your research
 
-Word count: 700-1000 words (aim for 750)
+Word count: 700-1000 words (aim for 750).  Not including captions
 
 ## Research
 
@@ -22,7 +22,8 @@ Word count: 700-1000 words (aim for 750)
 
 ### Part 3
 - Diagram of customized geologic time scale:
-	- 
+	- ![[Pasted image 20251121104630.png]]
+- For my rock specifically, the only formation was from the magma to te
 
 
 ## Sources
