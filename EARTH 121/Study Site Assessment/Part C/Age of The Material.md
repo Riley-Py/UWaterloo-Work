@@ -12,6 +12,9 @@ Word count: 700-1000 words (aim for 750)
 - Relative age: Part of the tertiary (paleogene) period, between the Eocene and paleocene epoch (~56-66 million years ago)
 
 ### Part 2
+- Utilizing radiometric dating 
+	- Found that for the lower basalt formation, it was about 62.6 Ma
+	- Found that for the upper basalt formation, it was about 59.6 Ma
 - 
 
 
