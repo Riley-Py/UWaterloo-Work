@@ -25,3 +25,5 @@ Word count: 700-1000 words (aim for 750)
 ## Sources
 - https://www.nationaltrust.org.uk/visit/northern-ireland/giants-causeway/history-of-giants-causeway
 - https://www2.habitas.org.uk/escr/summary.php?item=533
+- https://academic.oup.com/gji/article/182/1/183/560521
+- 
