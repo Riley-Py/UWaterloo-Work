@@ -45,3 +45,5 @@ Word count: 700-1000 words (aim for 750).  Not including captions
 - https://www.hullgeolsoc.co.uk/hg1506.htm
 - https://www.researchgate.net/figure/Location-maps-of-the-North-Atlantic-Igneous-Province-NAIP-and-sediment-cores-sites_fig2_354247454 
 
+#earth121 
+#study_site_assessment 
