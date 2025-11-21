@@ -21,7 +21,8 @@ Word count: 700-1000 words (aim for 750)
 - The basalt columns sit on older sediment, so by the Law of Superposition, the basalt columns must be younger than the sediment
 
 ### Part 3
-- 
+- Diagram of customized geologic time scale:
+	- 
 
 
 ## Sources
