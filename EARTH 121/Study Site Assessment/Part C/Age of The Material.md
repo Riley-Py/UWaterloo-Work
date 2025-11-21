@@ -23,11 +23,13 @@ Word count: 700-1000 words (aim for 750).  Not including captions
 ### Part 3
 - Diagram of customized geologic time scale:
 	- ![[Pasted image 20251121104630.png]]
-- For my rock specifically, the only formation was from the magma to te
+- For my rock specifically, the only formation was from the magma to the igneous rock (basalt) through the process of cooling and recrystallization, and the unique columns were created through a process of columnar jointing
+- Basalt rock formed during the time 
 
 
 ## Sources
 - https://www.nationaltrust.org.uk/visit/northern-ireland/giants-causeway/history-of-giants-causeway
 - https://www2.habitas.org.uk/escr/summary.php?item=533
 - https://academic.oup.com/gji/article/182/1/183/560521
+- https://stratigraphy.org/chart/
 - 
