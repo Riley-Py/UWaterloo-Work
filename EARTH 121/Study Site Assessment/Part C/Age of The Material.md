@@ -27,7 +27,9 @@ Word count: 700-1000 words (aim for 750).  Not including captions
 - Basalt rock formed during  Paleogene system, within the Paleocene Series, as the numeric age is 56 Ma - ~62 Ma, consistent with the research done 
 
 ### Part 4
-- Learnt about how major volcani
+- Learnt about Giant's Causeway was part of a major volcanism event
+- Learnt about how a certain radiometric dating technique involving Argon was utilized to identify the age of the basalt in the area
+- Learnt that the basalt columns are more recent than
 
 
 ## Sources
