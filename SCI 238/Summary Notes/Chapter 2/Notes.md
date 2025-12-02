@@ -15,4 +15,6 @@
 - *Longitude* - measures east-west position
 - *Prime meridian* - longitude is 0 $\degree$ in Greenwich, England
 - Tilt of Earth's axis causes sunlight to fall differently on Earth at different times of year
-	- At different times of year, the sun will hit the hemispheres at differnet
+	- At different times of year, the sun will hit the hemispheres at different angles, which gives those hemispheres more sunlight exposure and therefore, more concentrated sunlight
+- *June (summer) solstice* - June 21st; North hemisphere tipped most directly at the sun
+- *December (winter) solstice* - December 21st; 
