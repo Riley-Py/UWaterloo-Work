@@ -20,3 +20,6 @@
 - *December (winter) solstice* - December 21st; North hemisphere receives the least amount of sunlight
 - *March (spring) solstice* - March 21st; North hemisphere is tipped slightly towards the sun as opposed as away from the sun
 - *September (fall) solstice* - September 22; North hemisphere is tipped slightly away from sun as opposed as towards the sun
+- *Precession* - gradual wobble that alters orientation of Earth's axis in space
+	- Takes about 26 000 years for Earth
+- 
