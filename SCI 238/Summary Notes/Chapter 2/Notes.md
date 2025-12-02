@@ -14,4 +14,5 @@
 - *Latitude* - measures north-south position on Earth
 - *Longitude* - measures east-west position
 - *Prime meridian* - longitude is 0 $\degree$ in Greenwich, England
-- Tilt of Earth's axis causes 
+- Tilt of Earth's axis causes sunlight to fall differently on Earth at different times of year
+	- At different times of year, the sun will hit the hemispheres at differnet
