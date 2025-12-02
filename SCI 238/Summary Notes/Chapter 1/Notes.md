@@ -1,4 +1,4 @@
-- *Observable universe* - portion of entire universe that we can potentially observe
+- *Observable universe* - portion of entire universe that we can potentially observe (the horizon)
 - *Voyage scale* - measure of sizes
 	- *Sun*: Large grapefruit
 	- *Jupiter*: Marble
