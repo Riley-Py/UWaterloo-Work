@@ -1,0 +1,2 @@
+- *Constellation* - region of sky with defined borders
+- 
