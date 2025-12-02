@@ -33,7 +33,7 @@
 	- Can be seen by anyone
 - *Solar eclipse* - Moon comes directly between Sun and Earth; Moon's shadow falls on Earth
 	- Must be located in the path to see it
-- *Eclipse seasons* - 
+- *Eclipse seasons* - must lie on the nodes of Moon's orbit
 - Eclipses can only occur
 	- Phase of the Moon is full (lunar) or new (solar)
 	- New/full moon occurs when Moon is close to a node
