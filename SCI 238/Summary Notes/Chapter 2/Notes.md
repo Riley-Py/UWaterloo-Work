@@ -11,4 +11,6 @@
 - *Circumpolar* - stars remain perpetually above the horizon, circling counter-clockwise
 	- Stars near south celestial pole never rise above horizon
 	- Other stars have daily circles above and below horizon
-- *Latitude* - measures north-south position
+- *Latitude* - measures north-south position on Earth
+- *Longitude* - measures east-west position
+- *Prime meridian* - longitude is 0 $\degree$ in Greenwich, England
