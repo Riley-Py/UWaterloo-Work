@@ -7,4 +7,9 @@
 - Modern science seeks explanations for observed phenomena that rely solely on natural causes
 - Science progresses through creation and testing of models of nature that explain observations as simply as possible (*Occam's Razor*)
 - A scientific model must make testable predictions about natural phenomena that would force us to revise or abandon the model if the predictions do not agree with observations
-- 
+- *Copernicus*
+	- Proposed Sun-centered model in 1543
+	- Used model to determine layout of solar system (planetary distances in [[Age of and Motion Within the Universe|AU]])
+	- Model was no more accurate than the [[The Historical Importance of Astronomy|Ptolemaic model]] in due to using perfect circles
+- *Tycho*
+	- 
