@@ -2,4 +2,7 @@
 - *Galaxy* - great island of stars in space
 - *Local Group* - Milky Way is in this group and are gravitationally bounded together
 - *Galaxy clusters* - gravitationally bound structures containing hundreds - thousands of galaxies, hot gas, and dark matter
-- *Super clusters* - 
+- *Super clusters* - clusters of galaxy clusters
+- *Universe* - Sum of total matter and energy
+- *Astronomical Unit (AU)* - Earth's distance from Sun (150 million km or 93 million miles)
+- *Light-year (ly)* - distance light can travel in 1 year, which is 10 trillion (10)
