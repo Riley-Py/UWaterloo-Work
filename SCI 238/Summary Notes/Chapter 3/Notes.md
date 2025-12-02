@@ -5,4 +5,6 @@
 	- Make prediction
 	- Perform a test; experiment or additional observation
 - Modern science seeks explanations for observed phenomena that rely solely on natural causes
-- Science progresses through creation and testing of models of nature that explain observations as simply as possible (*Oc*)
+- Science progresses through creation and testing of models of nature that explain observations as simply as possible (*Occam's Razor*)
+- A scientific model must make testable predictions about natural phenomena that would force us to revise or abandon the model if the predictions do not agree with observations
+- 
