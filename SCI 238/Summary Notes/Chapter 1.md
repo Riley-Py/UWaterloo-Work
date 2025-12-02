@@ -1,0 +1,3 @@
+- *Solar system* - consists of sun, planets, and moons
+- *Galaxy* - great island of stars in space
+- *Local Group* - 
