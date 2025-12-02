@@ -21,4 +21,4 @@
 - Facts by Edwin Hubble:
 	1. Every galaxy outside the Local Group is moving *away* from us
 	2. More distant the galaxy, the faster it appears to be racing away
-- *Raisin Cake Analogy* - explains how when a raisin in a cake 
+- *Raisin Cake Analogy* - From the POV of a raisin, the other raisins in a cake are moving away from it in a cooking cake, with more distant raisins moving away faster.  The raisin is the group of galaxies and 
