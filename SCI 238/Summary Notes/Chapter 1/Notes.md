@@ -18,4 +18,7 @@
 - Tilted $23.5 \degree$ from line perpendicular to ecliptic plane
 	- Points towards *Polaris* (*North Star*)
 - *Local solar neighborhood* - region of Sun/nearby stars
+- Facts by Edwin Hubble:
+	1. Every galaxy outside the Local Group is moving *away* from us
+	2. More distant the galaxy, the faster it appears to be racing away
 - 
