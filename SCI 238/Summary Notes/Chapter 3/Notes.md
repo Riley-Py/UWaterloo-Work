@@ -4,4 +4,5 @@
 	- Suggest hypothesis
 	- Make prediction
 	- Perform a test; experiment or additional observation
-- 
+- Modern science seeks explanations for observed phenomena that rely solely on natural causes
+- Science progresses through creation and testing of models of nature that explain observations as simply as possible (*Oc*)
