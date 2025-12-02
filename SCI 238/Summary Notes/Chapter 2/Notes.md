@@ -40,3 +40,5 @@
 - *Saros cycle* - every 18 years, 11 1/3 days, eclipses will reoccur
 	- Used to predict when an eclipse will occur
 - *Apparent retrograde motion*- planets going westward for a few weeks, instead of eastward
+- *Stellar parallax* - shift in a nearby star's position against distant background stars, caused by the Earth's orbit around the Sun
+- 
