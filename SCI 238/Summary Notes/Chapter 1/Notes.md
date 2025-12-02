@@ -6,4 +6,6 @@
 - Total number of stars in observable universe: $10^{22}$ 
 - Universe is constantly expanding overtime, but not galaxies/galaxy clusters
 - *Big Bang* - Expansion from an extremely hot state 14 billion years ago
-- 
+- *Nuclear Fusion* - lightweight atomic nuclei go together and fuse to make heavier nuclei
+- Stars live by shining with energy from fusion, and die when there is no energy left
+- *Supernovae* - 
