@@ -6,4 +6,8 @@
 - *Universe* - Sum of total matter and energy
 - *Astronomical Unit (AU)* - Earth's distance from Sun (150 million km or 93 million miles)
 - *Light-year (ly)* - distance light can travel in 1 year, which is 10 trillion ($10^{12}$ ) km or $6^{12}$ miles
--
+- *Moon (satellite)* - object that orbits planet
+- *Asteroid* - small and rocky object that orbits star
+- *Comet* - small and ice object that orbits star
+- *Exoplanet* - Planet orbiting star other than our Sun
+- 
