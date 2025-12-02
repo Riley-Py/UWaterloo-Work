@@ -22,3 +22,5 @@
 	1. Every galaxy outside the Local Group is moving *away* from us
 	2. More distant the galaxy, the faster it appears to be racing away
 - *Raisin Cake Analogy* - From the POV of a raisin, the other raisins in a cake are moving away from it in a cooking cake, with more distant raisins moving away faster.  The raisin is the group of our galaxies and the distant raisins represent more distant galaxies
+- Orbital speed = orbital circumference / 1 year
+- Rotation speed at equator = equatorial circumference / length of day
