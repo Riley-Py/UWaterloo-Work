@@ -1,2 +1,5 @@
 - *Observable universe* - portion of entire universe that we can potentially observe
-- Voyage s
+- *Voyage scale* - measure of sizes
+	- *Sun*: Large grapefruit
+	- *Jupiter*: Marble
+	- *Earth*: Ball point in pen
