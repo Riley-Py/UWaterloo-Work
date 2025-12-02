@@ -10,4 +10,4 @@
 - *Asteroid* - small and rocky object that orbits star
 - *Comet* - small and ice object that orbits star
 - *Exoplanet* - Planet orbiting star other than our Sun
-- 
+- *Star* - 
