@@ -39,3 +39,4 @@
 	- New/full moon occurs when Moon is close to a node
 - *Saros cycle* - every 18 years, 11 1/3 days, eclipses will reoccur
 	- Used to predict when an eclipse will occur
+- *Apparent retrograde motion*- planets going westward for a few weeks, instead of eastward
