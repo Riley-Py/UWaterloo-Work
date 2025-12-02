@@ -17,4 +17,5 @@
 - *Ecliptic plane* - Earth's orbital path around the sun
 - Tilted $23.5 \degree$ from line perpendicular to ecliptic plane
 	- Points towards *Polaris* (*North Star*)
+- *Local solar neighborhood* - region of Sun/nearby stars
 - 
