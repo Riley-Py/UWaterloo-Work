@@ -1,2 +1,3 @@
 - *Constellation* - region of sky with defined borders
+- *Celestial sphere* - Greeks mistakenly thought that this region was where stars and constellations lie
 - 
