@@ -1,3 +1,5 @@
 - *Solar system* - consists of sun, planets, and moons
 - *Galaxy* - great island of stars in space
-- *Local Group* - 
+- *Local Group* - Milky Way is in this group and are gravitationally bounded together
+- *Galaxy clusters* - gravitationally bound structures containing hundreds - thousands of galaxies, hot gas, and dark matter
+- *Super clusters* - 
