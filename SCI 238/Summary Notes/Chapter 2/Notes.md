@@ -41,4 +41,6 @@
 	- Used to predict when an eclipse will occur
 - *Apparent retrograde motion*- planets going westward for a few weeks, instead of eastward
 - *Stellar parallax* - shift in a nearby star's position against distant background stars, caused by the Earth's orbit around the Sun
-- 
+- Greeks concluded that one of the following must be true
+	1. Earth orbits Sun, but stars are so far away that stellar parallax is undetectable to naked eye
+	2. There is no stellar parallax because Earth remains stationary at the center of the universe
