@@ -8,6 +8,26 @@
         "type": "tabs",
         "children": [
           {
+            "id": "fa9e9633e139b094",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SCI 238/Summary Notes/Chapter 3/Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Notes"
+            }
+          }
+        ]
+      },
+      {
+        "id": "dd82d27c19510cba",
+        "type": "tabs",
+        "children": [
+          {
             "id": "c7971a8661e693e2",
             "type": "leaf",
             "state": {
@@ -78,7 +98,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 323.5,
+    "collapsed": true
   },
   "right": {
     "id": "9820a1bf550892df",
@@ -94,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 3 - Rates of Reaction/Requirements for Reaction to Occur.md",
+                "file": "SCI 238/Summary Notes/Chapter 3/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +125,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Requirements for Reaction to Occur"
+              "title": "Backlinks for Notes"
             }
           },
           {
@@ -175,8 +196,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "c7971a8661e693e2",
+  "active": "fa9e9633e139b094",
   "lastOpenFiles": [
+    "SCI 238/Chapter 3 - The Science of Astronomy/The Nature of Science.md",
+    "SCI 238/Summary Notes/Chapter 3/Notes.md",
     "SCI 238/Chapter 3 - The Science of Astronomy/Challenging an Earth-Centred Model.md",
     "SCI 238/Chapter 3 - The Science of Astronomy/The Historical Importance of Astronomy.md",
     "SCI 238/Summary Notes/Chapter 2/Notes.md",
@@ -220,8 +243,6 @@
     "EARTH 121 (Complete)/Study Site Assessment/Part B/Composition, Structure, and Processes.md",
     "EARTH 121 (Complete)/Study Site Assessment/Part B/EARTH 121 - Study Site Assessment Part B.pdf",
     "EARTH 121 (Complete)/Week 6/Constructing the Geologic Time Scale.md",
-    "EARTH 121 (Complete)/Week 11/The Why of Water.md",
-    "EARTH 121 (Complete)/Week 5/Geologic Time.md",
     "EARTH 121 (Complete)/Study Site Assessment/Part C",
     "Untitled.canvas"
   ]
