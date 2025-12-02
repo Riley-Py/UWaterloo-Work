@@ -4,4 +4,5 @@
 	- *Jupiter*: Marble
 	- *Earth*: Ball point in pen
 - Total number of stars in observable universe: $10^{22}$ 
+- Universe is constantly expanding overtime, but not galaxies/galaxy clustesr
 - *Big Bang* - 
