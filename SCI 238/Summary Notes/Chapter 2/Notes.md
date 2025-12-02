@@ -22,6 +22,7 @@
 - *September (fall) solstice* - September 22; North hemisphere is tipped slightly away from sun as opposed as towards the sun
 - *Precession* - gradual wobble that alters orientation of Earth's axis in space
 	- Takes about 26 000 years for Earth
+	- Allows one to see different stars
 - Moon returns to same position every 29.5 days
 - *Lunar phases* - moon's appearance changes overtime in the sky
 - *Waxing* - increasing
@@ -32,4 +33,5 @@
 	- Can be seen by anyone
 - *Solar eclipse* - Moon comes directly between Sun and Earth; Moon's shadow falls on Earth
 	- Must be located in the path to see it
-- 
+- Eclipses can only occur
+	- Phase of
