@@ -8,4 +8,5 @@
 - *Big Bang* - Expansion from an extremely hot state 14 billion years ago
 - *Nuclear Fusion* - lightweight atomic nuclei go together and fuse to make heavier nuclei
 - Stars live by shining with energy from fusion, and die when there is no energy left
-- *Supernovae* - 
+- *Supernovae* - explosion marking the death of star
+- Early universe contained only hydrogen and helium
