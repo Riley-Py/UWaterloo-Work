@@ -37,4 +37,5 @@
 - Eclipses can only occur
 	- Phase of the Moon is full (lunar) or new (solar)
 	- New/full moon occurs when Moon is close to a node
-- *Saros cycle* - 
+- *Saros cycle* - every 18 years, 11 1/3 days, eclipses will reoccur
+	- Used to predict when an eclipse will occur
