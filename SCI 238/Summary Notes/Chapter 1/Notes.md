@@ -4,9 +4,10 @@
 	- *Jupiter*: Marble
 	- *Earth*: Ball point in pen
 - Total number of stars in observable universe: $10^{22}$ 
-- Universe is constantly expanding overtime, but not galaxies/galaxy clusters
+- Universe is constantly, but slowly, expanding overtime, but not galaxies/galaxy clusters
 - *Big Bang* - Expansion from an extremely hot state 14 billion years ago
 - *Nuclear Fusion* - lightweight atomic nuclei go together and fuse to make heavier nuclei
 - Stars live by shining with energy from fusion, and die when there is no energy left
 - *Supernovae* - explosion marking the death of star
-- Early universe contained only hydrogen and helium
+- Early universe contained only hydrogen and helium; other elements were made by the stars
+- 
