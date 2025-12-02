@@ -14,3 +14,4 @@
 - *Latitude* - measures north-south position on Earth
 - *Longitude* - measures east-west position
 - *Prime meridian* - longitude is 0 $\degree$ in Greenwich, England
+- Tilt of Earth's axis causes 
