@@ -26,4 +26,7 @@
 - *Lunar phases* - moon's appearance changes overtime in the sky
 - *Waxing* - increasing
 - *Waning* - decreasing
-- *Cresecent* - before and after 
+- *Cresecent* - before and after new moon
+- *Gibbons* - before and after full moon
+- *Lunar eclipse* - Earth comes directly between Sun and Moon; Earth's shadow falls on moon
+- *Solar eclipse* - Moon comes directly between 
