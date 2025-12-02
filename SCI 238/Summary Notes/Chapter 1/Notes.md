@@ -12,4 +12,5 @@
 - Early universe contained only hydrogen and helium; other elements were made by the stars
 	- 4.5 billion years ago, 2% of hydrogen/helium had been converted to heavier elements
 	- Makes us "star stuff"
-- 
+- *Rotation* - spin of Earth
+- *Orbit (revolution)* - 
