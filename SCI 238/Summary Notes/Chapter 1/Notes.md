@@ -10,4 +10,6 @@
 - Stars live by shining with energy from fusion, and die when there is no energy left
 - *Supernovae* - explosion marking the death of star
 - Early universe contained only hydrogen and helium; other elements were made by the stars
+	- 4.5 billion years ago, 2% of hydrogen/helium had been converted to heavier elements
+	- Makes us "star stuff"
 - 
