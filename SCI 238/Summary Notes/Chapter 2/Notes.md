@@ -1,3 +1,5 @@
 - *Constellation* - region of sky with defined borders
 - *Celestial sphere* - Greeks mistakenly thought that this region was where stars and constellations lie
-- 
+- *Local sky* - sky from where you are standing
+- *Zenith* - point directly overhead
+- *Horizon* - boundary between Earth
