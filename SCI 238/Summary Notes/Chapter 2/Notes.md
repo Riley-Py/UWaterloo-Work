@@ -7,3 +7,5 @@
 - *Angular size* - angle it appears in the span of your field of view
 	- Doesn't tell about true size of object, as it depends on distance
 - *Angular distance* - angle that appears to separate them
+- Angular size (separation) = physical size (separation) x (360 degrees / 2$\pi$ x distance) (*small-angle formula*)
+- *Circumpolar*
