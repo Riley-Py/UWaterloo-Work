@@ -17,4 +17,6 @@
 - Tilt of Earth's axis causes sunlight to fall differently on Earth at different times of year
 	- At different times of year, the sun will hit the hemispheres at different angles, which gives those hemispheres more sunlight exposure and therefore, more concentrated sunlight
 - *June (summer) solstice* - June 21st; North hemisphere tipped most directly at the sun
-- *December (winter) solstice* - December 21st; 
+- *December (winter) solstice* - December 21st; North hemisphere receives the least amount of sunlight
+- *March (spring) solstice* - March 21st; North hemisphere is tipped slightly towards the sun as opposed as away from the sun
+- *September (fall) solstice* - September 22; North hemisphere is tipped slightly away from sun as opposed as towards the sun
