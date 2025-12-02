@@ -37,3 +37,4 @@
 - Eclipses can only occur
 	- Phase of the Moon is full (lunar) or new (solar)
 	- New/full moon occurs when Moon is close to a node
+- *Saros cycle* - 
