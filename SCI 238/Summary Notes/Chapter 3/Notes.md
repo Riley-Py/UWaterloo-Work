@@ -2,4 +2,6 @@
 	- Make observations
 	- Ask question
 	- Suggest hypothesis
-	- M
+	- Make prediction
+	- Perform a test; experiment or additional observation
+- 
