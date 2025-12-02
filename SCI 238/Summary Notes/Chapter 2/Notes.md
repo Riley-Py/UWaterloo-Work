@@ -8,4 +8,7 @@
 	- Doesn't tell about true size of object, as it depends on distance
 - *Angular distance* - angle that appears to separate them
 - Angular size (separation) = physical size (separation) x (360 degrees / 2$\pi$ x distance) (*small-angle formula*)
-- *Circumpolar*
+- *Circumpolar* - stars remain perpetually above the horizon, circling counter-clockwise
+	- Stars near south celestial pole never rise above horizon
+	- Other stars have daily circles above and below horizon
+- *Latitude* - measures north-south position
