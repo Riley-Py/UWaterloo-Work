@@ -116,6 +116,73 @@
 - **Comparison to Earth:**
     
     - The number of stars (~10²²) is roughly comparable to the estimated number of **grains of sand on all of Earth’s beaches**.
+- #### **1. Looking farther = looking back in time**
+
+- Because light has a **finite speed**, observing distant objects shows us the universe **as it was long ago**.
+    
+- This allows astronomers to reconstruct the **history of the universe**.
+### **2. The Cosmic Calendar (compressing 14 billion years into one year)**
+
+The entire history of the universe is compressed into **1 calendar year** to visualize time scales.
+
+- **Jan 1:** Big Bang
+    
+- **February:** Milky Way forms
+    
+- **Sept 3:** Earth forms
+    
+- **Sept 22:** Earliest life on Earth (microbial)
+    
+- **December:** Most familiar events occur
+    
+    - Dec 17: Early rise of dinosaurs
+        
+    - Dec 26: Dinosaurs dominate Earth
+        
+    - Dec 30: Dinosaurs go extinct (K–T event)
+        
+    - Dec 31, 9:00 PM: First hominoids
+        
+    - 11:58 PM: Modern humans evolve
+        
+    - Last 25 seconds: Agriculture
+        
+    - Last 11 seconds: Pyramids built
+        
+    - Last 1 second: Kepler and Galileo show Earth orbits the Sun
+        
+- **Midnight = present day**
+    
+
+**Key idea:** Human history occupies only the **last few seconds** on this cosmic scale.
+
+### **3. “How did we come to be?” — Origin of the elements**
+
+- The **Big Bang** created hydrogen and helium.
+    
+- **All heavier elements** (carbon, oxygen, iron, etc.) were forged inside **stellar cores** and spread into space when stars died.
+    
+- This process, called **stellar and galactic recycling**, repeatedly forms new stars and planets from old star material.
+    
+- Result:
+    
+    - **Most atoms in our bodies** were created inside stars.
+        
+    - “We are made of star stuff.”
+        
+### **4. Age of Earth and composition**
+
+- The solar system formed **4.5 billion years ago**.
+    
+- By then, about **2%** of the original hydrogen/helium had been converted into heavier elements—the material that makes up Earth and life.
+
+### **5. Human timescales vs cosmic timescales**
+
+- Universe age: **14 billion years (10¹⁰ years)**
+    
+- Human lifetime (~100 years) is only **10⁻⁸** of the universe’s age.
+    
+- Human civilization itself is only **“a few cosmic seconds”** old.
 
 
   
