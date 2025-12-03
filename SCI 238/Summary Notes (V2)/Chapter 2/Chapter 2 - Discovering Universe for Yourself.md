@@ -313,6 +313,7 @@ Angular size (°) = Physical size x (360 / 2$\pi$ x Distance)
     - For a **lunar eclipse**, Earth’s shadow usually misses the Moon.
     - For a **solar eclipse**, the Moon’s shadow usually misses Earth.
 - Eclipses only occur when the Moon is **near the points where its orbit crosses the ecliptic plane** (called **nodes**).
+---
 **Eclipse seasons:**
 - There are **about two eclipse seasons per year**.
 - During an eclipse season:
@@ -336,24 +337,27 @@ Angular size (°) = Physical size x (360 / 2$\pi$ x Distance)
     - Earth’s **rotation**
     - Moon’s **motion in its orbit**
 - The **path of totality** is usually a narrow strip, and its direction can vary.
-**1. Planets vs. Other Celestial Objects**
+---
+**Planets vs. Other Celestial Objects**
 - **Stars:** Appear fixed; their apparent motion is due to **Earth’s rotation**.
 - **Sun:** Moves along the **ecliptic**, representing **Earth’s orbit** around the Sun.
 - **Moon:** Orbits Earth approximately once a month.
 - **Planets:** Move more complicatedly; not fixed to the celestial sphere.
-**2. Naked-Eye Planets (Ancient Times)**
+**Naked-Eye Planets (Ancient Times)**
 - **Mercury:** Close to Sun; visible shortly after sunset or before sunrise.
 - **Venus:** Brightest after Sun and Moon; morning or evening star.
 - **Mars:** Reddish, noticeable color.
 - **Jupiter:** Bright, visible at various times of night.
 - **Saturn:** Yellowish, moderately bright.
 **Relative brightness:** Venus > Jupiter > Saturn > Mars/Mercury (varies with distance).
-**3. Planetary Motion**
+---
+**Planetary Motion**
 - Planets generally **move eastward relative to the stars** night to night.
 - Sometimes, they **reverse direction temporarily**, known as **retrograde motion**.
 - This occurs when **Earth “laps” a planet** (or is lapped) due to differing orbital speeds.
 - Retrograde motion is **apparent**, not actual backward motion of the planet.
-**4. Historical Challenges**
+---
+**Historical Challenges**
 - **Geocentric model** (Earth-centered) struggled to explain retrograde motion.
 - **Heliocentric model** (Sun-centered) explains retrograde naturally, but was initially rejected.
 - Main objection: **No observable stellar parallax**
