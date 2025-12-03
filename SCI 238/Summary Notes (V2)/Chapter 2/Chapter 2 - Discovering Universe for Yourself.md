@@ -66,7 +66,9 @@
 ### **3. Using Your Hand to Estimate Angles**
 - **Pointing finger:** ~1° across
 - **Fist:** ~10° across
-    
 - **Full hand (outstretched):** ~20° across
-    
 - Practical use: Cover the moon with your finger twice to estimate its angular size (~0.5°).
+### **2. Definitions**
+- **1 degree (°)** = 60 **arcminutes (′)**
+- **1 arcminute (′)** = 60 **arcseconds (″)**
+- Therefore, **1° = 3600″**
