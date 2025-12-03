@@ -162,47 +162,21 @@ Even though it feels like we’re stationary, Earth is constantly moving in seve
     - A bright **disk** and central **bulge**
         
     - A large unseen **halo** of mass—evidence for **dark matter**
-        
 - Over the age of the solar system, we’ve orbited the galaxy **about 40 times**.
-
-### **5. What’s at the center of the Milky Way?**
-
-- A **supermassive black hole** sits at the center.
-    
+- A **supermassive black hole** sits at the center of the Milky Way.
 - The motions of stars near the center provide evidence for its mass.
-
-### **6. How galaxies move in the universe**
-
-Galaxies move in two distinct ways:
-
-#### **a. Local group motions (small-scale)**
-
+#### **Local group motions (small-scale)**
 - Within our Local Group, galaxies have **random motions**, similar to stars in a neighborhood.
-    
 - Example: The **Milky Way and Andromeda** are moving **toward** each other and will collide in a few billion years.
-#### **b. Cosmic expansion (large-scale)**
-
+#### **Cosmic expansion (large-scale)**
 - Beyond the Local Group, **all galaxies are moving away from us**.
-    
 - The farther a galaxy is, the **faster** it recedes.
-    
 - Discovered by **Edwin Hubble** through:
-    
     - Measuring galaxy spectra
-        
     - Estimating their distances
-        
 - This leads to the conclusion: **the universe is expanding**.
 ### **7. Why these large motions are hard to notice**
-
 - Speed is always measured **relative** to something else.
-    
-- Distant objects used for comparison (stars, galaxies) are:
-    
-    - Very far away
-        
-    - Hard to measure precisely  
-        This is why huge motions—hundreds of thousands of km/h—weren’t detected until modern astronomy.   
 ### **8. Key Distances and Times**
 - **Earth–Sun distance:** 150 million km = 1 AU
 - **Sun’s orbit around Milky Way:** 230 million years
