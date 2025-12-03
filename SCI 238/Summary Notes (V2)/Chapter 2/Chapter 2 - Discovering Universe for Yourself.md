@@ -120,3 +120,41 @@ Angular size (°) = Physical size x (360 / 2$\pi$ x Distance)
     - Longitude goes from 0° (Prime Meridian) to 180° E or W.
 - Latitude affects **which stars you see**, longitude affects **local time of when they rise and set**.
 
+## **. Latitude Determines Which Stars You See**
+- **Northern Hemisphere example (Waterloo, ~43–45° N)**:
+    - Polaris (North Star) sits roughly at your **altitude = your latitude**.
+    - Stars close to Polaris are **circumpolar**
+    - Stars far from Polaris rise and set.
+- **Southern Hemisphere example (e.g., 34° S)**:
+    - South celestial pole sits **34° above the southern horizon**.
+    - Stars close to the south celestial pole are circumpolar.
+    - Stars near the north celestial pole never rise.
+## **2. Circumpolar Stars**
+- Stars that **never set**
+- Their position depends on your **latitude**:
+    - **Higher latitude (closer to a pole)** → more circumpolar stars.
+    - **Near equator** → very few or no circumpolar stars; most stars rise and set.
+## **3. Altitude of Celestial Poles**
+- **Northern Hemisphere**: Altitude of Polaris ≈ your **latitude**.
+- **Southern Hemisphere**: Altitude of South Celestial Pole ≈ your **southern latitude**.
+- Example:
+    - At North Pole (90° N) → Polaris is directly overhead (zenith).
+    - At equator (0°) → Polaris is on the horizon.
+    - At South Pole (90° S) → South Celestial Pole is directly overhead.
+    
+---
+
+## **4. Using Constellations to Find the Poles**
+
+- **Northern Hemisphere**:
+    
+    - Big Dipper pointer stars → line extended → Polaris (North Celestial Pole).
+        
+    - Little Dipper rotates around Polaris.
+        
+- **Southern Hemisphere**:
+    
+    - Southern Cross → extend long axis ~4× length of cross → South Celestial Pole.
+        
+    - The Cross rotates around the South Celestial Pole every 24 hours.
+
