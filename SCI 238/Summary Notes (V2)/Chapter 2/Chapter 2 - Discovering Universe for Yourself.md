@@ -32,17 +32,19 @@
 - Because Earth is tilted by **23.5°**, the ecliptic is also tilted by 23.5° relative to the celestial equator.
 - The Sun appears to move along this circle over the course of a year, shifting slightly above and below the celestial equator.
 ---
-## **5. The Milky Way and Galactic Plane**
+**Milky Way/Galactic Equator**
 - The **Galactic Equator** is another great circle on the sky—this one marking the plane of the Milky Way.
 - Looking **into the galactic plane**, we see:
     - A very dense star field
     - Dark dust clouds that block starlight
 - Looking **away from the galactic plane**, the view is clearer and astronomers can see **distant galaxies** more easily.
-### **Zenith and Horizon**
+---
+**Zenith/Horizon**
 - **Zenith:** The point directly overhead. Altitude = **90°**.
 - **Horizon:** The line where sky meets the Earth. Altitude = **0°**.
     - Sun, moon, and stars **rise and set** at the horizon.  
-### **2. Altitude and Direction**
+---
+**Altitude/Direction**
 - **Altitude:** Angular distance above the horizon.
     - Zenith = 90°
     - Horizon = 0°
@@ -53,7 +55,8 @@
     - South = 180°
     - West = 270°
     - Intermediates (like southeast) are measured proportionally (e.g., 135°).
-### **3. The Meridian**
+---
+**Meri**
 - A **great circle** from **north → zenith → south**.
 - **Sun crossing the meridian** = local **noon**.
 - Meridian gives a reference for measuring celestial positions in the sky.
