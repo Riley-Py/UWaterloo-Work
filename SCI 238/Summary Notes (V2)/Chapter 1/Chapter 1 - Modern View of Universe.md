@@ -39,5 +39,35 @@
 - **Visibility of Andromeda (M31):**
     - It appears large in the night sky but is faint.
     - Best seen from dark locations due to its low surface brightness.
+- **Light-year definition:**
+    
+    - A light-year is the **distance light travels in one year**, about **9.46 trillion km** (~10 trillion km) or **6 trillion miles**.
+        
+- **Using light-years to observe the past:**
+    
+    - The farther away an object is, the younger the universe was when its light left.
+        
+    - Observing galaxies **12 billion light-years away** shows galaxies in very early stages of formation.
+        
+    - At around **14 billion light-years**, we reach the **edge of the observable universe**, seeing the universe shortly after the Big Bang.
+        
+- **Early universe appearance:**
+    
+    - The very early universe did **not yet contain galaxies**.
+        
+    - It looked like a **hot plasma “soup.”** Scientists even have images of this (cosmic microwave background).
+        
+- **How to calculate a light-year:**
+    
+    - Multiply the speed of light (300,000 km/s) by the number of seconds in a year.
+        
+    - The result is about **9.46 × 10¹² km**, confirming the enormous scale of cosmic distances.
+        
+- **Comparison to familiar distances:**
+    
+    - Moonlight takes **1 second** to reach Earth—tiny compared to a light-year.
+        
+    - The **closest star** beyond the Sun is about **1 light-year** away (more precisely, 4.24 light-years for Proxima Centauri, though the lecture simplifies it)
+
   
   
