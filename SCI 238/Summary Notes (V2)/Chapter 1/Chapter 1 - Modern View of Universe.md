@@ -169,13 +169,11 @@ The entire history of the universe is compressed into **1 calendar year** to vis
     - **Most atoms in our bodies** were created inside stars.
         
     - “We are made of star stuff.”
-        
 ### **4. Age of Earth and composition**
 
 - The solar system formed **4.5 billion years ago**.
     
 - By then, about **2%** of the original hydrogen/helium had been converted into heavier elements—the material that makes up Earth and life.
-
 ### **5. Human timescales vs cosmic timescales**
 
 - Universe age: **14 billion years (10¹⁰ years)**
@@ -183,6 +181,116 @@ The entire history of the universe is compressed into **1 calendar year** to vis
 - Human lifetime (~100 years) is only **10⁻⁸** of the universe’s age.
     
 - Human civilization itself is only **“a few cosmic seconds”** old.
+### **1. Earth Is Never Still**
+
+Even though it feels like we’re stationary, Earth is constantly moving in several ways:
+#### **a. Earth’s rotation (spin)**
+
+- Earth rotates once every 24 hours.
+    
+- **Speed at equator:** ~1670 km/h
+    
+- **Speed in Waterloo:** ~1100 km/h
+    
+- **Speed at the poles:** 0 km/h (you turn in place but do not move linearly)
+    
+- Evidence of Earth’s rotation:
+    
+    - **Foucault pendulum**
+        
+    - **Coriolis effect**, which influences storms (like hurricanes)
+
+### **2. Earth’s revolution around the Sun**
+
+- Earth orbits the Sun once per year.
+    
+- Average distance from the Sun: **1 AU = 150 million km**.
+    
+- Earth’s spin axis is tilted **23.5°** relative to its orbital plane.
+    
+    - **This tilt causes the seasons**, not distance from the Sun.
+        
+- Both the spin and orbit move in the **same direction (counterclockwise)** when viewed from above the North Pole.
+
+### **3. The Sun’s motion among nearby stars**
+
+- In our local stellar neighborhood, stars (including the Sun) move with **random motions**.
+    
+- Typical relative speed: **~70,000 km/h**.
+    
+- These motions are tiny on the sky and hard to detect visually.
+    
+    - Only recently measured precisely using missions like **Gaia**.
+
+### **4. The Sun’s orbit around the Milky Way**
+
+- The Sun (and the whole solar system) orbits the center of the Milky Way.
+    
+- Speed: **~800,000 km/h**.
+    
+- One full orbit takes **~230 million years** (a “galactic year”).
+    
+- The Milky Way contains:
+    
+    - A bright **disk** and central **bulge**
+        
+    - A large unseen **halo** of mass—evidence for **dark matter**
+        
+- Over the age of the solar system, we’ve orbited the galaxy **about 40 times**.
+
+### **5. What’s at the center of the Milky Way?**
+
+- A **supermassive black hole** sits at the center.
+    
+- The motions of stars near the center provide evidence for its mass.
+
+### **6. How galaxies move in the universe**
+
+Galaxies move in two distinct ways:
+
+#### **a. Local group motions (small-scale)**
+
+- Within our Local Group, galaxies have **random motions**, similar to stars in a neighborhood.
+    
+- Example: The **Milky Way and Andromeda** are moving **toward** each other and will collide in a few billion years.
+#### **b. Cosmic expansion (large-scale)**
+
+- Beyond the Local Group, **all galaxies are moving away from us**.
+    
+- The farther a galaxy is, the **faster** it recedes.
+    
+- Discovered by **Edwin Hubble** through:
+    
+    - Measuring galaxy spectra
+        
+    - Estimating their distances
+        
+- This leads to the conclusion: **the universe is expanding**.
+### **7. Why these large motions are hard to notice**
+
+- Speed is always measured **relative** to something else.
+    
+- Distant objects used for comparison (stars, galaxies) are:
+    
+    - Very far away
+        
+    - Hard to measure precisely  
+        This is why huge motions—hundreds of thousands of km/h—weren’t detected until modern astronomy.
+        
+### **8. Key Distances and Times**
+
+- **Earth–Sun distance:** 150 million km = 1 AU
+    
+- **Sun’s orbit around Milky Way:** 230 million years
+    
+- **Number of galactic orbits since formation:** ~40
+    
+- **Expansion of the universe:** galaxies farther away recede faster
+
+### **Big Picture**
+
+We are being carried through space by many layers of motion—from Earth’s spin to the expansion of the universe.  
+Despite enormous speeds, the motions are subtle because everything around us moves together, and distant reference points are difficult to measure.
 
 
   
