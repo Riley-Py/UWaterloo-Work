@@ -176,9 +176,9 @@ Angular size (°) = Physical size x (360 / 2$\pi$ x Distance)
     - Summer: Sun stays in the sky longer → more hours of sunlight.
     - Winter: Shorter days → fewer hours of sunlight.   
 ## **4. Solstices and Equinoxes**
-- **Summer solstice (June)**: Northern Hemisphere gets maximum sunlight.
-- **Winter solstice (December)**: Northern Hemisphere gets minimum sunlight; Southern Hemisphere gets maximum.
-- **Equinoxes (March & September)**: Both hemispheres get equal sunlight; day and night are roughly equal.
+- **Summer solstice (June 21st)**: Northern Hemisphere gets maximum sunlight.
+- **Winter solstice (December 21st)**: Northern Hemisphere gets minimum sunlight; Southern Hemisphere gets maximum.
+- **Equinoxes (March 21st & September 21st)**: Both hemispheres get equal sunlight; day and night are roughly equal.
 ## **5. Effect of Earth-Sun Distance**
 - Earth’s orbit is slightly elliptical:
     - **Closest:** ~147 million km (January 3) → Northern Hemisphere winter.
