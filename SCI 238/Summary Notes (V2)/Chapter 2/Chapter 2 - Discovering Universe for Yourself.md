@@ -72,3 +72,17 @@
 - **1 degree (°)** = 60 **arcminutes (′)**
 - **1 arcminute (′)** = 60 **arcseconds (″)**
 - Therefore, **1° = 3600″**
+
+### **1. Concept**
+- Angular size tells us **how large an object appears in the sky**.
+- It depends on both the **physical size** of the object and its **distance** from the observer.
+- Objects farther away appear **smaller**; objects closer appear **larger**.
+### **2. Formula (in degrees)**
+
+Angular size (°) = Physical size 
+
+- Imagine the object perpendicular to your line of sight.
+    
+- The denominator 2π×Distance2\pi \times \text{Distance}2π×Distance is the **perimeter of a circle** at that distance.
+    
+- Multiplying by 360∘360^\circ360∘ converts it into **degrees**.
