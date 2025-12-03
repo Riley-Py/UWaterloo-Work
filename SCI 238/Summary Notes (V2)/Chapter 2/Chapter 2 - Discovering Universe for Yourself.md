@@ -237,23 +237,55 @@ Angular size (°) = Physical size x (360 / 2$\pi$ x Distance)
 6. **Waning Gibbous** – Slightly less than full; rises later at night.
 7. **Third Quarter** – Half illuminated; visible in morning.
 8. **Waning Crescent** – Small portion visible before sunrise.
-
 **Timing of visibility:**
 - Waxing Moon: visible in afternoon/evening; rises later each day.
 - Waning Moon: visible at night/morning; rises closer to sunrise as it wanes.
-    
-- Obervation example: **Half Moon at 9 a.m. → Third Quarter**.
-    
-
+- Observation example: **Half Moon at 9 a.m. → Third Quarter**.
 **Rotation details:**
-
 - The Moon rotates on its axis at the same rate as it orbits Earth → **always shows the same face**.
-    
 - Far side of the Moon wasn’t seen until **Apollo missions**.
-    
-
 **Cause of synchronous rotation:**
-
 - Tidal forces from Earth gradually slowed the Moon’s rotation to match its orbit.
-    
 - This phenomenon can happen for other moons or planets close to their primary.
+
+**Key concepts:**
+
+- Lunar eclipses occur **only at full moon** when the Moon is opposite the Sun in the sky.
+    
+- Eclipses **don’t happen every full moon** because the **Moon’s orbit is tilted** (~5°) relative to Earth’s orbital plane, so alignment is not exact most of the time.
+    
+- The **Earth casts a shadow** in space, which has two parts:
+    
+    1. **Umbra:** Full shadow; no direct sunlight reaches this area.
+        
+    2. **Penumbra:** Partial shadow; some sunlight reaches this area.
+        
+
+**Types of lunar eclipses:**
+
+1. **Total lunar eclipse:**
+    
+    - Entire Moon passes through the Earth’s umbra.
+        
+    - Moon appears reddish due to **scattered sunlight in Earth’s atmosphere** (like a sunset on the Moon).
+        
+2. **Partial lunar eclipse:**
+    
+    - Only part of the Moon passes through the umbra; the rest may be in the penumbra.
+        
+    - Part of the Moon appears dark while the rest is partially illuminated.
+        
+3. **Penumbral lunar eclipse:**
+    
+    - Moon passes only through the penumbra.
+        
+    - Moon appears slightly dimmed; sunlight is partially blocked.
+        
+
+**Additional points:**
+
+- Lunar eclipses are **rare compared to full moons** because of the tilt of the Moon’s orbit.
+    
+- Sequence of a lunar eclipse: Full Moon → Penumbral → Partial → Total (if alignment is perfect).
+    
+- **Maximum eclipse** determines the type: total, partial, or penumbral.
