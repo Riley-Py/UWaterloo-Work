@@ -185,3 +185,26 @@ Angular size (°) = Physical size x (360 / 2$\pi$ x Distance)
     - **Farthest:** ~152 million km (July 4) → Northern Hemisphere summer.
 - This is only a **3% variation**, a minor effect compared to the axis tilt.
 
+## **2. Sun’s Path Across the Sky**
+- From **spring to summer solstice:**
+    - Sun rises **more northeast** and sets **more northwest**.
+    - Noon altitude increases → longer days → more direct sunlight → warmer.
+- From **summer solstice to fall equinox:**
+    - Sun’s rise/set points shift back toward **east/west**.
+- From **fall equinox to winter solstice:**
+    - Sun rises **southeast**, sets **southwest**.
+    - Noon altitude decreases → shorter days → less direct sunlight → cooler.
+## **3. Observing Seasons Without a Calendar**
+- **Noon Sun altitude:**
+    - Highest → summer solstice.
+    - Lowest → winter solstice.  
+- **Rise and set points:**
+    - Track how far north or south the Sun rises/sets → helps identify the solstices/equinoxes.
+## **4. Effect of Latitude**
+- Seasonal changes are **more extreme at high latitudes**:
+    - Near equator → day length is nearly constant year-round.
+    - Higher latitudes → day length varies significantly.
+        - Within **Arctic/Antarctic circles:**
+            - Summer: Sun may never set (midnight Sun).
+            - Winter: Sun may never rise (polar night).    
+    - At poles: ~6 months of daylight, ~6 months of night.
