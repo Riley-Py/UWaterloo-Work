@@ -2,14 +2,12 @@
 - A star-trail image is taken by pointing a camera at the night sky and keeping the **shutter open for a long time**, usually **minutes to hours**.
 - The curved lines are **star trails**, created because the Earth is spinning.
 - Even though we know stars barely move relative to us on short timescales, they _appear_ to sweep across the sky during a long exposure.
-- This is actually Earth rotating under the stars.
 - The camera in the example is pointed toward **Polaris**, the North Star.
 - Polaris is very close to Earth’s rotational axis in the sky, so:
     - Stars near Polaris make **small circles**.
     - Stars farther away make **larger arcs**.   
 - Polaris itself appears almost fixed, so its trail is extremely short or nearly a point.
 - A long-exposure star-trail photo directly reveals **Earth’s rotation**.
-- You can visually see the sky “turning,” even though it’s actually us rotating beneath it.
 - In dark, rural locations (no city light pollution), the human eye can see **~2000 stars**.
 ---
 **Constellations**
@@ -56,17 +54,18 @@
     - West = 270°
     - Intermediates (like southeast) are measured proportionally (e.g., 135°).
 ---
-**Meri**
+**Meridian**
 - A **great circle** from **north → zenith → south**.
 - **Sun crossing the meridian** = local **noon**.
 - Meridian gives a reference for measuring celestial positions in the sky.
-### **2. Angular Measurements**
+---
+**Angular Measurements**
 - Distances on the celestial sphere are measured in **degrees** (angular distances).
 - Examples:
     - **Moon:** ~0.5° across 
     - **Big Dipper to Polaris:** ~5° 
     - **Southern Cross:** ~6° (points roughly to the southern celestial pole)
-### **3. Using Your Hand to Estimate Angles**
+**Hand Estimations**
 - **Pointing finger:** ~1° across
 - **Fist:** ~10° across
 - **Full hand (outstretched):** ~20° across
@@ -75,6 +74,7 @@
 - **1 degree (°)** = 60 **arcminutes (′)**
 - **1 arcminute (′)** = 60 **arcseconds (″)**
 - Therefore, **1° = 3600″**
+---
 ### **1. Concept**
 - Angular size tells us **how large an object appears in the sky**.
 - It depends on both the **physical size** of the object and its **distance** from the observer.
