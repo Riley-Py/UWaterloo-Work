@@ -97,8 +97,7 @@
 - These motions are tiny on the sky and hard to detect visually.
     - Only recently measured precisely using missions like **Gaia**.
 ---
-**Sun's Orb**
-- The Sun (and the whole solar system) orbits the center of the Milky Way.
+**Sun's Orbit around Milky Way**
 - Speed: **~800,000 km/h**.
 - One full orbit takes **~230 million years** (a “galactic year”).
 - The Milky Way contains:
@@ -107,10 +106,12 @@
 - Over the age of the solar system, we’ve orbited the galaxy **about 40 times**.
 - A **supermassive black hole** sits at the center of the Milky Way.
 - The motions of stars near the center provide evidence for its mass.
-#### **Local group motions (small-scale)**
+---
+**Local Group Motions (small-scale)**
 - Within our Local Group, galaxies have **random motions**, similar to stars in a neighborhood.
 - Example: The **Milky Way and Andromeda** are moving **toward** each other and will collide in a few billion years.
-#### **Cosmic expansion (large-scale)**
+---
+**Cosmic Expansion (Large-Scale)**
 - Beyond the Local Group, **all galaxies are moving away from us**.
 - The farther a galaxy is, the **faster** it recedes.
 - Discovered by **Edwin Hubble** through:
