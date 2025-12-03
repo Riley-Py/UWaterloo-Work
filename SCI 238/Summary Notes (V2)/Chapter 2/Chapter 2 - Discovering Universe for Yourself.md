@@ -79,7 +79,7 @@
 - Objects farther away appear **smaller**; objects closer appear **larger**.
 ### **2. Formula (in degrees)**
 
-Angular size (°) = Physical size 
+Angular size (°) = Physical size x (360 / 2)
 
 - Imagine the object perpendicular to your line of sight.
     
