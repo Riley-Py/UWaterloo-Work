@@ -224,3 +224,36 @@ Angular size (°) = Physical size x (360 / 2$\pi$ x Distance)
 - One full precession cycle: ~26,000 years.
 - Halfway through (~13,000 years) → axis points in the opposite direction in the sky.
 - This is **long compared to human lifetimes**, so we don’t notice daily, yearly, or even over a few centuries.
+**Key concepts:**
+- The Moon completes an orbit around Earth every **27 days** (sidereal month).
+- The Moon’s **phases** depend on how much of the illuminated side we can see from Earth.
+- The same side of the Moon always faces Earth due to **synchronous rotation**, caused by tidal forces.
+**Phases of the Moon (lunar cycle ≈ 29 days):**
+1. **New Moon** – Moon is between Earth and Sun; side facing Earth is dark.
+2. **Waxing Crescent** – Small portion illuminated; visible in afternoon/evening.
+3. **First Quarter** – Half of the Moon illuminated; visible in evening.
+4. **Waxing Gibbous** – More than half illuminated; rises later in the evening.
+5. **Full Moon** – Moon opposite Sun; rises at sunset.
+6. **Waning Gibbous** – Slightly less than full; rises later at night.
+7. **Third Quarter** – Half illuminated; visible in morning.
+8. **Waning Crescent** – Small portion visible before sunrise.
+
+**Timing of visibility:**
+- Waxing Moon: visible in afternoon/evening; rises later each day.
+- Waning Moon: visible at night/morning; rises closer to sunrise as it wanes.
+    
+- Obervation example: **Half Moon at 9 a.m. → Third Quarter**.
+    
+
+**Rotation details:**
+
+- The Moon rotates on its axis at the same rate as it orbits Earth → **always shows the same face**.
+    
+- Far side of the Moon wasn’t seen until **Apollo missions**.
+    
+
+**Cause of synchronous rotation:**
+
+- Tidal forces from Earth gradually slowed the Moon’s rotation to match its orbit.
+    
+- This phenomenon can happen for other moons or planets close to their primary.
