@@ -70,18 +70,20 @@
 - **Fist:** ~10° across
 - **Full hand (outstretched):** ~20° across
 - Practical use: Cover the moon with your finger twice to estimate its angular size (~0.5°).
-### **2. Definitions**
+**Angular Measurement Conversions**
 - **1 degree (°)** = 60 **arcminutes (′)**
 - **1 arcminute (′)** = 60 **arcseconds (″)**
 - Therefore, **1° = 3600″**
 ---
-### **1. Concept**
+**Angular Size**
 - Angular size tells us **how large an object appears in the sky**.
 - It depends on both the **physical size** of the object and its **distance** from the observer.
 - Objects farther away appear **smaller**; objects closer appear **larger**.
-### **2. Formula (in degrees)**
+**Formula for Angular Size**
 Angular size (°) = Physical size x (360 / 2$\pi$ x Distance)
-### **1. Apparent Motion**
+
+---
+**Apparent Motion**
 - Stars, planets, the Moon, and the Sun appear to **rise in the east and set in the west**.
 - This is **not because they are moving quickly**, but because **Earth is rotating** around its axis.
 ### **2. Earth's Rotation**
