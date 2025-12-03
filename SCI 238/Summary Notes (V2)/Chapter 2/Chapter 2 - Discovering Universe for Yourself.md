@@ -153,25 +153,13 @@ Angular size (°) = Physical size x (360 / 2$\pi$ x Distance)
 - **At midnight**, the stars you see on your **meridian (highest point in the sky)** are **opposite the Sun**.
     - Example: If the Sun is in Leo during the day, the opposite constellation in the sky at midnight would be Aquarius.
 ## **3. Zodiac and Ecliptic**
-
 - The **Sun passes through twelve constellations** during the year, roughly corresponding to the **zodiac signs**:
-    
-    - Aries, Taurus, Gemini, …, Leo, Virgo, …
-        
+    - Aries, Taurus, Gemini, …, Leo, Virgo, …    
 - These constellations lie along the **ecliptic**, which is tilted ~23.5° relative to the celestial equator.
-    
 - The Sun is **too bright to see the stars behind it**, so the constellation it’s in during the day is hidden from view.
-    
-
----
-
 ## **4. Seasonal Sky**
-
 - The **constellations visible at night change throughout the year** because as Earth moves, the night side of Earth faces different parts of the celestial sphere.
-    
 - Example:
-    
     - **August 21** → Sun in Leo → **Scorpius opposite Leo** visible at midnight.
-        
     - **November 21** → Sun in Scorpius → **Taurus opposite Scorpius** visible at midnight.
 
