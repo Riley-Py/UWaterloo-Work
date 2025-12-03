@@ -11,25 +11,16 @@
 - - **Look-back time:**
     - The farther away an object is, the older the light we see from it.
     - Look-back time measures how long light traveled from an object to us.
-    - Examples: Moon (1s), Sun (8 mins), Sirius (8 yrs.), Andromeda (2.5 million)
-- **Examples of look-back times:**
-    - Moon: 1 second
-    - Sun: 8 minutes
-    - Sirius: 8 years
-    - Andromeda Galaxy: 2.5 million years
-    - Orion Nebula: 1500 years
+    - Examples: Moon (1s), Sun (8 mins), Sirius (8 yrs.), Andromeda (2.5 million yrs.), Orion Nebula (1500 yrs.)
 - **Universe’s maximum look-back time:**
     - About **13.8–14 billion years**, roughly the age of the universe.
     - We cannot observe anything with a greater look-back time than this    
 - **Andromeda specifics:**
     - We will see Andromeda “as it is now” in about **2.5 million years**.
     - Andromeda is slowly moving toward the Milky Way; the galaxies will collide in a few **billion** years.   
-- **Telescopes and distance:*
+- **Telescopes and distance:**
     - Telescope magnification (zoom) does **not** change an object’s actual distance; it only changes its apparent size.
     - Distance is inferred through astronomical methods, not zoom.
-- **Visibility of Andromeda (M31):**
-    - It appears large in the night sky but is faint.
-    - Best seen from dark locations due to its low surface brightness.
 - **Light-year definition:**
     - A light-year is the **distance light travels in one year**, about **9.46 trillion km** (~10 trillion km) or **6 trillion miles**.
 - **Using light-years to observe the past:**
@@ -38,7 +29,6 @@
     - At around **14 billion light-years**, we reach the **edge of the observable universe**, seeing the universe shortly after the Big Bang.
 - **Early universe appearance:**
     - The very early universe did **not yet contain galaxies**.
-    - It looked like a **hot plasma “soup.”** Scientists even have images of this (cosmic microwave background).
 - **How to calculate a light-year:**
     - Multiply the speed of light (300,000 km/s) by the number of seconds in a year.
     - The result is about **9.46 × 10¹² km**, confirming the enormous scale of cosmic distances.
