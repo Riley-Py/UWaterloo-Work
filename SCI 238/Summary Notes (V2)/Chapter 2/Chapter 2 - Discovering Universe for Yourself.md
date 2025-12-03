@@ -88,4 +88,18 @@ Angular size (°) = Physical size x (360 / 2$\pi$ x Distance)
 ### **3. Observer’s Perspective**
 - Anywhere on Earth: stars appear to **rise in the east and set in the west**.
 - The apparent clockwise or counter-clockwise rotation depends on your **viewing direction**, but the underlying reason is **Earth’s rotation**.
+### **1. Circumpolar Stars**
+- Stars **close to the North Celestial Pole** (or South Celestial Pole in the Southern Hemisphere) **never rise or set**.    
+- They just **circle around the pole** continuously.
+- These stars are called **circumpolar stars**.
+- Whether a star is circumpolar **depends on your latitude**.
+### **2. Horizon and Visibility**
+- The **horizon** is perpendicular to your zenith (the point directly above you).
+- Stars farther from the pole will **rise in the east and set in the west**.
+- The **closer a star is to the pole**, the more time it spends above the horizon.
+- The **closer a star is to the opposite pole**, the less time it is visible—or it may never be visible.
+### **3. Hemisphere Effects**
+- **Northern Hemisphere**: circumpolar stars circle the **North Celestial Pole** (e.g., Polaris).
+- **Southern Hemisphere**: circumpolar stars circle the **South Celestial Pole**.
+- **Equator**: you can potentially see **all stars**, though some only briefly at night.
 
