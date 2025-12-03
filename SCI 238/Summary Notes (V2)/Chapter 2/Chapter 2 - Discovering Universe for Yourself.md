@@ -270,46 +270,24 @@ Angular size (°) = Physical size x (360 / 2$\pi$ x Distance)
 **Key concepts:**
 - Solar eclipses occur when the **Moon passes between the Sun and Earth**, casting a shadow on Earth.
 - Solar eclipses are **rarer to see** than lunar eclipses because the Moon’s shadow on Earth is very small.
-    
 - The Moon and Sun appear almost the **same angular size** in the sky (~0.5°), which allows total solar eclipses to occur.
-    
 - **Duration:** The total eclipse is brief (about a minute or two) for a stationary observer because the Moon’s shadow moves quickly across Earth. If you could travel with the shadow, the eclipse could last longer.
-    
-
 **Earth-Moon-Sun geometry:**
-
 - Distance to Moon: ~384,000 km
-    
 - Earth’s diameter: ~12,000 km
-    
 - Moon’s shadow is small relative to Earth, so most of the time it misses Earth.
-    
-
 **Types of solar eclipses:**
-
 1. **Total solar eclipse:**
-    
     - Observer is in the **umbra** (tip of the Moon’s shadow).
-        
     - Sun is completely blocked by the Moon.
-        
 2. **Partial solar eclipse:**
-    
     - Observer is in the **penumbra** (outside the tip of the shadow).
-        
-    - Only part of the Sun is blocked.
-        
+    - Only part of the Sun is blocked.    
 3. **Annular solar eclipse:**
-    
     - Occurs when the Moon is **farther from Earth**, so the umbra doesn’t reach the surface.
-        
     - Sun appears as a **ring around the Moon**.
-        
     - Observer is in the correct location, but total coverage doesn’t happen.
-        
-
 **Additional notes:**
-
 - Solar eclipses are much more location-specific than lunar eclipses due to the **small size of the Moon’s shadow**.
-    
 - The apparent size of the Moon and Sun being similar is what makes total and annular eclipses possible.
+
