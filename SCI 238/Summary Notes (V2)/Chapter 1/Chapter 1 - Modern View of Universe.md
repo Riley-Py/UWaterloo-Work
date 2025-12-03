@@ -58,39 +58,6 @@
 - #### **1. Looking farther = looking back in time**
 - Because light has a **finite speed**, observing distant objects shows us the universe **as it was long ago**.
 - This allows astronomers to reconstruct the **history of the universe**.
-### **2. The Cosmic Calendar (compressing 14 billion years into one year)**
-
-The entire history of the universe is compressed into **1 calendar year** to visualize time scales.
-
-- **Jan 1:** Big Bang
-    
-- **February:** Milky Way forms
-    
-- **Sept 3:** Earth forms
-    
-- **Sept 22:** Earliest life on Earth (microbial)
-    
-- **December:** Most familiar events occur
-    
-    - Dec 17: Early rise of dinosaurs
-        
-    - Dec 26: Dinosaurs dominate Earth
-        
-    - Dec 30: Dinosaurs go extinct (K–T event)
-        
-    - Dec 31, 9:00 PM: First hominoids
-        
-    - 11:58 PM: Modern humans evolve
-        
-    - Last 25 seconds: Agriculture
-        
-    - Last 11 seconds: Pyramids built
-        
-    - Last 1 second: Kepler and Galileo show Earth orbits the Sun
-        
-- **Midnight = present day**
-
-**Key idea:** Human history occupies only the **last few seconds** on this cosmic scale.
 ### **3. “How did we come to be?” — Origin of the elements**
 - The **Big Bang** created hydrogen and helium.
 - **All heavier elements** (carbon, oxygen, iron, etc.) were forged inside **stellar cores** and spread into space when stars died.
@@ -102,65 +69,39 @@ The entire history of the universe is compressed into **1 calendar year** to vis
 - The solar system formed **4.5 billion years ago**.
 - By then, about **2%** of the original hydrogen/helium had been converted into heavier elements—the material that makes up Earth and life.
 ### **5. Human timescales vs cosmic timescales**
-
 - Universe age: **14 billion years (10¹⁰ years)**
-    
 - Human lifetime (~100 years) is only **10⁻⁸** of the universe’s age.
-    
 - Human civilization itself is only **“a few cosmic seconds”** old.
 ### **1. Earth Is Never Still**
 
 Even though it feels like we’re stationary, Earth is constantly moving in several ways:
 #### **a. Earth’s rotation (spin)**
-
 - Earth rotates once every 24 hours.
-    
 - **Speed at equator:** ~1670 km/h
-    
 - **Speed in Waterloo:** ~1100 km/h
-    
 - **Speed at the poles:** 0 km/h (you turn in place but do not move linearly)
-    
 - Evidence of Earth’s rotation:
-    
     - **Foucault pendulum**
-        
     - **Coriolis effect**, which influences storms (like hurricanes)
-
 ### **2. Earth’s revolution around the Sun**
-
 - Earth orbits the Sun once per year.
-    
 - Average distance from the Sun: **1 AU = 150 million km**.
-    
 - Earth’s spin axis is tilted **23.5°** relative to its orbital plane.
-    
     - **This tilt causes the seasons**, not distance from the Sun.
-        
 - Both the spin and orbit move in the **same direction (counterclockwise)** when viewed from above the North Pole.
-
 ### **3. The Sun’s motion among nearby stars**
 
 - In our local stellar neighborhood, stars (including the Sun) move with **random motions**.
-    
 - Typical relative speed: **~70,000 km/h**.
-    
 - These motions are tiny on the sky and hard to detect visually.
-    
     - Only recently measured precisely using missions like **Gaia**.
-
 ### **4. The Sun’s orbit around the Milky Way**
 
 - The Sun (and the whole solar system) orbits the center of the Milky Way.
-    
 - Speed: **~800,000 km/h**.
-    
 - One full orbit takes **~230 million years** (a “galactic year”).
-    
 - The Milky Way contains:
-    
     - A bright **disk** and central **bulge**
-        
     - A large unseen **halo** of mass—evidence for **dark matter**
 - Over the age of the solar system, we’ve orbited the galaxy **about 40 times**.
 - A **supermassive black hole** sits at the center of the Milky Way.
