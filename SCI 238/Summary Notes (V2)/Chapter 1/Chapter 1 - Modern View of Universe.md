@@ -7,7 +7,7 @@
 - **Solar System:** Contains the Sun, planets, moons, asteroids, and comets. Other stars can have their own planetary systems.
 - **Nebulae:** Clouds of gas and dust in space; the Orion Nebula is a well-known example.
 - **Galaxies:** Vast collections of stars held together by gravity and orbiting a common center. Andromeda is the closest major galaxy to the Milky Way
-- **Universe:** The totality of all matter and energy, including all galaxies and the space between them. Large surveys like the Sloan Digital Sky Survey map millions of galaxies, but the universe is much larger than what we can currently observe
+- **Universe:** The totality of all matter and energy, including all galaxies and the space between them. 
 - - **Look-back time:**
     - The farther away an object is, the older the light we see from it.
     - Look-back time measures how long light traveled from an object to us.
@@ -32,9 +32,6 @@
 - **How to calculate a light-year:**
     - Multiply the speed of light (300,000 km/s) by the number of seconds in a year.
     - The result is about **9.46 × 10¹² km**, confirming the enormous scale of cosmic distances.
-- **Comparison to familiar distances:**
-    - Moonlight takes **1 second** to reach Earth—tiny compared to a light-year.
-    - The **closest star** beyond the Sun is about **1 light-year** away 
 - - **Number of stars in the Milky Way:**
     - The Milky Way contains roughly **100 billion stars**—an _order-of-magnitude_ estimate, since precise counting is impossible.
 - **Why order-of-magnitude estimates matter in astronomy:**
@@ -205,22 +202,13 @@ Galaxies move in two distinct ways:
     - Very far away
         
     - Hard to measure precisely  
-        This is why huge motions—hundreds of thousands of km/h—weren’t detected until modern astronomy.
-        
+        This is why huge motions—hundreds of thousands of km/h—weren’t detected until modern astronomy.   
 ### **8. Key Distances and Times**
-
 - **Earth–Sun distance:** 150 million km = 1 AU
-    
 - **Sun’s orbit around Milky Way:** 230 million years
-    
 - **Number of galactic orbits since formation:** ~40
-    
 - **Expansion of the universe:** galaxies farther away recede faster
 
-### **Big Picture**
-
-We are being carried through space by many layers of motion—from Earth’s spin to the expansion of the universe.  
-Despite enormous speeds, the motions are subtle because everything around us moves together, and distant reference points are difficult to measure.
 
 
   
