@@ -109,24 +109,25 @@ Angular size (°) = Physical size x (360 / 2$\pi$ x Distance)
 - **Southern Hemisphere**: circumpolar stars circle the **South Celestial Pole**.
 - **Equator**: you can potentially see **all stars**, though some only briefly at night.
 ---
-## **1. Why Constellations Depend on Latitude**
+**Constellations and latitude**
 - Your **latitude** on Earth determines which constellations are **above or below the horizon**.
 - **Northern latitudes** (closer to the North Pole) → see more northern stars, fewer southern stars.
 - **Southern latitudes** (closer to the South Pole) → see more southern stars, fewer northern stars.
 - Near the **equator** → you can see both northern and southern constellations.
-## **2. Why Constellations Depend on Time of Year**
+---
+**Constellations and time of year**
 - As the **Earth orbits the Sun**, the Sun appears to move relative to the background stars along the **ecliptic**.
 - **Stars near the Sun** are **not visible at night** because they are up during the day.
 - **Stars far from the Sun** are more easily seen at night.
 - So the **season** determines which constellations are visible at night.
-## **3. Latitude and Longitude on Earth**
+---
+**Latitude and Longitude**
 - **Latitude**: distance north or south of the equator (0°).
     - North Pole = 90° N, South Pole = 90° S.    
 - **Longitude**: distance east or west of the **Prime Meridian** (through Greenwich, UK).
     - Measured in degrees along a vertical plane crossing the poles.
     - Longitude goes from 0° (Prime Meridian) to 180° E or W.
 - Latitude affects **which stars you see**, longitude affects **local time of when they rise and set**.
-## **. Latitude Determines Which Stars You See**
 - **Northern Hemisphere example (Waterloo, ~43–45° N)**:
     - Polaris (North Star) sits roughly at your **altitude = your latitude**.
     - Stars close to Polaris are **circumpolar**
@@ -135,11 +136,13 @@ Angular size (°) = Physical size x (360 / 2$\pi$ x Distance)
     - South celestial pole sits **34° above the southern horizon**.
     - Stars close to the south celestial pole are circumpolar.
     - Stars near the north celestial pole never rise.
-## **2. Circumpolar Stars**
+---
+**Circumpolar stars**
 - Stars that **never set**
 - Their position depends on your **latitude**:
     - **Higher latitude (closer to a pole)** → more circumpolar stars.
     - **Near equator** → very few or no circumpolar stars; most stars rise and set.
+---
 ## **3. Altitude of Celestial Poles**
 - **Northern Hemisphere**: Altitude of Polaris ≈ your **latitude**.
 - **Southern Hemisphere**: Altitude of South Celestial Pole ≈ your **southern latitude**.
