@@ -290,4 +290,39 @@ Angular size (°) = Physical size x (360 / 2$\pi$ x Distance)
 **Additional notes:**
 - Solar eclipses are much more location-specific than lunar eclipses due to the **small size of the Moon’s shadow**.
 - The apparent size of the Moon and Sun being similar is what makes total and annular eclipses possible.
+- The Moon’s **orbit is tilted ~5°** relative to the plane of Earth’s orbit around the Sun (the ecliptic).
+- Because of this tilt, the **shadows often miss**:
+    - For a **lunar eclipse**, Earth’s shadow usually misses the Moon.
+    - For a **solar eclipse**, the Moon’s shadow usually misses Earth.
+- Eclipses only occur when the Moon is **near the points where its orbit crosses the ecliptic plane** (called **nodes**).
+**Eclipse seasons:**
+- There are **about two eclipse seasons per year**.
+- During an eclipse season:
+    - A **lunar eclipse** can occur at **full moon**.
+    - A **solar eclipse** can occur at **new moon**.
+- The timing of eclipse seasons shifts over the years because the **Moon’s orbital plane slowly rotates** (~18–19 years for a full cycle of nodes).
+**Conditions for eclipses:**
+1. **Moon phase:**
+    - Full moon → potential lunar eclipse
+    - New moon → potential solar eclipse
+2. **Moon’s position:** Must be **at or near a node**, where its orbit crosses the ecliptic.
+- **Eclipses repeat in cycles**:
+    - This recurrence period is called the **Saros cycle**.
+    - Duration: **approximately 18 years, 11⅓ days**.
+- **What repeats**:
+    - The general **pattern of eclipses** repeats.
+    - However, **type and location vary** with each cycle.
+
+
+**Solar eclipse paths:**
+
+- The **shadow of the Moon moves across Earth**, creating a trajectory.
+    
+- The shadow trajectory depends on:
+    
+    - Earth’s **rotation**
+        
+    - Moon’s **motion in its orbit**
+        
+- The **path of totality** is usually a narrow strip, and its direction can vary.
 
