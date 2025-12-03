@@ -247,45 +247,69 @@ Angular size (°) = Physical size x (360 / 2$\pi$ x Distance)
 **Cause of synchronous rotation:**
 - Tidal forces from Earth gradually slowed the Moon’s rotation to match its orbit.
 - This phenomenon can happen for other moons or planets close to their primary.
-
 **Key concepts:**
-
 - Lunar eclipses occur **only at full moon** when the Moon is opposite the Sun in the sky.
-    
 - Eclipses **don’t happen every full moon** because the **Moon’s orbit is tilted** (~5°) relative to Earth’s orbital plane, so alignment is not exact most of the time.
-    
 - The **Earth casts a shadow** in space, which has two parts:
-    
     1. **Umbra:** Full shadow; no direct sunlight reaches this area.
-        
     2. **Penumbra:** Partial shadow; some sunlight reaches this area.
-        
-
 **Types of lunar eclipses:**
-
 1. **Total lunar eclipse:**
-    
     - Entire Moon passes through the Earth’s umbra.
-        
     - Moon appears reddish due to **scattered sunlight in Earth’s atmosphere** (like a sunset on the Moon).
-        
 2. **Partial lunar eclipse:**
-    
     - Only part of the Moon passes through the umbra; the rest may be in the penumbra.
-        
     - Part of the Moon appears dark while the rest is partially illuminated.
-        
 3. **Penumbral lunar eclipse:**
-    
     - Moon passes only through the penumbra.
-        
     - Moon appears slightly dimmed; sunlight is partially blocked.
+**Additional points:**
+- Lunar eclipses are **rare compared to full moons** because of the tilt of the Moon’s orbit.
+- Sequence of a lunar eclipse: Full Moon → Penumbral → Partial → Total (if alignment is perfect).
+- **Maximum eclipse** determines the type: total, partial, or penumbral.
+**Key concepts:**
+- Solar eclipses occur when the **Moon passes between the Sun and Earth**, casting a shadow on Earth.
+- Solar eclipses are **rarer to see** than lunar eclipses because the Moon’s shadow on Earth is very small.
+    
+- The Moon and Sun appear almost the **same angular size** in the sky (~0.5°), which allows total solar eclipses to occur.
+    
+- **Duration:** The total eclipse is brief (about a minute or two) for a stationary observer because the Moon’s shadow moves quickly across Earth. If you could travel with the shadow, the eclipse could last longer.
+    
+
+**Earth-Moon-Sun geometry:**
+
+- Distance to Moon: ~384,000 km
+    
+- Earth’s diameter: ~12,000 km
+    
+- Moon’s shadow is small relative to Earth, so most of the time it misses Earth.
+    
+
+**Types of solar eclipses:**
+
+1. **Total solar eclipse:**
+    
+    - Observer is in the **umbra** (tip of the Moon’s shadow).
+        
+    - Sun is completely blocked by the Moon.
+        
+2. **Partial solar eclipse:**
+    
+    - Observer is in the **penumbra** (outside the tip of the shadow).
+        
+    - Only part of the Sun is blocked.
+        
+3. **Annular solar eclipse:**
+    
+    - Occurs when the Moon is **farther from Earth**, so the umbra doesn’t reach the surface.
+        
+    - Sun appears as a **ring around the Moon**.
+        
+    - Observer is in the correct location, but total coverage doesn’t happen.
         
 
-**Additional points:**
+**Additional notes:**
 
-- Lunar eclipses are **rare compared to full moons** because of the tilt of the Moon’s orbit.
+- Solar eclipses are much more location-specific than lunar eclipses due to the **small size of the Moon’s shadow**.
     
-- Sequence of a lunar eclipse: Full Moon → Penumbral → Partial → Total (if alignment is perfect).
-    
-- **Maximum eclipse** determines the type: total, partial, or penumbral.
+- The apparent size of the Moon and Sun being similar is what makes total and annular eclipses possible.
