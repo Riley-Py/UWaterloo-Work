@@ -209,13 +209,15 @@ Angular size (°) = Physical size x (360 / 2$\pi$ x Distance)
 - From **fall equinox to winter solstice:**
     - Sun rises **southeast**, sets **southwest**.
     - Noon altitude decreases → shorter days → less direct sunlight → cooler.
-## **3. Observing Seasons Without a Calendar**
+---
+**Seasons with No Calendar**
 - **Noon Sun altitude:**
     - Highest → summer solstice.
     - Lowest → winter solstice.  
 - **Rise and set points:**
     - Track how far north or south the Sun rises/sets → helps identify the solstices/equinoxes.
-## **4. Effect of Latitude**
+---
+**Latitude on Seasons**
 - Seasonal changes are **more extreme at high latitudes**:
     - Near equator → day length is nearly constant year-round.
     - Higher latitudes → day length varies significantly.
@@ -223,11 +225,11 @@ Angular size (°) = Physical size x (360 / 2$\pi$ x Distance)
             - Summer: Sun may never set (midnight Sun).
             - Winter: Sun may never rise (polar night).    
     - At poles: ~6 months of daylight, ~6 months of night.
-## **1. What Precession Is**
+---
+**Precession**
 - Earth’s axis is **tilted 23.5°**, but it doesn’t stay pointed in exactly the same direction forever.
 - Like a **spinning top**, the axis slowly wobbles over time.
 - This wobble is called **precession**, and it changes the orientation of the axis relative to the stars.
-## **2. Effects on the Sky**
 - **North Star changes:**
     - Today → Polaris is near the North Celestial Pole.
     - In ~15,000 years → Vega will be the North Star.    
@@ -235,10 +237,9 @@ Angular size (°) = Physical size x (360 / 2$\pi$ x Distance)
     - Spring equinox slowly moves backward along the ecliptic.
     - Signs of the zodiac shift over thousands of years.
     - Example: what used to be Aries is now mostly in Pisces for the spring equinox.
-## **3. Timescale**
 - One full precession cycle: ~26,000 years.
 - Halfway through (~13,000 years) → axis points in the opposite direction in the sky.
-- This is **long compared to human lifetimes**, so we don’t notice daily, yearly, or even over a few centuries.
+---
 **Key concepts:**
 - The Moon completes an orbit around Earth every **27 days** (sidereal month).
 - The Moon’s **phases** depend on how much of the illuminated side we can see from Earth.
