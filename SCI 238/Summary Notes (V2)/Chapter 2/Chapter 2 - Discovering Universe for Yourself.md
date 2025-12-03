@@ -161,20 +161,24 @@ Angular size (°) = Physical size x (360 / 2$\pi$ x Distance)
 ---
 **Apparent Motion - Sun**
 - As Earth orbits the Sun once a year, the **Sun appears to move eastward along the ecliptic** (the path it traces on the celestial sphere).
-## **2. Stars Visible at Night**
+---
+**Stars Visible at Night**
 - **At midnight**, the stars you see on your **meridian (highest point in the sky)** are **opposite the Sun**.
     - Example: If the Sun is in Leo during the day, the opposite constellation in the sky at midnight would be Aquarius.
-## **3. Zodiac and Ecliptic**
+---
+**Zodiac and Ecliptic**
 - The **Sun passes through twelve constellations** during the year, roughly corresponding to the **zodiac signs**:
     - Aries, Taurus, Gemini, …, Leo, Virgo, …    
 - These constellations lie along the **ecliptic**, which is tilted ~23.5° relative to the celestial equator.
 - The Sun is **too bright to see the stars behind it**, so the constellation it’s in during the day is hidden from view.
-## **4. Seasonal Sky**
+---
+**Seasonal Sky**
 - The **constellations visible at night change throughout the year** because as Earth moves, the night side of Earth faces different parts of the celestial sphere.
 - Example:
     - **August 21** → Sun in Leo → **Scorpius opposite Leo** visible at midnight.
     - **November 21** → Sun in Scorpius → **Taurus opposite Scorpius** visible at midnight.
-## **1. Common Misconception**
+---
+**Seasons - Assumption**
 - **False:** “Earth is closer to the Sun in summer and farther in winter.”
 - Reason: Seasons are **opposite in the Northern and Southern Hemispheres**. The distance to the Sun doesn’t determine the season.
 ## **2. Real Cause of Seasons**
