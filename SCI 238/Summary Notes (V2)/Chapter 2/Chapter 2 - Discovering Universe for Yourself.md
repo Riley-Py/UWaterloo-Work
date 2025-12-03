@@ -143,21 +143,23 @@ Angular size (°) = Physical size x (360 / 2$\pi$ x Distance)
     - **Higher latitude (closer to a pole)** → more circumpolar stars.
     - **Near equator** → very few or no circumpolar stars; most stars rise and set.
 ---
-## **3. Altitude of Celestial Poles**
+**Altitude of Celestial Poles**
 - **Northern Hemisphere**: Altitude of Polaris ≈ your **latitude**.
 - **Southern Hemisphere**: Altitude of South Celestial Pole ≈ your **southern latitude**.
 - Example:
     - At North Pole (90° N) → Polaris is directly overhead (zenith).
     - At equator (0°) → Polaris is on the horizon.
     - At South Pole (90° S) → South Celestial Pole is directly overhead
-## **4. Using Constellations to Find the Poles**
+---
+**Constellations to find Poles**
 - **Northern Hemisphere**:
     - Big Dipper pointer stars → line extended → Polaris (North Celestial Pole).
     - Little Dipper rotates around Polaris. 
 - **Southern Hemisphere**:
     - Southern Cross → extend long axis ~4× length of cross → South Celestial Pole.
     - The Cross rotates around the South Celestial Pole every 24 hours.
-## **1. Apparent Motion of the Sun**
+---
+**Apparent Motion - Sun**
 - As Earth orbits the Sun once a year, the **Sun appears to move eastward along the ecliptic** (the path it traces on the celestial sphere).
 ## **2. Stars Visible at Night**
 - **At midnight**, the stars you see on your **meridian (highest point in the sky)** are **opposite the Sun**.
