@@ -15,55 +15,23 @@
 - You can visually see the sky “turning,” even though it’s actually us rotating beneath it.
 
 ### **1. What we can see with the naked eye**
-
 - In dark, rural locations (no city light pollution), the human eye can see **~2000 stars**.
-    
-- The **Milky Way** appears as a faint glowing band—its dense star field is too packed for the eye to resolve individual stars.
-    
-
----
-
 ## **2. Constellations**
-
-- A **constellation** is simply a _region_ of the sky, not a physical grouping of stars.
-    
-- Ancient cultures imagined patterns (like Orion, Canis Major, Canis Minor).
-    
+- A **constellation** is a _region_ of the sky, not a physical grouping of stars.
 - Today, astronomers officially use **88 constellations** to divide the celestial sphere.
-    
 - The bright stars in a constellation:
-    
-    - **Are not physically close together**, and
-        
+    - **Are not physically close together**
     - **Can be at vastly different distances**.  
-        → Correct answer to the question: **C**.
-        
-
----
-
 ## **3. The Celestial Sphere**
-
 - A conceptual sphere surrounding Earth used to mark directions in the sky.
-    
 - It has:
-    
     - **North Celestial Pole (NCP)**: projection of Earth’s North Pole
-        
-    - **South Celestial Pole (SCP)**
-        
-    - **Celestial Equator**: projection of Earth’s equator
-        
-- Distances aren’t represented—just _directions_.
-    
-
----
-
+    - **South Celestial Pole (SCP)**: projection of Earth's South Pole
+    - **Celestial Equator**: projection of Earth’s equator    
+- Distances aren’t represented—just _directions_ 
 ## **4. The Ecliptic**
-
 - The **ecliptic** is the Sun’s apparent path across the celestial sphere.
-    
 - Because Earth is tilted by **23.5°**, the ecliptic is also tilted by 23.5° relative to the celestial equator.
-    
 - The Sun appears to move along this circle over the course of a year, shifting slightly above and below the celestial equator.
     
 
