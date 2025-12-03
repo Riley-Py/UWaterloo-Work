@@ -83,18 +83,21 @@
 - Evidence of Earth’s rotation:
     - **Foucault pendulum**
     - **Coriolis effect**, which influences storms (like hurricanes)
-### **2. Earth’s revolution around the Sun**
+---
+**Earth's Revolution Around Sun**
 - Earth orbits the Sun once per year.
 - Average distance from the Sun: **1 AU = 150 million km**.
 - Earth’s spin axis is tilted **23.5°** relative to its orbital plane.
     - **This tilt causes the seasons**, not distance from the Sun.
 - Both the spin and orbit move in the **same direction (counterclockwise)** when viewed from above the North Pole.
-### **3. The Sun’s motion among nearby stars**
+---
+**Sun's Motion around neighborhood**
 - In our local stellar neighborhood, stars (including the Sun) move with **random motions**.
 - Typical relative speed: **~70,000 km/h**.
 - These motions are tiny on the sky and hard to detect visually.
     - Only recently measured precisely using missions like **Gaia**.
-### **4. The Sun’s orbit around the Milky Way**
+---
+**Sun's Orb**
 - The Sun (and the whole solar system) orbits the center of the Milky Way.
 - Speed: **~800,000 km/h**.
 - One full orbit takes **~230 million years** (a “galactic year”).
