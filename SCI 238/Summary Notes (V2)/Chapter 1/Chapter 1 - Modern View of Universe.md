@@ -1,3 +1,4 @@
+**Definitions**
 - **Stars:** Large, glowing balls of gas that produce heat and light through nuclear fusion (mainly fusing hydrogen). The Sun is our closest star.
 - **Planets:** Moderately large bodies that orbit stars and shine by reflected light. They can be rocky (Earth, Mars), icy, or gaseous (Neptune).
 - **Moons/Satellites:** Objects that orbit planets
@@ -8,7 +9,8 @@
 - **Nebulae:** Clouds of gas and dust in space; the Orion Nebula is a well-known example.
 - **Galaxies:** Vast collections of stars held together by gravity and orbiting a common center. Andromeda is the closest major galaxy to the Milky Way
 - **Universe:** The totality of all matter and energy, including all galaxies and the space between them. 
-- - **Look-back time:**
+---
+-  **Look-back time:**
     - The farther away an object is, the older the light we see from it.
     - Look-back time measures how long light traveled from an object to us.
     - Examples: Moon (1s), Sun (8 mins), Sirius (8 yrs.), Andromeda (2.5 million yrs.), Orion Nebula (1500 yrs.)
@@ -18,6 +20,7 @@
 - **Andromeda specifics:**
     - We will see Andromeda “as it is now” in about **2.5 million years**.
     - Andromeda is slowly moving toward the Milky Way; the galaxies will collide in a few **billion** years.   
+---
 - **Telescopes and distance:**
     - Telescope magnification (zoom) does **not** change an object’s actual distance; it only changes its apparent size.
     - Distance is inferred through astronomical methods, not zoom.

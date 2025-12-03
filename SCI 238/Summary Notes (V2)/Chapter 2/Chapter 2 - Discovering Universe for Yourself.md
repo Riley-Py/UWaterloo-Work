@@ -363,6 +363,5 @@ Angular size (°) = Physical size x (360 / 2$\pi$ x Distance)
 - Main objection: **No observable stellar parallax**
     - Parallax: Apparent shift in star positions due to Earth’s motion.
     - Too small to detect with ancient instruments; stars are extremely far away.    
-- Aristarchus proposed heliocentric system, but most ancient astronomers rejected it.
-- Acceptance came centuries later, after stellar parallax was finally measured (~1800s).
+- Aristarchus proposed heliocentric system, but most ancient astronomers rejected it; acceptance came later in 1800s 
 
