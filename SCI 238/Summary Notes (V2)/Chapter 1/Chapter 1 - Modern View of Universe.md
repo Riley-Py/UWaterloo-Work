@@ -68,6 +68,55 @@
     - Moonlight takes **1 second** to reach Earth—tiny compared to a light-year.
         
     - The **closest star** beyond the Sun is about **1 light-year** away (more precisely, 4.24 light-years for Proxima Centauri, though the lecture simplifies it)
+- - **Number of stars in the Milky Way:**
+    
+    - The Milky Way contains roughly **100 billion stars**—an _order-of-magnitude_ estimate, since precise counting is impossible.
+        
+- **Why order-of-magnitude estimates matter in astronomy:**
+    
+    - Many astronomical quantities are difficult or impossible to measure precisely.
+        
+    - These rough estimates help determine what values are reasonable or physically plausible.
+        
+- **Estimating the size of the Milky Way using simple scaling:**
+    
+    - If the **distance to the nearest star** (Alpha Centauri) is scaled to **4000 km** (size of the United States), then:
+        
+        - You imagine stars arranged evenly in a **cube**.
+            
+        - With **100 billion stars (10¹¹)**, each cube side has about **(10¹¹)^(1/3)** stars.
+            
+        - Multiplying gives a scaled size of roughly **20 million km**.
+            
+- **Translating back to real units:**
+    
+    - Scaling up by a factor of **10 billion**, the estimated real size becomes about **2 × 10¹⁷ km**.
+        
+    - Converting to light-years (1 ly ≈ 10¹³ km), this gives:
+        
+        - **~10⁵ light-years**, matching the true Milky Way diameter of **~100,000 light-years**.
+            
+- **Takeaway:**
+    
+    - Even with simplified assumptions (e.g., stars evenly spaced in a cube), order-of-magnitude methods can produce surprisingly accurate results for the Milky Way’s size.
+- **Number of galaxies in the observable universe:**
+    
+    - There are roughly **100 billion galaxies** in the _observable_ universe.
+        
+- **Number of stars per galaxy:**
+    
+    - Each typical galaxy, like the Milky Way, has about **100 billion stars**.
+        
+- **Total number of stars in the observable universe:**
+    
+    - Multiplying these gives about **10²² stars** (10 sextillion).
+        
+    - This count applies only to the **observable universe**—there may be far more galaxies beyond what we can see.
+        
+- **Comparison to Earth:**
+    
+    - The number of stars (~10²²) is roughly comparable to the estimated number of **grains of sand on all of Earth’s beaches**.
+
 
   
   
