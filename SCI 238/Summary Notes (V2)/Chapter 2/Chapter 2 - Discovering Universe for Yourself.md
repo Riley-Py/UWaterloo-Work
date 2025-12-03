@@ -240,7 +240,7 @@ Angular size (°) = Physical size x (360 / 2$\pi$ x Distance)
 - One full precession cycle: ~26,000 years.
 - Halfway through (~13,000 years) → axis points in the opposite direction in the sky.
 ---
-**Key concepts:**
+**Phases of Moon**
 - The Moon completes an orbit around Earth every **27 days** (sidereal month).
 - The Moon’s **phases** depend on how much of the illuminated side we can see from Earth.
 - The same side of the Moon always faces Earth due to **synchronous rotation**, caused by tidal forces.
@@ -263,7 +263,8 @@ Angular size (°) = Physical size x (360 / 2$\pi$ x Distance)
 **Cause of synchronous rotation:**
 - Tidal forces from Earth gradually slowed the Moon’s rotation to match its orbit.
 - This phenomenon can happen for other moons or planets close to their primary.
-**Key concepts:**
+---
+**Lunar Eclipses**
 - Lunar eclipses occur **only at full moon** when the Moon is opposite the Sun in the sky.
 - Eclipses **don’t happen every full moon** because the **Moon’s orbit is tilted** (~5°) relative to Earth’s orbital plane, so alignment is not exact most of the time.
 - The **Earth casts a shadow** in space, which has two parts:
@@ -283,7 +284,8 @@ Angular size (°) = Physical size x (360 / 2$\pi$ x Distance)
 - Lunar eclipses are **rare compared to full moons** because of the tilt of the Moon’s orbit.
 - Sequence of a lunar eclipse: Full Moon → Penumbral → Partial → Total (if alignment is perfect).
 - **Maximum eclipse** determines the type: total, partial, or penumbral.
-**Key concepts:**
+---
+**Solar Eclipse**
 - Solar eclipses occur when the **Moon passes between the Sun and Earth**, casting a shadow on Earth.
 - Solar eclipses are **rarer to see** than lunar eclipses because the Moon’s shadow on Earth is very small.
 - The Moon and Sun appear almost the **same angular size** in the sky (~0.5°), which allows total solar eclipses to occur.
