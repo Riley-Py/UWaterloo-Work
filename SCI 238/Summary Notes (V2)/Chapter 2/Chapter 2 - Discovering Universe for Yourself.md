@@ -78,4 +78,14 @@
 - Objects farther away appear **smaller**; objects closer appear **larger**.
 ### **2. Formula (in degrees)**
 Angular size (°) = Physical size x (360 / 2$\pi$ x Distance)
+### **1. Apparent Motion**
+- Stars, planets, the Moon, and the Sun appear to **rise in the east and set in the west**.
+- This is **not because they are moving quickly**, but because **Earth is rotating** around its axis.
+### **2. Earth's Rotation**
+- **Spin axis**: connects the North and South celestial poles.
+- **Rotation direction**: west → east (counter-clockwise if viewed from above the North Pole).
+- To an observer on Earth, this makes the celestial sphere appear to **spin around us** once every 24 hours.
+### **3. Observer’s Perspective**
+- Anywhere on Earth: stars appear to **rise in the east and set in the west**.
+- The apparent clockwise or counter-clockwise rotation depends on your **viewing direction**, but the underlying reason is **Earth’s rotation**.
 
