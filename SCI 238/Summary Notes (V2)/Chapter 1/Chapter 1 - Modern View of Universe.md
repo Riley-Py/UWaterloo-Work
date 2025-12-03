@@ -1,26 +1,17 @@
 - **Stars:** Large, glowing balls of gas that produce heat and light through nuclear fusion (mainly fusing hydrogen). The Sun is our closest star.
-    
 - **Planets:** Moderately large bodies that orbit stars and shine by reflected light. They can be rocky (Earth, Mars), icy, or gaseous (Neptune).
-    
-- **Moons/Satellites:** Objects that orbit planets, such as Ganymede (Jupiter’s largest moon).
-    
+- **Moons/Satellites:** Objects that orbit planets
 - **Asteroids & Comets:**
-    
     - **Asteroids:** Small, rocky objects without enough gravity to become spherical.
-        
     - **Comets:** Small, icy objects with elongated orbits; they develop bright tails when near the Sun.
-        
 - **Solar System:** Contains the Sun, planets, moons, asteroids, and comets. Other stars can have their own planetary systems.
-    
 - **Nebulae:** Clouds of gas and dust in space; the Orion Nebula is a well-known example.
-    
-- **Galaxies:** Vast collections of stars held together by gravity and orbiting a common center. Andromeda is the closest major galaxy to the Milky Way.
-    
+- **Galaxies:** Vast collections of stars held together by gravity and orbiting a common center. Andromeda is the closest major galaxy to the Milky Way
 - **Universe:** The totality of all matter and energy, including all galaxies and the space between them. Large surveys like the Sloan Digital Sky Survey map millions of galaxies, but the universe is much larger than what we can currently observe
 - - **Look-back time:**
     - The farther away an object is, the older the light we see from it.
     - Look-back time measures how long light traveled from an object to us.
-        
+    - Examples: Moon (1s), Sun (8 mins), Sirius (8 yrs.), Andromeda (2.5 million)
 - **Examples of look-back times:**
     - Moon: 1 second
     - Sun: 8 minutes
@@ -40,9 +31,7 @@
     - It appears large in the night sky but is faint.
     - Best seen from dark locations due to its low surface brightness.
 - **Light-year definition:**
-    
     - A light-year is the **distance light travels in one year**, about **9.46 trillion km** (~10 trillion km) or **6 trillion miles**.
-        
 - **Using light-years to observe the past:**
     - The farther away an object is, the younger the universe was when its light left.
     - Observing galaxies **12 billion light-years away** shows galaxies in very early stages of formation.
