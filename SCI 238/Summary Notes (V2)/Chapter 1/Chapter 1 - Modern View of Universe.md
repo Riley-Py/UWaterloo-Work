@@ -24,7 +24,8 @@
 - **Telescopes and distance:**
     - Telescope magnification (zoom) does **not** change an object’s actual distance; it only changes its apparent size.
     - Distance is inferred through astronomical methods, not zoom.
-- **Light-year definition:**
+---
+- **Light-year:**
     - A light-year is the **distance light travels in one year**, about **9.46 trillion km** (~10 trillion km) or **6 trillion miles**.
 - **Using light-years to observe the past:**
     - The farther away an object is, the younger the universe was when its light left.
@@ -35,6 +36,7 @@
 - **How to calculate a light-year:**
     - Multiply the speed of light (300,000 km/s) by the number of seconds in a year.
     - The result is about **9.46 × 10¹² km**, confirming the enormous scale of cosmic distances.
+---
 - - **Number of stars in the Milky Way:**
     - The Milky Way contains roughly **100 billion stars**—an _order-of-magnitude_ estimate, since precise counting is impossible.
 - **Why order-of-magnitude estimates matter in astronomy:**
@@ -55,19 +57,20 @@
     - Each typical galaxy, like the Milky Way, has about **100 billion stars**.
 - **Total number of stars in the observable universe:**
     -  **10²² stars**
-    - This count applies only to the **observable universe**
 - **Comparison to Earth:**
     - The number of stars (~10²²) is roughly comparable to the estimated number of **grains of sand on all of Earth’s beaches**.
 - #### **1. Looking farther = looking back in time**
 - Because light has a **finite speed**, observing distant objects shows us the universe **as it was long ago**.
 - This allows astronomers to reconstruct the **history of the universe**.
-### **3. “How did we come to be?” — Origin of the elements**
+---
+- **Origin of Elements**
 - The **Big Bang** created hydrogen and helium.
 - **All heavier elements** (carbon, oxygen, iron, etc.) were forged inside **stellar cores** and spread into space when stars died.
 - This process, called **stellar and galactic recycling**, repeatedly forms new stars and planets from old star material.
 - Result:
     - **Most atoms in our bodies** were created inside stars.
     - “We are made of star stuff.”
+---
 ### **4. Age of Earth and composition**
 - The solar system formed **4.5 billion years ago**.
 - By then, about **2%** of the original hydrogen/helium had been converted into heavier elements—the material that makes up Earth and life.
