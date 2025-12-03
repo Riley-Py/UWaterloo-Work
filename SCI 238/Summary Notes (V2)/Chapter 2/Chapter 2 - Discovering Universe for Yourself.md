@@ -52,16 +52,21 @@
     - East = 90°
     - South = 180°
     - West = 270°
-        
     - Intermediates (like southeast) are measured proportionally (e.g., 135°).
-        
-
----
-
 ### **3. The Meridian**
-
 - A **great circle** from **north → zenith → south**.
-    
 - **Sun crossing the meridian** = local **noon**.
-    
 - Meridian gives a reference for measuring celestial positions in the sky.
+### **2. Angular Measurements**
+- Distances on the celestial sphere are measured in **degrees** (angular distances).
+- Examples:
+    - **Moon:** ~0.5° across 
+    - **Big Dipper to Polaris:** ~5° 
+    - **Southern Cross:** ~6° (points roughly to the southern celestial pole)
+### **3. Using Your Hand to Estimate Angles**
+- **Pointing finger:** ~1° across
+- **Fist:** ~10° across
+    
+- **Full hand (outstretched):** ~20° across
+    
+- Practical use: Cover the moon with your finger twice to estimate its angular size (~0.5°).
