@@ -178,30 +178,29 @@ Angular size (°) = Physical size x (360 / 2$\pi$ x Distance)
     - **August 21** → Sun in Leo → **Scorpius opposite Leo** visible at midnight.
     - **November 21** → Sun in Scorpius → **Taurus opposite Scorpius** visible at midnight.
 ---
-**Seasons - Assumption**
-- **False:** “Earth is closer to the Sun in summer and farther in winter.”
-- Reason: Seasons are **opposite in the Northern and Southern Hemispheres**. The distance to the Sun doesn’t determine the season.
-## **2. Real Cause of Seasons**
+**Cause of Seasons**
 - **Earth’s axis tilt:** ~23.5° relative to the orbital plane (the ecliptic).
 - The axis **points in the same direction all year**. This means that during different parts of the orbit, each hemisphere tilts toward or away from the Sun.
-## **3. Effect of Axis Tilt**
+**Axis Tilt**
 1. **Sun’s altitude changes**
     - Higher at noon → more direct sunlight → warmer → summer.
     - Lower at noon → less direct sunlight → cooler → winter.
 2. **Day length changes**
     - Summer: Sun stays in the sky longer → more hours of sunlight.
     - Winter: Shorter days → fewer hours of sunlight.   
-## **4. Solstices and Equinoxes**
+---
+**Solstice/Equinoxes**
 - **Summer solstice (June 21st)**: Northern Hemisphere gets maximum sunlight.
 - **Winter solstice (December 21st)**: Northern Hemisphere gets minimum sunlight; Southern Hemisphere gets maximum.
 - **Equinoxes (March 21st & September 21st)**: Both hemispheres get equal sunlight; day and night are roughly equal.
-## **5. Effect of Earth-Sun Distance**
+---
+**Earth-Sun Distance**
 - Earth’s orbit is slightly elliptical:
     - **Closest:** ~147 million km (January 3) → Northern Hemisphere winter.
     - **Farthest:** ~152 million km (July 4) → Northern Hemisphere summer.
 - This is only a **3% variation**, a minor effect compared to the axis tilt.
-
-## **2. Sun’s Path Across the Sky**
+---
+**Sun's Path Across Sky**
 - From **spring to summer solstice:**
     - Sun rises **more northeast** and sets **more northwest**.
     - Noon altitude increases → longer days → more direct sunlight → warmer.
