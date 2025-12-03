@@ -34,7 +34,7 @@
     - The result is about **9.46 × 10¹² km**, confirming the enormous scale of cosmic distances.
 - **Comparison to familiar distances:**
     - Moonlight takes **1 second** to reach Earth—tiny compared to a light-year.
-    - The **closest star** beyond the Sun is about **1 light-year** away (more precisely, 4.24 light-years for Proxima Centauri, though the lecture simplifies it)
+    - The **closest star** beyond the Sun is about **1 light-year** away 
 - - **Number of stars in the Milky Way:**
     - The Milky Way contains roughly **100 billion stars**—an _order-of-magnitude_ estimate, since precise counting is impossible.
 - **Why order-of-magnitude estimates matter in astronomy:**
@@ -49,15 +49,13 @@
     - Scaling up by a factor of **10 billion**, the estimated real size becomes about **2 × 10¹⁷ km**.
     - Converting to light-years (1 ly ≈ 10¹³ km), this gives:
         - **~10⁵ light-years**, matching the true Milky Way diameter of **~100,000 light-years**        
-- **Takeaway:**
-    - Even with simplified assumptions (e.g., stars evenly spaced in a cube), order-of-magnitude methods can produce surprisingly accurate results for the Milky Way’s size.
 - **Number of galaxies in the observable universe:**
     - There are roughly **100 billion galaxies** in the _observable_ universe.
 - **Number of stars per galaxy:**
     - Each typical galaxy, like the Milky Way, has about **100 billion stars**.
 - **Total number of stars in the observable universe:**
-    - Multiplying these gives about **10²² stars** (10 sextillion).
-    - This count applies only to the **observable universe**—there may be far more galaxies beyond what we can see.    
+    -  **10²² stars**
+    - This count applies only to the **observable universe**
 - **Comparison to Earth:**
     - The number of stars (~10²²) is roughly comparable to the estimated number of **grains of sand on all of Earth’s beaches**.
 - #### **1. Looking farther = looking back in time**
