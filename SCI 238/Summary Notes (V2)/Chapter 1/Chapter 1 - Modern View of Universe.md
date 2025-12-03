@@ -96,7 +96,6 @@ Even though it feels like we’re stationary, Earth is constantly moving in seve
 - These motions are tiny on the sky and hard to detect visually.
     - Only recently measured precisely using missions like **Gaia**.
 ### **4. The Sun’s orbit around the Milky Way**
-
 - The Sun (and the whole solar system) orbits the center of the Milky Way.
 - Speed: **~800,000 km/h**.
 - One full orbit takes **~230 million years** (a “galactic year”).
