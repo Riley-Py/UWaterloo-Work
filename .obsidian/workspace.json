@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "21 cm line",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -176,7 +175,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fa9e9633e139b094",
+  "active": "059c515cd4110e39",
   "lastOpenFiles": [
     "SCI 238/Summary Notes (V2)/Chapter 15/Chapter 15 - Surveying Stars.md",
     "SCI 238/Summary Notes (V2)/Chapter 13/Chapter 13 - Exoplanets.md",
