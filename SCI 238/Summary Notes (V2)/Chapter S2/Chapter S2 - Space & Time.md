@@ -103,8 +103,7 @@ This exchange is the key insight:
   - You throw a baseball at 100 km/h toward him.
   - He measures the ball approaching at 10 km/h.
 - Valid only when speeds are much less than **c**.
-
-## 3. Breakdown at High Speeds
+**Breakdown at High Speeds**
 - At speeds near **c**, classical velocity addition fails.
 - Example:
   - You move away at 0.9c.
@@ -114,14 +113,44 @@ This exchange is the key insight:
   - All observers measure light at **c**.
   - Time and space are not absolute.
   - Requires relativistic velocity-addition.
-
-## 4. Why Nothing Can Reach the Speed of Light
+ **Why Nothing Can Reach the Speed of Light**
 - Light always moves away from you at **c**, even if you accelerate.
 - You can approach **c**, but you never reach it.
 - You never “catch” the light you emit.
 - To a stationary observer, you approach **c** asymptotically.
-
-## 5. Faster-Than-Light Situations
+**Faster-Than-Light Situations**
 - Special relativity forbids any object or information from exceeding **c**.
 - Some effects can appear faster than **c**, but they do not transmit information.
 - General relativity allows exotic scenarios (e.g., wormholes), but these are not true FTL travel.
+---
+**Revising Space and Time**
+- Relativity requires redefining how space and time behave.
+- Einstein used thought experiments (often involving trains) to understand these effects.
+- Gravity is ignored; motion is at constant speed.
+ **Classical Train Thought Experiment (with a Ball)**
+- On the train:
+  - A person throws a ball straight up.
+  - They observe it go straight up and straight down.
+- Outside observer:
+  - The ball also moves horizontally with the train.
+  - Path is diagonal upward, then diagonal downward.
+- Faster train → longer total (diagonal) distance traveled.
+- Vertical distance stays the same; horizontal distance increases with speed.
+**Replace the Ball with Light**
+- Repeat the experiment using a light beam instead of a ball.
+- On the train:
+  - Light travels straight up and down between floor and ceiling.
+- Outside observer:
+  - Light travels a longer diagonal path because the train moves horizontally.
+  - Light still travels at the same speed **c** for all observers.
+
+Consequence: Time Dilation
+- Both observers measure:
+  - Same starting event (light emitted).
+  - Same ending event (light returns).
+  - Same speed of light (**c**).
+- Outside observer sees the light travel a longer distance.
+- With speed fixed and distance larger, **time must be longer** for the outside observer.
+- Therefore:
+  - The moving observer measures a **shorter** time interval.
+  - The stationary observer measures a **longer** time interval.
