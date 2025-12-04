@@ -123,3 +123,36 @@
 3. Population III stars are **hypothetical**, as all likely died long ago.  
 4. Simulations support this picture but have **resolution limits**.
 ---
+**Slowdown of Contraction**
+- As the cloud fragment contracts, **density increases**, making it harder for photons to escape.  
+- When photons cannot escape efficiently:
+  - **Cooling slows down**  
+  - **Thermal energy builds up** → internal pressure increases  
+- This **slows contraction** and forms a **protostar**.
+---
+**Continuous Accretion**
+- Material from the surrounding cloud continues to **fall onto the protostar**.  
+- Accretion continues until:
+  - The protostar emits enough energy to **blow away surrounding material**  
+- This stage feeds the growth of the future star.
+---
+**Role of Rotation**
+- **Conservation of angular momentum**: as the cloud contracts, rotation speeds up.  
+- A small initial rotation leads to:
+  - Flattening of the cloud into a **disc** around the central protostar  
+  - Formation of a **protostellar disc** with a central core  
+- Collisions and cooling reduce random motion, aiding disc formation.
+
+---
+**Formation of Jets**
+- Some material is ejected as **jets along the rotation axis** of the disc.  
+- Observed jets can extend **~1000 AU** (comparable to Solar System scale).  
+- Jets interact with the interstellar medium, **heating it and creating observable glow**.  
+- Likely influenced by **magnetic fields**, though exact mechanism is still not fully understood.
+---
+**Summary**
+1. Dense cloud contraction → photons trapped → **protostar forms**.  
+2. Accretion feeds the protostar while it slowly heats.  
+3. Rotation → conservation of angular momentum → **flattened disc** forms.  
+4. Jets launched along rotation axis, possibly **magnetically driven**.  
+5. Protostar stage ends with **onset of nuclear fusion**, defining a true star.
