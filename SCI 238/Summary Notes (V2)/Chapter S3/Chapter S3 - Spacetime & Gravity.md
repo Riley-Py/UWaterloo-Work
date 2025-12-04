@@ -94,3 +94,30 @@ $s^2 = x^2 + y^2 + z^2 - (ct)^2$
 - Special relativity: flat spacetime.  
 - General relativity: spacetime is curved, so distances and trajectories must account for curvature.
 ---
+**flat geometry (euclidean rules)**  
+- Straight line = shortest distance between two points.  
+- Parallel lines never meet.  
+- Angles of a triangle add up to 180°.  
+- Circumference of circle = 2πr.  
+**curved geometry (spherical example)**  
+- Straight lines → great circles (shortest path on a sphere).  
+- “Parallel” great circles eventually intersect.  
+- Angles of a triangle > 180° (can exceed, e.g., 90°+90°+90°=270°).  
+- Circumference of circle < 2πr for large circles; maximum at great circle.  
+- Example: flying Toronto → Beijing along great circle is shorter than constant latitude path.  
+**negatively curved geometry (saddle-shaped)**  
+- Angles of a triangle < 180° (“skinny” triangles).  
+- Circumference > 2πr.  
+- Infinite surfaces possible.  
+**curved 3D space**  
+- Hard to visualize; relies on math.  
+- Universe can be flat, spherical, or saddle-shaped depending on matter/energy content.  
+- Spherical universe → finite volume, no boundary.  
+- Flat or saddle-shaped → infinite extent.  
+**spacetime and curvature**  
+- In spacetime (special relativity), distance includes time: $s^2 = x^2 + y^2 + z^2 - (ct)^2$.  
+- **Equivalence principle**: free-falling observers follow the straightest possible path through spacetime.  
+- Gravity = curvature of spacetime, not a force.  
+- Straightest paths in curved spacetime = geodesics → curved trajectories appear as gravitational motion.  
+- Feeling weight = external force → deviation from straightest path (not free fall).  
+---
