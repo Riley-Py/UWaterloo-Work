@@ -182,32 +182,24 @@ Different combinations of these lead to **spirals, ellipticals, lenticulars, and
   - Star formation can restart  
 Thus winds are **much more disruptive** for dwarfs than for giant galaxies.
 ---
-
-## 🌌 1. Supermassive Black Holes in Galaxy Centers
+**Supermassive Black Holes in Galaxy Centers**
 - Nearly **all galaxies** contain a **supermassive black hole (SMBH)** at the center.
 - We already have **direct evidence** for the SMBH in the Milky Way.
 - For distant galaxies, SMBHs are harder to observe directly, so **historical evidence** came from *active galactic nuclei* (AGN), especially **quasars**.
-
 ---
-
-## ⭐ 2. Quasars: Quasi-Stellar Objects (QSOs)
+**Quasars: Quasi-Stellar Objects (QSOs)**
 - “Quasar” = *quasi-stellar object* → looks like a star (point-like) in optical images.
 - But spectroscopy reveals:
   - **Huge redshifts**
   - **Broad, blurred emission/absorption lines**
-
 These redshifts show quasars are **very distant**, not nearby stars.
-
 ---
-
-## 🔭 3. Redshift as the Distance Indicator
+. **Redshift as the Distance Indicator**
 - Redshift comes from the **Doppler effect**: objects receding from us have spectral lines shifted to longer wavelengths.
 - Using **Hubble’s Law**, a large redshift → large distance.
 - Quasars’ redshifts imply they are **billions of light-years away**, in the distant universe.
-
 ---
-
-## 💡 4. Luminosity: Quasars Are Incredibly Bright
+ **Luminosity: Quasars Are Incredibly Bright**
 - If you know:
   - Apparent brightness  
   - Distance (from redshift)  
@@ -215,10 +207,8 @@ These redshifts show quasars are **very distant**, not nearby stars.
 - Quasars have luminosities of **~10¹² L☉** (a trillion times the Sun).
   - Comparable to an **entire galaxy**.
 - Yet they look **smaller than a star** in a telescope → extreme compactness.
-
 ---
-
-Variability & Size of the Emitting Region
+**Variability & Size of the Emitting Region**
 - Quasars vary in brightness on **time scales of weeks to months**.
 - Light-crossing-time argument:
   - A region cannot change brightness faster than light can travel across it.
