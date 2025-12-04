@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SCI 238/Summary Notes (V2)/Chapter 15/Chapter 15 - Figures.md",
+                "file": "SCI 238/Summary Notes (V2)/Chapter 16/Chapter 16 - Star Birth.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 15 - Figures"
+              "title": "Chapter 16 - Star Birth"
             }
           }
         ]
@@ -175,12 +175,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "059c515cd4110e39",
+  "active": "fa9e9633e139b094",
   "lastOpenFiles": [
+    "SCI 238/Summary Notes (V2)/Chapter 15/Chapter 15 - Figures.md",
+    "SCI 238/Summary Notes (V2)/Chapter 16/Chapter 16 - Star Birth.md",
     "SCI 238/Summary Notes (V2)/Chapter 16",
     "SCI 238/Summary Notes (V2)/Chapter 15/Chapter 15 - Surveying Stars.md",
     "hr.jpg",
-    "SCI 238/Summary Notes (V2)/Chapter 15/Chapter 15 - Figures.md",
     "Pasted image 20251204105440.png",
     "Pasted image 20251204105411.png",
     "SCI 238/Summary Notes (V2)/Chapter 14/Chapter 14 - Figures.md",
@@ -222,7 +223,6 @@
     "SCI 238/Summary Notes (V2)/Chapter 7",
     "SCI 238/Summary Notes (V2)/Chapter 5/Chapter 5 - Figures.md",
     "SCI 238/Summary Notes (V2)/Chapter 6",
-    "SCI 238/Summary Notes (V2)/Chapter 5",
     "Untitled.canvas"
   ]
 }
