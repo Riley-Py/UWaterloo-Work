@@ -121,3 +121,36 @@ $s^2 = x^2 + y^2 + z^2 - (ct)^2$
 - Straightest paths in curved spacetime = geodesics → curved trajectories appear as gravitational motion.  
 - Feeling weight = external force → deviation from straightest path (not free fall).  
 ---
+**newtonian gravity**  
+- Viewed gravity as a mysterious action-at-a-distance force.  
+- Force acts instantaneously between massive objects.  
+- Strength decreases with distance.  
+**einsteinian gravity**  
+- Gravity = curvature of spacetime, not a force.  
+- Objects follow the straightest possible paths (geodesics) in curved spacetime.  
+- Freely falling objects experience weightlessness because they follow geodesics.  
+- Feeling weight (e.g., sitting on a chair) = experiencing an external force, deviating from geodesic.  
+**local interaction principle**  
+- Massive objects curve spacetime around them.  
+- Other objects move according to local geometry, independent of their mass (unless extremely massive).  
+- All objects follow the same local laws → manifestation of equivalence principle.  
+**rubber sheet analogy (limitations)**  
+- Illustrates curvature in 2D only; real space has 3D.  
+- Masses do not rest on spacetime like they do on a sheet.  
+- Shows curved trajectories visually, but orbits in actual spacetime are more complex.  
+- Spiraling worldlines in spacetime represent straight paths in curved spacetime (e.g., Earth around Sun).  
+---
+**spacetime curvature near ordinary stars**  
+- Example: Sun’s mass curves spacetime very slightly.  
+- Curvature ≈ (escape velocity / speed of light)².  
+- For Sun, curvature ~ 10⁻⁶ → extremely small, measurable only with precision instruments.  
+**shrinking mass → stronger curvature**  
+- If mass is compressed without changing mass:  
+  - Escape velocity increases $vₑ² = 2GM/r$  
+  - Curvature of spacetime near the surface increases.  
+- Limit: Escape velocity → speed of light → formation of black hole.  
+**black hole definition**  
+- Region of spacetime where curvature is so extreme that nothing can escape, not even light.  
+- Event horizon: the “point of no return,” a 3D boundary around the black hole.  
+  - Not a physical surface; marks where escape is impossible.  
+  - Anything crossing the horizon cannot send signals back.  
