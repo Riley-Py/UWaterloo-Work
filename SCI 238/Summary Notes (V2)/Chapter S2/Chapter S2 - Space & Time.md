@@ -70,33 +70,24 @@
  **2. Speed of Light Is the Same for All Observers**
 - Comes directly from Maxwell’s equations.  
 - Not affected by the source’s motion or the observer’s motion.
-
-> Together these form the **Principle of Equivalence for inertial observers**.  
-> In general relativity, this extends to *all* observers, including accelerating ones.
-
 ---
-
-## 4. A Helpful Analogy: Up and Down on Earth Are Relative
+ **A Helpful Analogy: Up and Down on Earth Are Relative**
 - What counts as “up” depends on your position on Earth.  
   - Someone in Canada points “up” opposite to someone in Australia.  
 - Up/down are **geometric, location-dependent**, not universal.
-
 Relativity expands this idea:  
 - Not just direction, but **time** becomes relative between observers.
-
 ---
-
-## 5. The Trade-Off: What Changes from Newton to Einstein?
-
-### **Newtonian Mechanics**
+  **The Trade-Off: What Changes from Newton to Einstein?**
+**Newtonian Mechanics**
 - **Time is absolute** → all observers share the same time.  
 - **Motion is relative** → velocity depends on the observer.
-
-### **Einstein’s Special Relativity**
+**Einstein’s Special Relativity**
 - **Time becomes relative.**  
   - Different observers measure different times for the *same* event.
 - **Speed of light becomes absolute.**  
   - All observers measure light at c, no matter their motion.
-
 This exchange is the key insight:  
-> **Lose absolute time → gain absolute speed of light.**
+**Lose absolute time → gain absolute speed of light.**
+
+---
