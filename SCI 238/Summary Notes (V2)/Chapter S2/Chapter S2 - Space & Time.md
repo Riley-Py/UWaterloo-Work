@@ -189,3 +189,57 @@ This exchange is the key insight:
   - He moves **toward** one event and **away** from the other.
   - He receives the closer-direction flash earlier.
 - Even if the flashes were emitted simultaneously in your frame, they **are not simultaneous** in his frame.
+---
+**Length Contraction**
+- Objects **contract along the direction of motion** when observed from another frame.
+- Example:
+  - A spherical spaceship looks normal to people onboard.
+  - To an outside observer, its length **along the motion direction** becomes shorter.
+- Only the dimension **parallel** to motion contracts.
+- Faster motion → stronger contraction.
+**Formula:**
+$L = L_0 \sqrt{1 - \frac{v^2}{c^2}}$
+- \( L_0 \): proper length (object’s own frame)
+- \( L \): contracted length (observed from outside)
+---
+**Relativistic Mass Increase**
+- Moving objects behave as if their mass increases with speed.
+- A constant force gives **less acceleration** at high speeds.
+- This is why objects can approach but never reach the speed of light:
+  - Increasing relativistic mass → harder to accelerate.
+**Conceptual expression:**
+\[
+F = m_{\text{rel}} a \quad \text{with} \quad
+m_{\text{rel}} = \frac{m_0}{\sqrt{1 - v^2/c^2}}
+\]
+
+- As \( v \to c \), \( m_{\text{rel}} \to \infty \).
+- Infinite mass → impossible to reach \( c \).
+
+---
+
+## 3. Relativistic Velocity Addition
+- You **cannot** simply add velocities (e.g., 0.9c + 0.8c ≠ 1.7c).
+- To preserve the universal speed limit \( c \), velocities combine through the relativistic addition formula:
+
+**Formula:**
+\[
+v_{\text{rel}} = \frac{v_1 + v_2}{1 + \frac{v_1 v_2}{c^2}}
+\]
+
+### Example
+- Al approaches you at \( 0.9c \).
+- Jackie approaches you at \( 0.8c \).
+- Naively adding gives 1.7c (wrong).
+- Using the correct formula:
+\[
+v_{\text{rel}} = \frac{0.9c + 0.8c}{1 + (0.9)(0.8)} 
+= \frac{1.7c}{1 + 0.72} 
+= \frac{1.7}{1.72}c 
+\approx 0.988c
+\]
+
+### Key Result
+- No matter how you combine them, **relative speeds never exceed \( c \)**.
+
+---
