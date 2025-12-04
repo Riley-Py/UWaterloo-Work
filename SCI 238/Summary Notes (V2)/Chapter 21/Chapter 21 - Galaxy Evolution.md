@@ -105,20 +105,15 @@ Different combinations of these lead to **spirals, ellipticals, lenticulars, and
 **Collisions Were More Common in the Early Universe**
 - Early Universe = **denser**, galaxies closer together → more collisions.  
 - This explains why **young galaxies we see at high redshift look irregular**.
-
-### Why do distant galaxies look grainy?
+ **Why do distant galaxies look grainy?**
 - They’re extremely far → tiny and faint → limited resolution.
 - But real underlying structure is also irregular due to mergers.
-
 ---
-
-## 🔭 4. Nearby Collisions Teach Us About Early Ones
+ **Nearby Collisions Teach Us About Early Ones**
 - We can resolve nearby colliding galaxies well → see starbursts, tidal tails, etc.  
 - Early galaxies likely behaved similarly, but we can’t image them with the same clarity.
-
 ---
-
-## 💻 5. Simulations of Galaxy Mergers
+**Simulations of Galaxy Mergers**
 - Classic simulations model **two spiral galaxies merging** in isolation.  
 - The result after relaxation:
   - **Spiral + spiral → elliptical-like system**
@@ -127,28 +122,76 @@ Different combinations of these lead to **spirals, ellipticals, lenticulars, and
     - Star formation dies out.
     - Stars age → elliptical looks red & old.
 
-⚠️ Modern simulations now model galaxies inside full cosmological environments, but the basic cartoon still holds.
-
+ Modern simulations now model galaxies inside full cosmological environments, but the basic cartoon still holds.
 ---
-
-## 🐚 6. Evidence for Past Collisions: Stellar Shells
+ **Evidence for Past Collisions: Stellar Shells**
 - Elliptical galaxies sometimes show **shells or ripples** in their stellar distributions.  
 - These are **not bound structures** — they’re leftover caustics from disrupted smaller galaxies.  
 - Analogy: bright **caustic patterns at the bottom of a swimming pool**.
-
 ---
-
-## 🏙️ 7. Why Ellipticals Are More Common in Clusters
+**Why Ellipticals Are More Common in Clusters**
 - Clusters = galaxies packed closely → **more collisions**.  
 - If collisions of spirals produce ellipticals, then:
   - **Cluster centers** should have more ellipticals.
   - Observations confirm this.
-
 ---
-
-## 🌀 8. Example: Abell 3827
+**Example: Abell 3827**
 - A galaxy cluster showing:
   - **Multiple galaxies interacting and merging**.
   - **Gravitational lensing** — blue arcs are stretched images of background galaxies.
+---
+## 🌟 1. Starburst Galaxies: Extremely High Star-Formation Rates
+- Most galaxies today form stars at **low to moderate rates**.  
+- A **small minority** are *starburst galaxies* → forming stars **up to ~100× faster** than the Milky Way.
+  - Milky Way SFR ≈ **1 solar mass per year**.
+  - Starbursts: **tens to hundreds** of solar masses per year.
 
----.
+---
+
+## 🔥 2. Why Starbursts Glow in the Infrared
+- Starburst galaxies contain **huge dense molecular clouds** filled with dust.
+- Light from young stars gets **absorbed by dust**, heating it.  
+- The dust then radiates strongly at **~100 microns**, i.e., the **far infrared**.
+- Unlike the Milky Way (where these clouds are patchy), starbursts have **dusty star-forming regions across the entire galaxy**.
+
+### Spectral Clue
+- Their spectra show:
+  - Weak optical output (absorbed by dust)
+  - **Very strong infrared luminosity**
+
+This is a hallmark of intense, dust-enshrouded star formation.
+
+---
+
+## 💥 3. Supernovae Drive Galactic Winds
+- Starbursts produce **many massive stars** → many supernovae → huge energy input.
+- Instead of small local bubbles like in the Milky Way, starbursts create **galaxy-scale winds**.
+
+### Bipolar Winds
+- Observations show:
+  - Blue optical light = star-forming disk  
+  - Red emission = gas being pushed out  
+  - Geometry: **two opposite cones** of outflow (bipolar)
+
+### X-ray Evidence
+- Outflowing gas heated by supernova shocks emits strongly in **X-rays**.  
+- X-ray images reveal hot, fast-moving gas escaping perpendicular to the disk.
+
+---
+
+## 🌬️ 4. Consequences of Galactic Winds
+### **In Small Galaxies**
+- Winds can **eject most of the gas** entirely.
+- This stops star formation early → explains:
+  - Low stellar mass  
+  - Low metallicity  
+  - Irregular structures in dwarfs
+
+### **In Large Galaxies**
+- Winds are still powerful but:
+  - Gravity is stronger  
+  - Much of the gas eventually **falls back in* 
+  - Star formation can restart  
+Thus winds are **much more disruptive** for dwarfs than for giant galaxies.
+
+---
