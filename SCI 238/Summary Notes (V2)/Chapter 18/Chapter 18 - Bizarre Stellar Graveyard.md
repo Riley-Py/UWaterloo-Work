@@ -102,3 +102,47 @@
 | Occurrence | In binaries | Single massive stars or binaries |
 
 ---
+**Light Curves**
+**White Dwarf Supernova (Type Ia)**
+- Originates from **exploding white dwarfs** in binaries.
+- **Light Curve:**
+  - Sharp rise to peak luminosity (~10¹⁰ L☉) over days.
+  - Smooth decline following a **power-law decay**.
+  - No extended envelope → no multiple peaks.
+ **Massive Star Supernova (Type II)**
+- Originates from **core-collapse of massive stars**.
+- **Light Curve:**
+  - Broader peak, lasting **weeks**.
+  - Often shows **two peaks** due to shock breaking through outer layers.
+  - Explosion includes the **stellar envelope**, causing complex luminosity structure.
+**Key Points**
+- Both can temporarily outshine their entire galaxy.
+- Peak luminosities:  
+  - Supernova: ~10¹⁰ L☉  
+  - Nova: ~10⁵ L☉ (much fainter, localized surface explosion on white dwarf)
+
+---
+**Nova vs. Supernova**
+
+| Feature | Nova | Supernova |
+|---------|------|-----------|
+| Cause | Hydrogen fusion in accreted layer on white dwarf | Core collapse (massive star) or carbon fusion (white dwarf) |
+| Energy release | Small, localized | Catastrophic, entire star (WD) or outer layers (massive star) |
+| Luminosity | ~10⁵ L☉ | ~10¹⁰ L☉ (~100,000× brighter) |
+| Remnant | White dwarf remains | None (WD destroyed) or neutron star/black hole (massive star) |
+
+---
+**Spectral Differences**
+- **White Dwarf Supernova:**  
+  - Lacks hydrogen in spectrum → outer layers mostly carbon/helium.  
+  - Light passes through little or no envelope.
+
+- **Massive Star Supernova:**  
+  - Hydrogen absorption lines present → explosion passes through thick hydrogen envelope.  
+  - Spectrum reflects composition of entire star.
+---
+**Summary**
+- **White dwarf supernovae:** clean, uniform light curve; no hydrogen; complete destruction of WD.  
+- **Massive star supernovae:** broader, structured light curve; hydrogen-rich spectrum; leaves neutron star or black hole.  
+- **Novae:** much less energetic, recurring surface events on white dwarfs.
+---
