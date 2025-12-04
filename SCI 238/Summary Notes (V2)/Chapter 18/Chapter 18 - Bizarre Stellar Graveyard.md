@@ -228,18 +228,13 @@
 - Surface nuclear fusion of accreted matter → **observable X-ray bursts**.
 - Provides a rich laboratory for **extreme physics and stellar evolution**.
 ---
-
-## 1. Formation of Black Holes
-
+**Formation of Black Holes**
 - **Massive stars** (> ~20–25 solar masses) can form black holes if their core mass exceeds the neutron star limit (~2–3 M☉).  
 - If the **core is too massive** for neutron degeneracy pressure to support it → collapse continues → **black hole forms**.  
 - **Accretion** onto a neutron star could, in principle, push it past the limit → black hole.
-
 ---
-
-## 2. Escape Velocity and Event Horizon
-
-- **Escape velocity**: \(v_\text{esc} = \sqrt{\frac{2GM}{R}}\)
+ **Escape Velocity and Event Horizon**
+- **Escape velocity**: $v_\text{esc} = \sqrt{\frac{2GM}{R}}$
   - Shrinking an object increases $v_\text{esc}$.
   - Black hole forms when $v_\text{esc} \ge c$→ **event horizon** or **Schwarzschild radius**.
 - Event horizon: boundary beyond which **nothing can escape**, not even light.
@@ -268,3 +263,38 @@
 - **Event horizon**: boundary of no return, defined by escape velocity = speed of light.
 - **Singularity**: a limit of current physics; exact nature unknown.
 - Black holes inherit **mass, spin, charge** from progenitor objects or accreted matter.
+---
+**Gravity Near a Black Hole**
+- Far away: gravity of a black hole is **indistinguishable** from any other object of the same mass.  
+- Black holes do **not “suck”** like vacuum cleaners; they act like normal massive objects unless you are very close.  
+- Near the event horizon:
+  - Spacetime is **extremely warped**.
+  - Light and matter are strongly affected → gravitational redshift and time dilation become extreme.
+---
+**Gravitational Redshift**
+- Light climbing out of the deep gravitational well loses energy → shifts to **longer wavelengths** (redder).  
+- At the event horizon: **infinite redshift**; no light escapes.
+---
+**Time Dilation**
+- Clocks near the event horizon **run slower** relative to distant observers.  
+- Example: a 15-minute interval near the horizon may appear as 50 minutes to a far-away observer.  
+- Extreme effect near the horizon due to strong warping of spacetime.
+---
+**Falling into a Black Hole**
+- Black holes are **very small** for their mass (e.g., a solar-mass black hole ~10 km radius).  
+- Hard to fall in unless very close.  
+- Accretion disks allow gas to spiral in gradually due to friction and angular momentum loss.
+### Tidal Forces
+
+- Small black holes (~3 M☉): **tidal forces lethal** → “spaghettification” (stretching along one axis, squeezing along others).  
+- Supermassive black holes (> millions of M☉): tidal forces near the horizon are weak → humans could cross horizon **without noticing**.  
+
+---
+
+## 5. Evidence for Black Holes
+
+- **Mass measurement** using orbital properties of a companion or surrounding gas:
+  - Measure velocity and distance of orbiting material → infer central mass.
+  - Mass > 3 M☉ → cannot be a neutron star → must be a black hole.
+- **X-ray binaries**: compact objects accreting material emit X-rays; many contain black holes.
+  - Example: **Cygnus X-1** (first strong black hole candidate, now widely accepted).
