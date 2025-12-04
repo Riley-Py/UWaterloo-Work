@@ -248,3 +248,38 @@ $\text{Lifetime} \sim \frac{\text{Fuel}}{\text{Luminosity}}$
 - Example: **Polaris (North Star)** is a variable star in the instability strip.  
 Light curves show **periodic brightness changes**, indicating oscillations in radius and luminosity.
 ---
+ **Types of Star Clusters**
+
+| Cluster Type | Example | Characteristics |
+|-------------|---------|----------------|
+| **Open Clusters** | Pleiades (Seven Sisters) | - Few thousand stars, loosely packed  <br> - Young (<100–650 million years) <br> - Gas and dust often still visible |
+| **Globular Clusters** | NGC 188 | - Very dense, up to a million stars <br> - Old (up to 13 billion years) <br> - Stars mostly red/older, little gas remaining |
+
+---
+
+**Determining Cluster Age: Main Sequence Turnoff**
+- **Idea:** Massive stars burn faster → die first  
+- The **turnoff point** on the H-R diagram marks **the most massive stars still on the main sequence**  
+- Age estimation process:
+  1. Observe cluster H-R diagram  
+  2. Identify main sequence turnoff  
+  3. Compare with stellar evolution models → gives cluster age
+
+---
+
+**Examples**
+
+| Cluster | Main Sequence Turnoff | Approx. Age |
+|--------|---------------------|------------|
+| H + Chi Persei | High-mass stars just leaving main sequence | 14 million years |
+| Pleiades | Intermediate-mass stars at turnoff | 100–650 million years |
+| NGC 188 | Low-mass stars still on main sequence | 13 billion years |
+
+- **Interpretation:**  
+  - Stars with lifetimes **shorter than the turnoff age have already died**  
+  - Stars with longer lifetimes remain on the main sequence
+---
+**Importance of Globular Clusters**
+- Oldest globular clusters (e.g., NGC 188) are **~13 billion years old**  
+- This provides a **lower limit on the age of the universe**:  
+  - The universe must be older than the oldest stars it contains
