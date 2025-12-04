@@ -154,3 +154,38 @@ $s^2 = x^2 + y^2 + z^2 - (ct)^2$
 - Event horizon: the “point of no return,” a 3D boundary around the black hole.  
   - Not a physical surface; marks where escape is impossible.  
   - Anything crossing the horizon cannot send signals back.  
+---
+**gravitational time dilation**  
+- Gravity affects the passage of time.  
+- Stronger gravitational fields → time runs slower relative to weaker fields.  
+- Higher altitudes (weaker gravity) → clocks tick faster.  
+- Lower altitudes (stronger gravity) → clocks tick slower.  
+**thought experiment: accelerating spaceship**  
+- Equivalence principle: acceleration ↔ gravity.  
+- A spaceship accelerating upward at 9.8 m/s² mimics a gravitational field.  
+- Light pulses sent from the back to front of the ship are **redshifted** (appear farther apart in time).  
+- Light pulses sent from the front to back are **blueshifted** (appear closer together in time).  
+**gravitational redshift**  
+- Same effect occurs in a gravitational field:  
+  - Light leaving a deep gravitational well → redshifted (lower frequency).  
+  - Observer far away sees events in the well as occurring slower.  
+---
+**twin paradox overview**  
+- Two twins start at the same age.  
+- One twin stays on Earth, the other travels at high speed to a distant star and returns.  
+- The traveling twin ages **less** than the twin on Earth.  
+**special relativity explanation**  
+- High-speed motion → moving clock runs slower.  
+- Time dilation occurs for the traveling twin.  
+- Relative motion alone does **not** explain the asymmetry; acceleration matters.  
+**role of acceleration**  
+- Traveling twin (Al) accelerates to leave Earth, turn around, and return.  
+- Earth-bound twin feels no acceleration (ignoring Earth's gravity).  
+- Accelerated twin’s trajectory is **not the straightest possible path** through spacetime.  
+- Straightest possible path (in spacetime) → maximizes elapsed time → Earth twin ages more.  
+**key insights**  
+- Straightest path through spacetime corresponds to **maximum proper time**.  
+- Any deviation (acceleration, change of direction) → shorter proper time experienced.  
+- Extreme case: traveling at near-light speed → almost no time elapses for the traveler.  
+- General relativity perspective: weight/acceleration explains why symmetry between twins is broken. 
+---
