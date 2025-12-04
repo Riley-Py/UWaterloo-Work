@@ -65,7 +65,7 @@
   - **If cloud < Jeans mass → pressure wins → no collapse**
   - $M_{balance} = 18 \cdot M_{sun} \sqrt({T^3 \over n})$ (Jean's mass formula)
 	  - n is density per cubic centimeter
-	  - T is temperatuer
+	  - T is temperature in Kelvin
 ---
 **Additional Forces Opposing Gravity**
 - **Magnetic fields**: create magnetic pressure  
@@ -94,3 +94,32 @@
 4. **Runaway collapse:** denser regions collapse faster  
 5. **Fragmentation:** forms multiple stars → explains star clusters  
 6. **Cloud properties (mass, density, temperature)** determine number and type of stars formed
+---
+**No Heavy Elements**
+- The first stars formed **before carbon, oxygen, and other metals existed**.  
+- Big Bang nucleosynthesis produced only **hydrogen, helium, and tiny amounts of lithium**.  
+- **No metals → no CO molecules → inefficient cooling** of the gas clouds.
+---
+**Consequences of Poor Cooling**
+- Modern molecular clouds rely on **carbon monoxide (CO)** and dust to radiate away thermal energy.  
+- Without metals:
+  - Gas clouds **remained warmer** (~100 K instead of ~10-30 K)  
+  - **Thermal pressure was higher**, resisting collapse  
+  - **Stronger gravity (larger mass) required** to overcome pressure  
+---
+ **Implications for First Stars**
+- First stars were likely **much more massive** than stars today.  
+- Estimates from simulations: **~100 solar masses** per star.  
+- These stars are called **Population III stars**.  
+---
+**Simulations and Observations**
+- Simulations start with **metal-free gas clouds** and early-universe conditions.  
+- Example: A cloud that never cools below 100 K collapses into a single massive star.  
+- **Limitations:** Numerical resolution and assumptions mean results are **not exact**, but they give a strong indication that early stars were massive.
+---
+**Summary**
+1. First stars formed from **metal-free gas** → inefficient cooling.  
+2. Poor cooling → **higher temperature** → stronger gravity required → **more massive stars**.  
+3. Population III stars are **hypothetical**, as all likely died long ago.  
+4. Simulations support this picture but have **resolution limits**.
+---
