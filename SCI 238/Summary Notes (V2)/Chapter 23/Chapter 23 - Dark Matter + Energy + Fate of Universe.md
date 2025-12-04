@@ -155,3 +155,41 @@
 - Galaxies trace dark matter → simulated distributions match observed galaxy maps.
 - Confirms: **dark matter drives structure formation**, especially at large scales.
 ---
+**1. Introduction**
+- Dark energy dominates the energy content of the universe on the largest scales today.
+- Discovery: Evidence became convincing around 1999–2000; Nobel Prize in 2011.
+- Unlike dark matter, dark energy effects are recent and influence cosmic expansion rather than galaxy formation.
+**2. Cosmic Expansion and Fate of the Universe**
+- Traditional scenarios based on matter density:
+  - **High matter density** → universe slows, may collapse.
+  - **Critical density** → expansion slows asymptotically, never collapses.
+  - **Low matter density** → coasting expansion, continues indefinitely.
+- Observation: Expansion is **accelerating** → indicates repulsive gravity on large scales.
+**3. Influence of Dark Matter on Universe Age**
+- More dark matter → stronger gravitational deceleration → universe appears **younger** for a given expansion rate.
+- Visualized: Scale factor vs. time curves show that higher matter content leads to faster early expansion and shorter inferred age.
+**4. Evidence from Type Ia Supernovae**
+- White dwarf supernovae = standard candles → measure cosmic distances.
+- Doppler shift of supernova spectra → measure expansion velocity.
+- Observations: Distant supernovae appear **fainter than expected** → universe expanded more slowly in the past, then accelerated.
+- Conclusion: **Accelerating universe**, requires repulsive component (dark energy).
+**5. Evidence from Cosmic Microwave Background (CMB)**
+- Measurements indicate **flat spatial geometry** (Euclidean space) on large scales.
+- Critical density: Ω_total = 1 → sum of all energy contributions must match.
+- Observed matter density: Ω_matter ≈ 0.32 (27% dark matter + 5% ordinary matter)
+- Remaining energy → Ω_dark energy ≈ 0.68 → needed to account for flatness.
+**6. Current Cosmic Energy Budget**
+
+| Component       | Fraction of Universe |
+|-----------------|-------------------|
+| Dark energy     | 68%               |
+| Dark matter     | 27%               |
+| Ordinary matter | 5%                |
+
+**7. Fate of the Universe**
+- Accelerated expansion driven by dark energy → universe continues expanding forever.
+- Possible outcome: **Heat death**
+  - Matter collapses into black holes.
+  - Black holes eventually evaporate (Hawking radiation).
+  - Universe becomes cold, dilute, and inert over extremely long timescales.
+---
