@@ -207,3 +207,31 @@ $M \approx 10^{11} M_\odot \approx 1.9 \times 10^{41} \text{ kg}$
 - **Younger disk stars** trace ongoing star formation from enriched gas.  
 - Metallicity and star ages act as “fossils,” telling the story of the galaxy’s evolution.
 ---
+ **Observational Evidence**
+- **Infrared Observations:**  
+  - The galactic center is heavily obscured by dust → only visible in **infrared light**.
+  - Zooming in reveals structures on scales from hundreds to a few light-years.
+- **Radio Emission:**  
+  - Traces hot gas swirling near the center.  
+  - Shows evidence of matter accreting onto a central massive object.
+- **Orbiting Stars:**  
+  - Stars near the center (within ~1600 AU) follow **elliptical orbits**.  
+  - Using **Kepler's laws**, the mass of the central object is inferred:  
+    - ~4 million solar masses.  
+  - The central mass is **invisible**, consistent with a black hole.
+- **X-ray Flares:**  
+  - Produced when tidal forces tear apart matter falling toward the black hole.  
+  - Indicates an active accretion environment.
+---
+**Supermassive Black Holes**
+- The Milky Way's central black hole is **massive but not the largest known**.  
+- Example: **M87 galaxy** has a black hole ~1000× more massive.  
+- The **Event Horizon Telescope** (EHT) imaged M87’s black hole using a global radio telescope array.  
+---
+**Summary**
+- **Evidence for the Milky Way's central black hole:**
+  1. Infrared and radio observations of the galactic center.
+  2. Elliptical orbits of nearby stars → mass ~4 million M☉.
+  3. X-ray flares from infalling matter.  
+- Supermassive black holes exist in the centers of many galaxies.  
+- The Milky Way’s black hole is a “small” supermassive black hole compared to others like M87.
