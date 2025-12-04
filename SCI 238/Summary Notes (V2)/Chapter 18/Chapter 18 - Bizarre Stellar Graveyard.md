@@ -332,3 +332,35 @@
 - Short GRBs → neutron star mergers, confirmed by gravitational waves.  
 - Multi-messenger astronomy: combining gravitational waves and electromagnetic radiation revolutionizes understanding of these extreme events.
 ---
+**Black Hole Mergers**
+- **Process:**
+  - Two black holes orbit each other.  
+  - They emit **gravitational waves**, losing energy.  
+  - Orbits shrink, black holes spiral closer.  
+  - Eventual **merger** forms a larger black hole.
+- **Detection:**
+  - **LIGO (2015):** First confirmed black hole merger.  
+  - Observed by **two detectors**:
+    - Hanford, Washington  
+    - Livingston, Louisiana  
+  - Detected **30 solar mass black holes merging**.
+- **Energy and Mass:**
+  - Merged black hole mass slightly less than the sum of initial masses → energy radiated as gravitational waves.
+---
+**Observational Status**
+- Around **50 mergers detected** (black hole + black hole, neutron star + neutron star, or mixed).  
+- Gravitational wave detections reveal **compact objects invisible in light**, extending our knowledge of stellar remnants.  
+- Complementary observations:
+  - **Electromagnetic (optical, X-ray, gamma ray):** small black holes and neutron stars.  
+  - **Gravitational waves:** reveal mergers and unseen populations.
+---
+**Visualizing Black Holes**
+- **Interstellar (movie):** dramatizes supermassive black holes and general relativity effects.  
+- **Real images:** e.g., **Event Horizon Telescope (EHT)** image of a black hole.  
+  - Shows **shadow and surrounding accretion disk**.  
+  - Artistic renderings offer higher resolution but approximate physical reality.
+---
+**Key Points**
+- Gravitational waves allow detection of **compact object mergers** independent of light.  
+- Black hole mergers provide insights into **stellar evolution** and **extreme gravity**.
+- Observations continue to map the **stellar graveyard**, revealing the distribution of neutron stars and black holes in the universe.
