@@ -129,3 +129,48 @@ $\text{Brightness } B = \frac{L}{4 \pi r^2} \quad \Rightarrow \quad r = \sqrt{\f
 - **Distance ladder:** Starts from **direct measurements (radar, parallax)** → **standard candles** → **farther galaxies**.  
 - This stepwise method allows astronomers to map galaxies across the universe.
 ---
+**Cepheid Variables**
+ **What They Are**
+- Stars located in the **instability strip** of the H-R diagram.  
+- Instability strip = region where stars cannot maintain a steady luminosity → they **oscillate in brightness**.  
+- Example: **Polaris** (the North Star).  
+- Two main types:
+  - **Cepheids:** Brighter, periods of days.
+  - **RR Lyrae:** Fainter, periods of hours.
+**Why They Work as Standard Candles**
+- **Period-Luminosity Relationship:**  
+  - Longer period → higher intrinsic luminosity.
+  - Calibrated using nearby Cepheids whose distances are already known.
+- Measure the period → infer intrinsic luminosity → compare with observed brightness → calculate distance.  
+- Often called **"standardizable candles"** because the period is used to standardize their luminosity.
+**Physical Mechanism**
+- Stars in the instability strip experience **resonant pulsations** due to stellar structure instabilities.
+- Nuclear burning feeds these pulsations without blowing the star apart.
+- Analogy: A car component shaking at certain speeds due to resonance.
+---
+## White Dwarf Supernovae (Type Ia)
+
+**What They Are**
+- Occur when a **white dwarf accretes matter** and exceeds the **Chandrasekhar limit (~1.4 M☉)** → explosion.
+- Extremely luminous: **millions of times brighter than the Sun**, brighter than Cepheids.
+- Visible across **billions of light-years**, ideal for cosmological distances.
+ **Why They Work as Standard Candles**
+- Nearly identical peak luminosities due to uniform explosion mechanism (Chandrasekhar limit).  
+- Can be calibrated using **galaxies where both Cepheids and Type Ia supernovae are observed**.  
+- Once calibrated, can measure distances to very far galaxies (up to 10 billion light-years).
+
+### Limitations
+- Rare events → cannot rely on seeing them in every galaxy or in our own Milky Way.  
+- Require calibration with closer standard candles (e.g., Cepheids).
+
+---
+
+## Summary
+
+| Step | Standard Candle | Key Property | Distance Range |
+|------|----------------|-------------|----------------|
+| 3    | Cepheid Variables | Period-Luminosity relation | Up to tens of millions of light-years |
+| 4    | White Dwarf Supernovae | Uniform peak luminosity | Up to ~10 billion light-years |
+
+**Key Idea:** By combining Cepheids and Type Ia supernovae, astronomers can **extend the cosmic distance ladder** from nearby stars to galaxies across the observable universe.
+
