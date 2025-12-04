@@ -198,3 +198,27 @@ From fitting CMB data with inflationary models:
 - Explains the **origin of structure**, **flat geometry**, and **uniformity**.
 - Observational evidence supports inflation, but **alternative theories exist** and must meet a high bar to explain the same data.
 ----
+**Statement of the Paradox**
+- **Olbers' paradox:** If the universe were:
+  1. Infinite in size,  
+  2. Static (unchanging over time), and  
+  3. Uniform (same density of stars everywhere),  
+then the **night sky should be bright everywhere**, as bright as the surface of a star.  
+- Every line of sight would eventually intersect a star, filling the sky with light.
+---
+**Analogy**
+- Imagine being in a **dense forest**:
+  - If the forest is infinite and dense, every direction you look, you'll see a tree or a leaf.
+  - At the edge of the forest, some directions might be empty.
+- Similarly, in an infinite, unchanging universe, every line of sight should hit a star.
+---
+**Resolution of the Paradox**
+- **The night sky is dark** because the universe **evolves over time**:
+  - We look back in **space and time** when observing distant stars.
+  - Beyond a certain distance, we see the universe **before stars existed**.
+  - The universe is **not static**; star formation happens over time.
+---
+ **Implications**
+- Darkness of the night sky is **indirect evidence for the Big Bang**:
+  - Shows the universe is **finite in age** and has been evolving.
+  - Confirms the universe was **different in the past**, with fewer or no stars.
