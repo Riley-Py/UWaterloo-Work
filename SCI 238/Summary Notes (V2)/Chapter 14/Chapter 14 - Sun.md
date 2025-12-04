@@ -37,11 +37,8 @@
 - **Mass:** $2 \times 10^{30}$kg (~300,000 × Earth’s mass)  
 - **Luminosity:** $3.8 \times 10^{26}$ W (joules per second)  
 **Note**: Earth blocks only $10^{-4}$ of the Sun’s light during a transit.
-
 ---
-
-## Layers of the Sun (Outside → Inside)
-
+**Layers of the Sun (Outside → Inside)**
  **Solar Wind**
    - Outflow of ionized particles (plasma).  
    - Travels throughout the solar system, causing auroras and affecting radio communications.  
@@ -77,35 +74,28 @@
 - **Photosphere:** 6,000 K (coolest visible layer)  
 - **Chromosphere & Corona:** temperature rises again, corona ~1 million K 
 ---
-## Types of Nuclear Reactions
+**Types of Nuclear Reactions**
 1. **Fission**
    - Heavy nuclei (heavier than iron) split into smaller nuclei.  
    - Releases energy due to reduced Coulomb repulsion.  
    - Example: uranium/plutonium in nuclear reactors or bombs.
-
-2. **Fusion**
+1. **Fusion**
    - Light nuclei combine to form heavier nuclei.  
    - Source of energy in **stars** and hydrogen bombs.  
    - Requires overcoming Coulomb repulsion via **high temperature** and **quantum tunneling**.
-
 ---
-
-## Fusion in the Sun: Proton-Proton Chain
-
-**Basic idea:** Four protons (\(^1\text{H}\)) fuse to form one helium-4 nucleus (\(^4\text{He}\)) plus energy.
-
-### Steps:
-1. **Two protons → deuteron + positron + neutrino**
+ Fusion in the Sun: Proton-Proton Chain
+**Basic idea:** Four protons $^1\text{H}$ fuse to form one helium-4 nucleus ($^4\text{He}$) plus energy.
+**Steps:**
+ **Two protons → deuteron + positron + neutrino**
    - One proton converts into a neutron (via **weak interaction**).  
    - Emits:
      - **Neutrino** (\(\nu_e\))  
      - **Positron** (\(e^+\))  
    - This forms **deuterium nuclei** (proton + neutron).
-
-2. **Deuteron + proton → helium-3**
+ **Deuteron + proton → helium-3**
    - Gamma ray (\(\gamma\)) emitted.
-
-3. **Two helium-3 nuclei → helium-4 + 2 protons**
+**Two helium-3 nuclei → helium-4 + 2 protons**
    - Extra protons act as catalysts.  
    - Final product: **helium-4 nucleus**.
 ---
@@ -119,4 +109,6 @@
   - **Kinetic energy** of helium-4
 **Summary Reaction:**
 $4\,\text{protons} \;\rightarrow\; {}^4\text{He} + 2\,\gamma + 2\,e^+ + 2\,\nu_e + \text{energy}$
+
 ---
+
