@@ -228,3 +228,43 @@
 - Surface nuclear fusion of accreted matter → **observable X-ray bursts**.
 - Provides a rich laboratory for **extreme physics and stellar evolution**.
 ---
+
+## 1. Formation of Black Holes
+
+- **Massive stars** (> ~20–25 solar masses) can form black holes if their core mass exceeds the neutron star limit (~2–3 M☉).  
+- If the **core is too massive** for neutron degeneracy pressure to support it → collapse continues → **black hole forms**.  
+- **Accretion** onto a neutron star could, in principle, push it past the limit → black hole.
+
+---
+
+## 2. Escape Velocity and Event Horizon
+
+- **Escape velocity**: \(v_\text{esc} = \sqrt{\frac{2GM}{R}}\)
+  - Shrinking an object increases $v_\text{esc}$.
+  - Black hole forms when $v_\text{esc} \ge c$→ **event horizon** or **Schwarzschild radius**.
+- Event horizon: boundary beyond which **nothing can escape**, not even light.
+- Outside the horizon: escape is possible, inside: requires faster-than-light travel (impossible).
+---
+**Properties of Black Holes**
+- **No-Hair Theorem**: black holes are fully described by only three parameters:
+  - **Mass**
+  - **Spin**
+  - **Charge**
+- Anything that falls in adds to these parameters; the original matter's identity is lost.
+---
+**Interior and Singularity**
+- Classical general relativity predicts a **singularity** at the center:
+  - A point of **infinite density and curvature**.
+  - Physical laws **break down**; new physics (quantum gravity) required.
+- Nothing known can resist gravitational collapse beyond the neutron star limit.
+---
+**Relation to Neutron Stars**
+- Neutron stars: ~10 km radius, exotic matter (macroscopic “nucleus” of neutrons), require general relativity to describe.
+- Maximum neutron star mass: ~2–3 M☉ → beyond this → black hole formation.
+- Dense cores and strong gravity make general relativity crucial near neutron stars; quantum effects may dominate near black holes.
+---
+ **Key Points**
+- Black holes are **formed by extreme gravitational collapse** when all known forces fail to halt compression.
+- **Event horizon**: boundary of no return, defined by escape velocity = speed of light.
+- **Singularity**: a limit of current physics; exact nature unknown.
+- Black holes inherit **mass, spin, charge** from progenitor objects or accreted matter.
