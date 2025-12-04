@@ -184,24 +184,18 @@ The **Pauli Exclusion Principle** is a fundamental consequence of quantum mechan
 - Governs **degeneracy pressure** in astrophysics (e.g., white dwarfs, neutron stars):  
   - Fermions resist being squeezed into the same state, providing a quantum pressure that counteracts gravity.  
 ---
-
-## 1. Types of Pressure in Stars
-
+**Types of Pressure in Stars**
 Stars resist gravitational collapse through **pressure**:
-
-### a) Thermal Pressure
+**Thermal Pressure**
 - Caused by **motion of particles** due to temperature.  
 - Analogous to air molecules pushing outwards in a balloon.  
 - Supports most stars during their main sequence phase.  
-
-### b) Degeneracy Pressure
+ **Degeneracy Pressure**
 - **Quantum mechanical pressure** independent of temperature.  
 - Arises from:
   1. **Heisenberg Uncertainty Principle** – squeezing particles increases their momentum.
   2. **Pauli Exclusion Principle** – fermions cannot occupy the same quantum state.  
-
 - As particles are forced into a smaller volume, degeneracy pressure **increases**, resisting further compression.  
-
 ---
 **Degeneracy Pressure in Stars**
 **Electron Degeneracy Pressure**
@@ -221,3 +215,22 @@ Stars resist gravitational collapse through **pressure**:
   - Protons in the Sun repel each other electromagnetically.  
   - Quantum tunneling allows them to fuse, creating helium and releasing energy.  
   - Despite low individual probability, the sheer number of protons ensures a **sufficient fusion rate** to power the Sun.  
+---
+**Empty Space is Not Empty**
+- **Vacuum fluctuations:** Due to the **uncertainty principle**, empty space can briefly generate **virtual particle-antiparticle pairs**.
+- These particles exist for a **short time** (allowed by energy-time uncertainty) and then annihilate.  
+- **Vacuum energy:** The energy of these virtual particles is measurable and contributes to the **cosmological constant** or **dark energy**.
+- **Observation:** While quantum mechanics predicts a huge vacuum energy, the observed dark energy is vastly smaller, a mystery in modern physics.
+---
+**Black Holes and Hawking Radiation**
+Classically, black holes are “black” because **nothing can escape the event horizon**. Quantum mechanics changes this:
+- Virtual particle pairs can form **near the event horizon**.
+- One particle may fall into the black hole while the other escapes to infinity.  
+- This escaping particle appears as **radiation emitted from the black hole**, a process known as **Hawking radiation**.
+ **Implications:**
+- Black holes can **lose mass and energy** over extremely long timescales.  
+- A black hole in empty space could **eventually evaporate completely**, if no additional matter falls into it.  
+- The **temperature** of a black hole is tiny for astrophysical black holes but is precisely defined by Hawking’s theory.
+**Historical note:**  
+- Stephen Hawking predicted this effect, revolutionizing our understanding of black holes.  
+---
