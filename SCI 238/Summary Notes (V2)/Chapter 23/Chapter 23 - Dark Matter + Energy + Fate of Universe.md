@@ -86,3 +86,47 @@
 - All show that the majority of cluster mass is **dark matter (~85%)**.
 - On small scales (galaxies or clusters), **dark energy is negligible**; dark matter dominates gravitational dynamics.
 ---
+**Possibility of Modified Gravity**
+- Two explanations for observed effects:
+  1. **Dark matter exists** and its gravity affects visible matter.
+  2. **Gravity behaves differently** on galactic and cluster scales (modified gravity).
+- Most astronomers favor **dark matter** because models fit a wide range of observations better than modified gravity.
+**Bullet Cluster**
+- A collision of two galaxy clusters provides a key test.
+- Observations:
+  - **Galaxies (yellow dots)** pass through each other largely unaffected.
+  - **Hot gas (red, X-ray emission)** collides and slows down, remaining between clusters.
+  - **Total mass (blue, from gravitational lensing)** aligns with galaxies, not the hot gas.
+- Interpretation:
+  - Dark matter is **collisionless**: passes through the collision zone.
+  - Ordinary matter (hot gas) interacts and slows down.
+- Implications:
+  - Difficult to explain using only **modified gravity**, because the gravitational signal (blue) is separated from most of the ordinary matter (red gas).
+  - Shows that **dark matter has its own dynamics**, independent of stars and gas.
+**Key Insight**
+- Observations like the Bullet Cluster demonstrate that dark matter behaves differently from ordinary matter.
+- This provides **strong evidence against modified gravity** as the sole explanation for the missing mass problem.
+---
+**Ordinary vs Extraordinary Matter**
+- Ordinary matter: protons, neutrons, electrons; about 4.5% of the universe’s energy resides outside stars and galaxies.
+- Dark matter could be:
+  1. Ordinary objects we cannot see (e.g., faint planets or black holes).
+  2. **Extraordinary particles** (most likely), e.g., WIMPs (Weakly Interacting Massive Particles).
+**BBN and Light Element Abundances**
+- Light elements (H, He, D, Li) formed within the first few minutes of the universe.
+- Their abundances depend on:
+  - **Expansion rate** of the universe.
+  - **Density of ordinary matter** at that time.
+- Deuterium abundance:
+  - Sensitive to the fraction of ordinary matter.
+  - Observed abundance matches predictions if ~5% of the universe’s energy is in ordinary matter.
+  - Too much ordinary matter → insufficient deuterium; too little → too much deuterium.
+**Implications for Dark Matter**
+- Observed element abundances show there is **not enough ordinary matter** to account for the total mass density required by observations.
+- Most of the dark matter must be **extraordinary**—particles that do not interact with light or ordinary matter, only via gravity.
+**WIMPs**
+- Hypothetical particles produced in the early universe.
+- Decoupled early, interacting weakly with normal matter.
+- Account for ~25% of the universe’s energy density.
+- Consistent with galaxy formation and cosmic microwave background (CMB) observations.
+---
