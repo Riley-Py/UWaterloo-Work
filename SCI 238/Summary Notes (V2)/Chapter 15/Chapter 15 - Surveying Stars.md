@@ -61,33 +61,68 @@ $d \,[\text{pc}] = \frac{1}{p \,[\text{arcsec}]}$
   - Brighter stars → smaller magnitude  
   - Fainter stars → larger magnitude
   - Relation between two stars:
-
-
-\frac{b_2}{b_1} = 100^{(m_1 - m_2)/5}
-
-
+	$\frac{b_2}{b_1} = 100^{(m_1 - m_2)/5}$
 - **Absolute magnitude (M):** based on intrinsic luminosity.
   - Defines brightness if the star were at **10 parsecs** from Earth.
   - Relation to luminosity:
-
-\[
-\frac{L_2}{L_1} = 100^{(M_1 - M_2)/5}
-\]
-
+	$\frac{L_2}{L_1} = 100^{(M_1 - M_2)/5}$
 - Increasing magnitude → fainter star, decreasing magnitude → brighter star.
-
 ---
-
-## 3. Connection Between Apparent and Absolute Magnitude
+**Connection Between Apparent and Absolute Magnitude**
 - Absolute magnitude is simply the **apparent magnitude a star would have at 10 pc**:
-
-\[
-M = m - 5 \log_{10}\left(\frac{d}{10\,\text{pc}}\right)
-\]
-
+$M = m - 5 \log_{10}\left(\frac{d}{10\,\text{pc}}\right)$
 Where:  
 - \(M\) = absolute magnitude  
 - \(m\) = apparent magnitude  
 - \(d\) = distance in parsecs
-
 - This allows comparison of stars’ intrinsic brightness regardless of distance.
+---
+## 1. Thermal Radiation and Temperature
+- Dense objects emit **thermal radiation**; spectrum depends on **temperature**.  
+- **Hotter objects**:
+  - Emit more energy per unit area (**Stefan-Boltzmann law**):  
+
+\[
+F = \sigma T^4
+\]
+
+  - Emit photons with **higher average energy** (shorter wavelength) (**Wien's law**):  
+
+\[
+\lambda_\text{max} = \frac{2,900,000 \,\text{nm K}}{T}$
+
+- Surface temperature (photosphere):
+  - Hottest stars: ~50,000 K  
+  - Coolest stars: ~3,000 K  
+  - Sun: ~5,800 K  
+
+---
+
+## 2. Ionization and Spectral Lines
+- **Hot stars:** most atoms ionized → fewer absorption lines (mainly hydrogen)  
+- **Cool stars:** atoms mostly neutral → many absorption lines (sodium, calcium, titanium oxide, etc.)  
+- **Absorption lines** provide **temperature diagnostics** because ionization depends on temperature.
+
+---
+
+## 3. Stellar Classification (Spectral Types)
+- Stars are classified based on **spectral lines** and temperature:  
+
+| Type | Temperature | Notes |
+|------|------------|------|
+| O    | Hottest (~50,000 K) | Few lines, mostly ionized hydrogen |
+| B    | 10,000–30,000 K | Strong hydrogen lines |
+| A    | 7,500–10,000 K | Hydrogen lines prominent |
+| F    | 6,000–7,500 K | Hydrogen weaker, metals appear |
+| G    | 5,200–6,000 K | Sun’s type; metals stronger |
+| K    | 3,700–5,200 K | Many metal lines |
+| M    | Coolest (~3,000 K) | Molecules visible, many lines |
+
+- Historically developed by **Harvard “computers”**, e.g., Annie Jump Cannon, early 20th century.
+
+---
+
+## 4. Measuring Stellar Temperature
+- **Peak of thermal spectrum** → Wien’s law → temperature  
+- **Absorption lines** → ionization state → temperature
+- Both methods together give a reliable measure of stellar surface temperature.
