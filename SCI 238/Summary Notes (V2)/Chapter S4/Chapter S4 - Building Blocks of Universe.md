@@ -184,3 +184,40 @@ The **Pauli Exclusion Principle** is a fundamental consequence of quantum mechan
 - Governs **degeneracy pressure** in astrophysics (e.g., white dwarfs, neutron stars):  
   - Fermions resist being squeezed into the same state, providing a quantum pressure that counteracts gravity.  
 ---
+
+## 1. Types of Pressure in Stars
+
+Stars resist gravitational collapse through **pressure**:
+
+### a) Thermal Pressure
+- Caused by **motion of particles** due to temperature.  
+- Analogous to air molecules pushing outwards in a balloon.  
+- Supports most stars during their main sequence phase.  
+
+### b) Degeneracy Pressure
+- **Quantum mechanical pressure** independent of temperature.  
+- Arises from:
+  1. **Heisenberg Uncertainty Principle** – squeezing particles increases their momentum.
+  2. **Pauli Exclusion Principle** – fermions cannot occupy the same quantum state.  
+
+- As particles are forced into a smaller volume, degeneracy pressure **increases**, resisting further compression.  
+
+---
+**Degeneracy Pressure in Stars**
+**Electron Degeneracy Pressure**
+- Supports **white dwarfs** (stars like the Sun after they exhaust fuel).  
+- Prevents further collapse despite thermal pressure fading.  
+**Neutron Degeneracy Pressure**
+- Supports **neutron stars** (remnants of more massive stars).  
+- Electrons combine with protons → neutrons, which are squeezed to extremely small radii.  
+ **Bosons**
+- Can occupy the **same quantum state** → Bose-Einstein Condensates, superfluids, superconductors.  
+- Low-temperature phenomena with **no viscosity or resistance**.  
+- Possible inside neutron stars in certain phases.
+---
+ **Quantum Tunneling**
+- Particles can pass through **classically forbidden barriers** with some probability.  
+- Crucial for **nuclear fusion in stars**:
+  - Protons in the Sun repel each other electromagnetically.  
+  - Quantum tunneling allows them to fuse, creating helium and releasing energy.  
+  - Despite low individual probability, the sheer number of protons ensures a **sufficient fusion rate** to power the Sun.  
