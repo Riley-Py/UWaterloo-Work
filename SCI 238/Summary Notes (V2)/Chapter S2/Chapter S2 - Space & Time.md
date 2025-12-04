@@ -240,30 +240,22 @@ $t' = t \sqrt{1 - \frac{v^2}{c^2}}$
 $L = L_0 \sqrt{1 - \frac{v^2}{c^2}}$
 - \( L_0 \): proper length (object’s own frame)  
 - \( L \): contracted length (observed from stationary frame)
-Relativistic Mass Increase
+**Relativistic Mass Increase**
 - Moving objects appear more massive to stationary observers.
 - Formula:
-\[
-m = \frac{m_0}{\sqrt{1 - \frac{v^2}{c^2}}}
-\]
+$m = \frac{m_0}{\sqrt{1 - \frac{v^2}{c^2}}}$
 - Example:
-  - Rest mass \( m_0 = 90 \text{ kg} \)
-  - At \( v = 0.9c \), \( m \approx 206 \text{ kg} \)
+  - Rest mass $m_0 = 90 \text{ kg}$
+  - At $v = 0.9c$, $m \approx 206 \text{ kg}$
 - Faster motion → larger relativistic mass → harder to accelerate
-
-## 4. Energy-Mass Relation
+**Energy-Mass Relation**
 - Total energy includes **rest mass energy** and **kinetic energy**:
-\[
-E = m c^2
-\]
-- At low speeds (\( v \ll c \)):
-\[
-E \approx m_0 c^2 + \frac{1}{2} m_0 v^2
-\]
-  - \( m_0 c^2 \) → rest mass energy  
-  - \( \frac{1}{2} m_0 v^2 \) → classical kinetic energy
+	$E = m c^2$
+- At low speeds $( v \ll c$)
+$E \approx m_0 c^2 + \frac{1}{2} m_0 v^2$
+  - $m_0 c^2$ → rest mass energy  
+  - $frac{1}{2} m_0 v^2$ → classical kinetic energy
 - Energy and mass are equivalent; adding energy increases relativistic mass.
-
 ## 5. Photons and Massless Particles
 - Rest mass \( m_0 = 0 \), but they carry energy:
 \[
