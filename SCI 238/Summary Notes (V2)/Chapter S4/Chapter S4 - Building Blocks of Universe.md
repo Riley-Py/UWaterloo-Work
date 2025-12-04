@@ -122,3 +122,43 @@
 - Discovered at **Large Hadron Collider, 2012**.  
 - Essential for the **Standard Model of particle physics**.
 ---
+In quantum mechanics, certain pairs of physical quantities cannot be measured **simultaneously with arbitrary precision**. This is known as the **Heisenberg Uncertainty Principle**.
+
+---
+
+## 1. Position-Momentum Uncertainty
+
+- **Statement:**  
+  The more precisely we know a particle's **position** \(x\), the less precisely we know its **momentum** \(p\), and vice versa.
+
+- **Mathematical Form:**  
+  \[
+  \Delta x \, \Delta p \gtrsim \hbar
+  where $\hbar = \frac{h}{2\pi}$ is the reduced Planck constant.
+
+- **Physical Picture:**  
+  - Particles behave like **waves**.  
+  - A wave localized in space requires **multiple wavelengths**, which corresponds to a spread in momentum.  
+  - Conversely, a wave with a well-defined momentum (single wavelength) is **delocalized** in space.
+- **Implications:**  
+  - Electrons cannot collapse into the nucleus because confining them too tightly increases their momentum too much.  
+  - Sets a **minimum energy state** (ground state) for bound particles.  
+  - Everyday objects are unaffected because \(\hbar\) is extremely small.
+---
+ **Energy-Time Uncertainty**
+- **Statement:**  
+  The more precisely we measure **energy** \(E\), the less precisely we can know the **time** \(t\) associated with the measurement.
+- **Mathematical Form:**  
+ $\Delta E \, \Delta t \gtrsim \hbar$
+- **Physical Picture:**  
+  - Short, rapid measurements create larger uncertainty in energy.  
+  - Longer measurements allow more precise energy determination.
+- **Implications:**  
+  - Photon emission: fast emission → broader energy spread.  
+  - Fundamental limit on how precisely energy can be defined over a short time interval.
+---
+ **General Notes**
+- Applies to **all conjugate variables**:  
+  - Position ↔ Momentum  
+  - Energy ↔ Time  
+  - Angle ↔ Angular Momentum 
