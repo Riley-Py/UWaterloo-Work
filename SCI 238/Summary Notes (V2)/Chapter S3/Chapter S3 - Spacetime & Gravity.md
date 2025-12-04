@@ -46,20 +46,17 @@
   - Free-falling in a gravitational field or freely floating in space.  
 - Gravity can be interpreted as **curvature of spacetime**, with acceleration and gravity locally indistinguishable.
 ---
-
 **dimensionality of space**  
 - **0D**: a point, no motion.  
 - **1D**: a line, can move back and forth.  
 - **2D**: a plane, can move in two perpendicular directions.  
 - **3D**: volume, can move in three independent directions (x, y, z).  
 - **time**: additional dimension, only forward motion experienced (t).
-
 **spacetime**  
 - Combination of **3 spatial dimensions (x, y, z)** and **1 temporal dimension (t)** → 4D continuum.  
 - Different observers may see **different projections** of the same event (space and time appear different).  
 - **Spacetime itself is invariant**, but the breakdown into space and time is **observer-dependent**.  
 - Relative motion changes observers’ coordinates (x, y, z, t), but the underlying spacetime event remains the same.
-
 **spacetime diagram / worldline**  
 - Graphical representation of motion: space vs. time.  
 - Example: car ride  
@@ -69,3 +66,31 @@
   - Acceleration → curved sections indicate changing velocity.  
 - Constant slope → constant velocity.  
 - Curvature in worldline → acceleration.
+---
+**worldlines**  
+- Worldlines are spacetime trajectories of objects.  
+- **Vertical line** → velocity = 0 (no motion in space).  
+- **Diagonal line** → constant velocity.  
+- **Curved line** → acceleration.  
+- Light travels at **45° in light-second vs seconds units** → maximum slope.  
+**example: light beams**  
+- From your rest frame, worldline of laser beam → 45° slope (right and left directions).  
+- Your own worldline → vertical.  
+- Al moving at constant speed → diagonal; from Al's perspective, you appear moving in opposite direction.  
+**observer-dependence**  
+- Spacetime itself is absolute.  
+- Splitting between **space and time is relative**: different observers see different slopes and trajectories.  
+- “Spacetime rotation” changes coordinates from one observer to another (different space/time split).  
+**analogy with space coordinates**  
+- In space: distance is absolute, coordinates are observer-dependent.  
+- Same idea in spacetime: **spacetime interval is absolute**, coordinates (x, y, z, t) are observer-dependent.  
+**spacetime interval formula (flat spacetime / special relativity)**  
+$s^2 = x^2 + y^2 + z^2 - (ct)^2$
+- Combines spatial distance and temporal separation.  
+- Can be **time-like** (squared interval negative) or **space-like** (squared interval positive).  
+- Minus sign ensures **causality**: cause precedes effect, cannot reverse order of events.  
+- Light converts space units to time units; speed of light sets the scale.  
+**connection to general relativity**  
+- Special relativity: flat spacetime.  
+- General relativity: spacetime is curved, so distances and trajectories must account for curvature.
+---
