@@ -219,3 +219,46 @@ $\text{Brightness } B = \frac{L}{4 \pi r^2} \quad \Rightarrow \quad r = \sqrt{\f
 3. **Hubble’s Law** connects **redshift to distance**, allowing us to map the universe in 3D.  
 4. This forms the **last rung of the distance ladder** for cosmology.
 ---
+
+## 1. Conceptual Example
+- Analogy: Friend driving away at **60 mph** and now 60 miles away → has been gone **1 hour**.  
+- Similar principle applies to galaxies: **distance ÷ velocity ≈ time since expansion started**.
+
+---
+
+## 2. Expansion of the Universe
+- **Hubble’s Law**: \(v = H_0 \, d\)  
+- The universe has **no center or edge**; expansion looks the same from every galaxy.  
+- Analogy: **Dots on a balloon surface**:
+  - As balloon expands, all dots move away from each other.  
+  - Dots farther apart move faster (consistent with Hubble’s Law).
+
+- **Cosmological Principle**: Universe is **homogeneous and isotropic** on large scales.
+
+---
+
+## 3. Estimating the Age of the Universe
+- Suppose a galaxy moves at **0.1 light-years/year** and is now **1.4 billion light-years away**:  
+ $\text{Time} = \frac{\text{Distance}}{\text{Velocity}} = \frac{1.4 \text{ billion ly}}{0.1 \text{ ly/yr}} = 14 \text{ billion years}$
+- Using Hubble’s Law:  
+ $t_{\text{universe}} \approx \frac{1}{H_0} \sim 14 \text{ billion years}$
+- This gives a **universal age**, consistent everywhere due to the cosmological principle.
+---
+
+**Expansion and Distance Measurements**
+- As light travels, **galaxies move farther apart** → distance changes during travel.  
+- **Look-back time**: Time light takes to travel from a distant galaxy to us.  
+- Light from distant galaxies is **redshifted** due to expansion → **cosmological redshift**:
+  - Wavelength stretches by same factor as universe expansion.  
+  - Equivalent to a Doppler shift for galaxies receding from us.
+---
+**Observable Universe**
+- **Cosmological horizon**: Maximum distance we can see.  
+- Universe is ~14 billion years old → cannot see beyond **14 billion light-years**. 
+- Farther regions exist, but light hasn’t reached us yet.
+---
+**Key Takeaways**
+1. Universe age ≈ **1/Hubble constant** ≈ 14 billion years.  
+2. Expansion is **homogeneous and isotropic** → no preferred center.  
+3. **Look-back time** and **cosmological redshift** allow us to study early universe.
+4. **Observable universe** has a finite horizon defined by age and speed of light.
