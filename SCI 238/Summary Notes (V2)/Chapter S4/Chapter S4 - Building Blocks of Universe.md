@@ -125,17 +125,12 @@
 In quantum mechanics, certain pairs of physical quantities cannot be measured **simultaneously with arbitrary precision**. This is known as the **Heisenberg Uncertainty Principle**.
 
 ---
-
-## 1. Position-Momentum Uncertainty
-
+**Position-Momentum Uncertainty**
 - **Statement:**  
   The more precisely we know a particle's **position** \(x\), the less precisely we know its **momentum** \(p\), and vice versa.
-
 - **Mathematical Form:**  
-  \[
-  \Delta x \, \Delta p \gtrsim \hbar
+  $\Delta x \, \Delta p \gtrsim \hbar$
   where $\hbar = \frac{h}{2\pi}$ is the reduced Planck constant.
-
 - **Physical Picture:**  
   - Particles behave like **waves**.  
   - A wave localized in space requires **multiple wavelengths**, which corresponds to a spread in momentum.  
@@ -162,3 +157,30 @@ In quantum mechanics, certain pairs of physical quantities cannot be measured **
   - Position ↔ Momentum  
   - Energy ↔ Time  
   - Angle ↔ Angular Momentum 
+---
+The **Pauli Exclusion Principle** is a fundamental consequence of quantum mechanics, particularly for **fermions** (particles with half-integer spin, e.g., electrons, protons, neutrons).
+
+---
+**Statement of the Principle**
+- **Fermions cannot occupy the same quantum state.**  
+  - A **quantum state** is defined by all quantum numbers:  
+    - Energy  
+    - Orbital angular momentum  
+    - Spin  
+    - Position/momentum (to the extent allowed)  
+- **Bosons**, by contrast, **can occupy identical states** (e.g., multiple photons in the same state).
+---
+ **Implications in Atoms**
+- Each energy level (orbital) can hold a limited number of electrons:  
+  - Spin-up and spin-down electrons are **different states**.  
+  - Ground-state orbital can hold **maximum 2 electrons**
+  - Higher orbitals (with different angular momentum) allow additional electrons.  
+- **Atomic structure:**  
+  - Electrons fill the lowest available energy states first (**Aufbau principle**).  
+  - Outer electrons (valence electrons) determine **chemical properties**.  
+---
+ **Broader Significance**
+- Explains **structure of atoms** and periodic table.  
+- Governs **degeneracy pressure** in astrophysics (e.g., white dwarfs, neutron stars):  
+  - Fermions resist being squeezed into the same state, providing a quantum pressure that counteracts gravity.  
+---
