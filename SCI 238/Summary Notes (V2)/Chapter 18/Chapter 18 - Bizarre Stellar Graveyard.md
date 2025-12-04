@@ -195,3 +195,36 @@
 - Formed from **core-collapse supernovae** when electron degeneracy fails.
 - Exhibit **pulsar behavior** due to rotation and magnetic misalignment.
 - Fast spin arises from **collapse-induced angular momentum conservation**.
+---
+**Accretion onto Neutron Stars**
+- In a **close binary system**, a neutron star can **accrete matter** from a companion star.
+- Matter forms an **accretion disk** due to angular momentum conservation:
+  - Gas cannot fall directly inward; it spirals in.
+  - **Friction in the disk** transfers angular momentum outward.
+  - Gas gradually sinks to the neutron star surface, heating up.
+---
+ **Effects of Accretion**
+- **Spin-up of the neutron star**:
+  - Material falling in adds angular momentum.
+  - Star rotates faster as it accretes material.
+  - If material orbits **opposite** to the neutron star’s rotation → **rotation slows down** (conservation of angular momentum).
+- **Surface nuclear reactions**:
+  - Accreted material can undergo **helium fusion**.
+  - Denser conditions than white dwarfs → higher temperatures.
+  - Results in **X-ray bursts**.
+  - Cycles of accretion → bursts → temporary clearing → new accretion.
+---
+**Observational Signatures**
+- **X-ray binaries**: Neutron stars with accreting companions emit strong X-rays.
+- Bursts provide information on:
+  - Accretion rate
+  - Neutron star mass and radius
+  - Nuclear reactions on the surface
+- Time variability and spectra are studied extensively in astrophysics.
+---
+**Summary**
+- Neutron stars in binaries can **spin up or down** depending on accretion direction.
+- Accretion disks mediate mass transfer and angular momentum.
+- Surface nuclear fusion of accreted matter → **observable X-ray bursts**.
+- Provides a rich laboratory for **extreme physics and stellar evolution**.
+---
