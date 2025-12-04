@@ -91,3 +91,37 @@ This exchange is the key insight:
 **Lose absolute time → gain absolute speed of light.**
 
 ---
+ **Absoluteness of the Speed of Light**
+- The speed of light (**c**) is the same for all observers.
+- It does not depend on the motion of the light source or the observer.
+- This leads to non-absolute time and space.
+- Einstein derived these results from thought experiments.
+**Classical (Galilean) Relative Motion**
+- At low speeds, velocities add/subtract normally.
+- Example:
+  - Einstein moves away at 90 km/h.
+  - You throw a baseball at 100 km/h toward him.
+  - He measures the ball approaching at 10 km/h.
+- Valid only when speeds are much less than **c**.
+
+## 3. Breakdown at High Speeds
+- At speeds near **c**, classical velocity addition fails.
+- Example:
+  - You move away at 0.9c.
+  - You shine a flashlight toward Einstein at c.
+  - Classical expectation: he sees it at 0.1c.
+- Relativity result:
+  - All observers measure light at **c**.
+  - Time and space are not absolute.
+  - Requires relativistic velocity-addition.
+
+## 4. Why Nothing Can Reach the Speed of Light
+- Light always moves away from you at **c**, even if you accelerate.
+- You can approach **c**, but you never reach it.
+- You never “catch” the light you emit.
+- To a stationary observer, you approach **c** asymptotically.
+
+## 5. Faster-Than-Light Situations
+- Special relativity forbids any object or information from exceeding **c**.
+- Some effects can appear faster than **c**, but they do not transmit information.
+- General relativity allows exotic scenarios (e.g., wormholes), but these are not true FTL travel.
