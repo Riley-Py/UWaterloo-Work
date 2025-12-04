@@ -188,46 +188,34 @@ $\text{Brightness } B = \frac{L}{4 \pi r^2} \quad \Rightarrow \quad r = \sqrt{\f
 3. **White dwarf supernovae & Hubble’s Law:** Distant galaxies → universe at large.
 ---
 **Hubble’s Law**
- Redshift Observations
+ **Redshift Observations**
 - All galaxies exhibit **redshifted spectra** → moving away from us.  
 - Example: Hydrogen emission line shifted by 5% → recessional velocity = 5% speed of light.
-
-### Relationship Between Distance and Velocity
+ **Relationship Between Distance and Velocity**
 - **Linear correlation:** Recessional velocity ∝ distance  
 - Formula:  
-  \[
-  v = H_0 \times d
-  \]  
+  $v = H_0 \times d$
   - \(v\) = galaxy’s velocity away from us  
   - \(d\) = distance  
   - \(H_0\) = Hubble constant (~22 km/s per million light-years)
-
-### Example Calculation
+**Example Calculation**
 - Galaxy at 1,000 million light-years:
-  \[
-  v = 22 \times 1000 = 22,000 \text{ km/s}
-  \]
-
-### Notes
+  $v = 22 \times 1000 = 22,000 \text{ km/s}$
+**Notes**
 - Scatter exists around the line → not all galaxies fit perfectly.  
 - Hubble Law **does not apply at small distances**:
   - E.g., Andromeda is moving **toward the Milky Way**.  
   - Law only valid beyond a few million light-years.
-
 ---
-
-## 4. Using Hubble’s Law for Distance Measurement
+**Using Hubble’s Law for Distance Measurement**
 - Measure galaxy’s redshift → compute velocity.  
 - Apply Hubble’s Law:  
-  \[
-  d = \frac{v}{H_0}
-  \]  
+  $d = \frac{v}{H_0}$
 - Works for **faraway galaxies**, essentially completing the cosmic distance ladder.
-
 ---
-
-## Key Takeaways
+**Key Takeaways**
 1. Hubble proved galaxies exist **beyond the Milky Way**.  
 2. **Cepheids** were crucial to measuring nearby galaxy distances.  
 3. **Hubble’s Law** connects **redshift to distance**, allowing us to map the universe in 3D.  
 4. This forms the **last rung of the distance ladder** for cosmology.
+---
