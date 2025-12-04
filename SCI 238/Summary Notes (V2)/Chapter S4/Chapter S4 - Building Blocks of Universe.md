@@ -84,3 +84,41 @@
   - γ + γ → e⁺ + e⁻ (requires photon energy ≥ electron mass)  
 - Principle: anything allowed by quantum mechanics can happen with some probability.
 ---
+**Strong Nuclear Force**
+- **Strongest force** in nature.  
+- Holds **quarks together** inside protons and neutrons.  
+- Also binds **protons and neutrons together** to form atomic nuclei.  
+- Mediated by **gluons**.  
+- Responsible for nuclear energy: powers stars and nuclear reactions.  
+- Acts only over very **short distances** (~10⁻¹⁵ m, the size of a nucleus).
+---
+**Electromagnetic Force**
+- **Second strongest force**.  
+- Acts between **charged particles**, holding electrons in atoms and atoms in molecules.  
+- Mediated by **photons** (virtual photons in force exchange).  
+- Strength extends over **long distances**, but can cancel out if systems are electrically neutral.  
+
+---
+**Weak Nuclear Force**
+- Much weaker than strong and electromagnetic forces.  
+- Responsible for **radioactive decay** (e.g., uranium or carbon isotopes).  
+- Mediated by **W⁺, W⁻, Z⁰ bosons** (massive particles, short-range).  
+- Can **change particle types**: converts neutrons ↔ protons.  
+- Explains why certain isotopes decay into others.
+---
+ **Gravity**
+- **Weakest force** at small scales.  
+- Dominates at **large scales** (planets, stars, galaxies).  
+- Always **attractive** (mass is always positive, no negative mass).  
+- Hypothetical mediator: **graviton** (not yet observed).  
+- Infinite range, but extremely weak compared to other forces:  
+  - Strong force ~10² × electromagnetic force  
+  - Weak force ~10⁻⁵ × electromagnetic force  
+  - Gravity ~10⁻⁴³ × electromagnetic force
+---
+**Special Case: Higgs Boson**
+- **Spin = 0**, only fundamental spin-zero particle known. 
+- Not a force carrier but **gives mass to fundamental particles**.  
+- Discovered at **Large Hadron Collider, 2012**.  
+- Essential for the **Standard Model of particle physics**.
+---
