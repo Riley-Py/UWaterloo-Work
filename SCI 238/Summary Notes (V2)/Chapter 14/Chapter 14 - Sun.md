@@ -133,3 +133,30 @@ $4\,\text{protons} \;\rightarrow\; {}^4\text{He} + 2\,\gamma + 2\,e^+ + 2\,\nu_e
   - Darker regions: cooler, sinking plasma.  
 - **Earth’s size** is roughly 12 times the width of these granules, highlighting their small scale relative to planetary sizes.
 ---
+We cannot directly see the Sun’s core, but we can infer its structure using three main methods:
+
+---
+**Mathematical Models**
+- Constructed using **hydrostatic equilibrium** and **nuclear fusion rates**.
+- Predict **temperature, density, and pressure** profiles as functions of radius.  
+- Core extends to ~20–25% of Sun’s radius, followed by the **radiation zone** and then the **convection zone**.
+- Density drops by ~4 orders of magnitude from core to surface (CGS units: g/cm³).  
+- Temperature decreases from **~15 million K** at the core to **~6,000 K** at the photosphere.
+---
+**Helioseismology (Solar Vibrations)**
+- Analogous to **seismology on Earth**: study of **sunquakes** and surface oscillations.  
+- Measure **Doppler shifts** in spectral lines to determine surface velocities.  
+- Observed **vibration modes** depend on internal structure:
+  - Core density and pressure  
+  - Radiation zone properties  
+  - Convection zone dynamics  
+- Models are validated by matching these observed vibration frequencies.
+---
+**Solar Neutrinos**
+- Produced in the **core during nuclear fusion**.  
+- Neutrinos interact very weakly → escape almost immediately.  
+- Provide a **direct probe of fusion rates** in the core.  
+- Early experiments detected fewer neutrinos than predicted → **“solar neutrino problem”**.  
+- Resolved by neutrino oscillations: electron neutrinos change into muon and tau neutrinos during transit.  
+- Confirmed by **SNO experiment in Sudbury, Canada** (Nobel Prize 2015).  
+---
