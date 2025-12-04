@@ -168,20 +168,17 @@ Where:
 - \(R\) = radius  
 - \(T\) = surface temperature  
 ---
- Giants and Supergiants
+ **Giants and Supergiants**
 - Stars **above the main sequence** have **higher luminosity** for their temperature → must be **larger radius**.  
   - **Giants:** moderately above main sequence  
   - **Supergiants:** far above main sequence (e.g., Betelgeuse, Antares)  
 
 ---
-
-## 4. White Dwarfs
+**White Dwarfs**
 - Stars **below the main sequence** have **lower luminosity** for their temperature → must be **smaller radius**.  
 - Typically **hot but dim** → called **white dwarfs**.
-
 ---
-
-## 5. Stellar Classification
+**Stellar Classification**
 - Each star has:
   - **Spectral type** (O, B, A, F, G, K, M) based on temperature and absorption lines
   - **Luminosity class** (I: supergiant → V: main sequence)  
@@ -189,18 +186,12 @@ Where:
     - Sun: G2 V  
     - Sirius: A1 V  
     - Betelgeuse: M2 I  
-
 ---
-
-## 6. Reading Stellar Properties from the H-R Diagram
+**. Reading Stellar Properties from the H-R Diagram**
 - **Temperature / Color / Spectral type:** horizontal axis  
 - **Luminosity:** vertical axis  
 - **Radius:** from Stefan-Boltzmann law lines:
-
-\[
-L = 4 \pi R^2 \sigma T^4
-\]
-
+$L = 4 \pi R^2 \sigma T^4$
 - **Largest radius:** upper-right (cool, luminous) → supergiants  
 - **Smallest radius:** lower-left → white dwarfs  
 - **Example identification:**
@@ -208,3 +199,64 @@ L = 4 \pi R^2 \sigma T^4
   - Most luminous → top (C)  
   - Main sequence → along diagonal band (D)  
   - Largest radius → far above main sequence (C)
+---
+## 1. Main Sequence and Hydrogen Fusion
+- Stars on the main sequence are **fusing hydrogen into helium** in their cores.  
+- The **stellar thermostat** keeps stars in equilibrium:
+  - If a star cools → contracts → heats up → fusion rate increases → luminosity rises → balance restored.
+  - If a star expands → cools → fusion slows → contracts → balance restored.
+- **Mass determines a star's position on the main sequence:**
+  - Higher mass → higher core temperature → more luminous → blue, hot stars.  
+  - Lower mass → lower core temperature → less luminous → red, cool stars.
+
+---
+
+## 2. Mass, Luminosity, and Lifetime
+- Main sequence stars show strong correlation between **mass, luminosity, and temperature**:
+  - **High-mass stars:** short-lived, luminous, blue, large radius  
+    - Lifetime ~ \(10^7\) years  
+  - **Sun-like stars:** moderate mass, luminosity, lifetime ~ \(10^{10}\) years  
+  - **Low-mass stars:** faint, red, small radius, extremely long-lived  
+    - Lifetime ~ \(10^{11}\) years  
+
+- **Reason for rapid burn in massive stars:**
+  - High mass → higher core pressure and temperature  
+  - Fusion rate is very sensitive to temperature → luminosity rises steeply → fuel consumed faster
+
+\[
+\text{Lifetime} \sim \frac{\text{Fuel}}{\text{Luminosity}}
+\]
+
+---
+
+## 3. Evolution off the Main Sequence
+- Stars eventually **run out of hydrogen in the core** → leave main sequence:
+  - Core contracts, outer layers expand → **giants and supergiants**  
+  - After fusion ends, stars shed envelopes → **white dwarfs**
+  - Some stars may undergo more exotic outcomes (neutron stars, black holes)
+
+---
+
+## 4. Giant vs. Supergiant vs. White Dwarf
+| Type | Temperature | Luminosity | Radius | Notes |
+|------|------------|-----------|-------|-------|
+| **Supergiant** | Cool to hot | Very high | Huge | Upper-right of H-R |
+| **Giant** | Cooler | High | Large | Above main sequence |
+| **White Dwarf** | Hot | Low | Tiny | Below main sequence |
+
+- **Example:**  
+  - Sun → main sequence, will become red giant → then white dwarf  
+  - Massive star → burns fuel quickly → supergiant → possible supernova
+
+---
+
+## 5. Variable Stars
+- Some stars **cannot maintain exact equilibrium** → luminosity varies with time  
+- **Instability strip:** region on H-R diagram where stars pulsate  
+- Types of pulsating variables:
+  - **Cepheids:** bright, upper main sequence/giant region, periods ~ days to months  
+  - **RR Lyrae:** lower luminosity, shorter periods  
+
+- Example: **Polaris (North Star)** is a variable star in the instability strip.  
+
+> Light curves show **periodic brightness changes**, indicating oscillations in radius and luminosity.
