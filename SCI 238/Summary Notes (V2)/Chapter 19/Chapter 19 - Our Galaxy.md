@@ -143,3 +143,31 @@ $M \approx 10^{11} M_\odot \approx 1.9 \times 10^{41} \text{ kg}$
   6. **Gamma rays** → interactions of cosmic rays with gas.  
 - Observing multiple wavelengths provides a **complete picture of gas recycling and star formation** in the Milky Way and other galaxies.
 ---
+**Where New Stars Form**
+- **Primary sites:** Galactic disk, where most of the gas is located.  
+- **Nebulae types:**
+  - **Ionization (emission) nebulae:** Bright gas clouds heated by young stars, emitting discrete spectral lines (hydrogen, oxygen, sulfur, nitrogen, neon).  
+  - **Reflection nebulae:** Clouds that scatter light from young stars, appear **blue** because shorter wavelengths scatter more efficiently (Rayleigh scattering).
+- **Example:** Orion Nebula  
+  - Located in Orion's sword.  
+  - Contains many young, massive stars that dominate the light.  
+  - Shows ongoing star formation in dense molecular clouds.
+---
+**Spiral Arms as Star Formation Sites**
+- **Observation in other galaxies:** Face-on spiral galaxies show bright stars and dust concentrated in spiral arms.  
+- **Dust:** Often blocks light, highlights the location of star formation.  
+- **Stars in spiral arms:** Bright, massive, and short-lived → light up the arms temporarily.
+---
+**Spiral Arms are Density Waves**
+- **Key idea:** Spiral arms are **waves of higher density**, not fixed groups of stars.  
+- **Stars move through the arms:** Just like water molecules pass through a wave in the ocean.  
+- **Effect on gas:** Gas is compressed in the spiral wave → triggers new star formation.  
+- **Massive stars:** Form quickly in these compressed regions and die quickly, often as supernovae, lighting up the spiral arms.
+---
+ **Summary of Dynamics**
+- Disk gas → forms stars in **dense regions**.  
+- Spiral arms → moving **density waves** that compress gas, triggering star formation.  
+- Young, massive stars → illuminate ionization nebulae, making spiral arms visible.  
+- Lifetime of massive stars < time for spiral wave to pass → bright stars trace the wave temporarily.  
+**Takeaway:** Spiral arms are “stellar nurseries,” highlighted by young, short-lived stars formed as gas is compressed by moving density waves.
+---
