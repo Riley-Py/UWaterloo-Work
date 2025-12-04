@@ -70,3 +70,35 @@
 3. Fresh hydrogen accreting onto a white dwarf can reignite fusion, causing **novae**, not supernovae.  
 4. Novae are much less energetic than supernovae; the white dwarf remains intact.
 ---
+**White Dwarf Supernova (Type Ia)**
+- Occurs in **white dwarfs close to the Chandrasekhar limit (1.4 M☉)**.
+- **Mechanism:**
+  1. White dwarf accretes mass from a companion in a binary system.
+  2. Mass approaches **1.4 M☉ → white dwarf shrinks** due to gravity.
+  3. Core temperature rises enough to ignite **carbon fusion** explosively.
+- **Outcome:**
+  - Complete disruption of the white dwarf.
+  - Produces large amounts of heavy elements.
+  - Standard candle for measuring cosmic distances.
+---
+**Massive Star Supernova (Type II)**
+- Occurs in stars with **massive cores** that form **iron cores**.
+- **Mechanism:**
+  1. Fusion beyond iron does **not release energy** → iron core cannot support itself.
+  2. Core collapses under gravity → degeneracy pressure fails.
+  3. Collapse triggers a **core-collapse supernova**.
+- **Outcome:**
+  - Forms a **neutron star** if core mass < neutron star limit.
+  - Forms a **black hole** if core mass exceeds neutron star limit.
+  - Explosive ejection of outer layers enriches the interstellar medium with heavy elements.
+---
+**Key Differences**
+
+| Feature | White Dwarf SN | Massive Star SN |
+|---------|----------------|----------------|
+| Core type | Carbon/Oxygen | Iron |
+| Trigger | Reaches Chandrasekhar limit → carbon fusion | Core collapse due to lack of energy from iron fusion |
+| Remnant | None (complete disruption) | Neutron star or black hole |
+| Occurrence | In binaries | Single massive stars or binaries |
+
+---
