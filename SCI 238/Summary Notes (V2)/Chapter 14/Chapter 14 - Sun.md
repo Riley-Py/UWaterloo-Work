@@ -31,56 +31,49 @@
 - During star formation, a **protostar** contracts under gravity.  
 - Gravitational contraction heats the core until nuclear fusion begins.  
 - Once fusion starts, it halts further contraction.  
----## Basic Properties
-- **Radius:** \(6.9 \times 10^8\) m (~0.7 million km, 109 × Earth’s radius)  
-- **Mass:** \(2 \times 10^{30}\) kg (~300,000 × Earth’s mass)  
-- **Luminosity:** \(3.8 \times 10^{26}\) W (joules per second)  
-
-> Note: Earth blocks only \(10^{-4}\) of the Sun’s light during a transit.
+---
+**Basic Properties**
+- **Radius:** $6.9 \times 10^8$m (~0.7 million km, 109 × Earth’s radius)  
+- **Mass:** $2 \times 10^{30}$kg (~300,000 × Earth’s mass)  
+- **Luminosity:** $3.8 \times 10^{26}$ W (joules per second)  
+**Note**: Earth blocks only $10^{-4}$ of the Sun’s light during a transit.
 
 ---
 
 ## Layers of the Sun (Outside → Inside)
 
-1. **Solar Wind**
+ **Solar Wind**
    - Outflow of ionized particles (plasma).  
    - Travels throughout the solar system, causing auroras and affecting radio communications.  
    - Earth is protected by its **magnetosphere**.
-
-2. **Corona**
+**Corona**
    - Outermost layer of the solar atmosphere.  
    - Temperature: ~1 million K.  
    - Very low density → emits mostly **X-rays**.  
    - Observed during solar eclipses.
-
-3. **Chromosphere**
+ **Chromosphere**
    - Colorful layer visible during eclipses.  
    - Named for its emission lines (hot, tenuous gas).  
    - Temperature: tens of thousands of K.
-
-4. **Photosphere**
+**Photosphere**
    - Visible “surface” of the Sun.  
    - Temperature: ~6,000 K.  
    - First layer to emit **blackbody radiation**.  
    - Most photons reaching us originate here.
-
-5. **Convection Zone**
+**Convection Zone**
    - Energy transported by **rising hot plasma** and sinking cooler plasma.  
    - Analogous to convection in Earth’s atmosphere.  
-
-6. **Radiation Zone**
+ **Radiation Zone**
    - Energy transported via **photon diffusion** (random walk).  
    - Plasma is mostly static; photons gradually move outward.
-
-7. **Core**
+ **Core**
    - Site of **nuclear fusion**.  
    - Temperature: ~15 million K.  
    - Generates all the Sun’s energy.
-
 ---
-
-## Temperature Profile
+ **Temperature Profile**
 - **Core:** 15 million K (hottest)  
 - **Radiation & Convection Zones:** decreasing toward photosphere  
 - **Photosphere:** 6,000 K (coolest visible layer)  
 - **Chromosphere & Corona:** temperature rises again, corona ~1 million K 
+---
