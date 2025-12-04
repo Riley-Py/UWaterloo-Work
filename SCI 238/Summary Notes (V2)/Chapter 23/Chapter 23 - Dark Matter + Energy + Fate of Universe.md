@@ -22,3 +22,36 @@
 - Even within the ordinary 5%, **90% is not in stars** and therefore not directly visible.
 - The visible universe—stars, planets, glowing gas—is only **0.5%** of everything.
 ---
+**Using Orbits to Measure Mass**
+- From Kepler’s laws, you can determine the mass inside an orbit by measuring:
+  - **Orbital radius**  
+  - **Either orbital velocity or orbital period**
+- For circular orbits:  
+  $v^2 = \dfrac{GM}{r}$
+- For general orbits:  
+  $P^2 = \dfrac{4\pi^2 r^3}{GM}$  
+- This works for the solar system, where nearly all mass is in the Sun.
+**Rotation Curves**
+- A **rotation curve** plots orbital velocity \(v\) versus radius \(r\).
+- In the solar system, velocity **decreases** with distance because mass is centrally concentrated in the Sun.
+  - Behavior: $v \propto 1/\sqrt{r}$
+**What We See in the Milky Way**
+- Instead of decreasing, the Milky Way’s rotation curve is **flat**: the velocity stays roughly constant at large radii.
+- A flat rotation curve means the mass **cannot** be concentrated at the center.  
+- Instead, mass must **increase with radius**—there is more material farther out.
+- Using measured velocities and distances:
+  - Mass within the Sun’s orbit: ~\(10^{11}\) solar masses  
+  - Mass out to the farthest measurable distances: ~\(10^{12}\) solar masses  
+- Most of this mass is **not luminous**. The stars and visible matter lie deep in a **large dark matter halo**.
+**Other Spiral Galaxies**
+- Observations of stars and 21-cm hydrogen emission show the same result:
+  - Rotation curves remain **flat** far beyond the visible disk.
+- If mass were only in the luminous region, velocities should drop with distance. They do not.
+**Implication**
+- The presence of a **massive, extended, invisible halo** is required.
+- In many galaxies, the dark matter outweighs luminous matter by **an order of magnitude or more**.
+**Elliptical Galaxies**
+- These galaxies do not rotate coherently, so we measure **velocity dispersion** instead of rotation speed.
+- Broader spectral lines indicate faster random motions of stars.
+- The velocity dispersion profile also requires far more mass than the visible stars provide, again implying **dark matter**
+---
