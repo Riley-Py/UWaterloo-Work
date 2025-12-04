@@ -219,25 +219,20 @@ $\text{Brightness } B = \frac{L}{4 \pi r^2} \quad \Rightarrow \quad r = \sqrt{\f
 3. **Hubble’s Law** connects **redshift to distance**, allowing us to map the universe in 3D.  
 4. This forms the **last rung of the distance ladder** for cosmology.
 ---
-
-## 1. Conceptual Example
+**Conceptual Example**
 - Analogy: Friend driving away at **60 mph** and now 60 miles away → has been gone **1 hour**.  
 - Similar principle applies to galaxies: **distance ÷ velocity ≈ time since expansion started**.
-
 ---
-
-## 2. Expansion of the Universe
-- **Hubble’s Law**: \(v = H_0 \, d\)  
+**Expansion of the Universe**
+- **Hubble’s Law**: $v = H_0 \, d$ 
 - The universe has **no center or edge**; expansion looks the same from every galaxy.  
 - Analogy: **Dots on a balloon surface**:
   - As balloon expands, all dots move away from each other.  
   - Dots farther apart move faster (consistent with Hubble’s Law).
-
 - **Cosmological Principle**: Universe is **homogeneous and isotropic** on large scales.
-
 ---
 
-## 3. Estimating the Age of the Universe
+ **Estimating the Age of the Universe**
 - Suppose a galaxy moves at **0.1 light-years/year** and is now **1.4 billion light-years away**:  
  $\text{Time} = \frac{\text{Distance}}{\text{Velocity}} = \frac{1.4 \text{ billion ly}}{0.1 \text{ ly/yr}} = 14 \text{ billion years}$
 - Using Hubble’s Law:  
