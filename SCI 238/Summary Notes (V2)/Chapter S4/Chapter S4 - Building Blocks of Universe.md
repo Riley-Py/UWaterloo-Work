@@ -19,5 +19,28 @@
  **Quantum effects on technology and astronomy**  
    - Quantum laws underpin **modern technology**: computers, smartphones, internet, TV, radio.  
    - Quantum mechanics has **astronomical consequences**, e.g., properties of stars, black holes, and the early universe.
-   ---
-   
+---
+**Three Fundamental Properties of Particles**
+**Mass**  
+   - Indicates how much matter a particle contains.  
+   - Determines inertia and how the particle responds to forces.
+ **Charge**  
+   - Determines how particles interact via **electromagnetic forces**.  
+   - Example: proton = +1, electron = -1 (in units of elementary charge).
+**Spin**  
+   - Fundamental **intrinsic angular momentum** of the particle.  
+   - Unlike a spinning tennis ball, a quantum particle's spin is **fixed** in magnitude.  
+   - Can only take **discrete values**:
+     - Integer multiples of ℏ (Planck constant divided by 2π) → `0, 1, 2...`
+     - Half-integer multiples of ℏ → `1/2, 3/2, ...`
+   - Determines the number of **spin states** a particle can have:
+     - Formula: `2S + 1`  
+     - Example:  
+       - Electron: S = 1/2 → 2 states (spin up, spin down)  
+       - Photon (massless, S = 1) → 2 polarization states  
+       - Massive particle with S = 1 → 3 states  
+**Key Points About Spin:**  
+- Spin is **quantized**, not continuous.  
+- Particles can exist in **superpositions** of spin states (e.g., spin up + spin down simultaneously).  
+- Despite intuition, the direction of spin is limited to the allowed quantum states, not arbitrary directions.
+---
