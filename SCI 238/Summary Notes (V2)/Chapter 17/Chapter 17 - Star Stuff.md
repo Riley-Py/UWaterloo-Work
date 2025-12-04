@@ -191,24 +191,20 @@
 
 - **Lifetime**: High-mass stars burn fuel much faster → live millions instead of billions of years.
 ---
-## 1. Iron: The Dead End of Fusion
+**Iron: The Dead End of Fusion**
 - **Iron nuclei** have the **lowest mass per nucleon**:
   - Fusion of lighter elements → releases energy (exothermic)
   - Fusion of iron → requires energy (endothermic)
 - Analogy: Like eating celery for energy—it **costs more than you gain**.
 - Result: Once an iron core forms, the star can **no longer gain energy from fusion**.
-
 ---
-
-## 2. Formation of Iron Core
+**Formation of Iron Core**
 - High-mass stars build an **iron core** through successive fusion shells:
   - Carbon → Neon → Oxygen → Silicon → Iron
 - Degeneracy pressure is **unable to halt core collapse** in very massive stars.
 - The iron core eventually becomes **unstable**.
-
 ---
-
-## 3. Core Collapse and Supernova
+ **Core Collapse and Supernova**
 - When the iron core exceeds the **Chandrasekhar limit**, degeneracy pressure fails.
 - Core collapses within seconds:
   - **Electrons + protons → neutrons + neutrinos** (inverse beta decay)
@@ -216,7 +212,6 @@
 - Outer layers are expelled violently → **supernova explosion**.
 - Energy and neutrons released enable formation of **elements heavier than iron**:
   - Gold, uranium, and many other heavy elements.
-
 ---
 **Supernova Remnants**
 - **Crab Nebula**: Remnant of a supernova observed in 1054 AD.
@@ -237,3 +232,49 @@
 3. **Advanced Fusion**: Carbon, neon, oxygen, silicon → iron core.
 4. **Core Collapse**: Iron core collapses → neutron star forms.
 5. **Supernova Explosion**: Ejects outer layers → creates heavy elements.
+---
+## 1. Mass Determines Stellar Evolution (Isolated Stars)
+- **Low-mass stars (< 2 M☉):**
+  - Long lives, never hot enough to fuse carbon
+  - End as **white dwarfs**
+- **Intermediate-mass stars (2–8 M☉):**
+  - Can make elements heavier than carbon
+  - End as **white dwarfs**, no supernova
+- **High-mass stars (> 8 M☉):**
+  - Short lives, fuse heavier elements up to iron
+  - End in **core-collapse supernovae**, leaving neutron stars or black holes
+
+---
+
+Common Evolution Stages (Simplified)
+- **Low-Mass Stars:**  
+  1. Main Sequence  
+  2. Red Giant  
+  3. Helium Core Burning (helium flash)  
+  4. Double Shell Burning (hydrogen & helium shells)  
+  5. Planetary Nebula → White Dwarf
+- **High-Mass Stars:**  
+  1–4 similar to low-mass stars  
+  1. Multiple Shell Burning (onion-like layers) → Iron Core → Supernova  
+**Key points:**
+- Core shrinks and heats until fusion starts
+- Larger charge nuclei require **higher temperatures**
+- **Degeneracy pressure** can halt core collapse for low-mass stars
+- Massive stars overcome degeneracy → continue fusion until iron → explosion
+---
+**Stellar Evolution in Binaries**
+- **Binary systems**: ~50% of stars exist in binaries
+- **Mass exchange** can **alter the evolution**:
+  - More massive star usually evolves faster
+  - Interaction can **reverse expected lifetimes**
+- Example: **Algol System**
+  - Components: 3.7 M☉ main sequence + 0.8 M☉ subgiant
+  - Anomaly: Less massive star has evolved first
+  - Explanation:
+    1. Original more massive star becomes giant
+    2. Expands and transfers mass to companion
+    3. Now the initially less massive star is more massive
+    4. Stellar evolution appears "reversed" due to **mass transfer**
+- **Implications**:  
+  - Mass in binaries can significantly affect core temperature, fusion, and lifetime 
+  - Stellar evolution in binaries is **more complex than for isolated stars**
