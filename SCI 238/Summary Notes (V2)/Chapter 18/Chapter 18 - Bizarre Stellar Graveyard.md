@@ -146,3 +146,52 @@
 - **Massive star supernovae:** broader, structured light curve; hydrogen-rich spectrum; leaves neutron star or black hole.  
 - **Novae:** much less energetic, recurring surface events on white dwarfs.
 ---
+**What is a Neutron Star?**
+- A **neutron star** is the dense core left behind after a **massive star supernova**.
+- Formed when:
+  - Core mass exceeds Chandrasekhar limit (~1.4 M☉).
+  - Electron degeneracy pressure cannot support it.
+  - **Electrons + protons → neutrons + neutrinos** (inverse beta decay).
+- Typical properties:
+  - Radius: ~10 km (diameter ~20 km)
+  - Mass: ~1.4–2.1 M☉ (some models allow slightly higher)
+  - Density: ~10¹⁴ g/cm³ (~a million times denser than a white dwarf)
+  - Strong magnetic fields
+  - Spin rates: up to **1000 rotations/sec (millisecond pulsars)**
+---
+**Discovery of Neutron Stars**
+- **1967**: Jocelyn Bell discovered **pulsars** via regular radio pulses.
+- Pulsars = **spinning neutron stars** with misaligned magnetic and spin axes.
+- Crab Nebula Pulsar:
+  - Spins every 33 milliseconds.
+  - Produces radio pulses observable as periodic signals.
+---
+**Pulsar Mechanics**
+- Misaligned magnetic poles + rotation → **lighthouse effect**.
+- Beam width: few degrees.
+- Fast spin comes from **angular momentum conservation**:
+  - Original stellar core collapses → radius shrinks by factor ~1000.
+  - Rotation frequency increases by factor ~1,000,000.
+  - Surface velocity can reach **~20% of the speed of light**.
+- Pulsars cannot be ordinary stars or white dwarfs:
+  - Only neutron stars can have such small radius + fast spin.
+---
+**Key Physics**
+- **Weak interaction**: e⁻ + p → n + ν  
+  - Produces dense neutron core.
+  - Large neutrino emission; most supernova energy is in neutrinos.
+- **Relativity & surface velocity**:
+  - Maximum spin limited by speed of light.
+  - Escape velocity is extremely high due to small radius and high mass.
+
+---
+**Observational Facts**
+- Pulsars are extremely regular; rival atomic clocks.
+- Only observable if beam points toward Earth.
+- Many neutron stars may exist undetected in Milky Way and beyond.
+---
+**Summary**
+- Neutron stars are **ultra-dense, spinning stellar remnants**.
+- Formed from **core-collapse supernovae** when electron degeneracy fails.
+- Exhibit **pulsar behavior** due to rotation and magnetic misalignment.
+- Fast spin arises from **collapse-induced angular momentum conservation**.
