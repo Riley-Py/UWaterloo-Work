@@ -284,17 +284,14 @@
 - Black holes are **very small** for their mass (e.g., a solar-mass black hole ~10 km radius).  
 - Hard to fall in unless very close.  
 - Accretion disks allow gas to spiral in gradually due to friction and angular momentum loss.
-### Tidal Forces
-
+ **Tidal Forces**
 - Small black holes (~3 M☉): **tidal forces lethal** → “spaghettification” (stretching along one axis, squeezing along others).  
 - Supermassive black holes (> millions of M☉): tidal forces near the horizon are weak → humans could cross horizon **without noticing**.  
-
 ---
-
-## 5. Evidence for Black Holes
-
+**Evidence for Black Holes**
 - **Mass measurement** using orbital properties of a companion or surrounding gas:
   - Measure velocity and distance of orbiting material → infer central mass.
   - Mass > 3 M☉ → cannot be a neutron star → must be a black hole.
 - **X-ray binaries**: compact objects accreting material emit X-rays; many contain black holes.
   - Example: **Cygnus X-1** (first strong black hole candidate, now widely accepted).
+---
