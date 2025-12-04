@@ -115,3 +115,34 @@ $\lambda_\text{max} = \frac{2,900,000 \,\text{nm K}}{T}$
 - **Absorption lines** → ionization state → temperature
 - Both methods together give a reliable measure of stellar surface temperature.
 ---
+**Measuring Stellar Masses**
+- **Masses** of stars are primarily measured using **binary systems**.  
+- Binary types:
+  1. **Visual binaries** – two stars can be resolved with a telescope; orbit around each other is directly observed.
+  2. **Spectroscopic binaries** – stars cannot be resolved, but Doppler shifts in spectral lines reveal orbital motion.
+  3. **Eclipsing binaries** – one star passes in front of the other; allows measurement of orbital inclination and stellar sizes.
+---
+**Observables and Mass Calculation**
+- **Kepler’s Third Law** (Newtonian form) for binary systems:
+
+$\frac{a^3}{P^2} = \frac{G (M_1 + M_2)}{4 \pi^2}$
+Where:  
+- \(a\) = orbital separation  
+- \(P\) = orbital period  
+- \(M_1, M_2\) = masses of the two stars  
+- \(G\) = gravitational constant
+
+- **Velocity from Doppler shift:**  
+$v = \frac{2 \pi a}{P}$
+- **Steps to measure masses:**
+  1. Measure **orbital period** (from periodic motion or eclipses).  
+  2. Measure **orbital separation** (from visual binaries) or **orbital velocity** (from spectra).  
+  3. Combine two measurements to solve for **sum of masses**.  
+  4. If possible, measure **mass ratio** (from two sets of spectral lines).  
+  5. Inclination \(i\) can be inferred for **eclipsing binaries**; otherwise, assumptions may be needed.
+---
+ **Mass Ranges**
+- **Most massive stars:** ~100 $M_\odot$  
+- **Least massive stars:** ~0.08 $M_\odot$
+- Masses vary by roughly **three orders of magnitude**.  
+---
