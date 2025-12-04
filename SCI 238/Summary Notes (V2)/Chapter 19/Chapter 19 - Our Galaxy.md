@@ -103,3 +103,43 @@ $M \approx 10^{11} M_\odot \approx 1.9 \times 10^{41} \text{ kg}$
    - Gravity collapses densest regions → forms stars & planets.  
 **Cycle repeats**, enriching the galaxy with heavy elements and regulating star formation.
 ---
+ **Radio (Atomic Hydrogen)**
+- **21 cm line emission:** Spin-flip transition in neutral hydrogen atoms.  
+- **Traces:** Warm atomic hydrogen clouds in the disk.  
+- **Significance:** Shows where gas is available for future star formation.
+---
+**Visible Light**
+- **Stars:** Most stars in the disk are seen in visible wavelengths.  
+- **Dust absorption:** Dark bands show where starlight is blocked by interstellar dust.  
+- **Traces:** Stellar populations, locations of star clusters.
+---
+**Molecular Clouds (CO / Radio / Submillimeter)**
+- **Molecular hydrogen (H₂):** Difficult to observe directly → use CO as a proxy.  
+- **Traces:** Cold, dense regions (~30 K) where new stars will form.  
+- **Disk structure:** Molecular clouds are in a thinner layer than the stars because colder gas settles closer to the midplane.
+---
+**Infrared (Dust Emission)**
+- **Young stars heating dust:** Infrared shows locations of embedded star formation.  
+- **Far-infrared:** Long-wavelength IR shows hot dust.  
+- **Near-infrared:** Shorter wavelengths penetrate dust → reveal stars without dust obscuration.  
+- **Traces:** Star formation activity, dust distribution, structure of disk and bulge.
+---
+**X-rays (Hot Gas)**
+- **Hot gas (~1 million K):** Emitted by supernova remnants and a galactic corona.  
+- **Traces:** Energetic processes, heating of the ISM by supernovae, distribution of hot gas in the halo.
+---
+**Gamma Rays (Cosmic Ray Interactions)**
+- **Emission source:** Collisions of cosmic rays with interstellar gas.  
+- **Traces:** Energetic interactions in the disk, highest-energy processes in the galaxy.  
+- **Note:** Temporary sources like gamma-ray bursts exist but are rare and distant.
+---
+**Summary**
+- Each wavelength reveals a **different stage of the star-gas cycle**:
+  1. **Atomic hydrogen** → raw material for star formation.  
+  2. **Molecular clouds (CO)** → cold, dense regions ready to form stars.  
+  3. **Infrared emission** → dust heated by young stars → ongoing star formation.  
+  4. **Visible light** → older stars, stellar structure.  
+  5. **X-rays** → hot gas from supernovae and the galactic corona.  
+  6. **Gamma rays** → interactions of cosmic rays with gas.  
+- Observing multiple wavelengths provides a **complete picture of gas recycling and star formation** in the Milky Way and other galaxies.
+---
