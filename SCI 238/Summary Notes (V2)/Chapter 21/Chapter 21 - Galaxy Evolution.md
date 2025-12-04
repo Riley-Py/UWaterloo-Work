@@ -282,7 +282,6 @@ This is the first big clue that quasars are powered by **accretion onto a superm
 - We can study gas that lies **outside** galaxies—intergalactic gas—using absorption techniques.
 - Just as starlight can reveal gas between stars via absorption lines, **quasar light** can reveal gas between galaxies.
 - Quasars are extremely bright, so their light passes through all intervening material on its way to Earth, imprinting absorption features in the quasar's spectrum.
-
 **Redshift and Absorption**
 - Because of the **Hubble expansion**, quasar light is redshifted as it travels to us.
 - Intervening hydrogen clouds absorb light at the hydrogen Lyman-α wavelength, but:
