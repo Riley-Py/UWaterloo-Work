@@ -156,3 +156,48 @@
 3. Rotation → conservation of angular momentum → **flattened disc** forms.  
 4. Jets launched along rotation axis, possibly **magnetically driven**.  
 5. Protostar stage ends with **onset of nuclear fusion**, defining a true star.
+---
+**Protostar Energy Source**
+- **Before fusion:** protostar’s energy comes from **gravitational contraction**.  
+- As the protostar contracts:
+  - **Photons escape from the surface**, cooling the star.  
+  - **Interior gets hotter** as contraction continues (runaway process).  
+- Timescale:
+  - Sun-like star: a few **million years** to contract significantly if only gravitational energy is used.
+---
+**Onset of Nuclear Fusion**
+- When **core temperature becomes high enough**, **hydrogen fusion** begins:
+  - Proton-proton chain (for Sun-like stars) converts **hydrogen → helium**.  
+- Fusion provides energy:
+  - Balances **energy loss from surface radiation**  
+  - Stops further **gravitational contraction**  
+- Timescale:
+  - Main sequence phase lasts **billions of years** (Sun: ~10 billion years)
+---
+**Life Track of a Star (H-R Diagram)**
+1. **Stage 1: Protostar assembly**
+   - Matter collects into a dense cloud fragment.
+   - Luminosity and temperature **increase** as gravitational energy is converted to thermal energy.
+1. **Stage 2: Convection-dominated energy transport**
+   - Surface temperature ≈ 3000 K
+   - Convection moves energy outward since **photons cannot escape directly**.
+   - Star continues to shrink slowly.
+1. **Stage 3: Radiation-dominated contraction**
+   - Luminosity remains nearly constant.
+   - Energy transport shifts to **radiative diffusion** as convection becomes less efficient in dense interior.
+1. **Stage 4: Main Sequence**
+   - Central temperature reaches threshold for **hydrogen fusion**.
+   - Energy from fusion balances energy loss → **contraction stops**.
+   - Star now enters **main sequence**.
+---
+**Mass Dependence**
+- **Higher mass stars:**
+  - Contraction and heating happen faster.
+  - Stage 1–4 timescales are shorter:
+    - Example: 15 M☉ → ~60,000 years  
+- **Sun-like star:**
+  - Stage 1–4 → ~30 million years  
+- **Lower mass stars:**
+  - Contraction slower → longer timescales:
+    - Example: 0.5 M☉ → ~150 million years
+---
