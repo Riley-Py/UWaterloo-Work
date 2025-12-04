@@ -32,37 +32,24 @@
 - **Key features:** Thin disk, dense central bulge, sparse halo, spiral arms, and clusters.  
 - **Stars and gas distributed non-uniformly**, spiral structure inferred from observations within the disk.
 ---
-## 1. Stellar Orbits
-
-### (a) Disk Stars
+**Stellar Orbits**
+ **Disk Stars**
 - **Orbit:** Coherent rotation in the same direction (counterclockwise in diagram).  
 - **Up-and-down motion:** Stars **bob** through the disk like pendulums.  
   - Caused by **gravity of the disk** pulling them toward the midplane.  
   - Energy conservation → stars oscillate vertically while orbiting.  
 - **Angular momentum:** Mostly aligned in one direction.
-
-### (b) Bulge Stars
+ **Bulge Stars**
 - **Orbit:** Random directions; no coherent angular momentum.  
 - **Angular momentum:** Individual for each star, varies in direction.  
-
-### (c) Halo Stars
+**Halo Stars**
 - **Orbit:** Similar to bulge stars—random directions, fewer stars than bulge.  
-
 **Key difference:**  
 - **Disk:** aligned angular momenta, vertical oscillations.  
 - **Bulge & Halo:** random angular momenta.
-
 ---
-
-## 2. Thought Question
-**Why do disk stars bob up and down?**  
-**Answer:** Gravity of disk stars pulls them toward the disk (option B).
-
----
-
-## 3. Measuring the Mass of the Galaxy
-
-### (a) Using the Sun's Orbit
+**Measuring the Mass of the Galaxy**
+**Using the Sun's Orbit**
 - **Radius from galactic center:** ~27,000 light-years.  
 - **Velocity:** ~220 km/s (from Doppler shifts).  
 - **Method:** Apply Newtonian form of **Kepler's third law**:
@@ -70,16 +57,13 @@
 $M = \frac{r v^2}{G}$
 - **Result:**  
 $M \approx 10^{11} M_\odot \approx 1.9 \times 10^{41} \text{ kg}$
-
-### (b) Notes
+ **Notes**
 - Assumes **spherical symmetry** → approximate, but reasonable for disk mass estimate.  
 - Mass measured this way includes **stars, gas, dust**, and some dark matter contribution.  
-
 ---
-
-## 4. Summary
-
+**Summary**
 - Disk stars → coherent orbits + vertical oscillation.  
 - Bulge/halo stars → random orbits.  
-- Galaxy mass derived from orbital dynamics using **distance and velocity of Sun**.  
+- Galaxy mass derived from orbital dynamics using **distance and velocity of Sun**.
 - Milky Way mass ≈ **100 billion solar masses**.
+---
