@@ -131,9 +131,67 @@
   - Surface temperatures drop (red color), luminosity rises.
 
 ---
-
-## 6. Key Takeaways
+**Key Takeaways**
 - Low-mass stars end their lives as **white dwarfs**, never fusing heavier elements.
 - Thermal pulses in double shell burning **drive planetary nebula formation**.
 - Degeneracy pressure plays a **critical role** in stabilizing the remnant core.
 - These stages are predictable and observable in **globular clusters** and nearby planetary nebulae.
+---
+**CNO Cycle: Hydrogen Fusion in Massive Stars**
+- High-mass stars (>8 M☉) have **hotter cores** than low-mass stars.
+- Hydrogen fusion occurs via:
+  1. **Proton-Proton Chain** (dominant in low-mass stars like the Sun)
+  2. **CNO Cycle** (Carbon-Nitrogen-Oxygen catalysts)
+     - Requires higher core temperatures.
+     - Same net result: 4 protons → 1 helium nucleus.
+     - Faster fusion → higher luminosity → shorter lifetime.
+---
+**Post-Main Sequence Evolution**
+- High-mass stars leave the main sequence similarly to low-mass stars but on a **larger scale**:
+  - Hydrogen shell burning → **supergiant phase**
+  - Helium core fusion → core contracts, outer layers expand
+  - Luminosity and radius are **much higher** than low-mass stars.
+---
+#Advanced Nuclear Burning
+- High-mass stars progress beyond helium fusion:
+  - **Helium capture**: forms oxygen, neon, magnesium.
+  - **Carbon fusion**: carbon + carbon → heavier elements.
+  - **Oxygen fusion**: oxygen + oxygen → sulfur, silicon, etc.
+  - **Silicon fusion** → iron (Fe) nucleus.
+- Fusion continues **until an iron core forms**, because:
+  - Iron fusion is **endothermic** (does not release energy).
+  - All lighter elements can be fused via exothermic reactions.
+
+---
+
+## 4. Multiple Shell Burning
+- Massive stars develop **onion-like layers**:
+  1. **Iron core** (inert)
+  2. **Silicon burning shell**
+  3. **Oxygen burning shell**
+  4. **Neon & magnesium burning shell**
+  5. **Carbon burning shell**
+  6. **Helium shell**
+  7. **Hydrogen shell**
+- Each shell is **burning faster** the deeper inside, due to higher temperatures and pressures.
+- Degeneracy pressure does **not halt core collapse** at these stages because the mass and temperature are very high.
+
+---
+
+## 5. Significance: Star Stuff
+- Elements heavier than helium (C, O, Ne, Mg, Si, Fe, etc.) are **produced in high-mass stars**.
+- These elements eventually become part of **planets, life, and the material of the universe** after the star dies.
+- This is the origin of the phrase: "**we are made of star stuff**".
+
+---
+
+## 6. Key Differences from Low-Mass Stars
+| Feature                     | Low-Mass Stars          | High-Mass Stars                |
+|-------------------------------|------------------------|-------------------------------|
+| Hydrogen fusion              | Proton-Proton Chain     | P-P + CNO Cycle               |
+| Post-MS expansion            | Red Giant              | Supergiant                     |
+| Maximum fusion element       | Carbon-Oxygen           | Iron                           |
+| Shell structure              | Double shell (H & He) | Multiple shells (H → Si)       |
+| Final fate                   | White Dwarf            | Supernova → Neutron star / Black hole |
+
+- **Lifetime**: High-mass stars burn fuel much faster → live millions instead of billions of years.
