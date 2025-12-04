@@ -189,3 +189,42 @@ $s^2 = x^2 + y^2 + z^2 - (ct)^2$
 - Extreme case: traveling at near-light speed → almost no time elapses for the traveler.  
 - General relativity perspective: weight/acceleration explains why symmetry between twins is broken. 
 ---
+**precession of Mercury's orbit**  
+- Observed in the 19th century: Mercury’s orbit doesn’t perfectly match Newtonian predictions.  
+- Newtonian gravity predicts elliptical orbits, slightly perturbed by other planets.  
+- Mercury’s orbit precesses slightly more than Newton predicted.  
+- Explained by **general relativity** (Einstein, 1915): curvature of spacetime near Sun accounts for extra precession.  
+**gravitational lensing**  
+- Massive objects bend light passing nearby due to spacetime curvature.  
+- First observed during a **solar eclipse**: Sun bends starlight, confirming Einstein’s prediction.  
+- Strong lensing produces multiple images of the same object: e.g., quasars appearing as **Einstein cross**.  
+- Light can also form arcs or rings: **Einstein rings**.  
+**gravitational time dilation**  
+- Time runs slower in stronger gravitational fields.  
+- Verified experimentally using **atomic clocks** at different altitudes:  
+  - Clocks at lower altitudes tick slower.  
+  - Clocks at higher altitudes tick faster. 
+---
+**what are gravitational waves?**  
+- Ripples in spacetime caused by accelerating massive objects, like binary black holes or neutron stars.  
+- Analogy: moving charges produce electromagnetic waves; moving masses produce gravitational waves.  
+- They propagate at the **speed of light** across the cosmos.  
+**indirect evidence**  
+- Observed in binary neutron star systems: the orbit decays over time exactly as predicted by energy loss via gravitational waves.  
+- Confirmed decades before direct detection.  
+**direct detection**  
+- First observed **2015** by **Advanced LIGO** (Laser Interferometer Gravitational-Wave Observatory).  
+- LIGO has two detectors (Hanford, WA and Livingston, LA), **4000 km apart**.  
+- Uses lasers along 4 km arms; measures interference patterns to detect spacetime distortions.  
+- Sensitivity: can detect distortions as small as **1 part in 10²¹**, smaller than the size of an atomic nucleus.  
+**sources of gravitational waves**  
+- Most detected: **mergers of stellar-mass black holes**.  
+- Also: **binary neutron star mergers**.  
+- Black hole mergers are loudest because they involve maximum spacetime curvature.  
+**signal characteristics**  
+- Detectors see almost simultaneous oscillations in their arms.  
+- Signal shows **inspiral → merger → ringdown**.  
+- Multiple detections now: ~50 binary mergers confirmed.  
+**awards**  
+- LIGO team won **2017 Nobel Prize** in Physics for direct detection.
+---
