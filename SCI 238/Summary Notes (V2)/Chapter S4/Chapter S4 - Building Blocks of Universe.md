@@ -44,3 +44,43 @@
 - Particles can exist in **superpositions** of spin states (e.g., spin up + spin down simultaneously).  
 - Despite intuition, the direction of spin is limited to the allowed quantum states, not arbitrary directions.
 ---
+1. **Fermions**  
+   - Spin: **half-integer** (1/2, 3/2, 5/2...)  
+   - Make up **matter**  
+   - Examples: electrons, neutrinos, quarks, protons, neutrons (composite but still half-integer spin)
+1. **Bosons**  
+   - Spin: **integer** (0, 1, 2...)  
+   - Typically **force carriers**  
+   - Examples: photon (electromagnetic force), gluon (strong nuclear force), W/Z bosons (weak nuclear force), graviton (hypothetical for gravity)
+**Summary:**  
+- Fermions = matter  
+- Bosons = forces  
+---
+**Fermions: Quarks and Leptons**
+**1. Quarks (nuclear matter)**  
+- Make up protons and neutrons  
+- Come in six flavors: **up, down, strange, charm, top, bottom**  
+- Most common in ordinary matter: **up** and **down**  
+- Protons: 2 up + 1 down → charge +1  
+- Neutrons: 1 up + 2 down → charge 0  
+- **Color charge:** quarks carry a type of "color" (red, green, blue) for strong interaction; a neutral particle needs all three colors.
+**2. Leptons (non-nuclear matter)**  
+- Fundamental, not made of quarks  
+- Six types: electron, muon, tau; each has a neutrino partner: electron neutrino, muon neutrino, tau neutrino  
+- Neutrinos: very light, neutral, interact only via **weak force**  
+- Electrons: negatively charged, orbit nuclei
+---
+**Antimatter**
+- Every particle has an **antiparticle**:  
+  - Electron → positron  
+  - Proton → antiproton  
+  - Neutron → antineutron  
+  - Neutrino → antineutrino  
+- **Annihilation:** particle + antiparticle → energy (photons or other particles)  
+- Some particles are **their own antiparticles**, e.g., photon (neutral)
+---
+**Quantum Interactions**
+- High-energy photons can create particle-antiparticle pairs:  
+  - γ + γ → e⁺ + e⁻ (requires photon energy ≥ electron mass)  
+- Principle: anything allowed by quantum mechanics can happen with some probability.
+---
