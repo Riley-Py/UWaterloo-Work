@@ -55,3 +55,34 @@
 - Broader spectral lines indicate faster random motions of stars.
 - The velocity dispersion profile also requires far more mass than the visible stars provide, again implying **dark matter**
 ---
+
+**Historical Background**
+- Evidence for dark matter in clusters of galaxies dates back to the **1930s**.
+- Early observations showed that the mass inferred from galaxy motions within clusters was **50 times larger** than the mass in stars alone.
+- This implied that **98% of the mass was unseen**, but the claim was so extraordinary that it was initially **not widely believed**.
+**Measuring Mass in Clusters**
+- Clusters contain **hundreds to thousands of galaxies**.
+- Mass can be inferred by measuring **galaxy velocities** using Doppler shifts:
+  - Entire galaxies are seen as spectra of combined stars.
+  - Blueshift indicates motion toward us; redshift indicates motion away.
+- Velocities show that clusters contain **far more mass than visible stars**.
+**X-ray Observations**
+- Clusters contain **hot gas** emitting X-rays, which can only be observed from space.
+- Temperature of the gas gives an estimate of the **velocity of particles**, which can be related to the **total mass** using equilibrium considerations (thermal pressure vs gravity).
+- Typical mass composition in clusters:
+  - ~85% **dark matter**
+  - ~13% **hot gas**
+  - ~2% **stars**
+- Formula linking temperature and velocity:  
+  $v \approx 140 \, \text{m/s} \times \sqrt{T}$  
+  where \(T\) is in Kelvin. This velocity can be plugged into $GM/R = v^2$ to estimate mass.
+**Independent Verification: Gravitational Lensing**
+- **Einstein’s General Relativity** predicts that massive objects bend light.
+- Background galaxies behind clusters can appear **distorted** or as **multiple images** (strong lensing).
+- Matching spectra and shapes of these images allows calculation of the **cluster’s total mass**.
+- Lensing confirms masses measured by X-rays and galaxy velocities.
+**Key Insights**
+- Three independent methods (Doppler shifts, X-ray gas, gravitational lensing) **agree** within uncertainties.
+- All show that the majority of cluster mass is **dark matter (~85%)**.
+- On small scales (galaxies or clusters), **dark energy is negligible**; dark matter dominates gravitational dynamics.
+---
