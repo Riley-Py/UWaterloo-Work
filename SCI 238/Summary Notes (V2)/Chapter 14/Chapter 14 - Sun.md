@@ -192,22 +192,28 @@ We cannot directly see the Sun’s core, but we can infer its structure using th
 - Emission lines from **excited gases** → visible aurora.  
 - Enhanced during **high solar activity** (flares, CMEs).  
 ---
-And solar activity varies in time.
-
-In fact, some similarity with Earth, you know, Earth's north and south pole also changed over many, many thousands of years. But solar activity changes much more quickly because basically sun is much more active environment than Earth. So all the, so in fact, all this activity that happens at the center of the sun, at some level it happens at the center of the Earth because we have a hot, Earth also has a hot core. There is no fusion at the center of the Earth, but there is basically, there is a magnetic field that's trapped in molten lava. And that changes over time because of the rotations in the center of the Earth, but that happens much more slowly than the sun.
-
-In the sun, there is a cycle that's roughly every 11 years. And so this solar activity, this is the percentage of sun surface covered by sunspots, which is one measure of solar activity. So these sunspots go through these 11-year cycles. So basically sometimes they don't see any sunspots. For example, I mean, this is 2010, there was none. Actually, I guess I should have continued this. You can probably find this in Wikipedia. We should probably run the low slide, low point right now as well. Forgot to update this. I'll do that later. But then there are, in between those, there are peaks. And basically all solar activity goes through these 11-year cycles.
-
-So that's the same plot. And the number of sunspots rises and falls in 11 year cycles. So this is the latitude of sunspots as a function of year. So let's see. So you see that the sunspots start at the start of the cycle, they start at high latitudes, closer to actual North Pole and South Pole, according to rotation axis. But over time, they migrate to a smaller and a smaller latitudes, closer to the equator, and then they disappear until the whole thing starts again. Right.
-
-So that's kind of the way this works. And of course, there are more sunspots at the peak and then at the lull, when the activity goes away, then there are no sunspots. You see, these are the lulls or the minima. Whereas the more sunspots, there is more solar activity, there are more auroras and so on.
-
-So there are additional variances over longer periods that we don't entirely understand. So these are these 11-year cycles, but over time, you see some of these cycles are, for example, from 1650 to 1700s, there were essentially no sunspots. So these 11-year cycles, they're not completely aperiodic. Over time, they could be higher and lower over longer periods of time.
-
-**I see someone has shared the current status. Yeah, I guess we are right now. If you look at this link that I think someone shared here, I guess it was Nick. It's, yeah, we have a few, I don't know, like 20 or 30 sunspots, but we are close to the, actually, I guess it looks like it's going up. Yeah, anyway, so I think 2019 was around the minimum. Well, thank you.**
-
-So the way to understand this is through the differential rotation in the sun, why these sunspots kind of migrate towards an equator.
-
-So at the beginning of each cycle, you just have basically these magnetic fields that look like Earth's magnetic field. You go basically from south to north, and then close themselves if you go out like Earth does.
-
-But unlike Earth, sun has differential rotation, so Earth is one solid object for the most part, except, I mean, there's some tectonic activity which happened over a very long time scale. But sun is liquid or plasma, so there is a lot of differential rotation. In particular, the equator is rotating faster than the poles, if you want to calculate the rotation. So what happens is that these magnetic field signs become stretched along the equator more than they are around the poles. So that means that the sunspots, they're all kind of, are being stretched more towards the equator. And eventually, basically after the 11th cycle, this stretching comes so much that all of this becomes more or less jumbled, all the magnetic fields become jumbled, you don't have a coherent magnetic field anymore. That's when the sunspots disappear, until the whole thing starts again.
+ **Sunspot Cycles**
+- Sunspots are a direct measure of solar activity.  
+- **11-year cycle**:  
+  - At the start, sunspots appear at **high latitudes** (closer to poles).  
+  - Over the cycle, they **migrate toward the equator**.  
+  - Sunspot number peaks → maximum solar activity; sunspot number drops → solar minimum.  
+- Historical anomalies: e.g., **1650–1700** “Maunder Minimum” → almost no sunspots.
+---
+**Differential Rotation**
+- Sun is **plasma**, not a solid body → rotates at **different rates**:  
+  - Equator rotates faster than poles.  
+- Magnetic field lines are **stretched and twisted** due to differential rotation.  
+- Stretching causes sunspots to migrate toward the equator over the cycle.  
+---
+**Magnetic Field Evolution**
+- At the start of each cycle, magnetic fields resemble a dipole (like Earth).  
+- Over 11 years:  
+  - Differential rotation stretches and tangles fields.  
+  - Sunspots gradually disappear as magnetic field loses coherence.  
+- New cycle begins with reorganization of magnetic fields.  
+---
+. **Implications**
+- More sunspots → higher solar activity → stronger **auroras**, increased **solar flares**, and **space weather effects**.  
+- Solar activity is **faster and more dynamic** than Earth’s magnetic field changes due to plasma behavior and rapid rotation.  
+---
