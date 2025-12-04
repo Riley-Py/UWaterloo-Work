@@ -146,3 +146,65 @@ $v = \frac{2 \pi a}{P}$
 - **Least massive stars:** ~0.08 $M_\odot$
 - Masses vary by roughly **three orders of magnitude**.  
 ---
+The H-R diagram reveals **patterns in stellar properties** by plotting **luminosity vs. temperature** (or spectral type).
+
+---
+**Axes and Scale**
+- **Vertical axis:** Luminosity (logarithmic scale, faint → bright)  
+- **Horizontal axis:** Surface temperature (hot → cool; increases to the left)
+- **Alternative horizontal:** Spectral type (O → M, hottest to coolest)  
+---
+**Main Sequence**
+- Majority of stars lie along a **diagonal band** called the **main sequence**.  
+- Indicates a relationship between **temperature, luminosity, and radius**.  
+- **Hotter stars** → more luminous (upper-left)  
+- **Cooler stars** → less luminous (lower-right)  
+- For a star on the main sequence:
+
+$L \sim R^2 T^4$
+
+Where:  
+- \(L\) = luminosity  
+- \(R\) = radius  
+- \(T\) = surface temperature  
+---
+ Giants and Supergiants
+- Stars **above the main sequence** have **higher luminosity** for their temperature → must be **larger radius**.  
+  - **Giants:** moderately above main sequence  
+  - **Supergiants:** far above main sequence (e.g., Betelgeuse, Antares)  
+
+---
+
+## 4. White Dwarfs
+- Stars **below the main sequence** have **lower luminosity** for their temperature → must be **smaller radius**.  
+- Typically **hot but dim** → called **white dwarfs**.
+
+---
+
+## 5. Stellar Classification
+- Each star has:
+  - **Spectral type** (O, B, A, F, G, K, M) based on temperature and absorption lines
+  - **Luminosity class** (I: supergiant → V: main sequence)  
+    Examples:  
+    - Sun: G2 V  
+    - Sirius: A1 V  
+    - Betelgeuse: M2 I  
+
+---
+
+## 6. Reading Stellar Properties from the H-R Diagram
+- **Temperature / Color / Spectral type:** horizontal axis  
+- **Luminosity:** vertical axis  
+- **Radius:** from Stefan-Boltzmann law lines:
+
+\[
+L = 4 \pi R^2 \sigma T^4
+\]
+
+- **Largest radius:** upper-right (cool, luminous) → supergiants  
+- **Smallest radius:** lower-left → white dwarfs  
+- **Example identification:**
+  - Hottest star → far left (A)  
+  - Most luminous → top (C)  
+  - Main sequence → along diagonal band (D)  
+  - Largest radius → far above main sequence (C)
