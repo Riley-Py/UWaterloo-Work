@@ -84,3 +84,56 @@
 - Energy sources during this phase:
   - **Core:** helium fusion (triple-alpha process).
   - **Shell:** hydrogen fusion.
+---
+**Double Shell Burning**
+- After **core helium is exhausted**, fusion continues in **two shells**:
+  1. **Helium shell fusion** around an inert carbon core.
+  2. **Hydrogen shell fusion** around the helium shell.
+- Fusion is **unstable**:
+  - Periodic **thermal pulses** occur.
+  - Convection dredges up carbon from the interior to the surface.
+- This phase is responsible for the **ejection of outer layers**.
+---
+ **Planetary Nebula Formation**
+- Outer layers expelled by thermal pulses create a **planetary nebula**:
+  - Named for their **planet-like appearance** in telescopes.
+  - Shape depends on **stellar angular momentum**:
+    - Low angular momentum → roughly circular.
+    - High angular momentum → bipolar structures.
+---
+**White Dwarf Formation**
+- **Remnant core** left behind after envelope ejection:
+  - Supported by **electron degeneracy pressure**.
+  - No further nuclear fusion occurs.
+  - Initially very hot but **low luminosity** due to small size.
+- Degeneracy pressure prevents further contraction; star cools over time.
+---
+**Evolutionary Summary (Low-Mass Star like the Sun)**
+1. **Main Sequence**: Hydrogen fusion in core.
+2. **Red Giant Phase**: Hydrogen shell burning, core contracts.
+3. **Helium Flash**: Rapid onset of helium fusion in core.
+4. **Horizontal Branch**: Stable helium core burning.
+5. **Asymptotic Giant Branch**: Double shell burning, thermal pulses.
+6. **Planetary Nebula**: Envelope ejection due to pulses.
+7. **White Dwarf**: Cooling carbon-oxygen core supported by degeneracy pressure.
+---
+**Observational Context**
+- **Luminosity evolution**:
+  - Main sequence → increases slowly over 10 Gyr.
+  - Red giant → rises by factor ~1000.
+  - Helium flash → sharp drop in luminosity.
+  - Double shell burning → pulses and eventual envelope ejection.
+- **Timescales**:
+  - Main sequence: ~10 billion years for Sun.
+  - Helium burning and final pulses: ~10^8–10^9 years.
+- **Radius evolution**:
+  - Expands to nearly **Earth’s orbital radius** during giant phases.
+  - Surface temperatures drop (red color), luminosity rises.
+
+---
+
+## 6. Key Takeaways
+- Low-mass stars end their lives as **white dwarfs**, never fusing heavier elements.
+- Thermal pulses in double shell burning **drive planetary nebula formation**.
+- Degeneracy pressure plays a **critical role** in stabilizing the remnant core.
+- These stages are predictable and observable in **globular clusters** and nearby planetary nebulae.
