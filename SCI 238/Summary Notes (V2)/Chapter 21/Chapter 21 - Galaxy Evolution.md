@@ -250,3 +250,53 @@ This is the first big clue that quasars are powered by **accretion onto a superm
 - During earlier cosmic epochs, galaxies underwent quasar phases where accretion was intense and the black holes rapidly grew.
 - Today, most nearby galaxies contain dormant black holes that accrete slowly and faintly compared to their quasar-era activity.
 ---
+**Do Supermassive Black Holes Regulate Galaxy Evolution?**
+- Most galaxies host a supermassive black hole at their center. This raises the question: how does the central black hole influence the galaxy around it?
+- There is significant “crosstalk” between black holes and their host galaxies, seen through several observational relationships.
+**The Black Hole–Bulge Mass Correlation**
+- The mass of a galaxy’s central black hole correlates with the mass of the galaxy’s **bulge**.
+- This relationship is nearly linear on a log–log plot, with slope ≈ 1.
+- The proportionality factor is roughly **300–1000**, meaning:
+  - Black hole mass ≈ (bulge mass) / (a few hundred to a thousand).
+- Despite some scatter, the trend is clear: **bigger bulges → bigger black holes**.
+- The Milky Way sits on the low-mass end (~millions of solar masses), while galaxies like M87 sit near the top (~billion solar masses).
+- This correlation suggests an **evolutionary connection**: whatever processes grew the bulge also fueled the black hole, or vice versa.
+**Radio Galaxies and Jets**
+- Some galaxies show strong radio emission from enormous jets and lobes emerging from their centers.
+- These radio galaxies host active galactic nuclei launching jets of **relativistic plasma**.
+- The jets can be detected across the electromagnetic spectrum (radio, optical, etc.).  
+  - M87 is a prime example: it has a visible optical jet.
+- These jets originate close to the black hole because:
+  - The plasma travels at speeds **near the speed of light**.
+  - Only the extreme conditions near a black hole can accelerate matter this much.
+**Jet Structure and Scales**
+- Although the launching region is on the scale of a **solar system**, the jets can stretch:
+  - **Hundreds of thousands of light-years**, even up to a million light-years.
+- As the plasma propagates outward, it gradually slows and eventually dumps its energy into the intergalactic medium, forming giant **radio lobes**.
+**Observing Relativistic Motion**
+- Time-lapse images of jets (e.g., from M87) show individual blobs moving outward over years.
+- Using the galaxy’s known distance, the apparent motion corresponds to speeds very close to the speed of light.
+- In some systems, the jets appear bent or swept back due to the motion of the host galaxy through the intergalactic medium, leaving “trails” like the wake behind a moving ship.
+---
+**Gas Outside Galaxies: Intergalactic Absorption**
+- We can study gas that lies **outside** galaxies—intergalactic gas—using absorption techniques.
+- Just as starlight can reveal gas between stars via absorption lines, **quasar light** can reveal gas between galaxies.
+- Quasars are extremely bright, so their light passes through all intervening material on its way to Earth, imprinting absorption features in the quasar's spectrum.
+
+**Redshift and Absorption**
+- Because of the **Hubble expansion**, quasar light is redshifted as it travels to us.
+- Intervening hydrogen clouds absorb light at the hydrogen Lyman-α wavelength, but:
+  - If a cloud is **near us**, its absorption appears near the hydrogen rest wavelength.
+  - If a cloud is **farther away (higher redshift)**, the same absorption line appears at a **redder** wavelength.
+- As light passes through multiple clouds at different distances, we observe **multiple versions of the same absorption line**, each redshifted by a different amount.
+- This creates a kind of **tomography** of the hydrogen distribution along the line of sight.
+**The Lyman-Alpha Forest**
+- A quasar spectrum shows bright emission lines, including:
+  - **Lyman-α emission**, produced by hydrogen transitioning from the first excited state to the ground state.
+- For a quasar at high redshift (e.g. *z* = 3.62), the spectrum shows the **Lyman-α forest**.
+  - This is a dense series of absorption lines caused by many intervening hydrogen clouds.
+  - The early universe was much denser, so many such clouds existed, producing a thick “forest” of absorption features.
+- Interpretation:
+  - Absorbers closer to **us** appear at bluer wavelengths.
+  - Absorbers closer to the **quasar** appear near the quasar’s own Lyman-α emission line.
+- This pattern encodes the structure and distribution of intergalactic hydrogen across cosmic distances.
