@@ -29,30 +29,65 @@ $L = 4 \pi d^2 \, b$
 - Measure \(d\) using **parallax** or other distance methods.  
 - Invert the relation to find \(L\). 
 ---
-## 1. Concept of Parallax
+**Concept of Parallax**
 - **Parallax** is the apparent shift of a nearby star against the background of distant stars as Earth orbits the Sun.
 - Nearby stars appear to move slightly over a year, while distant stars appear nearly fixed.
 - The **parallax angle** (\(p\)) is half the angular shift observed over 6 months.
-
 ---
-
-## 2. Relation to Distance
+**Relation to Distance**
 - Distance \(d\) (in parsecs) is inversely proportional to the parallax angle \(p\) (in arcseconds):
-
-\[
-d \,[\text{pc}] = \frac{1}{p \,[\text{arcsec}]}
-\]
-
+$d \,[\text{pc}] = \frac{1}{p \,[\text{arcsec}]}$
 - 1 parsec (pc) ≈ 3.26 light-years.
-
 **Examples:**
-- \(p = 1'' \implies d = 1 \text{ pc}\)  
-- \(p = 0.1'' \implies d = 10 \text{ pc} \approx 32.6 \text{ ly}\)  
+- $p = 1'' \implies d = 1 \text{ pc}$  
+- $p = 0.1'' \implies d = 10 \text{ pc} \approx 32.6 \text{ ly}$ 
 
 ---
-
-## 3. Observational Notes
+**Observational Notes**
 - Parallax angles are extremely small (a few arcseconds for the closest stars).  
 - Measuring them requires precise instruments.  
 - Historical detection of stellar parallax wasn’t possible until the 1800s due to the tiny angles.  
 - Modern telescopes (like Gaia) can measure parallaxes down to micro-arcsecond precision.
+---
+**Luminosity Range**
+- Stars have a huge range of luminosities:
+  - Most luminous: ~1,000,000 × Sun's luminosity  
+  - Least luminous: ~10⁻⁴ × Sun's luminosity  
+- This spans **10 orders of magnitude** in brightness.
+---
+**Magnitude Scale**
+- Astronomers use **magnitude** to measure brightness on a logarithmic scale.
+- **Apparent magnitude (m):** based on observed brightness from Earth.
+  - Brighter stars → smaller magnitude  
+  - Fainter stars → larger magnitude
+  - Relation between two stars:
+
+
+\frac{b_2}{b_1} = 100^{(m_1 - m_2)/5}
+
+
+- **Absolute magnitude (M):** based on intrinsic luminosity.
+  - Defines brightness if the star were at **10 parsecs** from Earth.
+  - Relation to luminosity:
+
+\[
+\frac{L_2}{L_1} = 100^{(M_1 - M_2)/5}
+\]
+
+- Increasing magnitude → fainter star, decreasing magnitude → brighter star.
+
+---
+
+## 3. Connection Between Apparent and Absolute Magnitude
+- Absolute magnitude is simply the **apparent magnitude a star would have at 10 pc**:
+
+\[
+M = m - 5 \log_{10}\left(\frac{d}{10\,\text{pc}}\right)
+\]
+
+Where:  
+- \(M\) = absolute magnitude  
+- \(m\) = apparent magnitude  
+- \(d\) = distance in parsecs
+
+- This allows comparison of stars’ intrinsic brightness regardless of distance.
