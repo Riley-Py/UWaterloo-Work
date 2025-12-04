@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SCI 238/Summary Notes (V2)/Chapter 1/Chapter 1 - Modern View of Universe.md",
+                "file": "SCI 238/Summary Notes (V2)/Chapter 19/Chapter 19 - Our Galaxy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Chapter 1 - Modern View of Universe"
+              "title": "Chapter 19 - Our Galaxy"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "21 cm line",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -178,6 +179,8 @@
   "active": "fa9e9633e139b094",
   "lastOpenFiles": [
     "SCI 238/Summary Notes (V2)/Chapter 15/Chapter 15 - Surveying Stars.md",
+    "SCI 238/Summary Notes (V2)/Chapter 13/Chapter 13 - Exoplanets.md",
+    "SCI 238/Summary Notes (V2)/Chapter 1/Chapter 1 - Modern View of Universe.md",
     "SCI 238/Summary Notes (V2)/Chapter 16/Chapter 16 - Star Birth.md",
     "SCI 238/Summary Notes (V2)/Chapter 17/Chapter 17 - Star Stuff.md",
     "SCI 238/Summary Notes (V2)/Chapter 24/Chapter 24 - Life in Universe.md",
@@ -185,11 +188,9 @@
     "SCI 238/Summary Notes (V2)/Chapter 18/Chapter 18 - Bizarre Stellar Graveyard.md",
     "SCI 238/Summary Notes (V2)/Chapter 14/Chapter 14 - Sun.md",
     "SCI 238/Summary Notes (V2)/Chapter 7/Chapter 7 - Planetary System.md",
-    "SCI 238/Summary Notes (V2)/Chapter 13/Chapter 13 - Exoplanets.md",
     "SCI 238/Summary Notes (V2)/Chapter S4/Chapter S4 - Building Blocks of Universe.md",
     "SCI 238/Summary Notes (V2)/Chapter S3/Chapter S3 - Spacetime & Gravity.md",
     "SCI 238/Summary Notes (V2)/Chapter S2/Chapter S2 - Space & Time.md",
-    "SCI 238/Summary Notes (V2)/Chapter 1/Chapter 1 - Modern View of Universe.md",
     "SCI 238/Summary Notes (V2)/Chapter 19/Chapter 19 - Figures.md",
     "Pasted image 20251204121055.png",
     "Pasted image 20251204120948.png",
