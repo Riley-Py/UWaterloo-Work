@@ -140,57 +140,46 @@ Different combinations of these lead to **spirals, ellipticals, lenticulars, and
   - **Multiple galaxies interacting and merging**.
   - **Gravitational lensing** — blue arcs are stretched images of background galaxies.
 ---
-## 🌟 1. Starburst Galaxies: Extremely High Star-Formation Rates
+Starburst Galaxies: Extremely High Star-Formation Rates
 - Most galaxies today form stars at **low to moderate rates**.  
 - A **small minority** are *starburst galaxies* → forming stars **up to ~100× faster** than the Milky Way.
   - Milky Way SFR ≈ **1 solar mass per year**.
   - Starbursts: **tens to hundreds** of solar masses per year.
 
 ---
-
-## 🔥 2. Why Starbursts Glow in the Infrared
+**Why Starbursts Glow in the Infrared**
 - Starburst galaxies contain **huge dense molecular clouds** filled with dust.
 - Light from young stars gets **absorbed by dust**, heating it.  
 - The dust then radiates strongly at **~100 microns**, i.e., the **far infrared**.
 - Unlike the Milky Way (where these clouds are patchy), starbursts have **dusty star-forming regions across the entire galaxy**.
-
-### Spectral Clue
+ **Spectral Clue**
 - Their spectra show:
   - Weak optical output (absorbed by dust)
   - **Very strong infrared luminosity**
-
-This is a hallmark of intense, dust-enshrouded star formation.
-
 ---
-
-## 💥 3. Supernovae Drive Galactic Winds
+**Supernovae Drive Galactic Winds**
 - Starbursts produce **many massive stars** → many supernovae → huge energy input.
 - Instead of small local bubbles like in the Milky Way, starbursts create **galaxy-scale winds**.
-
-### Bipolar Winds
+**Bipolar Winds**
 - Observations show:
   - Blue optical light = star-forming disk  
   - Red emission = gas being pushed out  
   - Geometry: **two opposite cones** of outflow (bipolar)
-
-### X-ray Evidence
+ **X-ray Evidence**
 - Outflowing gas heated by supernova shocks emits strongly in **X-rays**.  
 - X-ray images reveal hot, fast-moving gas escaping perpendicular to the disk.
-
 ---
-
-## 🌬️ 4. Consequences of Galactic Winds
-### **In Small Galaxies**
+ 4. **Consequences of Galactic Winds**
+**In Small Galaxies**
 - Winds can **eject most of the gas** entirely.
 - This stops star formation early → explains:
   - Low stellar mass  
   - Low metallicity  
   - Irregular structures in dwarfs
-
-### **In Large Galaxies**
+ **In Large Galaxies**
 - Winds are still powerful but:
   - Gravity is stronger  
-  - Much of the gas eventually **falls back in* 
+  - Much of the gas eventually **falls back in**
   - Star formation can restart  
 Thus winds are **much more disruptive** for dwarfs than for giant galaxies.
 
