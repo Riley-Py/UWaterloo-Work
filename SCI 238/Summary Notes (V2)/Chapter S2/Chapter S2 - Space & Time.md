@@ -163,35 +163,27 @@ This exchange is the key insight:
 - In relativity:
   - The speed of light is the same for all observers.
   - Therefore, **time must differ**, not speed.
-
-## 2. Time Dilation Geometry
+**Time Dilation Geometry**
 - Let:
   - \( t' \) = time measured by the moving observer.
   - \( t \) = time measured by the stationary observer.
   - \( v \) = speed of the spaceship.
   - \( c \) = speed of light.
 - Geometry of the light path gives:
-  \[
-  (c t)^2 = (c t')^2 + (v t)^2
-  \]
+ $(c t)^2 = (c t')^2 + (v t)^2$
 - Solving yields:
-  \[
-  t' = t \sqrt{1 - \frac{v^2}{c^2}}
-  \]
-
-## 3. Consequences of the Time Dilation Formula
+  $t' = t \sqrt{1 - \frac{v^2}{c^2}}$
+**Consequences of the Time Dilation Formula**
 - Moving clocks run **slower** than stationary ones.
-- As \( v \rightarrow c \):
-  - \( t' \rightarrow 0 \)
+- As $v \rightarrow c$:
+  - $t' \rightarrow 0$
   - Meaning photons (which travel at \( c \)) experience **no passage of time**.
 - Time dilation is a direct consequence of the constancy of the speed of light.
-
-## 4. Behavior of \( t'/t \)
+ **Behavior of $t'/t$**
 - At \( v = 0 \): \( t'/t = 1 \) (no time dilation).
 - As \( v \) increases: \( t'/t \) decreases.
 - At \( v = c \): \( t'/t = 0 \).
-
-## 5. Relativity of Simultaneity
+**Relativity of Simultaneity**
 - If two spatially separated events emit flashes that reach you simultaneously, you judge them **simultaneous**.
 - A moving observer (Al) does not agree:
   - He moves **toward** one event and **away** from the other.
