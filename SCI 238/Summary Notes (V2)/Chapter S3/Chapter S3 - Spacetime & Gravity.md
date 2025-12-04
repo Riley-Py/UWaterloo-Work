@@ -228,3 +228,21 @@ $s^2 = x^2 + y^2 + z^2 - (ct)^2$
 **awards**  
 - LIGO team won **2017 Nobel Prize** in Physics for direct detection.
 ---
+**what are wormholes?**  
+- Hypothetical “tunnels” through spacetime connecting distant regions.  
+- Could, in principle, allow faster-than-light travel from one point in space to another (locally, without violating relativity).  
+- Analogy: dig a tunnel through Earth to go faster than traveling along the surface.  
+**how they work (mathematical idea)**  
+- Solutions to Einstein’s equations exist that resemble wormholes.  
+- Appear similar to black holes from far away, but do not have a singularity you fall into.  
+- One could enter and exit in a different region of space or even time.  
+**practical challenges**  
+- Require **exotic matter** with negative energy density to stabilize.  
+- Building large-scale, traversable wormholes is **highly speculative** and may be impossible.  
+**time travel possibilities**  
+- Wormholes could, in theory, be used for time travel if one mouth experiences time dilation relative to the other.  
+- Raises **paradoxes** (e.g., grandfather paradox), which are still debated in physics.  
+**current status**  
+- Not prohibited by the laws of physics, but **no experimental evidence exists**.  
+- Mostly a tool for thought experiments and science fiction (e.g., *Interstellar*).  
+- Scale and stability are major obstacles; small-scale wormholes might exist, but large, usable ones are purely speculative.
