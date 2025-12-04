@@ -26,3 +26,84 @@
 - Particle-radiation equilibrium dominated early universe dynamics.
 - Provides the foundation for later processes: nucleosynthesis, structure formation, and cosmic microwave background.
 ---
+**1. Planck Era**
+- Time: < 10⁻⁴³ seconds after the Big Bang.
+- Temperature: ≳ 10³² K.
+- Physics: Unknown; quantum gravity dominates; general relativity and quantum mechanics inconsistent.
+- Nature: Extremely speculative; fluctuations in spacetime geometry are huge.
+**2. GUT Era (Grand Unified Theories)**
+- Time: ~10⁻⁴³ to 10⁻³⁸ seconds.
+- Physics: Strong nuclear force unifies with electroweak force; gravity not included.
+- Nature: Speculative; untested by experiments.
+**3. Electroweak Era**
+- Time: ~10⁻³⁸ to 10⁻¹⁰ seconds.
+- Temperature: 10¹⁵ – 10²⁹ K.
+- Physics: Electromagnetic and weak nuclear forces unified.
+- Nature: "Desert" region; bottom end (~10⁻¹⁰ s, 10¹⁵ K) accessible in high-energy experiments on Earth.
+- Well-tested: Electroweak unification confirmed experimentally.
+**4. Particle Era**
+- Time: ~10⁻¹⁰ s to milliseconds.
+- Physics: Universe filled with elementary particles (protons, neutrons, electrons) and corresponding antiparticles.
+- Matter-antimatter asymmetry: 1 particle excess per 10⁹ particle-antiparticle pairs, necessary for surviving matter.
+**5. Nucleosynthesis Era**
+- Time: Milliseconds to ~5 minutes.
+- Temperature: 10¹² – 10⁹ K.
+- Physics: Formation of first nuclei:
+  - Deuterium, helium-3, helium-4, lithium.
+- End of era: ~5 minutes; nuclei "freeze" until star formation.
+**6. Recombination / Atom Formation**
+- Time: ~380,000 years.
+- Temperature: ~3000 K.
+- Physics: Electrons combine with nuclei → neutral atoms.
+- Universe becomes transparent to radiation → **Cosmic Microwave Background (CMB)** photons decouple.
+- Universe transitions from plasma to neutral gas.
+**7. Cosmic Dark Ages**
+- Time: 380,000 years – 1 billion years.
+- Physics: Universe mostly neutral; no stars yet.
+- Gravity causes density fluctuations to grow; seed formation of first stars and galaxies.
+**8. Formation of First Stars and Galaxies**
+- Time: ~1 billion years.
+- Physics: Small density fluctuations collapse under gravity → first stars → galaxies.
+- Processes:
+  - Gas cooling and clumping.
+  - Star formation triggers further structure growth.
+**Summary**
+- Universe evolves from **hot, dense, and opaque** to **cooler, neutral, and structured**.
+- Early speculative eras (Planck, GUT) are not experimentally accessible.
+- Particle physics and nucleosynthesis eras are well-understood.
+- Atom formation → CMB → cosmic structure growth → galaxies and stars.
+---
+## 1. Cosmic Microwave Background (CMB)
+- **Discovery:** 1965 by Arno Penzias and Robert Wilson (Nobel Prize, 1978).
+- **Observation:** Isotropic microwave radiation (~2.73 K) detected in all directions.
+- **Origin:**
+  - Photons decoupled from matter ~380,000 years after the Big Bang.
+  - Universe became transparent as electrons combined with nuclei → **recombination**.
+  - Initial temperature at decoupling: ~3000 K (visible/infrared photons).
+  - Expansion of the universe redshifted photons by ~factor of 1000 → microwave wavelengths (~2.73 K today).
+
+- **Blackbody Spectrum:**
+  - Measured intensity vs. wavelength fits **perfect blackbody** spectrum.
+  - Confirms thermal origin and consistency with hot early universe.
+
+- **Fluctuations:**
+  - Tiny temperature anisotropies (~10⁻⁵ relative to 3 K background).
+  - Seeds for **structure formation**: galaxies, clusters, superclusters.
+  - High-resolution maps from **Planck satellite (ESA)** show these fluctuations in detail.
+
+- **Significance:** 
+  - Uniform CMB across the sky → strong evidence for a **hot, dense early universe**.
+  - Tiny ripples → explain growth of cosmic structures via gravity over billions of years.
+
+**Light Element Abundances**
+- **Elements:** Hydrogen, helium, deuterium, lithium.
+- **Process:** **Big Bang nucleosynthesis** (first few minutes after the Big Bang).
+- **Predictions vs. Observations:**
+  - Ratios of helium, deuterium, lithium to hydrogen match theoretical predictions.
+  - Confirms **high temperature and density conditions** of early universe.
+  - Slight lithium discrepancy exists, but overall agreement supports Big Bang model.
+
+Summary
+- **CMB:** Direct snapshot of early universe (380,000 years old); confirms hot, dense beginnings.
+- **Light Elements:** Consistent with nuclear processes in early universe; indirect evidence for hot Big Bang.
+- Together, these are **primary observational pillars** supporting the Big Bang theory.
