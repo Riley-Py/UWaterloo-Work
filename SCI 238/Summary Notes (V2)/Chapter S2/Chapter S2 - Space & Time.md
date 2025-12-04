@@ -143,8 +143,7 @@ This exchange is the key insight:
 - Outside observer:
   - Light travels a longer diagonal path because the train moves horizontally.
   - Light still travels at the same speed **c** for all observers.
-
-Consequence: Time Dilation
+**Consequence: Time Dilation**
 - Both observers measure:
   - Same starting event (light emitted).
   - Same ending event (light returns).
@@ -154,3 +153,47 @@ Consequence: Time Dilation
 - Therefore:
   - The moving observer measures a **shorter** time interval.
   - The stationary observer measures a **longer** time interval.
+---
+**Spaceship Light-Clock Example**
+- Moving observer (Albert) sees the photon travel a **shorter vertical path**, so measures **shorter time** (e.g., 10 s).
+- Stationary observer sees the photon follow a **longer diagonal path**, so measures **longer time** (e.g., 15 s).
+- In classical mechanics:
+  - Time would be the same.
+  - Photon would appear faster due to added horizontal velocity.
+- In relativity:
+  - The speed of light is the same for all observers.
+  - Therefore, **time must differ**, not speed.
+
+## 2. Time Dilation Geometry
+- Let:
+  - \( t' \) = time measured by the moving observer.
+  - \( t \) = time measured by the stationary observer.
+  - \( v \) = speed of the spaceship.
+  - \( c \) = speed of light.
+- Geometry of the light path gives:
+  \[
+  (c t)^2 = (c t')^2 + (v t)^2
+  \]
+- Solving yields:
+  \[
+  t' = t \sqrt{1 - \frac{v^2}{c^2}}
+  \]
+
+## 3. Consequences of the Time Dilation Formula
+- Moving clocks run **slower** than stationary ones.
+- As \( v \rightarrow c \):
+  - \( t' \rightarrow 0 \)
+  - Meaning photons (which travel at \( c \)) experience **no passage of time**.
+- Time dilation is a direct consequence of the constancy of the speed of light.
+
+## 4. Behavior of \( t'/t \)
+- At \( v = 0 \): \( t'/t = 1 \) (no time dilation).
+- As \( v \) increases: \( t'/t \) decreases.
+- At \( v = c \): \( t'/t = 0 \).
+
+## 5. Relativity of Simultaneity
+- If two spatially separated events emit flashes that reach you simultaneously, you judge them **simultaneous**.
+- A moving observer (Al) does not agree:
+  - He moves **toward** one event and **away** from the other.
+  - He receives the closer-direction flash earlier.
+- Even if the flashes were emitted simultaneously in your frame, they **are not simultaneous** in his frame.
