@@ -233,7 +233,7 @@
 4. **Core Collapse**: Iron core collapses → neutron star forms.
 5. **Supernova Explosion**: Ejects outer layers → creates heavy elements.
 ---
-## 1. Mass Determines Stellar Evolution (Isolated Stars)
+**Mass Determines Stellar Evolution (Isolated Stars)**
 - **Low-mass stars (< 2 M☉):**
   - Long lives, never hot enough to fuse carbon
   - End as **white dwarfs**
@@ -243,10 +243,8 @@
 - **High-mass stars (> 8 M☉):**
   - Short lives, fuse heavier elements up to iron
   - End in **core-collapse supernovae**, leaving neutron stars or black holes
-
 ---
-
-Common Evolution Stages (Simplified)
+**Common Evolution Stages (Simplified)**
 - **Low-Mass Stars:**  
   1. Main Sequence  
   2. Red Giant  
