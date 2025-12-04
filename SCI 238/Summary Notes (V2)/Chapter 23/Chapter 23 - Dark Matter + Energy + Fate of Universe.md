@@ -130,3 +130,28 @@
 - Account for ~25% of the universe’s energy density.
 - Consistent with galaxy formation and cosmic microwave background (CMB) observations.
 ---
+**1. Dark Matter and Protogalactic Collapse**
+- Early universe: ~85% of mass in dark matter.
+- Protogalactic clouds are dominated by dark matter gravity → collapse.
+- **WIMPs** (weakly interacting massive particles) cannot radiate energy → cannot cool → cannot sink to galaxy centers.
+- Ordinary matter can cool via radiation and lose angular momentum → sinks to the center → forms luminous matter like stars and gas.
+**2. Distribution in Galaxies**
+- Outer regions: dark matter dominates.
+- Inner regions (galactic bulge, central few thousand light-years): ordinary matter dominates.
+- Example: Within the solar circle (~27,000 light-years to galactic center) → comparable amounts of dark matter and stars.
+**3. Large-Scale Cosmic Flows**
+- Galaxies flow toward regions of higher dark matter density.
+- Mapping galaxy motions → reveals **superclusters** and **voids**.
+- Local example: Milky Way lies in the **Laniakea Supercluster** (local overdensity).
+**4. Largest Structures in the Universe**
+- Observations show **walls, filaments, superclusters**, and **voids**.
+- Example surveys:
+  - CFA survey → revealed the "Great Wall".
+  - More recent surveys → detailed filamentary structures.
+- Scales: hundreds of millions of light-years (e.g., 200–500 Mly).
+**5. Simulations of Structure Formation**
+- Computer models track dark matter and galaxy evolution over cosmic time.
+- Tiny early-universe density ripples grow under gravity → filamentary superclusters and voids.
+- Galaxies trace dark matter → simulated distributions match observed galaxy maps.
+- Confirms: **dark matter drives structure formation**, especially at large scales.
+---
