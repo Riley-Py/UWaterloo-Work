@@ -171,3 +171,39 @@ $M \approx 10^{11} M_\odot \approx 1.9 \times 10^{41} \text{ kg}$
 - Lifetime of massive stars < time for spiral wave to pass → bright stars trace the wave temporarily.  
 **Takeaway:** Spiral arms are “stellar nurseries,” highlighted by young, short-lived stars formed as gas is compressed by moving density waves.
 ---
+**Galactic Archaeology: Halo vs Disk Stars**
+- **Halo stars:**
+  - Very old, low in heavy elements (metallicity 0.02–0.2% by mass).  
+  - Suggests they formed **first**, before much stellar recycling occurred.  
+  - No gas remains in the halo → star formation stopped long ago.
+- **Disk stars:**
+  - Younger on average, span all ages.  
+  - Higher metallicity (~2% heavy elements) → formed from recycled gas enriched by previous generations of stars.  
+  - Continuous star formation is still occurring in the disk.
+**Takeaway:** Metallicity differences reveal the sequence of formation: halo stars → disk stars.
+---
+ **Formation Sequence of the Milky Way**
+1. **Collapse of Intergalactic Gas:**  
+   - Galaxy formed from a cloud of gas contracting under gravity.  
+1. **Halo Star Formation:**  
+   - Gas fragments during contraction → forms first generation of stars in a **spherical halo**.  
+1. **Disk Formation:**  
+   - Remaining gas settles into a rotating disk → ongoing star formation.  
+   - Early disk may have been turbulent; spiral patterns formed over billions of years.  
+1. **Galaxy Growth:**  
+   - Disk continuously forms new stars from recycled gas.  
+   - Halo stars remain old, randomly oriented.  
+---
+**Role of Mergers**
+- Early Milky Way likely formed by **merging smaller proto-galaxies**.  
+- Proto-galaxies:
+  - Could have hosted halo stars and globular clusters.  
+  - Merged clumps contributed stars to halo; gas cooled to form the disk.  
+- Modern simulations support hierarchical galaxy formation.
+---
+**Summary:**  
+- Milky Way formed hierarchically from smaller clumps.  
+- **Old halo stars** trace early formation.  
+- **Younger disk stars** trace ongoing star formation from enriched gas.  
+- Metallicity and star ages act as “fossils,” telling the story of the galaxy’s evolution.
+---
