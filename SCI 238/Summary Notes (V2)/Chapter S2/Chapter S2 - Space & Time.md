@@ -254,12 +254,41 @@ $m = \frac{m_0}{\sqrt{1 - \frac{v^2}{c^2}}}$
 - At low speeds $( v \ll c$)
 $E \approx m_0 c^2 + \frac{1}{2} m_0 v^2$
   - $m_0 c^2$ → rest mass energy  
-  - $frac{1}{2} m_0 v^2$ → classical kinetic energy
+  - $\frac{1}{2} m_0 v^2$ → classical kinetic energy
 - Energy and mass are equivalent; adding energy increases relativistic mass.
-## 5. Photons and Massless Particles
-- Rest mass \( m_0 = 0 \), but they carry energy:
-\[
-E = h f
-\]
+**Photons and Massless Particles**
+- Rest mass $m_0 = 0$, but they carry energy:
+	$E = h f$
 - Photons always move at speed \( c \)
 - For particles with mass, reaching \( c \) requires **infinite energy**.
+---
+**Michelson-Morley Experiment (1887)**
+- Measured the speed of light at different times of year and day.
+- Goal: detect variation due to Earth's motion (≈30 km/s ≈ 0.01% of c).
+- Result: **speed of light constant**, independent of Earth's motion.
+- Key evidence for the absoluteness of **c**.
+Time Dilation Evidence
+- **Subatomic particles**:
+  - At rest: decay quickly.
+  - At high speeds in accelerators: decay slower due to time dilation.
+- **Precision clocks on airplanes**:
+  - Atomic clocks measure small time dilation effects.
+- **GPS systems**:
+  - Require corrections for both special relativity (velocity) and general relativity (gravity) to maintain accuracy.
+
+## 3. Mass-Energy Relation Evidence
+- Energy and mass are equivalent: \( E = mc^2 \)
+- Observed in:
+  - Nuclear fusion in the Sun: mass loss → energy production.
+  - Other particle physics processes where mass converts to energy.
+
+## 4. Constancy of Speed of Light in Astronomy
+- Binary stars and other distant objects:
+  - If c depended on the source, their light patterns would appear distorted.
+  - Observations show **no dependence**, confirming light speed is absolute.
+
+## 5. Conceptual Paradoxes Avoided
+- If light speed depended on the emitter:
+  - Collisions of fast-moving objects would appear at different times depending on source velocity.
+  - Real-world observations do **not** show such paradoxes.
+- Supports the relativistic postulate: **c is constant for all observers**.
