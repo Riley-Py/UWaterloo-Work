@@ -163,3 +163,38 @@ Inflation provides a framework for understanding:
 - Why space appears **geometrically flat** and the density is near the critical value.
 **Takeaway:** Inflation stretches a tiny, uniform, causally connected region into the vast, flat, and structured universe we observe today.
 ---
+**Cosmic Microwave Background Patterns**
+- Satellites like **WMAP** and **Planck** mapped tiny temperature fluctuations in the CMB.
+- These fluctuations are the **seeds of cosmic structure** (galaxies, clusters).
+- Observed patterns:
+  - Fluctuation amplitude varies with angular scale.
+  - Most fluctuations occur on ~degree scales, with smaller-scale oscillations.
+  - At very small angles, fluctuations decrease.
+- **Inflation prediction:** Quantum fluctuations stretched during inflation match the statistical properties of these CMB patterns.
+---
+**Data vs. Inflationary Models**
+- **Black points:** Observed data from Planck (CMB temperature fluctuations across the sky).
+- **Red line:** Best-fit inflationary model.
+- Hundreds/thousands of data points can be fit with inflation models using a few free parameters.
+- Some inflation models fit the data very well, others are ruled out.
+---
+**Cosmological Parameters Inferred**
+From fitting CMB data with inflationary models:
+
+| Parameter | Value |
+|-----------|-------|
+| Geometry | Flat (total density = critical density) |
+| Ordinary matter (baryons) | 5% |
+| Dark matter | 27% |
+| Dark energy | 68% |
+| Total matter | 32% |
+| Age of universe | 13.8 billion years |
+
+- The fit provides **precise constraints** on the composition and age of the universe.
+- Confirms the **predominant flat geometry** and dominance of dark components.
+---
+**Key Takeaways**
+- **Inflation is consistent with observed CMB fluctuations.**
+- Explains the **origin of structure**, **flat geometry**, and **uniformity**.
+- Observational evidence supports inflation, but **alternative theories exist** and must meet a high bar to explain the same data.
+----
