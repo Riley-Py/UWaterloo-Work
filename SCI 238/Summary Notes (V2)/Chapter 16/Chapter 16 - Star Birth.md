@@ -201,3 +201,40 @@
   - Contraction slower → longer timescales:
     - Example: 0.5 M☉ → ~150 million years
 ---
+**Minimum Mass (Brown Dwarfs)**
+- **Fusion requirement:** core temperature must reach ~10 million K.  
+- **Thermal pressure alone:** cannot stop contraction; star would heat up as it loses energy (negative heat capacity).  
+- **Quantum degeneracy pressure:** stops contraction if mass is too low.  
+  - Electrons cannot occupy the same state → provides pressure independent of temperature.  
+- **Threshold:** objects **<0.08 M☉** cannot start hydrogen fusion → become **brown dwarfs**.  
+  - Emit mostly in **infrared**, surface too cool for visible light.  
+  - Gradually cool and fade over hundreds of millions of years.  
+  - Examples observed in **Orion Nebula** via infrared surveys.  
+---
+**Maximum Mass**
+- **Radiation pressure** becomes dominant in very massive stars:
+  - Photon collisions exert pressure that can oppose gravity.  
+  - High luminosity of massive stars → radiation pressure can exceed gravitational binding → star becomes unstable.  
+- **Estimated upper limit:** ~100–200 M☉  
+  - Old models: ~150 M☉  
+  - Observational evidence suggests some stars may exceed this, but stability is short-lived.  
+---
+**Typical Mass Distribution**
+- **Most stars are low-mass**; fewer high-mass stars.  
+- Example distribution (per 261 stars formed):
+  - 200 stars: 0.08–0.5 M☉  
+  - 50 stars: 0.5–2 M☉  
+  - 10 stars: 2–10 M☉  
+  - 1 star: 10–150 M☉  
+- **Implications:** 
+  - Low-mass stars dominate in number and live longest.  
+  - High-mass stars are rare but luminous and short-lived.  
+- **Initial Mass Function (IMF):** describes the distribution of stellar masses at formation. Observed population differs because:
+  - Massive stars die quickly.  
+  - Low-mass stars persist for billions of years.  
+---
+**Key takeaway:**  
+- **Lower limit:** ~0.08 M☉ → brown dwarfs  
+- **Upper limit:** ~150 M☉ (radiation pressure limit)  
+- **Most stars:** low-mass (<1 M☉) and long-lived  
+---
