@@ -67,3 +67,39 @@ $M \approx 10^{11} M_\odot \approx 1.9 \times 10^{41} \text{ kg}$
 - Galaxy mass derived from orbital dynamics using **distance and velocity of Sun**.
 - Milky Way mass ≈ **100 billion solar masses**.
 ---
+**Star-Gas-Star Cycle**
+- **Gas clouds** → cool and fragment → **molecular clouds** → form **new stars**.  
+- Stars fuse lighter elements into heavier ones in their cores.  
+- When stars die:
+  - **Massive stars:** Supernova explosions & strong stellar winds → return heavy elements to interstellar medium (ISM).  
+  - **Low-mass stars:** Planetary nebulae & stellar winds → return some material.  
+**Result:** The ISM becomes enriched in heavy elements over time.
+
+---
+**Observing Recycling**
+- **Supernova remnants:** X-rays show heavy elements like O, Ne, S, N.  
+- **Radio emission:** From charged particles spiraling in magnetic fields → cosmic rays.  
+- **Superbubbles / Galactic fountains:** Multiple supernovae in clusters heat gas, push it above the disk, which then cools and falls back down.  
+**Effect:** Gas circulates in the galaxy, mixing elements and magnetic fields.
+
+---
+  **Molecular Clouds and Star Formation**
+- **Cooling:** Hot gas → atomic hydrogen (~100–10,000 K) → molecules (~30 K).  
+- **Molecular clouds:** Mostly H₂, ~28% He, ~1% CO, trace other molecules.  
+  - CO dominates emission because H₂ is symmetric and inefficient at emitting light.  
+- **Dense regions fragment** → form new stars.  
+**Self-regulation:**  
+- Massive stars emit radiation & outflows → erode surrounding gas → limits star formation efficiency.
+---
+**Summary of Galactic Recycling**
+1. **Stars form:** From dense molecular clouds.  
+2. **Fusion occurs:** Stars produce heavier elements.  
+3. **Death of stars:**  
+   - Supernovae & winds return enriched gas to ISM.  
+   - Magnetic fields and cosmic rays injected.  
+4. **Gas cooling:**  
+   - Hot gas → atomic hydrogen → molecules.  
+5. **New star formation:**  
+   - Gravity collapses densest regions → forms stars & planets.  
+**Cycle repeats**, enriching the galaxy with heavy elements and regulating star formation.
+---
