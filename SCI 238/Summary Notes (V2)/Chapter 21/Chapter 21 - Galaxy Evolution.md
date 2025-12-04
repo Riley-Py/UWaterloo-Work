@@ -223,3 +223,30 @@ These redshifts show quasars are **very distant**, not nearby stars.
 This is the first big clue that quasars are powered by **accretion onto a supermassive black hole**.
 
 ---
+**Orbital Evidence in M87**
+- Gas orbiting the center of galaxy M87 shows different Doppler shifts (blue-shift on one side, red-shift on the other), revealing rotation around a massive object.
+- From the orbital speeds and distances, we infer a black hole mass of about **2–3 billion solar masses**.
+- This aligns with the mass measured by the Event Horizon Telescope image taken much closer to the event horizon.
+
+**Orbital Evidence in Other Galaxies (Example: Messier 106)**
+- M106 is a spiral galaxy with active star formation in its arms.
+- Using radio observations and **masers** (extremely sharp spectral lines), astronomers measure gas velocities near the nucleus with very high precision.
+- Plots of velocity versus position show a classic **Keplerian rotation curve**:
+  - One side of the disk is moving toward us (blue-shift).
+  - The opposite side is moving away from us (red-shift).
+  - Gas in the middle moves mostly across our line of sight.
+- Fitting Kepler’s law to the data yields a central mass of about **36 million solar masses**.
+- These measurements probe a tiny region (about one light-year across), revealing the presence of a supermassive black hole.
+
+**Accretion and Energy Generation**
+- Active galactic nuclei (AGN) and quasars are powered by matter falling into the central black hole.
+- As gas spirals inward, **gravitational potential energy → kinetic energy → thermal energy** through friction and turbulence.
+- The resulting **accretion disk** becomes extremely hot and emits intense thermal radiation.
+- Accretion converts **10–40% of rest-mass energy** into radiation — vastly more efficient than nuclear fusion in stars (only 0.7% mass-to-energy conversion for hydrogen fusion).
+
+**Growth and Evolution of Supermassive Black Holes**
+- Nearly all galaxies, including the Milky Way, host a **supermassive black hole** at their center.
+- These are thought to be **“dead quasars”** — previously active black holes that have quieted down.
+- During earlier cosmic epochs, galaxies underwent quasar phases where accretion was intense and the black holes rapidly grew.
+- Today, most nearby galaxies contain dormant black holes that accrete slowly and faintly compared to their quasar-era activity.
+---
