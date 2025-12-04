@@ -46,17 +46,13 @@
 - Optical observations show **dark patches**, infrared/radio reveal **hidden stars and molecular emission**  
 - Dust both **obscures light** and **re-emits absorbed energy** at longer wavelengths
 ---
-
-## 1. Gravity vs. Pressure
-
+**Gravity vs. Pressure**
 - **Gravity** tries to collapse the cloud.  
 - **Thermal pressure** resists collapse (pushes outward).  
 - **Key idea:** A star forms only if **gravity overcomes pressure**.
-
-Role of Cooling
+**Role of Cooling**
 - Molecules in the cloud emit **line emission** (infrared/radio photons).  
 - This removes thermal energy → **reduces pressure** → gravity gradually dominates.  
-
 ---
 **Conditions for Collapse**
 - Typical **molecular cloud properties**:
@@ -67,6 +63,9 @@ Role of Cooling
   - Determines whether gravity can overcome pressure  
   - Example: 30 K, 300 particles/cm³ → **~170 solar masses**  
   - **If cloud < Jeans mass → pressure wins → no collapse**
+  - $M_{balance} = 18 \cdot M_{sun} \sqrt({T^3 \over n})$ (Jean's mass formula)
+	  - n is density per cubic centimeter
+	  - T is temperatuer
 ---
 **Additional Forces Opposing Gravity**
 - **Magnetic fields**: create magnetic pressure  
