@@ -55,7 +55,7 @@
   - Star moving **toward** us → blue-shifted light.
   - Star moving **away** from us → red-shifted light.
 - **Physics:**  
-  - Conservation of momentum: \( M_\text{planet} v_\text{planet} = M_\text{star} v_\text{star} \)
+  - Conservation of momentum:  $M_\text{planet} v_\text{planet} = M_\text{star} v_\text{star}$
   - Star’s motion much slower than planet’s (e.g., Sun’s motion due to Jupiter ~1 m/s).
 - **Observation:** High-precision spectroscopy detects shifts in spectral lines.
 - **Information obtained:**
