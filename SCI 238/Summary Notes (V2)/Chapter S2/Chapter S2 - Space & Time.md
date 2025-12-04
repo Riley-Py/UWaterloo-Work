@@ -227,3 +227,47 @@ $v_{\text{rel}} = \frac{0.9c + 0.8c}{1 + (0.9)(0.8)} = \frac{1.7c}{1 + 0.72} = \
 **Key Result**
 - No matter how you combine them, **relative speeds never exceed \( c \)**.
 ---
+**Time Dilation**
+- Moving clocks tick more slowly relative to a stationary observer.
+- Formula:
+$t' = t \sqrt{1 - \frac{v^2}{c^2}}$
+- \( t' \): time measured by moving observer  
+- \( t \): time measured by stationary observer  
+- Faster motion → smaller \( t' \)
+ **Length Contraction**
+- Moving objects appear **shorter along the direction of motion**.
+- Formula:
+$L = L_0 \sqrt{1 - \frac{v^2}{c^2}}$
+- \( L_0 \): proper length (object’s own frame)  
+- \( L \): contracted length (observed from stationary frame)
+Relativistic Mass Increase
+- Moving objects appear more massive to stationary observers.
+- Formula:
+\[
+m = \frac{m_0}{\sqrt{1 - \frac{v^2}{c^2}}}
+\]
+- Example:
+  - Rest mass \( m_0 = 90 \text{ kg} \)
+  - At \( v = 0.9c \), \( m \approx 206 \text{ kg} \)
+- Faster motion → larger relativistic mass → harder to accelerate
+
+## 4. Energy-Mass Relation
+- Total energy includes **rest mass energy** and **kinetic energy**:
+\[
+E = m c^2
+\]
+- At low speeds (\( v \ll c \)):
+\[
+E \approx m_0 c^2 + \frac{1}{2} m_0 v^2
+\]
+  - \( m_0 c^2 \) → rest mass energy  
+  - \( \frac{1}{2} m_0 v^2 \) → classical kinetic energy
+- Energy and mass are equivalent; adding energy increases relativistic mass.
+
+## 5. Photons and Massless Particles
+- Rest mass \( m_0 = 0 \), but they carry energy:
+\[
+E = h f
+\]
+- Photons always move at speed \( c \)
+- For particles with mass, reaching \( c \) requires **infinite energy**.
