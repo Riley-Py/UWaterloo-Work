@@ -111,4 +111,25 @@
 $4\,\text{protons} \;\rightarrow\; {}^4\text{He} + 2\,\gamma + 2\,e^+ + 2\,\nu_e + \text{energy}$
 
 ---
-
+**From Core to Radiation Zone**
+- **Neutrinos** escape almost immediately due to **weak interactions**.  
+- All other energy (photons, kinetic energy of charged particles) is **trapped** in the dense core.  
+- Photons are neutral → scatter less efficiently than charged particles → **diffuse slowly**.  
+- It takes roughly **1 million years** for a photon to travel from the core to the edge of the radiation zone.  
+  - This is why if the Sun’s core stopped producing energy, we wouldn’t notice for a million years.
+---
+**Radiation Zone**
+- Energy transport occurs primarily via **radiative diffusion**:
+  - Photons randomly scatter off charged particles (mostly protons and electrons).  
+  - Energy gradually leaks outward.  
+- Density and opacity are high → diffusion is slow.  
+---
+ **Convection Zone**
+- At the boundary of the radiation zone, **convection becomes dominant**:
+  - Analogous to boiling water: when diffusion is inefficient, hot material rises and cool material sinks.
+  - Hot plasma rises from the bottom of the convective zone, releases energy at the top, and sinks back down.  
+- This creates the **granulation pattern** visible in the Sun’s photosphere:
+  - Bright regions: hot, rising plasma (~1,000 km across).  
+  - Darker regions: cooler, sinking plasma.  
+- **Earth’s size** is roughly 12 times the width of these granules, highlighting their small scale relative to planetary sizes.
+---
