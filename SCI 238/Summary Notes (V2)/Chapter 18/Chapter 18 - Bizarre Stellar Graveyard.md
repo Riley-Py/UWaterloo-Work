@@ -295,3 +295,40 @@
 - **X-ray binaries**: compact objects accreting material emit X-rays; many contain black holes.
   - Example: **Cygnus X-1** (first strong black hole candidate, now widely accepted).
 ---
+**Gamma Ray Bursts (GRBs)**
+- **Definition:** Brief, intense bursts of gamma rays from space.  
+- **Discovery:** First detected in the 1960s by satellites monitoring nuclear tests.  
+- **Origin:** Cosmic; come from distant galaxies. Likely among the most powerful explosions in the universe.  
+- **Types:**
+  1. **Long GRBs**
+     - Duration: several days (optical afterglow fades over months).  
+     - Associated with **very powerful supernova explosions**, possibly forming black holes.
+  2. **Short GRBs**
+     - Duration: very brief.  
+     - Likely caused by **mergers of neutron stars**.  
+- **Optical Afterglow:** The visible light seen from Earth is delayed compared to the initial gamma rays, caused by interaction with interstellar medium.
+---
+**Gravitational Waves and Neutron Star Mergers**
+- **LIGO (Laser Interferometer Gravitational-Wave Observatory)**
+  - Detects tiny ripples in spacetime.  
+  - Observed the **“chirp” signal**: frequency increases over time as two compact objects spiral inwards.
+- **Coincident Gamma Rays**
+  - Satellites like **Fermi** and **INTEGRAL** detected gamma rays in the same direction as the gravitational wave event.  
+  - Confirms that short GRBs can come from neutron star mergers.
+- **Significance of the Event**
+  - First **ever observed event** in both gravitational waves and electromagnetic radiation.  
+  - Provides direct evidence linking neutron star mergers to gamma ray bursts.  
+  - Around 50 gravitational wave events have been detected since, but this remains the first with electromagnetic confirmation.
+---
+**Physics of the Merger**
+- As neutron stars orbit and emit gravitational waves:
+  - They **lose energy**, spiral closer, and **rotate faster** → “chirp.”  
+  - Eventually merge, possibly forming a **black hole**.  
+  - Release enormous energy as gamma rays and gravitational waves.
+---
+**Summary**
+- Gamma ray bursts: cosmic explosions with extremely high energy.  
+- Long GRBs → supernovae, possible black hole formation.  
+- Short GRBs → neutron star mergers, confirmed by gravitational waves.  
+- Multi-messenger astronomy: combining gravitational waves and electromagnetic radiation revolutionizes understanding of these extreme events.
+---
