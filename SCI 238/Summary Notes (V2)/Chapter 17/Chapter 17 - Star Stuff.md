@@ -45,10 +45,42 @@
   - Luminosity increases because of the extra energy from shell burning.
   - Surface appears red due to lower energy per unit area.
 ---
-## 3. Helium Core Fusion (Triple-Alpha Process)
+**Helium Core Fusion (Triple-Alpha Process)**
 - Helium nuclei are **doubly charged**, so fusion requires much higher temperatures (~100 million K).
 - Two helium nuclei alone cannot form a stable product → three helium nuclei fuse simultaneously (**triple-alpha process**) to form carbon.
 - This fusion generates **more energy per reaction than hydrogen fusion**, but requires extreme conditions in the core.
 - Helium burning marks the next stage in stellar evolution after the red giant phase.
-
 ---
+**Helium Flash**
+- **Occurs in low-mass stars** whose cores are supported by **degeneracy pressure**.
+- Degeneracy pressure **decouples temperature from pressure**:
+  - Core contraction does not regulate fusion (broken thermostat).
+  - When helium fusion starts, **temperature rises rapidly** because degeneracy pressure prevents immediate expansion.
+- Fusion rate skyrockets until **thermal pressure takes over**, at which point the core can expand and stabilize.
+- Result: **sudden onset of helium burning** in the core known as the **helium flash**.
+---
+**Helium-Burning Phase**
+- After helium flash:
+  - **Core stabilizes**, helium fusion continues in the center.
+  - Hydrogen shell fusion continues around the helium core.
+  - Outer envelope remains non-fusing.
+- Star achieves a temporary **stable configuration**:
+  - **Luminosity nearly constant**, surface temperature slowly increases.
+  - Behaves like a “main sequence” star for helium, but shorter-lived.
+---
+**Horizontal Branch (H-R Diagram)**
+- Helium-burning stars occupy the **horizontal branch**:
+  - Luminosity is roughly constant across stars of similar mass.
+  - Temperature varies: hotter stars are smaller; cooler stars are larger.
+- Observational context:
+  - Seen in **globular clusters** (old, ~7–10 Gyr).
+  - Stars have slightly different masses → appear spread along horizontal branch.
+  - The **turnoff point** of main sequence stars gives age estimates for clusters.
+---
+**Key Takeaways**
+- **Degeneracy pressure** allows low-mass stars to have helium flash instead of gradual ignition.
+- **Horizontal branch stars** are in the stable helium-burning phase.
+- Cluster observations allow **dating of stellar populations** by combining H-R diagrams and models.
+- Energy sources during this phase:
+  - **Core:** helium fusion (triple-alpha process).
+  - **Shell:** hydrogen fusion.
