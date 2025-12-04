@@ -59,7 +59,7 @@
     -  **10²² stars**
 - **Comparison to Earth:**
     - The number of stars (~10²²) is roughly comparable to the estimated number of **grains of sand on all of Earth’s beaches**.
-- #### **1. Looking farther = looking back in time**
+- #### **Looking farther = looking back in time**
 - Because light has a **finite speed**, observing distant objects shows us the universe **as it was long ago**.
 - This allows astronomers to reconstruct the **history of the universe**.
 ---
@@ -118,13 +118,7 @@
     - Measuring galaxy spectra
     - Estimating their distances
 - This leads to the conclusion: **the universe is expanding**.
-### **7. Why these large motions are hard to notice**
 - Speed is always measured **relative** to something else.
-### **8. Key Distances and Times**
-- **Earth–Sun distance:** 150 million km = 1 AU
-- **Sun’s orbit around Milky Way:** 230 million years
-- **Number of galactic orbits since formation:** ~40
-- **Expansion of the universe:** galaxies farther away recede faster
 
 
 
