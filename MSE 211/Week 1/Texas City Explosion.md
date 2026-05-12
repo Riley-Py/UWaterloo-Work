@@ -13,4 +13,9 @@
 - OSHA enforcement was lacking
 	- Didn't identify any likelihood for a catastrophic event despite warning signs
 	- After, they identified 301 violations and issued the largest fine to BP
-	- OSHA didn't conduct an inspection on the 29 other units at the Texas City refie
+	- OSHA didn't conduct an inspection on the 29 other units at the Texas City refinement despite violations
+- OSHA's focus on inspecting facilities with high injury rates resulted in less attention towards process safety incidents and their ability to inspect/enforce process safety regulations was deemed insufficient
+- Overfilling of the tower had factors including:
+	- High level alarm not activating, and no other level indications/automatic safety devices were equipped 
+	- Control board display didn't provide info on imbalance of flow in/out of tower to alert operators
+	- Lack of trained people during startup, despite recommendations for additional 
