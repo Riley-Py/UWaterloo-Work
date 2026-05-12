@@ -48,4 +48,11 @@
 - Incident could have been avoided if the "change" was managed by an experienced team in operations, safety procedures, and engineering calculations; and if procedures were written
 ### Incident 2
 - Personnel were aware that aluminum chloride reacts with water, which releases heat, but didn't do anything about it due to the chemist deeming it fine
-- 
+- Actions were performed without the process supervisor being on-site
+- Miscommunication during shift turnover resulted in the reactor vessel exploding
+- Importance of managing changes was a main idea
+	- A hazard analysis of the procedure devised by the chemist/engineer could have identified safety issues
+	- Preparing written procedures for varying operating conditions and practices are key as well
+### Summary of both incidents
+- Each could have been avoided with more analytical/structured approach to problem solving
+- Each could have also been avoided by implementing plans to managing changes with regards to shift turnover
