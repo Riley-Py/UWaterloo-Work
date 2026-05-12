@@ -47,4 +47,5 @@
 	- Example: coker unit workers
 - Incident could have been avoided if the "change" was managed by an experienced team in operations, safety procedures, and engineering calculations; and if procedures were written
 ### Incident 2
-
+- Personnel were aware that aluminum chloride reacts with water, which releases heat, but didn't do anything about it due to the chemist deeming it fine
+- 
