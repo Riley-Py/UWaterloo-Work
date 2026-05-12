@@ -37,5 +37,6 @@
 	- No reporting/learning culture
 		- People were not encouraged to report safety problems
 	- Improving personal safety metrics/worker behavior was prioritized over process safety/management safety systems
+## Management of Change
 
 
