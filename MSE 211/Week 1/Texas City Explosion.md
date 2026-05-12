@@ -1,0 +1,9 @@
+- Killed 15 people, injured 180, and costed $1.5 billion 
+	- Shelter-in-place was required
+	- Houses damaged
+- Was third-largest oil refinery in US
+- Caused by organizational/safety issues
+- Experienced two other incidents before this one
+	- One costed $30 million
+	- Another resulted in $2 million worth of property
+- 
