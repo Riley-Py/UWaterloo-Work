@@ -55,4 +55,7 @@
 	- Preparing written procedures for varying operating conditions and practices are key as well
 ### Summary of both incidents
 - Each could have been avoided with more analytical/structured approach to problem solving
-- Each could have also been avoided by implementing plans to managing changes with regards to shift turnover
+- Each could have also been avoided by implementing plans to managing changes with regards to shift turnover and operational variances
+
+#reading
+#mse211
