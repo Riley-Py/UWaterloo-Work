@@ -6,4 +6,11 @@
 - Experienced two other incidents before this one
 	- One costed $30 million
 	- Another resulted in $2 million worth of property
-- 
+- One cause was not measuring safety conditions properly
+	- Low personal injury rate was misleading and that was what was used
+- Safety culture/management was not valued highly
+- Budget cuts resulted in the infrastructure being in disrepair and training/staffing downsized
+- OSHA enforcement was lacking
+	- Didn't identify any likelihood for a catastrophic event despite warning signs
+	- After, they identified 301 violations and issued the largest fine to BP
+	- OSHA didn't conduct an inspection on the 29 other units at the Texas City refie
