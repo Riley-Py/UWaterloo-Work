@@ -1,3 +1,4 @@
+## Executive Summary
 - Killed 15 people, injured 180, and costed $1.5 billion 
 	- Shelter-in-place was required
 	- Houses damaged
@@ -30,4 +31,11 @@
 	- No implementation of pre-startup safety review policy to remove nonessential people from process units
 - There were also some key organizational findings, such as:
 	- Cost-cutting
-	- 
+	- Board not having a member responsible for verifying the performance of hazard prevention programs
+	- Reliance on low personal injury rate as safety indicator
+	- People checking boxes for safety policy/procedure even the requirements weren't met
+	- No reporting/learning culture
+		- People were not encouraged to report safety problems
+	- Improving personal safety metrics/worker behavior was prioritized over process safety/management safety systems
+
+
