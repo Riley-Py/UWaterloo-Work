@@ -38,11 +38,13 @@
 		- People were not encouraged to report safety problems
 	- Improving personal safety metrics/worker behavior was prioritized over process safety/management safety systems
 ## Management of Change
+### Incident 1
 - Internal investigation team recommended for procedures to be written for the drums, but never happened
 - On day of fire, process supervisor/operators didn't write any procedures for partially filled drums
 	- Supervisors were aware of this
 	- When the supervisors met with the operators to empty the partially filled drum, no engineers were present
 - Some workers weren't aware that something was wrong even when they should have
 	- Example: coker unit workers
-- 
+- Incident could have been avoided if the "change" was managed by an experienced team in operations, safety procedures, and engineering calculations; and if procedures were written
+### Incident 2
 
