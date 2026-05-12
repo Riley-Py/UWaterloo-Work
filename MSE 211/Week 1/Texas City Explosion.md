@@ -18,4 +18,16 @@
 - Overfilling of the tower had factors including:
 	- High level alarm not activating, and no other level indications/automatic safety devices were equipped 
 	- Control board display didn't provide info on imbalance of flow in/out of tower to alert operators
-	- Lack of trained people during startup, despite recommendations for additional 
+	- Lack of trained people during startup, despite recommendations for additional people needed
+	- Poor communication regarding startup sequence when shift turnover happened, as there was no requirement for the operation staff to communicate 
+	- Fatigued operators
+	- Training program not sufficient
+	- Procedures not being updated
+	- Unit started despite malfunctions reported
+	- Relief valve system safety study not conducted despite insufficient size of blowdown drum
+	- Not replacing blowdown drum despite incidents being reported
+	- Releases of flammable material happened in the past with no investigation follow-up
+	- No implementation of pre-startup safety review policy to remove nonessential people from process units
+- There were also some key organizational findings, such as:
+	- Cost-cutting
+	- 
