@@ -1,4 +1,4 @@
 - Behavior in a work role can be explained in terms of cognitive schemas/scripts
 	- We like to go to lower levels for explanations (*reductionism*)
 - *Grand reductionism* - all nature is the way it is due to universal laws
-- *Explanatory reductionism* - things operate as they d
+- *Explanatory reductionism* - things operate as they do due to properties of their individual parts, and systems can be explained with enough knowledge of their components
