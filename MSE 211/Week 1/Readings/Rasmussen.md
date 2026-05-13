@@ -15,4 +15,9 @@
 		- Involved in developing SOPs for operational states which include disturbances
 	- Diagram of hierarchy:
 		- ![[Pasted image 20260513090017.png]]
-	- 
+- This is effective in a society where instruction/work tools can be based on task analysis, but is not effective in contemporary society
+- Dynamic society brings many changes in risk management:
+	- Change of tech is faster than change in management structures, creating a modelling problem
+	- Scale of industrial installations corresponds with increased risk of large-scale accidents.  Models need to include rare conditions in addition to average performance
+	- Development of IT have made it so that a single decision can have dramatic effects on society (e.g. stock-trading with computers), which make it hard to model in isolation and make small experiments to evaluate models
+	- Companies focus on mone
