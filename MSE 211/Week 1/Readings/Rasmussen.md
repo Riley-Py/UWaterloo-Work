@@ -1,0 +1,3 @@
+- Risk management should be modelled by different studies, and it should be considered a control problem
+	- Requires a system-oriented approach
+- Models created from results from different fields can be useful for 
