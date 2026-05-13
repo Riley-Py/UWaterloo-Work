@@ -20,4 +20,9 @@
 	- Change of tech is faster than change in management structures, creating a modelling problem
 	- Scale of industrial installations corresponds with increased risk of large-scale accidents.  Models need to include rare conditions in addition to average performance
 	- Development of IT have made it so that a single decision can have dramatic effects on society (e.g. stock-trading with computers), which make it hard to model in isolation and make small experiments to evaluate models
-	- Companies focus on mone
+	- Companies focus on money and survival over welfare, safety, and environmental impact
+- Approach to model systems is to decompose elements that are modelled separately
+	- Analyses are based on statistics/questionnaires
+- Companies have changed from offering services/products from people who are experts in the field to people who are in finance
+	- Example: naval safety may decrease due to being operated by banks/investors over shipping professionals
+- *System* is modelled by decomposition of structural elements, while *behaviour of systems/actors*
