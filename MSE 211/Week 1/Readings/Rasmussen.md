@@ -50,3 +50,9 @@
 - Instead of controlling behaviour by fighting deviations, the focus should be on making the boundaries explicit and known and making coping skills at boundaries; improves safety in a few ways:
 	- Increase margin from normal operation, but if width is too much, then safety can deteriorate
 	- Increase awareness of boundary through safety campaigns, but then a struggle will be perpetuated for safety culture
+- Management/work planning in any organization apply different control strategies, dependent on time horizon, stability of systems, and predictability of disturbances
+	- Example: Materials and resource planning systems, where management is based on overlooking plans/budgets/schedule performance and eliminating deviations
+- Modelling risk management requires a closed loop feedback point of view
+	- Control structure must be identified, all actors identified, objectives/performance criteria determined, capability of control evaluated, and info available to them to the state of the system with regards to production objectives/safety boundaries is required for this
+#mse211 
+#reading 
