@@ -1,3 +1,10 @@
 - Risk management should be modelled by different studies, and it should be considered a control problem
 	- Requires a system-oriented approach
-- Models created from results from different fields can be useful for 
+- Models created from results from different fields can be useful for design of work to support systems for decision makers
+	- Not useful for total risk management
+- System is more than the sum of its elements
+- Safety depends on work processes to avoid harm towards people/environment/investment
+- Safety is controlled through a hierarchy
+	- Top: legal system, where the focus is in the political/legal sciences
+		- Legislation at this level is for conflicting goals/setting boundaries of human conditions
+	- Next: industrial associations (worker unions)
