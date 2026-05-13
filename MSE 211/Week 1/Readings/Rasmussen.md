@@ -7,4 +7,12 @@
 - Safety is controlled through a hierarchy
 	- Top: legal system, where the focus is in the political/legal sciences
 		- Legislation at this level is for conflicting goals/setting boundaries of human conditions
-	- Next: industrial associations (worker unions)
+	- Next: industrial associations (worker unions), where the focus for management scientists/work sociologists
+		- Legislation at this level is to control activities in different kinds of workplaces for specific employees
+	- Next: psychologists/researchers in human-machine interaction
+		- Legislations is focused on local conditions and processes
+	- Bottom: engineering disciplines
+		- Involved in developing SOPs for operational states which include disturbances
+	- Diagram of hierarchy:
+		- ![[Pasted image 20260513090017.png]]
+	- 
