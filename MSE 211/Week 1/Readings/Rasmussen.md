@@ -25,4 +25,7 @@
 	- Analyses are based on statistics/questionnaires
 - Companies have changed from offering services/products from people who are experts in the field to people who are in finance
 	- Example: naval safety may decrease due to being operated by banks/investors over shipping professionals
-- *System* is modelled by decomposition of structural elements, while *behaviour of systems/actors*
+- *System* is modelled by decomposition of structural elements, while *behaviour of systems/actors* is modelled by decomposition of behaviour flow into events
+	- Identifies task elements in decisions, acts, and errors
+- Task instruction is unreliable for judging behaviour in actual work as it only works in isolation, whereas several tasks are active at a time
+- 
