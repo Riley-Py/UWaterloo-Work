@@ -34,3 +34,10 @@
 	- Workers know normal flow of activities/alternative actions, so no analytical reasoning is put to the side (basically being on autopilot)
 - Led to development of skill, rule, knowledge-based behaviour model of cognitive control
 - Human error is determining factor 70-80% of accident reviews
+- Commercial success involves operating outside of accepted practices/pushing boundaries of what is normal
+	- Many accident reports found that the cause of those accidents was from being cost effective
+- Different decisions have different effects, which create different stresses within an organization, all to be cost effective:
+	- Example: Zeebrugge accident (diagram below)
+		- ![[Pasted image 20260513092411.png]]
+- Individual decision makers can't see the complete picture, and thus can't make effective decisions
+- Human behaviour in any work system is 
