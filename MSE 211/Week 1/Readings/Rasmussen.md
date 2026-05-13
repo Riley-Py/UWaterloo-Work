@@ -47,4 +47,6 @@
 - Explanation of an accident with regards to events, acts, and errors isn't useful for design of improved systems
 - Below shows an image of how when decision makers adapt to being cost-effective, safety degrades over the hierarchy:
 	- ![[Pasted image 20260513093358.png]]
-- Instead of controlling behaviour by fighting deviations, the focus should be on making the boundaries explicit and known and making cop
+- Instead of controlling behaviour by fighting deviations, the focus should be on making the boundaries explicit and known and making coping skills at boundaries; improves safety in a few ways:
+	- Increase margin from normal operation, but if width is too much, then safety can deteriorate
+	- Increase awareness of boundary through safety campaigns, but then a struggle will be perpetuated for safety culture
