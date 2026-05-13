@@ -40,4 +40,8 @@
 	- Example: Zeebrugge accident (diagram below)
 		- ![[Pasted image 20260513092411.png]]
 - Individual decision makers can't see the complete picture, and thus can't make effective decisions
-- Human behaviour in any work system is 
+- Human behaviour in any work system is shaped by objectives/constraints for work performance to be successful
+- In a well designed work system, precautions are taken to protect against accidents/risks
+- Systems designed with "defence-in-depth" strategy degrade due to cost-effectiveness
+	- A variation in somebody's behaviour can create an accident due to the request to be cost-effective
+- Explanation of an accident with regards to events, acts, and errors isn't useful for de
