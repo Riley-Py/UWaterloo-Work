@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE 252/Concurrency VS. Parallelism.md",
+                "file": "MSE 211/Week 1/Readings/Hackman.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Concurrency VS. Parallelism"
+              "title": "Hackman"
             }
           }
         ],
@@ -190,10 +190,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "059c515cd4110e39",
+  "active": "ff89bcb6bdbdb8c2",
   "lastOpenFiles": [
-    "MSE 211/Week 1/Readings/Rasmussen.md",
     "ECE 252/Concurrency VS. Parallelism.md",
+    "MSE 211/Week 1/Readings/Hackman.md",
+    "MSE 211/Week 1/Readings/Rasmussen.md",
     "ECE 252",
     "MSE 211/Week 1/Readings/Texas City Explosion.md",
     "MSE 211/Week 1/Images/Pasted image 20260513093358.png",
@@ -237,7 +238,6 @@
     "EARTH 121/Week 3/Magma.md",
     "EARTH 121/Week 3/Introduction to the Rock Cycle.md",
     "EARTH 121/Week 2/Elements.md",
-    "EARTH 121/Week 2/Rocks.md",
     "Untitled.canvas"
   ]
 }
