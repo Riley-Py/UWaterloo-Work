@@ -44,4 +44,7 @@
 - In a well designed work system, precautions are taken to protect against accidents/risks
 - Systems designed with "defence-in-depth" strategy degrade due to cost-effectiveness
 	- A variation in somebody's behaviour can create an accident due to the request to be cost-effective
-- Explanation of an accident with regards to events, acts, and errors isn't useful for de
+- Explanation of an accident with regards to events, acts, and errors isn't useful for design of improved systems
+- Below shows an image of how when decision makers adapt to being cost-effective, safety degrades over the hierarchy:
+	- ![[Pasted image 20260513093358.png]]
+- Instead of controlling behaviour by fighting deviations, the focus should be on making the boundaries explicit and known and making cop
