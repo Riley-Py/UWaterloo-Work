@@ -28,4 +28,9 @@
 - *System* is modelled by decomposition of structural elements, while *behaviour of systems/actors* is modelled by decomposition of behaviour flow into events
 	- Identifies task elements in decisions, acts, and errors
 - Task instruction is unreliable for judging behaviour in actual work as it only works in isolation, whereas several tasks are active at a time
-- 
+- Modelling behaviour as a stream of acts for dynamic environments where behaviour is context-specific
+- Modelling by task analysis is only useful when behaviour is controlled by control requirements
+- Hard to isolate proper decisions
+	- Workers know normal flow of activities/alternative actions, so no analytical reasoning is put to the side (basically being on autopilot)
+- Led to development of skill, rule, knowledge-based behaviour model of cognitive control
+- Human error is determining factor 70-80% of accident reviews
