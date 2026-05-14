@@ -32,4 +32,11 @@
 		- Measured adequacy of material resources, clarity of performance objectives, recognition and reinforcement for crew performance, availability of educational/technical support, and availability of info resources
 		- Found much variance between the airlines
 	- Three influences on how work of cockpit crews are designed 
-		1. *Cockpit tech* - 
+		1. *Cockpit tech* - accepted approach to cockpit design amongst aircraft manufacturers, which provides policies/practices.  Constrains operating policies/practices
+		2. *Procedures/standards* - wide adoption of government procedures/standards with minor modifications
+		3. *Culture of flying* - Individual in character
+	- All of these are widely common, and as such, variance with the traditional analysis was nil
+### Hospital Patient Care Teams
+- Study focused on patient care teams at hospitals
+	- Found that medication errors varied much across the units
+	- 
