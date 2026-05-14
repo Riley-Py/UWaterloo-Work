@@ -65,4 +65,5 @@
 	3. Level of knowledge/skill applied to the work
 - Each has a process loss and a process gain associated with them
 - Coaching theory are situated at team level of analysis
-- Bracket
+- Bracketing can help identify factors at context level (teams being helped/not being helped by coaching) and individual level (people who can become great team coaches)
+- Bracketing can increase the strength of coaching models and raise awareness of where improvements can be made to the coaching models.
