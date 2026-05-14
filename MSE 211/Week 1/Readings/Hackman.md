@@ -58,3 +58,11 @@
 	- Music director behavior wasn't the main factor for great and poor orchestras, but rather that the behaviour influences how the orchestra uses the player talent to create ensemble performances
 	- Bracketing helps explain this
 		- The upper level explains the orchestra community, and the lower level explaining the behavior of music director
+## 4: Choice of Concepts in Developing Actionable Theory
+- Team work effectiveness is a three part process
+	1. Amount of effort
+	2. Performance strategies that are appropriate for the work being done
+	3. Level of knowledge/skill applied to the work
+- Each has a process loss and a process gain associated with them
+- Coaching theory are situated at team level of analysis
+- Bracket
