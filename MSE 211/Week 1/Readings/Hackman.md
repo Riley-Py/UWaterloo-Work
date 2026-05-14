@@ -22,8 +22,14 @@
 - In short: more women who arrive in male dominated sectors, the worse it gets for everyone
 	- Bracketing aids with the analyses conducted one level down (individual) and one level up (contextual) creates insights for the reasons
 ## 2: Discover where Variance is Hiding
+
+### Aircraft Study
 - Study involved aircraft flying at different airlines
 	- Some were US, some were European, some were Asian, some were broke, some experienced stress from mergers, and some were stable
 	- Analysis involved a conceptual model with regards to design of flying and design of crew would show how members work together and how they self-correct
 		- Found that the variance of crew structure/behavior between airlines was nil using this model
-	- Using the bracketing method, 
+	- Using the bracketing method, they found that even though at the level down (individual), there was no variance, when they went a level up (organizational), there was much variance
+		- Measured adequacy of material resources, clarity of performance objectives, recognition and reinforcement for crew performance, availability of educational/technical support, and availability of info resources
+		- Found much variance between the airlines
+	- Three influences on how work of cockpit crews are designed 
+		1. *Cockpit tech* - 
