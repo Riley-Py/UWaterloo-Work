@@ -12,4 +12,7 @@
 ## 1: Focal Level of Analysis
 - Studied orchestras and gender compositions of orchestras
 	- Found that functioning/attitude decreased as more woman were in them
-- Could analyze this by going one level down (separate player attributes) or one level up 
+- Could analyze this by going one level down (separate player attributes) or one level up (cultural context within orchestras)
+	- Could explain the findings by gender or by culture
+- Effects of gender recomposition are due to perceptions/experiences of men than women
+	- Example: In US, it was accepted that women are able to participate in orchestras, while in other countries like West 
