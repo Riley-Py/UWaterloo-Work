@@ -49,4 +49,10 @@
 - Data collected from higher (organizational) and lower (individual) can explain variances/factors that would be hidden from view 
 
 ## 3: Cross-Level Interactions that Shape an Outcome of Special Interest
-- 
+- Studied orchestras again
+	- Found that over-performing orchestras had high levels of ensemble play, but the individual ability of players was low, while the reverse was true for under-performing orchestras
+	- This was due to having more money for the over-performing orchestras and more resources
+		- Financial strength is correlated to the ties of the community, with regards to the directors
+			- More influence by directors in community = more money acquired
+			- More say by players = less money acquired
+	- Music director behavior wasn't the main factor, but rather that 
