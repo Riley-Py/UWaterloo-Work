@@ -71,3 +71,7 @@
 # Conclusion
 - It's good to move one level down and one level up of the focal analysis, keeping it to three (individual and organizational)
 - Group behavior/outcomes are shaped by context structures/attributes of individuals not obvious
+	- Informed induction is utilized to identify structures/processes with regards to bracketing to get specific constructs related to the situation
+- There are two levels of group properties
+	- *Native* - exist at collective level
+	- *Aggregated* - have meaning at individual level 
