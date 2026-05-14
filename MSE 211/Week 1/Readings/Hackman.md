@@ -67,3 +67,7 @@
 - Coaching theory are situated at team level of analysis
 - Bracketing can help identify factors at context level (teams being helped/not being helped by coaching) and individual level (people who can become great team coaches)
 - Bracketing can increase the strength of coaching models and raise awareness of where improvements can be made to the coaching models.
+
+# Conclusion
+- It's good to move one level down and one level up of the focal analysis, keeping it to three (individual and organizational)
+- 
