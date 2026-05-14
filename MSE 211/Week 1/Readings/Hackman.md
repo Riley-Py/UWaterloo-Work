@@ -9,3 +9,7 @@
 	- Discover non-obvious forces that drive these phenomena
 	- See unattended interactions
 	- Inform choice of constructs in actionable theory
+## 1: Focal Level of Analysis
+- Studied orchestras and gender compositions of orchestras
+	- Found that functioning/attitude decreased as more woman were in them
+- Could analyze this by going one level down (separate player attributes) or one level up 
