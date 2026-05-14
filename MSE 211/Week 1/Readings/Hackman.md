@@ -39,4 +39,9 @@
 ### Hospital Patient Care Teams
 - Study focused on patient care teams at hospitals
 	- Found that medication errors varied much across the units
-	- 
+		- Initial inspection of key predictors initially found that well managed teams would make fewer medication errors and not well managed teams would make more medication errors
+		- The opposite was true once the correlation was found
+	- Moving up a level of analysis didn't make sense of the finding of the well-managed teams
+		- Template for design/management of patient care units was flexible
+	- Moving down a level, however, to the individual level explained the variance
+		- Found that 
