@@ -15,4 +15,11 @@
 - Could analyze this by going one level down (separate player attributes) or one level up (cultural context within orchestras)
 	- Could explain the findings by gender or by culture
 - Effects of gender recomposition are due to perceptions/experiences of men than women
-	- Example: In US, it was accepted that women are able to participate in orchestras, while in other countries like West 
+	- Example: In US, it was accepted that women are able to participate in orchestras, while in other countries like West Germany, where men and women are treated differently in the orchestra
+	- Diagram of this: 
+		- ![[Pasted image 20260514102139.png]]
+	- In UK, there was improvement in organizational features when more women joined
+- In short: more women who arrive in male dominated sectors, the worse it gets for everyone
+	- Bracketing aids with the analyses conducted one level down (individual) and one level up (contextual) creates insights for the reasons
+## 2: Discover where Variance is Hiding
+- 
