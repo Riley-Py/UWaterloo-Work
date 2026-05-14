@@ -43,5 +43,10 @@
 		- The opposite was true once the correlation was found
 	- Moving up a level of analysis didn't make sense of the finding of the well-managed teams
 		- Template for design/management of patient care units was flexible
-	- Moving down a level, however, to the individual level explained the variance
-		- Found that 
+	- Moving down a level, however, to the individual level (personal leadership by nurse managers) explained the variance
+		- Found that environments that were more open had more errors due to them being discussed and learning from them
+### Conclusion
+- Data collected from higher (organizational) and lower (individual) can explain variances/factors that would be hidden from view 
+
+## 3: Cross-Level Interactions that Shape an Outcome of Special Interest
+- 
