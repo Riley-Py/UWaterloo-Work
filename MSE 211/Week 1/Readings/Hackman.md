@@ -2,3 +2,10 @@
 	- We like to go to lower levels for explanations (*reductionism*)
 - *Grand reductionism* - all nature is the way it is due to universal laws
 - *Explanatory reductionism* - things operate as they do due to properties of their individual parts, and systems can be explained with enough knowledge of their components
+- Hackman argues that the most useful explanations come from "bracketing"
+	- This includes constructs that exist one level lower and one level higher than the main subject of study
+- Bracketing has 4 benefits:
+	- Enrich understanding of focal level of analysis
+	- Discover non-obvious forces that drive these phenomena
+	- See unattended interactions
+	- Inform choice of constructs in actionable theory
