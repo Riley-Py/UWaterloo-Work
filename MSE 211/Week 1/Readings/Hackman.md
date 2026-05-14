@@ -55,4 +55,6 @@
 		- Financial strength is correlated to the ties of the community, with regards to the directors
 			- More influence by directors in community = more money acquired
 			- More say by players = less money acquired
-	- Music director behavior wasn't the main factor, but rather that 
+	- Music director behavior wasn't the main factor for great and poor orchestras, but rather that the behaviour influences how the orchestra uses the player talent to create ensemble performances
+	- Bracketing helps explain this
+		- The upper level explains the orchestra community, and the lower level explaining the behavior of music director
