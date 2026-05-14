@@ -70,4 +70,4 @@
 
 # Conclusion
 - It's good to move one level down and one level up of the focal analysis, keeping it to three (individual and organizational)
-- 
+- Group behavior/outcomes are shaped by context structures/attributes of individuals not obvious
