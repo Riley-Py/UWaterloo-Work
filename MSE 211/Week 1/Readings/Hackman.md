@@ -74,4 +74,10 @@
 	- Informed induction is utilized to identify structures/processes with regards to bracketing to get specific constructs related to the situation
 - There are two levels of group properties
 	- *Native* - exist at collective level
-	- *Aggregated* - have meaning at individual level 
+		- Examples: group size, demographic diversity
+	- *Aggregated* - have meaning at individual level always and sometimes group level 
+		- Example: Group height
+- Bracketing requires good concepts
+
+#mse211 
+#reading 
