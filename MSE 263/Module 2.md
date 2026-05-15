@@ -12,4 +12,11 @@
 - Efficiency conditions:
 	- $C < V$ - efficient to trade and inefficient not to trade
 		- Only true if $C<P<V$ 
-	- $C > V$ - not 
+	- $C > V$ - not efficient to trade
+## Many buyers and many sellers
+- Efficiency condition:
+	- Pareto if and only if it maxes total possible surplus (gain from trade)
+		- To max, units should go to high-buyers from low cost sellers
+- Measure surplus (total) of function trading volume $Q$: 
+	- *Total valuation of buyers* - sum of $Q$ high valuations; denoted with $v(Q)$
+	- 

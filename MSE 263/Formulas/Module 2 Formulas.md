@@ -1,3 +1,4 @@
+## One buyer, one seller
 *Buyer's surplus:* $$V - P $$ where: 
 - $V$ - cutoff
 - $P$ - price
@@ -9,4 +10,5 @@ where:
 
 ![[Pasted image 20260515140712.png]]
 
+## Many buyers, many sellers
 
