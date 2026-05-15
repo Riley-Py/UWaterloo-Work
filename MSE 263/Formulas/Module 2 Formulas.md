@@ -12,3 +12,7 @@ where:
 
 ## Many buyers, many sellers
 
+*Total surplus*: $$v(Q) - c(Q)$$
+*Marginal valuation*: $$ mv(Q) = v(Q) - v(Q-1) $$
+*Marginal cost*: $$mc(Q) = c(Q) - c(Q-1) $$
+*To maximize surplus (discrete)*: $$ mv(Q)

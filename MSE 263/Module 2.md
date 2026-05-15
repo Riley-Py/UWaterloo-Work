@@ -19,4 +19,5 @@
 		- To max, units should go to high-buyers from low cost sellers
 - Measure surplus (total) of function trading volume $Q$: 
 	- *Total valuation of buyers* - sum of $Q$ high valuations; denoted with $v(Q)$
-	- 
+	- *Total cost of sellers* - sum of $Q$ lowest cost; denoted with $c(Q)$
+- Volume $Q$ should max $v(Q) - c(Q)$ 
