@@ -5,3 +5,7 @@
 	- *Partial equilibrium* - focus on one market while keeping everything else constant
 	- *Rationality* - Decision-making process that is expected to optimal result
 - *Smooth approximations* are utilized to simplify analysis
+
+## Marginal Analysis
+- Considers effects of small changes in decisions
+- Simple way to find optimal decision or if a decision is optimal
