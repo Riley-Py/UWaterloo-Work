@@ -1,0 +1,7 @@
+- Market behaviour is explained by buyers' preferences for good (*demand*) and firms' costs involved in bringing good to market (*supply*)
+- Simple model of this:
+	- One indivisible good
+	- Each buyer purchases at most one unit (*unit demand*)
+	- Each seller supplies at most one unit (*unit supply*)
+	- Units are the same (*homogenous*)
+- *Pareto (efficient) trade*: a trade is Pareto if and only if it would be impossible to make anybody better off without making someone worse off

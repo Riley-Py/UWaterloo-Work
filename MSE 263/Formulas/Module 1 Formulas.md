@@ -9,4 +9,6 @@ $$
 *For Q to be a local optimum*: $$ m\pi(Q) = {{d\pi}\over {dQ}} = 0 $$
 *Total profit:* $$\pi(Q) = R(Q) - C(Q)$$
 *Marginal conditions (discrete and in terms of revenue/cost) for Q to be a local optimum* $$mR(Q) \ge mC(Q) \space and \space mR(Q+1) \le mC(Q+1) $$
-*Marginal conditions (continuous and in terms of revenue*
+*Marginal conditions (continuous and in terms of revenue/cost) for Q to be a local optimum*: $$ mR(Q) = mC(Q) $$
+#mse263
+#formulas 
