@@ -18,3 +18,11 @@ where:
 *To maximize surplus (discrete)*: $$ mv(Q) \ge mc(Q) \space and \space mv(Q+1) \le mc(Q + 1) $$
 *To maximize surplus (smooth)*: $$ mv(Q) = mc(Q) $$
 ![[Pasted image 20260515142056.png]]
+
+## Market Price
+
+*Equilibrium demand must equal supply, as such:* $$ d(P^*) = s(P^*)$$
+where:
+- $d$ - demand
+- $s$ - supply
+- $P^*$ - equilibrium price

@@ -28,4 +28,7 @@
 	3. Trade is recurrent
 ## Market price
 - Market is equilibrium when market price emerges and everyone who wants to trade at this price does so
+	- At equilibrium price $P^*$
+		- Everyone who wants to trade does so
+		- Number of purchases *must* equal number of sales
 - 
