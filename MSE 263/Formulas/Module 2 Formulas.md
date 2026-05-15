@@ -6,3 +6,7 @@
 where:
 - $P$ - price
 - $C$ - cost
+
+![[Pasted image 20260515140712.png]]
+
+
