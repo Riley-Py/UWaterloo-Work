@@ -5,3 +5,5 @@
 	- Each seller supplies at most one unit (*unit supply*)
 	- Units are the same (*homogenous*)
 - *Pareto (efficient) trade*: a trade is Pareto if and only if it would be impossible to make anybody better off without making someone worse off
+- The cutoff for when the buyer would walk away from purchasing an item is an *valuation (V)*
+- The cutoff for when the seller would not sell a product below a price is called *cost (C)*
