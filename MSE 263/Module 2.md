@@ -21,3 +21,11 @@
 	- *Total valuation of buyers* - sum of $Q$ high valuations; denoted with $v(Q)$
 	- *Total cost of sellers* - sum of $Q$ lowest cost; denoted with $c(Q)$
 - Volume $Q$ should max $v(Q) - c(Q)$ 
+- *Deadweight loss* - difference between total possible gains from trade and realized gains is not efficient
+- Trade should take place at the same price if:
+	1. Trading process is visible
+	2. Transaction costs/frictions are small
+	3. Trade is recurrent
+## Market price
+- Market is equilibrium when market price emerges and everyone who wants to trade at this price does so
+- 

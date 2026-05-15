@@ -15,4 +15,6 @@ where:
 *Total surplus*: $$v(Q) - c(Q)$$
 *Marginal valuation*: $$ mv(Q) = v(Q) - v(Q-1) $$
 *Marginal cost*: $$mc(Q) = c(Q) - c(Q-1) $$
-*To maximize surplus (discrete)*: $$ mv(Q)
+*To maximize surplus (discrete)*: $$ mv(Q) \ge mc(Q) \space and \space mv(Q+1) \le mc(Q + 1) $$
+*To maximize surplus (smooth)*: $$ mv(Q) = mc(Q) $$
+![[Pasted image 20260515142056.png]]
