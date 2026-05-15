@@ -1,0 +1,1 @@
+**Question: Hackman's hospital study and Rasmussen's migration mechanism both explain how organizations produce bad outcomes through normal behaviour.  Identify one specific way the two **
