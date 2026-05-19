@@ -28,3 +28,7 @@
 	- Called *situation-behaviour profiles* for each child
 	- Personality variables are called *cognitive-affective units (CAUs)*
 		- Encodings, beliefs, affects, goals/values, self-regulatory plans
+- Genetic/biological/cultural influence CAPS
+## Impact of Social Learning Theory
+- Social living developed intelligence in species like humans and animals
+- Utilizing fMRI, researchers found that empathy activates same brain regions involved in experiencing the situation about which one is feeling empathy toward another person
