@@ -11,4 +11,4 @@
 - Simple way to find optimal decision or if a decision is optimal
 
 #mse263
-#formulas 
+#module1

@@ -26,3 +26,6 @@ where:
 - $d$ - demand
 - $s$ - supply
 - $P^*$ - equilibrium price
+
+#mse263 
+#formulas 

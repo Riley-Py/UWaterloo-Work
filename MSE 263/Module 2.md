@@ -31,4 +31,9 @@
 	- At equilibrium price $P^*$
 		- Everyone who wants to trade does so
 		- Number of purchases *must* equal number of sales
-- 
+- *Demand* curve is inverse of *marginal valulation curve*
+	- ![[Pasted image 20260515143008.png]]
+- *Supply curve* is inverse of *marginal cost curve*
+	- ![[Pasted image 20260515143028.png]]
+#mse263 
+#module2
