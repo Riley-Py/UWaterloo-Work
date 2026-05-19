@@ -49,4 +49,16 @@
 - System 1 and System 2 thinking permeate throughout the entire brain, not just one side
 - There is no order with Systems thinking
 - Both systems are susceptible to mistakes/biases
-	- 
+	- System 1 may create bias, and then System 2 can confirm this bias with new information
+## Studies
+### Invisible Gorilla
+- Watched video of two teams passing a basketball and asked to count the number of passes
+	- Didn't notice that a gorilla walked into the video, beat their chest, then walked off
+	- Demonstrated limits of attention when cognitive resources are focused elsewhere
+	- Demonstrated connection to System 1 and System 2 thinking
+		- Counting passes engaged System 2, while noticing the gorilla would fall under System 1
+		- Demonstrated how System 2 can dominate such that System 1 can fail to register
+- Serves as metaphor for organizational behaviour
+	- Individuals/organizations can overlook ethical issues when their attention is focused on other tasks/goals
+### M&M Advertising
+- Created characters based on colour to boost the brand amid 
