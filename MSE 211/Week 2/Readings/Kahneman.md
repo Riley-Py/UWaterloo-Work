@@ -29,3 +29,16 @@
 		4. Happen consciously
 - In 1992, it was challenged that it was impossible for any process to satisfy all 4 features within the respective process
 - In 2011, Kahneman introduced the world to System 1 and System 2 thinking and showed how interactions between these systems can lead to errors in judgement
+## Facts about Systems Thinking
+- System 1 and System 2 thinking can happen at the same time
+	- Brain uses a combination of both and they complement each other, filling in the gaps that the other misses
+- Heuristics are mental shortcuts that are associated with System 1 thinking
+	- They are "rules-of-thumb" or "generalizations"
+	- These may not lead to the most accurate answer
+- System 1 and System 2 are good for specific situations
+	- System 1 is good for repetitive, everyday tasks
+	- System 2 is good for novel tasks
+	- System 1 takes the wheel, while System 2 steers us in the right direction
+- Activities can switch from System 2 to System 1 and is involved in *Habit formation*
+## Consequences
+- Brands rely on the impulsivity of System 1 thinking to sell products through advertising and forming 
