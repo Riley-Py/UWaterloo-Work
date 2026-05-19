@@ -61,4 +61,8 @@
 - Serves as metaphor for organizational behaviour
 	- Individuals/organizations can overlook ethical issues when their attention is focused on other tasks/goals
 ### M&M Advertising
-- Created characters based on colour to boost the brand amid 
+- Created characters based on colour to boost the brand amid declining popularity
+- Sometimes, these characters would disappear, consumers would notice, then they would be reinstated
+	- Engaged System 1 thinking with the characters
+#mse211 
+#reading 
