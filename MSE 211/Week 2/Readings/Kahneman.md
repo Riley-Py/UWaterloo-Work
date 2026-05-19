@@ -1,0 +1,10 @@
+- There are two types of thinking that Kahneman brings up:
+	- *System 1* - fast, automatic, operating with little/no effort
+	- *System 2* - slow, deliberate, requires effort
+- Example: commuting to work 
+	- If you take the same route all the time, then system 1 thinking is utilized
+	- However, if you change routes, then system 2 thinking is utilized, as you have to adapt to the situation
+- System 1 beliefs/biases drives many choices
+- *Automatic thinking* - synonymous with system 1 thinking
+- *Reasoning* - synonymous with system 2 thinking; using existing info to make a decision/conclusion
+- *Dual Process Model* - 
