@@ -41,4 +41,12 @@
 	- System 1 takes the wheel, while System 2 steers us in the right direction
 - Activities can switch from System 2 to System 1 and is involved in *Habit formation*
 ## Consequences
-- Brands rely on the impulsivity of System 1 thinking to sell products through advertising and forming 
+- Brands rely on the impulsivity of System 1 thinking to sell products through advertising and forming emotional associations with that advertising
+	- However, System 2 thinking can also be used against consumers, with brands using details, facts, and statistics to augment with System 1 thinking to get consumers to buy their products
+- Governments take advantage of System thinking as well, with utilizing System 1 thinking for the default to increase saving rates in the US
+
+## Controversies
+- System 1 and System 2 thinking permeate throughout the entire brain, not just one side
+- There is no order with Systems thinking
+- Both systems are susceptible to mistakes/biases
+	- 
