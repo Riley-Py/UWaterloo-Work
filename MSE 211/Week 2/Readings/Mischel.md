@@ -35,3 +35,6 @@
 	- Example: Brain region involved in pain activates when one pictures pain in someone else
 - Cognitive processes are enhanced by social interaction
 - Individuals expect when engaging in diversity will lead to prejudice, they are more likely to notice prejudice
+- Leaders of organizational teams should define team's tasks/goals, providing bridges across diversity, and influence of minority
+#mse211 
+#reading 
