@@ -16,4 +16,16 @@
 - In 19th century, there were two ways of thinking that were brought up
 	- *Associative knowledge* - only from past experiences
 	- *True reasoning* - used in new, unfamiliar experiences
-- In 1975, the *dual-process model* was developed, describing two ways of thinking
+- In 1975, the *dual-process model* was developed, describing two ways of thinking: *automatic processes* and *controlled processes*
+	- *Automatic processes* have 4 features
+		1. Processes are brought up unintentionally
+		2. Require small amount of cognitive resources
+		3. Can't be stopped voluntarily
+		4. Happen unconsciously
+	- *Controlled processes* have 4 features
+		1. Processes are brought up intentionally
+		2. Require much cognitive resources
+		3. Can be stopped voluntarily
+		4. Happen consciously
+- In 1992, it was challenged that it was impossible for any process to satisfy all 4 features within the respective process
+- In 2011, Kahneman introduced the world to System 1 and System 2 thinking and showed how interactions between these systems can lead to errors in judgement
