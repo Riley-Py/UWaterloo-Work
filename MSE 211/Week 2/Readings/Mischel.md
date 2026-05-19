@@ -32,3 +32,6 @@
 ## Impact of Social Learning Theory
 - Social living developed intelligence in species like humans and animals
 - Utilizing fMRI, researchers found that empathy activates same brain regions involved in experiencing the situation about which one is feeling empathy toward another person
+	- Example: Brain region involved in pain activates when one pictures pain in someone else
+- Cognitive processes are enhanced by social interaction
+- Individuals expect when engaging in diversity will lead to prejudice, they are more likely to notice prejudice
