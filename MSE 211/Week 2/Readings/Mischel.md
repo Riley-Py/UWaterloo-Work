@@ -20,4 +20,11 @@
 ## Cognitive-Affective Processing System (CAPS)
 - *Personality paradox* - "How do we reconcile our intuition and theories that personality is relatively stable with evidence that personality varies across different situations"
 - Proposed dynamic personality system that takes into account these traits:
-	1. Behavioural 
+	1. Behavioural consistency accounting for specific scores on trait tests that indicate how individual is like in general 
+	2. Consistency in how an individual varies across different situations
+- This became known as CAPS
+- Proved it with studying children in a summer camp
+	- Identified "if..then..." situation behaviour that reflected unique and stable elements of each child's behaviour organization
+	- Called *situation-behaviour profiles* for each child
+	- Personality variables are called *cognitive-affective units (CAUs)*
+		- Encodings, beliefs, affects, goals/values, self-regulatory plans
