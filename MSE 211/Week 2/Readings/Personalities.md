@@ -15,4 +15,6 @@
 - *Five-Factor Theory* is a grouping of propositions about nature/origin/development/relation of personality traits to other traits
 	- Presents biological account of personality traits
 - Big Five is used in many areas of psychological research
-	- Used to organize people's perce
+	- Used to organize people's perceptions of one another's personalities (*interpersonal perception*)
+#mse211 
+#reading 
