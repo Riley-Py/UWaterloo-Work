@@ -40,4 +40,19 @@
 	- Shift example (demand)
 		![[Pasted image 20260522144638.png]]
 	- Shift example (supply)
-	- 
+		![[Pasted image 20260522144725.png]]
+- If both curves shift, equilibrium depends on the size of shifts
+
+### Effects of Government Intervention
+- Can shift demand/supply curves
+- Control pricing
+- Levy tax and/or provide subsidy
+- Limit who can buy 
+	- Shifts demand curve leftward
+- Restricting imports
+	- Shifts supply leftward
+
+## Price Ceiling
+- Maximum price sellers are allowed to charge for a good/service
+	- Government often sets these to protect consumers 
+	- Crises lead to 
