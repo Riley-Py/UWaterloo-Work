@@ -22,4 +22,14 @@
 ### Supply Curve
 ![[Pasted image 20260522143614.png]]
 - For this supply curve of pork, the function is $$ Q = S(p, p_h)$$
-	- 
+	- $Q$ - amount of pork supplied
+	- $p$ - price of pork ($\$/{kg}$)
+	- $p_h$ - price of hog ($\$/{kg}$)
+- Shift of supply curve example:
+	- ![[Pasted image 20260522143931.png]]
+## Market Price/Equilibrium
+- *Market in equilibrium* when market price comes about and everyone who wants to trade at price does so
+- At equilibrium price $P^*$ 
+	1. Everyone who wants to trade does 
+	2. Number of purchases equals number of sales
+1. Demand equals supply, or $$ d(P^*) = s(P)
