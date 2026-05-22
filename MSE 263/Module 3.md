@@ -66,3 +66,6 @@
 			![[Pasted image 20260522150037.png]]
 ### Consumer Surplus
 - Total benefit to all consumers
+		![[Pasted image 20260522150305.png]]
+### Producer Surplus
+- Total profits of producers
