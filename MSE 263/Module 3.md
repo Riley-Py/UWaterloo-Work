@@ -69,3 +69,8 @@
 		![[Pasted image 20260522150305.png]]
 ### Producer Surplus
 - Total profits of producers
+		![[Pasted image 20260522150920.png]]
+- With consumer surplus, they measure the *welfare benefit* of competitive market
+
+### Deadweight Loss
+- 
