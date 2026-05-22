@@ -52,7 +52,15 @@
 - Restricting imports
 	- Shifts supply leftward
 
-## Price Ceiling
+### Price Ceiling
 - Maximum price sellers are allowed to charge for a good/service
-	- Government often sets these to protect consumers 
-	- Crises lead to 
+	- Government often sets these to protect consumers during crises
+	- Crises lead to price increases
+	- Set below equilibrium price
+- Example: gasoline
+		![[Pasted image 20260522145334.png]]
+	- Leads to excess demand
+### Price Floor
+- Minimum price of good or service
+	- Example: minimum wage set by government to protect producers
+			
