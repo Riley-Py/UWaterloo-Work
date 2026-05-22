@@ -12,3 +12,14 @@
 - If price drops, consumers want to buy more
 	- Changes in quantity demanded in response to changes in price are *movements along demand curve*
 	- Changes in quantity due to relevant factors (income, price of other goods, etc.) creates a *shift of the demand curve*
+		- Example: 
+			- ![[Pasted image 20260522143226.png]]
+## Supply
+- Firms determine how much to produce a good based on price and factors
+	- *Cost of production (input costs)* - labor, machinery, other costs
+	- *Technological change* - advances in tech allow firm to produce good at lower price, therefore increasing supply at any given price
+	- *Government regulations* - restrictions, regulation-related costs, etc.
+### Supply Curve
+![[Pasted image 20260522143614.png]]
+- For this supply curve of pork, the function is $$ Q = S(p, p_h)$$
+	- 
