@@ -32,4 +32,12 @@
 - At equilibrium price $P^*$ 
 	1. Everyone who wants to trade does 
 	2. Number of purchases equals number of sales
-1. Demand equals supply, or $$ d(P^*) = s(P)
+- Demand equals supply, or $$ d(P^*) = s(P^*)$$
+- Market Equilibrium curve:
+		![[Pasted image 20260522144324.png]]
+- *Shock in equilibrium* - shock that changes equilibrium if there're shifts in either demand curve or supply curve
+	- Shift due to variable constants changing
+	- Shift example (demand)
+		![[Pasted image 20260522144638.png]]
+	- Shift example (supply)
+	- 
