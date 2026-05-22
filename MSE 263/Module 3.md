@@ -73,4 +73,10 @@
 - With consumer surplus, they measure the *welfare benefit* of competitive market
 
 ### Deadweight Loss
-- 
+- Net loss of total (consumer plus producer) surplus
+- Scenario 1: Price control benefiting consumers
+		![[Pasted image 20260522151309.png]]
+- Scenario 2: Demand being inelastic, benefiting producers
+		![[Pasted image 20260522151430.png]]
+#mse263 
+#module3
