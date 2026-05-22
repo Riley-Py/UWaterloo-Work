@@ -63,4 +63,6 @@
 ### Price Floor
 - Minimum price of good or service
 	- Example: minimum wage set by government to protect producers
-			
+			![[Pasted image 20260522150037.png]]
+### Consumer Surplus
+- Total benefit to all consumers
