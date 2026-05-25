@@ -2,3 +2,5 @@
 	- Is rational
 	- Assumed to have knowledge of aspects of environment that is clear
 	- Assumed to be well-organized and stable system of preference
+- Developments have raised doubts on whether economic man is a good foundation to make a theory of how firms should behave
+- The theory should account for simplifications the choosing organism may introduce into its model of the situation to bring the model within range of com
