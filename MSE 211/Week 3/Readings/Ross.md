@@ -35,5 +35,9 @@
 - Attributers make use of rules of thumb when attributing 
 ### Bias
 - Systematic bias leads to misinterpretation of events and behaviour that is unpredictable
-- 
+- Achievement and teaching performances have provided evidence in attributing positive/negative outcomes due to ego
+	- A problem is that private perceptions/interpretations may not correspond to judgements
+	- Another is that it may not reflect motivational influences
+		- Success is anticipated with actor's past experience, while failure is unexpected
+- Research found that instructors rated performance/abilities as determinants of failure for themselves, while learner's ef
 
