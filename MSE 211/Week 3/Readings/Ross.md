@@ -11,4 +11,8 @@
 - One idea exists to not be based on form to distinguish between internal-external elements with these rules:
 	1. Explanations that do not state or imply any dispositions on the part of the actor beyond those typical of actors in general
 	2. Explanations that do state/imply distinguishing personal dispositions
+- Formation of social inferences may be preferred over casual judgement
+	- Some actions of a person can infer some disposition of a person, either personal or influence
+	- Problem is that using a Likert-type scale to measure a person on those actions is different with different subjects
+	- Another problem is that meaning depends on subtle features beyond experimenter's knowledge/control
 - 
