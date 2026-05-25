@@ -46,5 +46,7 @@
 ## Fundamental Attribution Error
 - Overestimate importance of personal/dispositional factors relative to environmental influences
 	- Overlooks environmental constraints
+- Actors/observers underestimate situational factors to produce compliance and overestimate the role of personal dispositions in producing behavior
+- Personality scales are poor predictors due to cross-situational consistency being weak
 - 
 
