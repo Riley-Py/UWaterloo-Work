@@ -11,3 +11,5 @@
 - Constraints are chosen based on what variables the rational organism controls/can optimize and what variables are constant
 - Variables are the environment, while the behaviour is in reference to the organism
 - Human rationality is crude compared to global rationality
+- Pay-offs must be ordered that one outcome is better, as good as, or worse than any other
+	- Can't be computed or perform
