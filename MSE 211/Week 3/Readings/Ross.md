@@ -20,5 +20,10 @@
 		- More labels may be needed for situations
 - Prediction allows clear questions and objective responses
 	- Can be evaluated with regards to accuracy
-
+## Logical Schemata/Nonlogical Biases
+- Individuals must have common understanding of social actions/outcomes that affect them
+- Two cases which schemata can be applied
+	1. *Multiple observation case* - attributer has access to behavioural data; summary statements provided in lieu of actual responses
+	2. *Single observation case* - attributer must deal with behavior of single person on single occasion
+- 
 
