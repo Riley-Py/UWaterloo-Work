@@ -21,6 +21,7 @@
 - Prediction allows clear questions and objective responses
 	- Can be evaluated with regards to accuracy
 ## Logical Schemata/Nonlogical Biases
+### Schemata
 - Individuals must have common understanding of social actions/outcomes that affect them
 - Two cases which schemata can be applied
 	1. *Multiple observation case* - attributer has access to behavioural data; summary statements provided in lieu of actual responses
@@ -29,5 +30,10 @@
 	- Assesses amount of observed behaviours/outcomes occur in presence, but fail to occur in absence, of candidate
 - In single observation, attributer uses *Discounting Principle*
 	- Observer "discounts" role of any candidate in explaining event to extent that any other causes/determinants can be identified
-- Covariance Principle requires attributer to apply rules that are logical/statistical and no further insight about 
+- Covariance Principle requires attributer to apply rules that are logical/statistical and no further insight about elements of entities
+- Discounting Principle requires insight of nature of man and impact of situational forces (money needs, personal grievances, etc.)
+- Attributers make use of rules of thumb when attributing 
+### Bias
+- Systematic bias leads to misinterpretation of events and behaviour that is unpredictable
+- 
 
