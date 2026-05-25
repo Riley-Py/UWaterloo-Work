@@ -52,5 +52,9 @@
 - Studies have shown that estimations of deviance/normalcy are biased according to their own behavioral choices
 	- Distortion in attributional analyses are based by errors in analysis of social data, but earlier biases in sampling/estimating data
 - These studies support the following thoughts:
-	1. We see our peers' behavi
+	1. We see our peers' behaviour as the product of consistent personal dispositions while attributing our own responses to situational forces/constraints
+	2. We are reluctant to agree that we ourselves possess the type of stable personality traits that we apply in characterizing our peers
+- Some factors that result in the bias are
+	1. Selective exposure and availability factors
+	2. Factors relating to resolution of situational ambiguity
 
