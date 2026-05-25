@@ -17,4 +17,6 @@
 - In global models of rational choice, all alternatives are evaluated before choice is made
 	- In human decision-making, alternatives are examined sequentially
 - Aspiration level varies from point-point in a sequence of trials of decision making
-	- Rises when 
+	- Rises when it is easy to discover satisfactory alternatives
+	- Falls when it is hard to discover satisfactory alternatives
+- A more persistent organism is more rational than the other
