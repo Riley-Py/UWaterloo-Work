@@ -41,5 +41,10 @@
 		- Success is anticipated with actor's past experience, while failure is unexpected
 - Research found that instructors rated performance/abilities as determinants of failure for themselves, while learner's efforts/abilities as less determinants for failure for them
 - *Fundamental attribution error* - tendency for attributers to underestimate impact of situational factors and overestimate role of dispositional factors in controller behaviour
-- Actors are held more responsible for acts that have serious consequences over trival consequences
+- Actors are held more responsible for acts that have serious consequences over trivial consequences
+
+## Fundamental Attribution Error
+- Overestimate importance of personal/dispositional factors relative to environmental influences
+	- Overlooks environmental constraints
+- 
 
