@@ -55,6 +55,6 @@
 	1. We see our peers' behaviour as the product of consistent personal dispositions while attributing our own responses to situational forces/constraints
 	2. We are reluctant to agree that we ourselves possess the type of stable personality traits that we apply in characterizing our peers
 - Some factors that result in the bias are
-	1. Selective exposure and availability factors
-	2. Factors relating to resolution of situational ambiguity
+	1. Selective exposure and availability factors - associating with people who share common traits
+	2. Factors relating to resolution of situational ambiguity - 
 
