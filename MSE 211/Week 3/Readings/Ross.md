@@ -50,5 +50,7 @@
 - Personality scales are poor predictors due to cross-situational consistency being weak
 - *False consensus* - see their own behavioural choices/judgements as common to existing circumstances while viewing alternative responses as uncommon
 - Studies have shown that estimations of deviance/normalcy are biased according to their own behavioral choices
-	- Distortion in attributional analyses are based by errors in a
+	- Distortion in attributional analyses are based by errors in analysis of social data, but earlier biases in sampling/estimating data
+- These studies support the following thoughts:
+	1. We see our peers' behavi
 
