@@ -56,5 +56,9 @@
 	2. We are reluctant to agree that we ourselves possess the type of stable personality traits that we apply in characterizing our peers
 - Some factors that result in the bias are
 	1. Selective exposure and availability factors - associating with people who share common traits
-	2. Factors relating to resolution of situational ambiguity - 
+	2. Factors relating to resolution of situational ambiguity - knowledge of response or situation is secondhand and lacking in detail
+- False consensus bias reflects/creates distortions in attribution process
+	- Results from nonrandom sampling/evidence 
+	- Promotes variance and error in interpretation of social actions
+- 
 
