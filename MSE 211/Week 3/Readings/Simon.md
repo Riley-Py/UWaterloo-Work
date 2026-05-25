@@ -14,5 +14,7 @@
 - Pay-offs must be ordered that one outcome is better, as good as, or worse than any other
 	- Can't be computed or perform
 - Pay-offs can be mapped to linear programming
-- In global models of rational choice, all alternatives are evaulated before choice is made
-	- In human decision-making 
+- In global models of rational choice, all alternatives are evaluated before choice is made
+	- In human decision-making, alternatives are examined sequentially
+- Aspiration level varies from point-point in a sequence of trials of decision making
+	- Rises when 
