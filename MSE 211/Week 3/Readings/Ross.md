@@ -48,5 +48,7 @@
 	- Overlooks environmental constraints
 - Actors/observers underestimate situational factors to produce compliance and overestimate the role of personal dispositions in producing behavior
 - Personality scales are poor predictors due to cross-situational consistency being weak
-- *False consenus* - see their own behavioural choices/judgements as common to existing circumstances while viewing alternative responses as uncommon
+- *False consensus* - see their own behavioural choices/judgements as common to existing circumstances while viewing alternative responses as uncommon
+- Studies have shown that estimations of deviance/normalcy are biased according to their own behavioral choices
+	- Distortion in attributional analyses are based by errors in a
 
