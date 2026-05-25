@@ -1,0 +1,3 @@
+- *Attribution theory* - Understanding causes of events people witness
+- Pursuit of pleasure/avoidance of pain are motives; conformity is less demanding than nonconformity
+- 
