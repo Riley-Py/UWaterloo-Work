@@ -13,4 +13,6 @@
 - Human rationality is crude compared to global rationality
 - Pay-offs must be ordered that one outcome is better, as good as, or worse than any other
 	- Can't be computed or perform
-- 
+- Pay-offs can be mapped to linear programming
+- In global models of rational choice, all alternatives are evaulated before choice is made
+	- In human decision-making 
