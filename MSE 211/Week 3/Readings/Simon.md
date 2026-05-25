@@ -20,3 +20,6 @@
 	- Rises when it is easy to discover satisfactory alternatives
 	- Falls when it is hard to discover satisfactory alternatives
 - A more persistent organism is more rational than the other
+
+#mse211 
+#reading 
