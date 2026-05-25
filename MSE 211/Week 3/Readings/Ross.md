@@ -1,3 +1,4 @@
+## Attribution Theory
 - *Attribution theory* - Understanding causes of events people witness
 - Pursuit of pleasure/avoidance of pain are motives; conformity is less demanding than nonconformity
 - Three tasks that are present to the social observer:
@@ -15,4 +16,9 @@
 	- Some actions of a person can infer some disposition of a person, either personal or influence
 	- Problem is that using a Likert-type scale to measure a person on those actions is different with different subjects
 	- Another problem is that meaning depends on subtle features beyond experimenter's knowledge/control
-- 
+	- Another problem is that, when rating, the third option "can't say, depends upon circumstances", when chosen, reflects rejection of broad/general dispositional label
+		- More labels may be needed for situations
+- Prediction allows clear questions and objective responses
+	- Can be evaluated with regards to accuracy
+
+
