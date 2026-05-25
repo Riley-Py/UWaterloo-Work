@@ -60,5 +60,5 @@
 - False consensus bias reflects/creates distortions in attribution process
 	- Results from nonrandom sampling/evidence 
 	- Promotes variance and error in interpretation of social actions
-- 
+- Individuals who are in positions of power enjoy advantages in self-presentation
 
