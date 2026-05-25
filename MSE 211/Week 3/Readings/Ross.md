@@ -25,5 +25,9 @@
 - Two cases which schemata can be applied
 	1. *Multiple observation case* - attributer has access to behavioural data; summary statements provided in lieu of actual responses
 	2. *Single observation case* - attributer must deal with behavior of single person on single occasion
-- 
+- In multiple observation, attributer uses *Covariance Principle*
+	- Assesses amount of observed behaviours/outcomes occur in presence, but fail to occur in absence, of candidate
+- In single observation, attributer uses *Discounting Principle*
+	- Observer "discounts" role of any candidate in explaining event to extent that any other causes/determinants can be identified
+- Covariance Principle requires attributer to apply rules that are logical/statistical and no further insight about 
 
