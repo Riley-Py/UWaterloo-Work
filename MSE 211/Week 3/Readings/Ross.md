@@ -61,4 +61,6 @@
 	- Results from nonrandom sampling/evidence 
 	- Promotes variance and error in interpretation of social actions
 - Individuals who are in positions of power enjoy advantages in self-presentation
+	- They underestimate the fact that positive attributes reflect advantages of social control
+- 
 
