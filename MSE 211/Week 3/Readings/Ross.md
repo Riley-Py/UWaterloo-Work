@@ -5,5 +5,6 @@
 	2. *Social inference* - inferences about attributes of relevant entities
 	3. *Prediction* - forming expectations/making predictions about future actions and outcomes
 - Each task is connected to each other
-- Relied on simple internal-external model for attribution
-	- 
+- Relied on simple internal-external/disposition-situational model for attribution
+	- Possible causes/observed effects that lead observe to attribute event to internal elements (abilities, traits, motives) to external situation (task difficulties, incentives, peer pressure)
+	- Flawed as when observers are asked about why someone has chosen an action, and then classified as "internal" or "external" is based on *form*
