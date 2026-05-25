@@ -13,3 +13,4 @@
 - Human rationality is crude compared to global rationality
 - Pay-offs must be ordered that one outcome is better, as good as, or worse than any other
 	- Can't be computed or perform
+- 
