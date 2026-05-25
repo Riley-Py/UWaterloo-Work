@@ -1,0 +1,4 @@
+- Economic theory poses "economic man"
+	- Is rational
+	- Assumed to have knowledge of aspects of environment that is clear
+	- Assumed to be well-organized and stable system of preference
