@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "EARTH 121 (Complete)/Week 8/Renewable Resources.md",
+                "file": "MSE 211/Week 3/Readings/Dekker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Renewable Resources"
+              "title": "Dekker"
             }
           }
         ]
@@ -177,6 +177,8 @@
   },
   "active": "f80d273fc665b168",
   "lastOpenFiles": [
+    "EARTH 121 (Complete)/Week 8/Renewable Resources.md",
+    "MSE 211/Week 3/Readings/Dekker.md",
     "EARTH 121 (Complete)/Week 2/Introduction To Rocks.md",
     "EARTH 121 (Complete)/Week 2/Elements.md",
     "EARTH 121 (Complete)/Week 1/Introduction.md",
@@ -221,8 +223,6 @@
     "MSE 263/Images",
     "MSE 211/Week 1/Practice Questions/Q5 - Evaluation.md",
     "MSE 263/Module 1/Untitled.md",
-    "MSE 211/Week 1/Readings/Texas City Explosion.md",
-    "ECE 252/Concurrency VS. Parallelism.md",
     "Untitled.canvas"
   ]
 }
