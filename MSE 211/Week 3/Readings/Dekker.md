@@ -1,0 +1,10 @@
+- New View of human error has these aspects:
+	- Not cause of failure; it's a symptom of deeper trouble
+	- Not random; connected to features of people's  tools, tasks, operating environment
+	- Not conclusion of investigation, but a starting point
+- Systems aren't safe
+	- People have to create safety by adapting under pressure and acting under uncertainty
+- Safety is not the sole goal in systems that people operate
+	- Pressures and goals are always at work (examples: economic, schedules, customer service, public image)
+- Trade-offs between safety and other goals have to be made under uncertainty/ambiguity
+- 
