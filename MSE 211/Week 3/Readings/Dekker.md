@@ -14,4 +14,7 @@
 	- *Sources of error are structural, not personal* - have to dig into the system that people work and not at the people's personal shortcomings
 	- *Errors and accidents are remotely related* - accidents are from system's complexity, not simplicity.  It takes many factors to push a system to failure
 	- *Accidents are not the result of a breakdown* - accidents are structural by-products of system's normal functioning
-- 
+- People are doing what makes sense given the situation, organizational norms, and operational pressures
+	- Accidents are rarely preceded by weird behaviour
+- Investigations are driven by one idea: human errors are symptoms of deeper trouble
+	- Have to target what lies behind the error - organizational trade-offs; effect of new technology; complexity buried in circumstances concerning human performance; mental work that went in difficult situations; coordination/communication of peo
