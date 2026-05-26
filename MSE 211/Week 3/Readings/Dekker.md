@@ -17,4 +17,13 @@
 - People are doing what makes sense given the situation, organizational norms, and operational pressures
 	- Accidents are rarely preceded by weird behaviour
 - Investigations are driven by one idea: human errors are symptoms of deeper trouble
-	- Have to target what lies behind the error - organizational trade-offs; effect of new technology; complexity buried in circumstances concerning human performance; mental work that went in difficult situations; coordination/communication of peo
+	- Have to target what lies behind the error - organizational trade-offs; effect of new technology; complexity buried in circumstances concerning human performance; mental work that went in difficult situations; coordination/communication of people; uncertainty of evidence
+- Recommendations in new view are:
+	- Not about the individual, as their errors may be because of system problems that everyone could be experiencing
+	- Tighter procedures can't be relied on, as individuals need to be flexible given complex/dynamic situations
+	- New technology may pose new complexities and errors that it was trying to resolve
+	- Address system problems within organizational decisions, operational conditions or technological features
+- New View aims to explain "why" for decisions/assessments
+
+#mse211 
+#reading 
