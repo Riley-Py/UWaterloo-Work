@@ -7,4 +7,11 @@
 - Safety is not the sole goal in systems that people operate
 	- Pressures and goals are always at work (examples: economic, schedules, customer service, public image)
 - Trade-offs between safety and other goals have to be made under uncertainty/ambiguity
+- People are vital to creating safety
+	- Only ones who can negotiate between safety and other pressures in operating conditions
+- Human errors don't come unexpectedly
+- A few insights around the new view have arose:
+	- *Sources of error are structural, not personal* - have to dig into the system that people work and not at the people's personal shortcomings
+	- *Errors and accidents are remotely related* - accidents are from system's complexity, not simplicity.  It takes many factors to push a system to failure
+	- *Accidents are not the result of a breakdown* - accidents are structural by-products of system's normal functioning
 - 
