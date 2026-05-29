@@ -63,3 +63,11 @@
 	- Demand and supply prices are more elastic
 		- *Demand* - easier to find substitutes/change habits in long-term; storage opportunities make short-term elasticity larger
 		- *Supply* - Not easy to increase supply in the short-term
+### Sensitivity of Quantity Supplied to Price
+- If $\eta$ is:
+	- *Perfectly inelastic* - $\eta = 0$ 
+	- *Inelastic* - $0<\eta<1$ 
+	- *Unit-elastic* - $\eta = 1$
+	- *Elastic* - $\eta > 1$ 
+	- *Perfectly elastic* - $\eta = \infty$ 
+- 

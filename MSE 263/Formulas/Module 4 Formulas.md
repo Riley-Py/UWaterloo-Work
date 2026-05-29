@@ -6,7 +6,7 @@ where:
 - $Q$ is original quantity demanded
 - $p$ is original price of product
 
-*Price Elasticity of Demand Along Linear Demand Curve*
+*Elasticity of Demand Along Linear Demand Curve*
 $$Q = a - bP$$
 $$\epsilon = {\Delta Q \over \Delta p}{p\over q} = -b {P \over Q} $$
 where:
@@ -39,4 +39,7 @@ $$ \xi = {{\% \Delta Q} \over {\% \Delta Y}} = {{{\Delta Q}\over Q}\over {\Delta
 where:
 - $Y$ is income
 *Sensitivity of Quantity Supplied to Price*
-$$ \xi = {{\% \Delta Q} \over {\% \Delta Y}} = {{{\Delta Q}\over Q}\over {\Delta Y \over Y}} = {\Delta Q \over \Delta Y}{Y \over Q} $$
+$$ \eta = {{\% \Delta Q} \over {\% \Delta p}} = {{{\Delta Q}\over Q}\over {\Delta p \over p}} = {\Delta Q \over \Delta p}{p \over Q} $$
+*Elasticity of Demand on Supply Curve*
+$$ Q = g + hp $$
+$$ h = {\Delta Q \over \Delta p}$$
