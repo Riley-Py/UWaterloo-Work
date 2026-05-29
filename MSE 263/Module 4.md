@@ -35,4 +35,11 @@
 	- Elastic - marginal revenue is greater than 0
 - Elasticity along a *constant elasticity demand curve* is the same
 	![[Pasted image 20260529091454.png|286]]
-- 
+- *Horizontal demand curve* - $\epsilon$ = - $\infty$ at every point
+	- Small increase in price creates infinite drop in quantity
+	- Example: substitute
+- *Vertical demand curve* - $\epsilon$ = 0 at every point
+	- Price goes up, quantity demanded remains unchanged
+	- Example: essential goods
+### Classification of Prices of Related Goods & Income Affect Demand
+- If an increase in the price of one good causes demand of another to increase, then 
