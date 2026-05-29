@@ -28,4 +28,5 @@ where:
 - $P^*$ - equilibrium price
 
 #mse263 
+#module2 
 #formulas 

@@ -81,3 +81,8 @@
 - Government imposes tax $\tau$ on each sale
 	- Identify that effective price $P_b$ that buyer pay and effective price $P_s$ that sellers keep such that $P_b - P_s = \tau$ is tax
 	- Prices are equilibrium if $d(P_b) = s(P_s)$ or $d(P) = s(P - \tau)$ 
+### Tax Incidence
+- More elastic demand is, lower the burden of tax on consumers, with $\eta$ staying the same
+
+#mse263 
+#module4

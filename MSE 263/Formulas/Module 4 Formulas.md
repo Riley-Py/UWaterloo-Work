@@ -47,4 +47,13 @@ $$\eta = {\Delta Q \over \Delta p}{p \over Q} = h {p\over Q}$$
 *Arc Elasticity*
 $$\epsilon = {{{Q_2 - Q_1} \over {1 \over 2}(Q_1 + Q_2)} \over {{P_2 - P_1} \over {1\over 2}(P_1 + P_2)}} $$
 where:
-- You are given $(P_1, Q_1)$ and $(P_2, Q_2)$
+- You are given $(P_1, Q_1)$ and $(P_2, Q_2)$ on demand curve
+*Tax Incidence*
+$${\Delta p \over \Delta\tau} = {\eta \over \eta - \epsilon}$$
+where:
+- $\tau$ is tax
+
+
+#mse263 
+#formulas 
+#module4 
