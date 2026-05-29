@@ -43,3 +43,6 @@ $$ \eta = {{\% \Delta Q} \over {\% \Delta p}} = {{{\Delta Q}\over Q}\over {\Delt
 *Elasticity of Demand on Supply Curve*
 $$ Q = g + hp $$
 $$ h = {\Delta Q \over \Delta p}$$
+$$\eta = {\Delta Q \over \Delta p}{p \over Q} = h {p\over Q}$$
+*Arc Elasticity*
+$$\epsilon = {{{Q_2 - Q_1} \over {1 \over 2}(Q_1 + Q_2)} \over {{P_2 - P_1} \over {1\over 2}(P_1 + P_2)}} $$

@@ -70,4 +70,6 @@
 	- *Unit-elastic* - $\eta = 1$
 	- *Elastic* - $\eta > 1$ 
 	- *Perfectly elastic* - $\eta = \infty$ 
-- 
+### Arc Elasticity
+- Measures how responsive one variable is to another between two points on a curve
+	- Useful when price changes quite a bit
