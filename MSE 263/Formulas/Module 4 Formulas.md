@@ -30,3 +30,4 @@ where:
 - $MR$ is marginal revenue
 *Constant elasticity demand curve*
 $$ Q = Ap^\epsilon$$
+*Sensitivy of quantity*
