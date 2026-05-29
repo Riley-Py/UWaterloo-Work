@@ -6,7 +6,7 @@ where:
 - $Q$ is original quantity demanded
 - $p$ is original price of product
 
-*Price Elasticity of Demand Along Linear demand curve*
+*Price Elasticity of Demand Along Linear Demand Curve*
 $$Q = a - bP$$
 $$\epsilon = {\Delta Q \over \Delta p}{p\over q} = -b {P \over Q} $$
 where:
@@ -15,7 +15,7 @@ where:
 - $a$ is intercept of graph (i.e. when price is 0)
 - $b$ is the slope of the graph (rise/run)
 
-*Alternative formula for elasticity along linear demand curves*
+*Alternative Formula for Elasticity Along Linear Demand Curve*
 $$ \epsilon = - {P \over \bar P - P}$$
 where:
 - $\bar P$( $a \over b$) is the choke price
@@ -35,3 +35,6 @@ $$ \gamma = {{\% \Delta Q} \over {\% \Delta p_o}} = {{{\Delta Q}\over Q}\over {\
 - $P_o$ is price of related good
 
 *Sensitivity of Quantity Demanded to Income*
+$$ \xi = {{\% \Delta Q} \over {\% \Delta Y}} = {{{\Delta Q}\over Q}\over {\Delta Y \over Y}} = {\Delta Q \over \Delta Y}{Y \over q} $$
+where:
+- $Y$ is income

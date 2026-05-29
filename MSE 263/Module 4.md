@@ -52,3 +52,6 @@
 - If cross-price elasticity $\gamma$ is positive, goods are *substitutes*
 	- If negative, goods are *complements*
 ### Sensitivity of Quantity Demanded to Income
+- If income elasticity $\xi$ is negative, good is *inferior*
+- If income elasticity is positive, good is *normal*
+- If income elasticity is over 1, good is *luxury* 
