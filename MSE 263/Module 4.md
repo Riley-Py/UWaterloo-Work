@@ -29,4 +29,10 @@
 		- Revenue falls, as percentage decrease in demand is larger than percentage increase in price
 	- *Unit-elastic demand* - $\epsilon = -1$
 		- Revenue is same, as percentage decrease in demand offsets percentage increase in price
-- Marginal revenue is affected
+- Marginal revenue is affected where:
+	- Inelastic - marginal revenue is less than 0
+	- Unit elastic - marginal revenue is equal to 0
+	- Elastic - marginal revenue is greater than 0
+- Elasticity along a *constant elasticity demand curve* is the same
+	![[Pasted image 20260529091454.png|286]]
+- 

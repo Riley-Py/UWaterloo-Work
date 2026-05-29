@@ -28,3 +28,5 @@ where:
 $$MR = p \left (1 + {1\over \epsilon}\right)$$
 where:
 - $MR$ is marginal revenue
+*Constant elasticity demand curve*
+$$ Q = Ap^\epsilon$$
