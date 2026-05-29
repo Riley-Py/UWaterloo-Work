@@ -55,3 +55,11 @@
 - If income elasticity $\xi$ is negative, good is *inferior*
 - If income elasticity is positive, good is *normal*
 - If income elasticity is over 1, good is *luxury* 
+
+### Determinants of Price Elasticity
+- Necessities tend to have inelastic demand while luxuries tend to have elastic demand
+- If substitutes are available, demand tends to be more elastic
+- Time horizon
+	- Demand and supply prices are more elastic
+		- *Demand* - easier to find substitutes/change habits in long-term; storage opportunities make short-term elasticity larger
+		- *Supply* - Not easy to increase supply in the short-term

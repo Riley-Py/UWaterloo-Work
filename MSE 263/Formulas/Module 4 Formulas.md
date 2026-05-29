@@ -35,6 +35,8 @@ $$ \gamma = {{\% \Delta Q} \over {\% \Delta p_o}} = {{{\Delta Q}\over Q}\over {\
 - $P_o$ is price of related good
 
 *Sensitivity of Quantity Demanded to Income*
-$$ \xi = {{\% \Delta Q} \over {\% \Delta Y}} = {{{\Delta Q}\over Q}\over {\Delta Y \over Y}} = {\Delta Q \over \Delta Y}{Y \over q} $$
+$$ \xi = {{\% \Delta Q} \over {\% \Delta Y}} = {{{\Delta Q}\over Q}\over {\Delta Y \over Y}} = {\Delta Q \over \Delta Y}{Y \over Q} $$
 where:
 - $Y$ is income
+*Sensitivity of Quantity Supplied to Price*
+$$ \xi = {{\% \Delta Q} \over {\% \Delta Y}} = {{{\Delta Q}\over Q}\over {\Delta Y \over Y}} = {\Delta Q \over \Delta Y}{Y \over Q} $$
