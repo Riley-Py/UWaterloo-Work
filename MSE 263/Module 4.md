@@ -20,3 +20,6 @@
 - Elasticity is local property of demand
 	- Varies along most demand curves
 - On linear demand curve, elasticity of demand becomes more elastic (larger negative) as price increases
+- Example:
+	- ![[Pasted image 20260529090233.png]]
+- 

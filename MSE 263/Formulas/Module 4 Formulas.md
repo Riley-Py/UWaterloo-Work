@@ -19,3 +19,8 @@ where:
 $$ \epsilon = - {P \over \bar P - P}$$
 where:
 - $\bar P$( $a \over b$) is the choke price
+
+*Change in revenue with elasticity*
+$$ \Delta R \approx Q\Delta(\epsilon + 1)$$
+where:
+- $
