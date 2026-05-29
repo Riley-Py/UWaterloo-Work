@@ -49,3 +49,6 @@
 - If spending on good increases at faster rate than income, then it's a *luxury good*
 
 ### Sensitivity of Quantity Demanded to Price of Related Good
+- If cross-price elasticity $\gamma$ is positive, goods are *substitutes*
+	- If negative, goods are *complements*
+### Sensitivity of Quantity Demanded to Income

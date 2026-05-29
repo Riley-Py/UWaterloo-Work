@@ -1,12 +1,12 @@
 ## Elasticity
-*Price elasticity of demand ($\epsilon$)*
+*Price Elasticity of Demand*
 $$\epsilon = {{\% \Delta Q} \over {\% \Delta p}} = {{{\Delta Q}\over Q}\over {\Delta p \over p}} = {\Delta Q \over \Delta p}{p\over q}$$
 where:
 - $\epsilon$ is price elasticity of demand
 - $Q$ is original quantity demanded
 - $p$ is original price of product
 
-*Price elasticity of demand along linear demand curve*
+*Price Elasticity of Demand Along Linear demand curve*
 $$Q = a - bP$$
 $$\epsilon = {\Delta Q \over \Delta p}{p\over q} = -b {P \over Q} $$
 where:
@@ -20,7 +20,7 @@ $$ \epsilon = - {P \over \bar P - P}$$
 where:
 - $\bar P$( $a \over b$) is the choke price
 
-*Change in revenue with elasticity*
+*Change in Revenue with Elasticity*
 $$ \Delta R \approx Q\Delta P(\epsilon + 1)$$
 where:
 - $\Delta R$ is change in revenue
@@ -28,6 +28,10 @@ where:
 $$MR = p \left (1 + {1\over \epsilon}\right)$$
 where:
 - $MR$ is marginal revenue
-*Constant elasticity demand curve*
+*Constant Elasticity Demand Curve*
 $$ Q = Ap^\epsilon$$
-*Sensitivy of quantity*
+*Sensitivity of Quantity Demanded to Price of Related Good*
+$$ \gamma = {{\% \Delta Q} \over {\% \Delta p_o}} = {{{\Delta Q}\over Q}\over {\Delta p_o \over p_o}} = {\Delta Q \over \Delta p_o}{p_o\over q}$$ where:
+- $P_o$ is price of related good
+
+*Sensitivity of Quantity Demanded to Income*
