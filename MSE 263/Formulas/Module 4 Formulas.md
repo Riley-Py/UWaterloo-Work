@@ -31,7 +31,7 @@ where:
 *Constant Elasticity Demand Curve*
 $$ Q = Ap^\epsilon$$
 *Sensitivity of Quantity Demanded to Price of Related Good*
-$$ \gamma = {{\% \Delta Q} \over {\% \Delta p_o}} = {{{\Delta Q}\over Q}\over {\Delta p_o \over p_o}} = {\Delta Q \over \Delta p_o}{p_o\over q}$$ where:
+$$ \gamma = {{\% \Delta Q} \over {\% \Delta p_o}} = {{{\Delta Q}\over Q}\over {\Delta p_o \over p_o}} = {\Delta Q \over \Delta p_o}{p_o\over Q}$$ where:
 - $P_o$ is price of related good
 
 *Sensitivity of Quantity Demanded to Income*
