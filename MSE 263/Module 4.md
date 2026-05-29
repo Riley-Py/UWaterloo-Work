@@ -42,4 +42,10 @@
 	- Price goes up, quantity demanded remains unchanged
 	- Example: essential goods
 ### Classification of Prices of Related Goods & Income Affect Demand
-- If an increase in the price of one good causes demand of another to increase, then 
+- If an increase in the price of good B causes demand of good A to increase, then goods are deemed *substitutes*
+	- If demand of good A decrease, then they are *complements*
+- If an increase in income causes demand to fall, good is *inferior*
+	- Otherwise, it's *normal*
+- If spending on good increases at faster rate than income, then it's a *luxury good*
+
+### Sensitivity of Quantity Demanded to Price of Related Good
