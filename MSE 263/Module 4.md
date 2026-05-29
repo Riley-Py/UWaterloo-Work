@@ -22,4 +22,11 @@
 - On linear demand curve, elasticity of demand becomes more elastic (larger negative) as price increases
 - Example:
 	- ![[Pasted image 20260529090233.png]]
-- 
+- There are three types of elasticity:
+	- *Inelastic demand* - $\epsilon > -1$ 
+		- Revenue rises, as percentage decrease in demand is smaller than percentage increase in price
+	- *Elastic demand* - $\epsilon < -1$ 
+		- Revenue falls, as percentage decrease in demand is larger than percentage increase in price
+	- *Unit-elastic demand* - $\epsilon = -1$
+		- Revenue is same, as percentage decrease in demand offsets percentage increase in price
+- Marginal revenue is affected
