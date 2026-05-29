@@ -6,9 +6,13 @@
 ### Effect of Supply Shock Dependent on Shape of Demand Curve
 ![[Pasted image 20260529083720.png]]
 
-- However, with the above graph, the equilibrium quantity does not change, as consumption's not sensitive to price
+- When demand is insensitive to price
+	- No effect on quantity demanded with shift
 	- Effects equilibrium price
 		![[Pasted image 20260529084028.png]]
 - When demand is sensitive to price
 	- No effect on equilibrium price
 	- Effect of quantity
+		![[Pasted image 20260529084309.png]]
+### Sensitivity of Quantity Demanded to Price
+- *Elasticity* - percent change in variable in response to a percent change in another variable
