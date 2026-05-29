@@ -73,3 +73,11 @@
 ### Arc Elasticity
 - Measures how responsive one variable is to another between two points on a curve
 	- Useful when price changes quite a bit
+### Effects of Sales Tax
+- Two types of tax:
+	- *Ad valorem (sales) tax* - every dollar, the government keeps a fraction
+	- *Specific (unit) tax* - specific dollar amount
+### Equilibrium with Unit Sales Tax
+- Government imposes tax $\tau$ on each sale
+	- Identify that effective price $P_b$ that buyer pay and effective price $P_s$ that sellers keep such that $P_b - P_s = \tau$ is tax
+	- Prices are equilibrium if $d(P_b) = s(P_s)$ or $d(P) = s(P - \tau)$ 
