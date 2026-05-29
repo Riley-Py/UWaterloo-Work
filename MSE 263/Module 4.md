@@ -16,3 +16,7 @@
 		![[Pasted image 20260529084309.png]]
 ### Sensitivity of Quantity Demanded to Price
 - *Elasticity* - percent change in variable in response to a percent change in another variable
+- *Choke price* - price at which demand is zero
+- Elasticity is local property of demand
+	- Varies along most demand curves
+- On linear demand curve, elasticity of demand becomes more elastic (larger negative) as price increases
