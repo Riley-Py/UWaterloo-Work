@@ -30,3 +30,8 @@
 	- Developed new procedures for verifying account openings
 	- Additional training/control mechanisms to prevent violations
 - Executives had the dilemma between recognizing severity, admitting fault, and convincing public that problem was solved
+- Affected customers did not react negatively
+- Cross-sell ratio wasn't affected
+- Reputational damage was huge
+	- Clawback of equity awards and bonuses from the C-Suite
+	- CEO resigned
