@@ -33,4 +33,12 @@
 	1. Esteem for oneself (dignity, independence, achievement)
 	2. Respect from others (status, mastery, prestige)
 - Inferiority complex may result from imbalances during this level
-- Important for children/adolescents, and preceds 
+- Important for children/adolescents, and precedes real self-esteem/dignity
+
+#### Self-Actualization Needs
+- Realizing one's full potential (personal growth, creativity, achieving meaningful goals)
+- Unique to each person
+- Commitment to authenticity/pursuit of purpose
+- Difficult to achieve and maintain consistently
+### Notes
+- Doesn't follow strict linear progression
