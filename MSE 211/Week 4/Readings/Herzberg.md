@@ -1,0 +1,4 @@
+- *Two-factor content theory* - motivation can be divided into hygiene factors and motivation factors; two separate needs
+	- Need to avoid unpleasantness/discomfort
+	- Need for personal development
+- Important part of theory is that main motivating factors aren't in environment
