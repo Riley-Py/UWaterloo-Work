@@ -1,0 +1,5 @@
+- Motivation was originally about lying outside the person
+- People argued that motivation was about internal motives and that they needed to be subconscious
+	- Behaviourists denounced this idea
+- Goal-setting theory was formed with the idea that conscious goals affect action
+	- *Goal* - aim of an action 
