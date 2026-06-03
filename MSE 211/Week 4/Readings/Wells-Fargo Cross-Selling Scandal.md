@@ -16,5 +16,8 @@
 	- Employees were provided financial incentive to cross-sell
 - Executives denied that this was a problem, as they had checks and balances that would prevent this from happening
 	- Handbooks stated that it was a sales integrity violation
-	- Ethics program instructed employees on spotting 
-- 
+	- Ethics program instructed employees on spotting/addressing conflict of interest, along with a hotline to tell management of violations
+	- Bonuses were tied to keeping the company's vision/values in culture
+	- Triggers for clawbacks/recoupment of said bonuses in case they were not earned appropriately
+- Cross-sales and products-per-household were not included as performance metrics in senior executive bonuses unlike branch employees
+- Employees opened 2 million accounts without customer consent over five-year period
