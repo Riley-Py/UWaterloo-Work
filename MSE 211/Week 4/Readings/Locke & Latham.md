@@ -41,4 +41,10 @@
 - Making public commitment to goal enhances commitment
 - Leaders communicating inspiring vision and behaving supportively also enhances commitment
 - Allowing subordinates to set goals could make the goal more important
-	- 
+	- Latham found that it doesn't differ significantly in performance versus assigned goals
+	- However, Erez found the opposite
+		- Due to a goal being assigned tersely instead of participatively
+	- Stimulates information exchange
+- Monetary incentives can enhance goal commitment
+	- Dependent on amount of money
+	- Paying people only when they reach the goal can hurt performance
