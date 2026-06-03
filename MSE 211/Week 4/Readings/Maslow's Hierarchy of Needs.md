@@ -68,3 +68,12 @@
 - Meeting these helps personal growth and understanding of life
 #### Aesthetic Needs
 - Search for beauty, balance, form
+- Deeper sense of satisfaction and harmony in life
+- Pursuit of art, music, nature
+#### Transcendence Needs
+- Values that transcend beyond personal self
+- Altruism, helping others achieve their potential, spiritual connection
+- Move beyond personal concerns, aiming to achieve unity, understanding, belonging in expanse of existence
+
+#mse211 
+#reading 
