@@ -73,3 +73,10 @@
 	- Exceeding goal = increased satisfaction
 	- Not reaching goal = decreased satisfaction
 - People with high goals produce more as they are dissatisfied with less
+	- People expect many psychological and practical outcomes from setting/attaining those goals
+
+### Practical Applications
+- Specific difficult goal leads to significant increases in employee productivity
+- Engineers/scientists who set goals for scores on performance had higher subsequent performance than those who were urged to "try their best"
+	- Self-efficacy correlated positively with subsequent performance
+- Situational interviews were designed with situations that would assess applicant's goals/intentions given those situations
