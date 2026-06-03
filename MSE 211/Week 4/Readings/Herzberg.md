@@ -37,3 +37,9 @@
 	- Absence of it causes job dissatisfaction, but presence of it will not cause job satisfaction
 - Factor that can motivate a worker doesn't depend much on geographic condition/ethnic group
 - Need and wants of men/women aren't different
+- Need and wants of supervisor/non-supervisors aren't different
+- Salary is the most important factor causing motivation/job satisfaction
+- Type of motivational factor is independent of type of organization
+
+#mse211 
+#reading 
