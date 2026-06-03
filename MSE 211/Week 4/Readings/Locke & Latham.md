@@ -2,4 +2,10 @@
 - People argued that motivation was about internal motives and that they needed to be subconscious
 	- Behaviourists denounced this idea
 - Goal-setting theory was formed with the idea that conscious goals affect action
-	- *Goal* - aim of an action 
+	- *Goal* - aim of an action to attain proficiency within a time frame
+- High effort was when the task was difficult, while low effort was when the task was either too easy or too hard
+- Found that performance decreased when the limits of ability were reached or when there was lack of commitment to a high difficult task
+- Specific difficult goals led to higher performance over the affirmation "do your best"
+	- Due to how subjective "do your best" is to the person
+	- Goal specificity reduces variation in performance by making the objective clear
+- 
