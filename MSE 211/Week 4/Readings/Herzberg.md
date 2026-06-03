@@ -31,4 +31,6 @@
 - There've been efforts to adapt the theory of work motivation to reflect the changing world of work
 
 ### Results
+- Studies found that some factors considered as hygiene factors were important motivating factors
+	- Salary, working conditions, company policy, administration, relationship with supervisor
 - 
