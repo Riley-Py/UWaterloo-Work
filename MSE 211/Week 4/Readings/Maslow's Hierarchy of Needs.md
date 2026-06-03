@@ -20,4 +20,17 @@
 - Human body can't function optimally if physiological needs aren't satisfied
 
 #### Safety Needs
-- 
+- Involves predictability, order, control
+- Includes job security, health, financial security, freedom from harm
+- Family and societal structures, such as law enforcement/medical care, can fulfill this
+#### Love and Belonging Needs
+- Social connection (friendship, family, romantic relationships)
+- Strong in childhood and can override the need for safety
+	- Witnessed in children clinging to abusive parents
+#### Esteem Needs
+- Self-respect, achievement, recognition
+- Defined into two categories
+	1. Esteem for oneself (dignity, independence, achievement)
+	2. Respect from others (status, mastery, prestige)
+- Inferiority complex may result from imbalances during this level
+- Important for children/adolescents, and preceds 
