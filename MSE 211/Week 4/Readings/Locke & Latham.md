@@ -1,3 +1,5 @@
+### Goal Theory
+
 - Motivation was originally about lying outside the person
 - People argued that motivation was about internal motives and that they needed to be subconscious
 	- Behaviourists denounced this idea
@@ -29,4 +31,14 @@
 - Planning is utilized to develop strategies that enable attainment of goals when a new goal is assigned
 - People trained with strategies use them for specific high-performance goals have their performance improved than those who are assigned other goals
 	- If strategy is not correct, however, it leads to worse performance
-- 
+### Commitment
+
+- Commitment is important when goals are difficult
+- Two categories of factors of goal commitment are
+	1. Factors that make goal attainment important to people
+	2. Belief that that they can attain the goal
+#### Importance
+- Making public commitment to goal enhances commitment
+- Leaders communicating inspiring vision and behaving supportively also enhances commitment
+- Allowing subordinates to set goals could make the goal more important
+	- 
