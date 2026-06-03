@@ -24,4 +24,7 @@
 - *Work* - Content of job tasks/assignments can have positive/negative effect 
 - *Growth* - Possibilities for growth allow for person to experience personal growth and be promoted in workplace
 - *Responsibility* - gaining satisfaction for the freedom to make decisions.  Gaps between responsibility and authority lead to dissatisfaction
-- *Recognition* - positive 
+- *Recognition* - positive recognition is praise/rewards for reaching goals or high quality work; negative recognition is criticism/blame for work done
+- *Achievement* - positive achievement includes achieving specific success like positive results or completing task on time; negative achievement includes failure to progress at work or poor decision-making
+### Motivation Changes
+- 
