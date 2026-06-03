@@ -54,4 +54,17 @@
 - Once a deficit is met, they go away, and we direct our attention to next set of needs that we need to satisfy
 
 ### Growth Needs
-- 
+- Psychological in nature
+- Realizing individual's full potential
+- Achieved through intellectual/creative behaviours
+- Stem to grow as a person, not from a lack of something
+- Everyone is capable of reaching the highest level of self-actualization, but progress is disrupted due to not meeting lower-level needs
+
+### Expanded Hierarchy of Needs
+![[Pasted image 20260603103649.png]]
+#### Cognitive Needs
+- Knowledge and understanding, curiosity
+- Drive pursuit of knowledge/understanding
+- Meeting these helps personal growth and understanding of life
+#### Aesthetic Needs
+- Search for beauty, balance, form
