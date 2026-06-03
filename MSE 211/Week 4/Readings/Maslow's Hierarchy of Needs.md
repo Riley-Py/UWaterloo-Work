@@ -42,3 +42,16 @@
 - Difficult to achieve and maintain consistently
 ### Notes
 - Doesn't follow strict linear progression
+	- Based on external circumstances or individual differences
+- Most behaviour is multi-motivated
+- Maslow proposed two sets of needs: deficiency needs and growth needs
+
+### Deficiency Needs
+- First four tiers of the hierarchy
+- Means to an end
+- Arise due to deprivation and motivates people when they are unmet 
+- Motivation to fulfill needs grows stronger the longer they are denied
+- Once a deficit is met, they go away, and we direct our attention to next set of needs that we need to satisfy
+
+### Growth Needs
+- 
