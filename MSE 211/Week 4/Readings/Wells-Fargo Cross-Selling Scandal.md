@@ -28,4 +28,5 @@
 	- Eliminated product sales goals
 	- Reconfigured branch-level incentives for customer service rather than cross-sell
 	- Developed new procedures for verifying account openings
-	- Additional training/control mechanisms to prevent 
+	- Additional training/control mechanisms to prevent violations
+- Executives had the dilemma between recognizing severity, admitting fault, and convincing public that problem was solved
