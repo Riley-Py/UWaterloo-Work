@@ -23,7 +23,10 @@
 	2. High goals lead to greater effort than low goals
 	3. Goals affect persistence - hard goals prolong
 	4. Goals affect action by leading to use of task-relevant knowledge/strategies
-		- People automatically use knowledge/skills they have that are relevant to the goal
-		- If not that, people draw from related skills in related contexts and use them in the situation
-		- Planning is utilized to develop strategies that enable attainment of goals when a new goal is assigned
-		- 
+
+- People automatically use knowledge/skills they have that are relevant to the goal
+- If not that, people draw from related skills in related contexts and use them in the situation
+- Planning is utilized to develop strategies that enable attainment of goals when a new goal is assigned
+- People trained with strategies use them for specific high-performance goals have their performance improved than those who are assigned other goals
+	- If strategy is not correct, however, it leads to worse performance
+- 
