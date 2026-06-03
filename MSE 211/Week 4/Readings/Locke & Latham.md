@@ -48,3 +48,16 @@
 - Monetary incentives can enhance goal commitment
 	- Dependent on amount of money
 	- Paying people only when they reach the goal can hurt performance
+#### Self-Efficacy
+- Leaders can raise this by:
+	- Adequate training to increase mastery that provides success
+	- Role modelling/finding role models that person can identify with
+	- Persuasive interaction that shows confidence that person can attain the goal
+### Feedback
+- Feedback reveals progress relating to goal
+	- Without this, people can't adjust level/direction of effort/adjust performance strategies
+- When people know they are below target, they increase effort or try out new strategy
+- After people attain goal, they set a higher goal for themselves, which creates motivation
+
+### Task Complexity
+- 
