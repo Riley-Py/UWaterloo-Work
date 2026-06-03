@@ -34,4 +34,8 @@
 - Cross-sell ratio wasn't affected
 - Reputational damage was huge
 	- Clawback of equity awards and bonuses from the C-Suite
-	- CEO resigned
+	- CEO resigned as a result
+### Investigation Report
+- Faulted company of publishing performance scorecards
+	- Faulted the fact that company didn't identify that as sales goals became more difficult to achieve, the rate of misconduct rose
+- Corporate control functions were constrained by decentralized 
