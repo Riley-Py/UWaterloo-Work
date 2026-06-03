@@ -11,4 +11,10 @@
 
 ### Critical Review of Theory
 - Theory places too much on job enrichment and ignores job satisfaction
-	- Not enough attention to importance of 
+	- Not enough attention to importance of pay, status, or interpersonal relationships
+### Motivation Meaning
+- Motivation is intrinsic, while hygiene as extrinsic
+	- Motivation factors increase/improve job satisfaction, while hygiene factors reduce job satisfaction
+- *Motivation* - person's intensity, direction, and persistence of efforts to attain a specific objective
+- *Motivators* - factors that cause feelings of satisfaction at work; comes from intrinsic feelings
+- When dissatisfaction can occur, motivation can't take place
