@@ -87,4 +87,5 @@
 		- It fosters organizational commitment
 		- Commitment is to specific/challenging goals
 		- Everything above is taken into account
-- 
+#mse211 
+#reading 
