@@ -27,4 +27,8 @@
 - *Recognition* - positive recognition is praise/rewards for reaching goals or high quality work; negative recognition is criticism/blame for work done
 - *Achievement* - positive achievement includes achieving specific success like positive results or completing task on time; negative achievement includes failure to progress at work or poor decision-making
 ### Motivation Changes
+- Not much development on theories that date back from 1960s and 1970s, even though world of work has changed dramatically
+- There've been efforts to adapt the theory of work motivation to reflect the changing world of work
+
+### Results
 - 
