@@ -64,4 +64,12 @@
 - In dynamic situations, searching for feedback and reacting to it is essential
 ### Personal Goals and External Incentives
 - *Motivation hub* - where the action is, which consists of personal goals, goal commitment, and self-efficacy
-- 
+	- Self-efficacy is crucial when negative feedback comes, as the level determines whether further goals are raised or lower
+- Diagram of this: 
+	![[Pasted image 20260603093059.png]]
+
+### Satisfaction
+- Goals serve as reference standard for satisfaction
+	- Exceeding goal = increased satisfaction
+	- Not reaching goal = decreased satisfaction
+- People with high goals produce more as they are dissatisfied with less
