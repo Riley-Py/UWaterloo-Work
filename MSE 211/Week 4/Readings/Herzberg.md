@@ -18,3 +18,10 @@
 - *Motivation* - person's intensity, direction, and persistence of efforts to attain a specific objective
 - *Motivators* - factors that cause feelings of satisfaction at work; comes from intrinsic feelings
 - When dissatisfaction can occur, motivation can't take place
+
+### Motivation in Groups - Factors
+- *Advancement* - Upward and positive status or position of person in workplace is motivating, while neutral/negative status is negative advancement
+- *Work* - Content of job tasks/assignments can have positive/negative effect 
+- *Growth* - Possibilities for growth allow for person to experience personal growth and be promoted in workplace
+- *Responsibility* - gaining satisfaction for the freedom to make decisions.  Gaps between responsibility and authority lead to dissatisfaction
+- *Recognition* - positive 
