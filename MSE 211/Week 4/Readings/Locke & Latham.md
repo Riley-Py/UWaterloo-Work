@@ -1,5 +1,4 @@
 ### Goal Theory
-
 - Motivation was originally about lying outside the person
 - People argued that motivation was about internal motives and that they needed to be subconscious
 	- Behaviourists denounced this idea
@@ -60,4 +59,9 @@
 - After people attain goal, they set a higher goal for themselves, which creates motivation
 
 ### Task Complexity
+- As complexity rises and required skills numerous, goal effects are dependent on ability to discover strategies
+- Studies found that when a specific difficult learning goal rather than a performance goal was set, high goals led to higher performance on complex task than general goal of "do your best"
+- In dynamic situations, searching for feedback and reacting to it is essential
+### Personal Goals and External Incentives
+- *Motivation hub* - where the action is, which consists of personal goals, goal commitment, and self-efficacy
 - 
