@@ -21,3 +21,11 @@
 	- Triggers for clawbacks/recoupment of said bonuses in case they were not earned appropriately
 - Cross-sales and products-per-household were not included as performance metrics in senior executive bonuses unlike branch employees
 - Employees opened 2 million accounts without customer consent over five-year period
+- Fallout of scandal
+	- Hired consulting firm to review accounts
+	- Refunded customers for fees
+	- Fired 5300 employees over five year period
+	- Eliminated product sales goals
+	- Reconfigured branch-level incentives for customer service rather than cross-sell
+	- Developed new procedures for verifying account openings
+	- Additional training/control mechanisms to prevent 
