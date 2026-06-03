@@ -40,4 +40,6 @@
 	- Faulted the fact that company didn't identify that as sales goals became more difficult to achieve, the rate of misconduct rose
 - Corporate control functions were constrained by decentralized organization structure
 	- Missed opportunities to put together different issues that could have revealed sales practice problems that were systemic
-- Faulted 
+- Faulted leadership for not seeing the scope/scale of the violations
+	- Leadership kept around "Yes men" who didn't criticize any views of theirs with regards to the sales situation
+	- Minimized and understated the problem
