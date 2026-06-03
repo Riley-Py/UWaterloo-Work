@@ -33,4 +33,7 @@
 ### Results
 - Studies found that some factors considered as hygiene factors were important motivating factors
 	- Salary, working conditions, company policy, administration, relationship with supervisor
-- 
+- Other studies found that salary was the most influencing factor for job satisfaction, even though it was considered a hygiene factor
+	- Absence of it causes job dissatisfaction, but presence of it will not cause job satisfaction
+- Factor that can motivate a worker doesn't depend much on geographic condition/ethnic group
+- Need and wants of men/women aren't different
