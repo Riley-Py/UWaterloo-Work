@@ -8,4 +8,12 @@
 - Specific difficult goals led to higher performance over the affirmation "do your best"
 	- Due to how subjective "do your best" is to the person
 	- Goal specificity reduces variation in performance by making the objective clear
-- 
+- Goes against the *valence-instrumentality-expectancy theory*
+	- *Valence* - anticipated satisfaction
+	- *Instrumentality* - performance leading to rewards
+	- *Expectancy* - effort will lead to performance needed to get rewards
+	- Expectancy should be related to performance, but goal theory goes against this
+- When goal level is consistent, higher expectancies = higher levels of performance
+- People with high self-efficacy (belief that they have high capacity to get stuff done) set higher goals than those with low self-efficacy
+	- Committed to goals
+	- Use better task strategies to attain goal
