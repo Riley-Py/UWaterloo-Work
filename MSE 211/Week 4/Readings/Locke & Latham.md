@@ -16,4 +16,14 @@
 - When goal level is consistent, higher expectancies = higher levels of performance
 - People with high self-efficacy (belief that they have high capacity to get stuff done) set higher goals than those with low self-efficacy
 	- Committed to goals
-	- Use better task strategies to attain goal
+	- Use better task strategies to attain goals
+	- Respond positive to negative feedback
+- Goals affect performance in four ways:
+	1. Direct attention and effort toward goal-relevant activities and away from goal irrelevant activities
+	2. High goals lead to greater effort than low goals
+	3. Goals affect persistence - hard goals prolong
+	4. Goals affect action by leading to use of task-relevant knowledge/strategies
+		- People automatically use knowledge/skills they have that are relevant to the goal
+		- If not that, people draw from related skills in related contexts and use them in the situation
+		- Planning is utilized to develop strategies that enable attainment of goals when a new goal is assigned
+		- 
