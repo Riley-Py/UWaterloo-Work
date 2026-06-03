@@ -38,4 +38,6 @@
 ### Investigation Report
 - Faulted company of publishing performance scorecards
 	- Faulted the fact that company didn't identify that as sales goals became more difficult to achieve, the rate of misconduct rose
-- Corporate control functions were constrained by decentralized 
+- Corporate control functions were constrained by decentralized organization structure
+	- Missed opportunities to put together different issues that could have revealed sales practice problems that were systemic
+- Faulted 
