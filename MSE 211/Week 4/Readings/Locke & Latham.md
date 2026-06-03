@@ -80,3 +80,11 @@
 - Engineers/scientists who set goals for scores on performance had higher subsequent performance than those who were urged to "try their best"
 	- Self-efficacy correlated positively with subsequent performance
 - Situational interviews were designed with situations that would assess applicant's goals/intentions given those situations
+- Self-efficacy correlated with increases in job attendance to people who were taught self-management
+- Led to development of *high-performance cycle*
+	- High goals led to high performance, which leads to rewards like recognition/promotion
+	- Explains lack of direct connection between job satisfaction and productivity; however, this is only true if
+		- It fosters organizational commitment
+		- Commitment is to specific/challenging goals
+		- Everything above is taken into account
+- 
