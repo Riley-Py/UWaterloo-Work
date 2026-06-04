@@ -43,3 +43,5 @@
 - Faulted leadership for not seeing the scope/scale of the violations
 	- Leadership kept around "Yes men" who didn't criticize any views of theirs with regards to the sales situation
 	- Minimized and understated the problem
+#mse211 
+#reading 
