@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSE 211/Week 3/Readings/Ross.md",
+                "file": "MSE 211/Week 3/Readings/Dekker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ross"
+              "title": "Dekker"
             }
           }
         ]
@@ -175,8 +175,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "059c515cd4110e39",
+  "active": "f80d273fc665b168",
   "lastOpenFiles": [
+    "MSE 211/Week 3/Readings/Ross.md",
     "MSE 211/Week 3/Readings/Simon.md",
     "MSE 211/Week 3/Readings/Dekker.md",
     "MSE 211/Week 4/Readings/Wells-Fargo Cross-Selling Scandal.md",
@@ -202,7 +203,6 @@
     "MSE 211/Week 3/Practice Questions/Q5 - Evaluation.md",
     "MSE 211/Week 2/Practice Questions/Q5 - Evaluation.md",
     "MSE 211/Week 2/Practice Questions/Q4 - Analysis.md",
-    "MSE 211/Week 3/Readings/Ross.md",
     "MSE 211/Week 3/Practice Questions",
     "MSE 211/Week 1/Readings/Texas City Explosion.md",
     "MSE 211/Week 1/Readings/Rasmussen.md",
