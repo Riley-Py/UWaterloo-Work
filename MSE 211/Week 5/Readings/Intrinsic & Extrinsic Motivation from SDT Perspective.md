@@ -22,3 +22,6 @@
 - Studies have found that more autonomous forms of motivation will lead to better learning/wellness
 	- Support from others with regards to autonomous motivation enhances this, while not supporting it undermines it
 - More internalized the motivation, the more it becomes a part of a learner's identity
+- Students that were exposed to a controlling teacher had higher levels of stress than students exposed to netural/autonomy-supportive teacher
+	- With the autonomy-supportive teacher, students had greater engagement with the content
+- Autonomy-supportive teachers understand students' perspectives; they encourage students to take ownership of their work
