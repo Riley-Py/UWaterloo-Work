@@ -6,4 +6,11 @@
 - Studies found that intrinsic motivation was associated with higher performance in formal education, regardless of geographic region/culture
 	- Intrinsic motivation declines over the years
 - Extrinsic motivation has four major subtypes
-	1. *External regulation* - behaviours driven by externally impose
+	1. *External regulation* - behaviours driven by externally imposed rewards/punishments; controlled and non-autonomous
+	2. *Introjected regulation* - partial internalized; behaviour is regulated by internal rewards of self-esteem for success and avoidance of anxiety/shame/guilt for failure
+	3. *Identified regulation* - person identifies/endorses value of activity; experiences willingness to act; partially autonomous
+	4. *Integrated regulation* - person identifies value of actvitiy, but the activity itself is similar to core interests/values; highly autonomous
+- Intrinsic motivation is based in interest/enjoyment, while autonomous extrinsic motivation are based on value
+- *Amotivation* - lacking intentionality
+- Diagram of this: 
+	- 
