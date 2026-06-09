@@ -25,4 +25,10 @@
 ## Discrete Probability Distributions
 
 ### Discrete Uniform Distribution
-- Simplest disc
+- Simplest distribution
+- Each possible value is equally likely
+- Finite possible values
+
+### Bernoulli Trial/Process
+- Repeated trials of same experiment
+- Has only two possible outcomes (binary)

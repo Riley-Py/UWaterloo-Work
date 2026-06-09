@@ -19,4 +19,8 @@ $$
 *Variance of Expected Value (alt.)*: $$ \sigma^2 = E(X^2) - \mu^2$$
 *Variance of Expected Value Function*: $$\sigma_{g(X)}^2 = E[(g(X) - \mu_{g(X)})^2]$$
 *Chebyshev's Theorem*: $$ P(|X - \mu| \ge k\sigma) \le {1 \over k^2}$$
+*Discrete Uniform Distribution*: $$ f(x_i) = {1\over n}$$
+*Discrete Uniform Distribution Mean (consecutive values)*: $$ E[X] = {{{first} + {last} \over 2}}$$
+*Discrete Uniform Distribution Variance (consecutive values)*: $$ (n ^2 - 1) \over 12 $$
+
 
