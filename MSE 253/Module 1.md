@@ -20,3 +20,6 @@
 ## Conditional Probability
 - Chance of event B happening with the knowledge of A
 - Used when additional info becomes available
+
+## Independence
+- Knowledge of outcome of the experiment is in event A does not affect the probability that the outcome is in event B
