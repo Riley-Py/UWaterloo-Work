@@ -22,5 +22,6 @@ $$
 *Discrete Uniform Distribution*: $$ f(x_i) = {1\over n}$$
 *Discrete Uniform Distribution Mean (consecutive values)*: $$ E[X] = {{{first} + {last} \over 2}}$$
 *Discrete Uniform Distribution Variance (consecutive values)*: $$ (n ^2 - 1) \over 12 $$
-
+*Binomial Distribution*: $$ b(x;n,p) = \binom{n}{x}p^x(1 - p)^{n-x}$$
+*Binomial Distribution (Mean)*: $$ 
 

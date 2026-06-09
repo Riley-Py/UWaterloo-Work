@@ -32,3 +32,14 @@
 ### Bernoulli Trial/Process
 - Repeated trials of same experiment
 - Has only two possible outcomes (binary)
+- Probability of success/failure is constant across trials
+- Repeated trials are independent
+#### Binomial Random Variable
+- Represents number of successes within a Bernoulli trial
+#### Binomial Distribution
+- Distribution that represents the Bernoulli trial, where:
+	- $p$ is success probability
+	- $1 - p$ is failure probability
+	- $x$ is number of successes
+	- $n - x$ is number of failures
+- Since trials are independent, multiply all probabilities corresponding to different outcomes
