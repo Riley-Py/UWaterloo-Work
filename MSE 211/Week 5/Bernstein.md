@@ -52,3 +52,9 @@
 ### Interview
 - Interviewing about a previous person's job role can help see what might motivate an employee to make a move or to keep them around
 - To identify the pushes and pulls, one must approach the conversation with empathy and prod for details
+	- After, see common pushes and pulls and identify what is important for employees
+### "Shadow" Job Descriptions
+- Typical job descriptions contain a slew of skills, qualifications, work culture that are cobbled together
+	- Too broad that it becomes meaningless
+	- Employees know this, so they boost their resume in hopes of getting an interview
+- 
