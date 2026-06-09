@@ -24,4 +24,7 @@
 - More internalized the motivation, the more it becomes a part of a learner's identity
 - Students that were exposed to a controlling teacher had higher levels of stress than students exposed to netural/autonomy-supportive teacher
 	- With the autonomy-supportive teacher, students had greater engagement with the content
-- Autonomy-supportive teachers understand students' perspectives; they encourage students to take ownership of their work
+- Autonomy-supportive teachers understand students' perspectives; they encourage students to take ownership of their work; they provide a rationale for a task to be done
+	- Controlling teachers pressure students to think in a certain way without considering student perspectives
+- When students experience a sense of choice, they have more ownership of activities and thus have higher levels of intrinsic motivation
+- Studies found that when autonomy-supportive behaviours are performed by teachers, students have greater interest in material being presented
