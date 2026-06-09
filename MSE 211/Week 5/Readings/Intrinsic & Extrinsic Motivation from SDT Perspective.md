@@ -36,4 +36,8 @@
 - Students gain knowledge and positive/negative identities
 - Studies have found that meeting the needs of students makes them more engaged, and with them being more engaged, the needs are increased
 - Autonomy is important for intrinsic motivation and well-being for students, regardless of cultural differences
-- Autonomy is essential for cul
+- Autonomy is essential for cultural competency (work with people from different backgrounds/value systems)
+- Studies found that when teachers become more autonomy-supportive, the culture of the school can become more accepting/tolerant
+
+### Critiques of Grading, Performance Goals, High-Stakes Testing
+- 
