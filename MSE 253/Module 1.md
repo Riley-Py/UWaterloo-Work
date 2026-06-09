@@ -52,4 +52,14 @@
 ### Probability Mass Function (PMF)
 - Used for discrete random variables
 - Has these three properties
-	1. 
+	1. $f(x_i) \geq 0$ 
+	2. $\sum_{i=1}^n f(x_i) = 1$
+	3. $f(x_i) = P(X = x_i)$
+### Probability Density Function (PDF)
+- Used for continuous random variables, as $P (X = x) = 0$ for all values of $x$
+- Calculated over an interval
+	- Doesn't matter if interval is closed/open
+- Has these properties:
+	1. $f(x) \geq 0$ 
+	2. $\int_{-\infty}^\infty f(x) {dx} = 1$ 
+	3. $P(a \leq X \leq b) = \
