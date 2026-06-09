@@ -51,7 +51,7 @@
 
 ### Probability Mass Function (PMF)
 - Used for discrete random variables
-- Has these three properties
+- Has these three properties:
 	1. $f(x_i) \geq 0$ 
 	2. $\sum_{i=1}^n f(x_i) = 1$
 	3. $f(x_i) = P(X = x_i)$
@@ -62,4 +62,14 @@
 - Has these properties:
 	1. $f(x) \geq 0$ 
 	2. $\int_{-\infty}^\infty f(x) {dx} = 1$ 
-	3. $P(a \leq X \leq b) = \
+	3. $P(a \leq X \leq b) = \int_a^b f(x)dx$ 
+		- Area under $f(x)$ from $a$ to $b$
+## Cumulative Probability
+- Random variable is less than or equal to a certain value
+
+### Cumulative Distribution Function (CDF)
+- Used for discrete random variables
+- Has these three properties:
+	1. $F(x) = P(X \leq x_i)$
+	2. $0 \leq F(x) \leq 1$ 
+	3. If $x \leq y$, then $F(x) \leq F(y)$ 
