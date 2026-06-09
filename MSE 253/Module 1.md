@@ -10,3 +10,5 @@
 ## Variability
 - *Range* - difference between largest and smallest value
 - *Mean Absolute Deviation* - average distance of data from mean
+- *Variance* - average of squared deviations form the mean
+- 
