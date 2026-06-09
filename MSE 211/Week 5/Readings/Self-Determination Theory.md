@@ -15,4 +15,16 @@
 ### Study on Theory
 - People were tasked on solving a puzzle; some people were paid, others weren't
 - Given the option of reading magazines or going back to puzzle
-- Found that people paid would read magazines
+- Found that people paid would read magazines in spare time, while people who weren't would work on puzzle
+	- Showed how rewards may disincentivize behaviour
+### Consequences
+- Theory dominates motivational psychology
+- Vast applicability of the theory
+	- When the three components are put together in the environment, intrinsic motivation goes up
+### Controversies
+- The three main motives listed may not be exhaustive
+	- [[Maslow's Hierarchy of Needs]] is an example
+- Autonomy may not be the best option for society, as people will only choose hedonistic endeavours and pleasures
+
+#mse211 
+#reading 
