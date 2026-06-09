@@ -1,0 +1,1 @@
+- We know what we need to do, but we don't try to achieve them
