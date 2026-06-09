@@ -33,4 +33,7 @@
 - Structure sets clear expectations/goals; consistency in rules; providing info supports and feedback
 	- Can be provided in a controlling or an autonomy-supportive way
 ### Student Wellness & Basic Need Supports
-- 
+- Students gain knowledge and positive/negative identities
+- Studies have found that meeting the needs of students makes them more engaged, and with them being more engaged, the needs are increased
+- Autonomy is important for intrinsic motivation and well-being for students, regardless of cultural differences
+- Autonomy is essential for cul
