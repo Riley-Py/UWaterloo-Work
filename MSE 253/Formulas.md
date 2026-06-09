@@ -11,4 +11,6 @@ $$
 *Total Probability Theorem (Two Events)*: $$P(A) = P(A|B)P(B) + P(A|B^c)P(B^c)$$
 *Bayes' Rule*: $$P(A|B) = {{P(B|A)P(A)} \over P(B)} $$
 *Mutual Exclusion*: $$ P(A \cup B) = P(A) + P(B), A \cap B = \emptyset$$
-
+*Expected Value (Discrete)*: $$ E[X] = \sum x P(X = x)$$
+*Expected Value (Continuous)*: $$ E[X] = \int_{-\infty}^\infty xf(x) {dx}$$
+*Expected Value Function (Discrete)*: $$E[g(X)] = \sum_x
