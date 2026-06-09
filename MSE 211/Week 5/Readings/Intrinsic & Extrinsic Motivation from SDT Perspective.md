@@ -66,4 +66,7 @@
 - Teachers need support in order to support students
 	- Studies found that when teachers themselves are more autonomously-motivated, their students would be more motivated
 - Studies also found that when teachers experienced environmental pressure from above (accountability policies, controlling admin) or below (disengaged students, difficult parents), their autonomous motivation dropped
-- 
+- When teachers were trained to be more autonomy-supportive, their autonomous motivation increased compared to the control group
+
+#mse211 
+#reading 
