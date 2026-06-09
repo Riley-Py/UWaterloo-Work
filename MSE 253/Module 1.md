@@ -36,3 +36,20 @@
 	- Example: months of the year, or a sequence of whole numbers
 - *Continuous* - uncountable outcomes
 	- Example: temperature, or weight
+## Random Variables
+- Associate number with each outcome in sample space
+- Since outcome of experiment is not known in advance, resulting value of random variable is not known in advance
+### Discrete
+- Countable range
+- Represents counts
+### Continuous
+- Uncountable range
+- Measured data
+
+## Probability Distribution
+- Description of probabilities with all possible values of random variable
+
+### Probability Mass Function (PMF)
+- Used for discrete random variables
+- Has these three properties
+	1. 

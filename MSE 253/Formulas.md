@@ -10,3 +10,5 @@ $$
 *Total Probability Theorem* $$ P(A) = \sum_{i=1}^n P(A | B_i) P(B_i)$$
 *Total Probability Theorem (Two Events)*: $$P(A) = P(A|B)P(B) + P(A|B^c)P(B^c)$$
 *Bayes' Rule*: $$P(A|B) = {{P(B|A)P(A)} \over P(B)} $$
+*Mutual Exclusion*: $$ P(A \cup B) = P(A) + P(B), A \cap B = \emptyset$$
+
