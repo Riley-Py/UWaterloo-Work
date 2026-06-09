@@ -11,4 +11,12 @@
 - *Range* - difference between largest and smallest value
 - *Mean Absolute Deviation* - average distance of data from mean
 - *Variance* - average of squared deviations form the mean
-- 
+- *Standard Deviation* - square root of variance (in same unit as data)
+
+## Probability
+- Chance that outcome occurs
+- For event, it's the sum of outcomes that comprise said event
+
+## Conditional Probability
+- Chance of event B happening with the knowledge of A
+- Used when additional info becomes available
