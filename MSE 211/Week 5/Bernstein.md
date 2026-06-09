@@ -72,4 +72,7 @@
 - Article has solution:
 	- Work on introducing employees to think of progress this way
 	- Work on modifying role that amounts to real progress on both sides
-	- 
+		- Makes roles better suited to people that organizations value
+		- *Holacracy* - employees make the rules and set goals/targets
+			- Most companies abandon it due to having to work *on* the organization while *in* said organization
+- Article describes how technology can aid in allowing people to see their interactions with coworke
