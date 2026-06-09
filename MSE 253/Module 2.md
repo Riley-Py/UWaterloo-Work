@@ -16,4 +16,12 @@
 - Tells about one variable by itself without the other variable
 
 ### Discrete Random Variables
-- For 
+- For $x$, $P(X = x) = \sum_y P(X= x, Y = y)$ 
+- For $y$, $P(Y = y) = \sum_x P(X = x, Y = y)$
+
+### Continuous Random Variables
+- For $x$, $P(X = x) = \int_{-\infty}^\infty f(x,y){dy}$
+- For $y$, $P(Y = y) = \int_{-\infty}^\infty f(x,y) {dx}$
+
+#mse253 
+#module2 
