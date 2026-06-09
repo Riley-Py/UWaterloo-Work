@@ -1,0 +1,12 @@
+## Measure of Location
+- *Mean* - sum of all values divided by number of values
+- *Median* - Middle value in ordered data
+	- If even, average the two middle values
+- *Mode* - most frequent value
+	- There can be more than one
+- *Percentile* - value below which a % of data fall
+- *Quartiles* - divide data into 4 equal parts
+	- Q1 (25%), Q2 (50%), Q3 (75%)
+## Variability
+- *Range* - difference between largest and smallest value
+- *Mean Absolute Deviation* - average distance of data from mean
