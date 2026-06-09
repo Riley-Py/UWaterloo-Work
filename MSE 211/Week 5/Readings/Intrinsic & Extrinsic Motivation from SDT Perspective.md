@@ -54,4 +54,10 @@
 - Two different types of goals exist
 	1. *Mastery* - enhancing learner's existing knowledge
 	2. *Performance* - student outperforming others
-- 
+- Performance goals are experienced as controlling pressures, while mastery goals are experienced as informational 
+
+#### High-Stakes Tests
+- Assumption that poor performance is due to poor teacher motivation, and that rewards/punishments will remedy this
+- Studies found that teachers focus on material that will be on the tests
+- Outcome-focused rewards/punishments reinforce any route to goal, even if in bad practice
+- Interferes with need-supporti
