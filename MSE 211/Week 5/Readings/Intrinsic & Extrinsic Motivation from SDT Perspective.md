@@ -40,9 +40,18 @@
 - Studies found that when teachers become more autonomy-supportive, the culture of the school can become more accepting/tolerant
 
 ### Critiques of Grading, Performance Goals, High-Stakes Testing
+
+#### Grading
 - Grading is associated with comparison and humilation
 	- Grades are comparative rather than criterion based
 - Little evidence that grading strategies aids in motivation/learning, while evidence of negative effects
 - SDT states that feedback has varied functional significance (meaning) to person getting feedback
 	- *Informational significance* - aids in improving areas of competence; increases intrinsic motivation
-	- *Controlling significance* - pressure to
+	- *Controlling significance* - pressure toward specific behaviours or outcomes
+- Grades can undermine autonomous motivation for people who don't achieve the best grades
+	- Shown to decrease intrinsic motivation
+#### Performance Goals
+- Two different types of goals exist
+	1. *Mastery* - enhancing learner's existing knowledge
+	2. *Performance* - student outperforming others
+- 
