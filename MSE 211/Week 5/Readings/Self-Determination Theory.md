@@ -1,1 +1,8 @@
 - We know what we need to do, but we don't try to achieve them
+- To try and motivate one to do something, we rely on rewards
+	- Money, grades, judgement
+	- However, these aren't lasting
+- *Self-determination theory (SDT)* - explains why we are motivated to do things
+	- Views humans as active agents, growing and striving within social confines
+- Theory describes how social/cultural environment can create different motivational environments
+	- This can either prop up or push down intrinsic motivation
