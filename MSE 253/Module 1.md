@@ -27,4 +27,12 @@
 ## Total Probability Theorem
 - A way to find probability of an event by breaking it into different cases
 
-## Bayes
+## Bayes' Rule
+- Updating probability when you learn new information
+- Start with what you believed before, then adjust belief using new evidence
+
+## Discrete VS. Continuous
+- *Discrete* - countable outcomes
+	- Example: months of the year, or a sequence of whole numbers
+- *Continuous* - uncountable outcomes
+	- Example: temperature, or weight
