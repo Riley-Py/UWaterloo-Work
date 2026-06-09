@@ -19,4 +19,10 @@
 	3. $E(aX) = aE(X)$
 	4. $E[g(X)\pm h(X)]=E[g(X)] \pm E[h(X)]$
 ## Chebyshev's Theorem
-- No matter what the distribution looks like, most of the data must be close to the average
+- No matter what the distribution looks like, most of the data must be within a few standard deviations of the mean
+- The probability that any random variable $X$ will deviate by more than $k$ standard deviations of the mean is at most $1 \over k^2$
+
+## Discrete Probability Distributions
+
+### Discrete Uniform Distribution
+- Simplest disc

@@ -18,5 +18,5 @@ $$
 *Variance of Expected Value*: $$ \sigma^2 = E[(X - \mu)^2]$$
 *Variance of Expected Value (alt.)*: $$ \sigma^2 = E(X^2) - \mu^2$$
 *Variance of Expected Value Function*: $$\sigma_{g(X)}^2 = E[(g(X) - \mu_{g(X)})^2]$$
-
+*Chebyshev's Theorem*: $$ P(|X - \mu| \ge k\sigma) \le {1 \over k^2}$$
 
