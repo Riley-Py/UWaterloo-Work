@@ -41,4 +41,14 @@
 #### Regain Alignment
 - Lack of respect at work
 - Looking for job where skills/experiences are appreciated/acknowledged
-	- Without that, people fixate on ways that current role doesn't play
+	- Without that, people fixate on ways that current role doesn't play to what they have to offer/contribute
+- Go towards an environment where they believe they won't be underestimated/misunderstood
+
+#### Take Next Step
+- Taking on more responsibility
+	- Motivated by wanting to support themselves or families
+- Pursuing growth, so willing to leap into a stretch role
+
+### Interview
+- Interviewing about a previous person's job role can help see what might motivate an employee to make a move or to keep them around
+- To identify the pushes and pulls, one must approach the conversation with empathy and prod for details
