@@ -67,9 +67,13 @@
 ## Cumulative Probability
 - Random variable is less than or equal to a certain value
 
-### Cumulative Distribution Function (CDF)
-- Used for discrete random variables
+### Cumulative Distribution Function (CDF) (Discrete)
 - Has these three properties:
 	1. $F(x) = P(X \leq x_i)$
 	2. $0 \leq F(x) \leq 1$ 
 	3. If $x \leq y$, then $F(x) \leq F(y)$ 
+
+### Cumulative Distribution Function (CDF) (Continuous)
+- Has this property for $-\infty < x < \infty$: $$ F(x) = P(X \leq x) = \int_{-\infty}^x f(u) {du}$$
+#mse253
+#module1 
