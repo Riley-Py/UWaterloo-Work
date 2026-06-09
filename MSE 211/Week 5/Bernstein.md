@@ -63,4 +63,13 @@
 - Helps to focus on *experiences*, not *features*
 	- Give a tour of the job a la "day in the life"
 	- Offer to give practical details - helps people see themselves in the role
-- 
+- This creates clearer paths to experiences that employees value most if working with employees 
+- Focusing on what someone will *do* instead of what they will *be* aids people in two ways:
+	1. Compatibility with the role
+	2. Honesty in interview and resume
+### HR
+- Wonder how to convince managers and employees to take time to follow recommendations of article
+- Article has solution:
+	- Work on introducing employees to think of progress this way
+	- Work on modifying role that amounts to real progress on both sides
+	- 
