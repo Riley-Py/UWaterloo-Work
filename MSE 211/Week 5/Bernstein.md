@@ -57,4 +57,10 @@
 - Typical job descriptions contain a slew of skills, qualifications, work culture that are cobbled together
 	- Too broad that it becomes meaningless
 	- Employees know this, so they boost their resume in hopes of getting an interview
+	- Work poorly as marketing, and doesn't do well to match roles to people
+- A *shadow job description* is one where it supplements the official one where it actually describes what the person will be doing in the role
+	- Taken from actual tasks of performance reviews of effective employees
+- Helps to focus on *experiences*, not *features*
+	- Give a tour of the job a la "day in the life"
+	- Offer to give practical details - helps people see themselves in the role
 - 
