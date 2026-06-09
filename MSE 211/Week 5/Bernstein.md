@@ -75,4 +75,8 @@
 		- Makes roles better suited to people that organizations value
 		- *Holacracy* - employees make the rules and set goals/targets
 			- Most companies abandon it due to having to work *on* the organization while *in* said organization
-- Article describes how technology can aid in allowing people to see their interactions with coworke
+- Article describes how technology can aid in allowing people to see their interactions with coworkers and the roadblocks encountered in daily work
+- Article concludes with career development and how it works when it involves both reflection/collective analysis
+	- Embed quests for progress
+#mse211 
+#reading 
