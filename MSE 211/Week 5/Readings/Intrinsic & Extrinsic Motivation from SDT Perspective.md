@@ -28,3 +28,9 @@
 	- Controlling teachers pressure students to think in a certain way without considering student perspectives
 - When students experience a sense of choice, they have more ownership of activities and thus have higher levels of intrinsic motivation
 - Studies found that when autonomy-supportive behaviours are performed by teachers, students have greater interest in material being presented
+	- The opposite is true with controlling teachers
+- Controlling behaviour pressures students to behave/achieve
+- Structure sets clear expectations/goals; consistency in rules; providing info supports and feedback
+	- Can be provided in a controlling or an autonomy-supportive way
+### Student Wellness & Basic Need Supports
+- 
