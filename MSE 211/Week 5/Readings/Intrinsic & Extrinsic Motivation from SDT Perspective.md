@@ -60,4 +60,10 @@
 - Assumption that poor performance is due to poor teacher motivation, and that rewards/punishments will remedy this
 - Studies found that teachers focus on material that will be on the tests
 - Outcome-focused rewards/punishments reinforce any route to goal, even if in bad practice
-- Interferes with need-supporti
+- Interferes with need-supportive approaches
+
+### Supporting Teachers to Support Students' Needs
+- Teachers need support in order to support students
+	- Studies found that when teachers themselves are more autonomously-motivated, their students would be more motivated
+- Studies also found that when teachers experienced environmental pressure from above (accountability policies, controlling admin) or below (disengaged students, difficult parents), their autonomous motivation dropped
+- 
