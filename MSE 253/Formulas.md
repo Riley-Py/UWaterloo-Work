@@ -15,7 +15,8 @@ $$
 *Expected Value (Continuous)*: $$ E[X] = \int_{-\infty}^\infty xf(x) {dx}$$
 *Expected Value Function (Discrete)*: $$E[g(X)] = \sum_x g(x) P(X=x)$$
 *Expected Value Function (Continuous)*: $$ E[g(X)] = \int_{-\infty}^\infty g(x)f(x){dx}$$
-*Variance of Expected Value*: $$ \sigma^2 = E[(X - \mu)^2$$
+*Variance of Expected Value*: $$ \sigma^2 = E[(X - \mu)^2]$$
 *Variance of Expected Value (alt.)*: $$ \sigma^2 = E(X^2) - \mu^2$$
-*Variance of Expected Value Function*
+*Variance of Expected Value Function*: $$\sigma_{g(X)}^2 = E[(g(X) - \mu_{g(X)})^2]$$
+
 
