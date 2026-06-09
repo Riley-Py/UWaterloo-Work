@@ -7,3 +7,5 @@ $$
 *Conditional Probability*: $$ P(A|B) = {P(A \cap B)\over P(B)} $$
 *Conditional Probability (alt.)* $$ P(A \cap B) = P(A|B)P(B), P(B) > 0$$
 *Independence*: $$ P(A \cap B) = P(A)P(B) $$
+*Total Probability Theorem* $$ P(A) = \sum_{i=1}^n P(A | B_i) P(B_i)$$
+*Total Probability Theorem (Two Events)*: $$P(A) = P(A|B)P(B) + P(A|B^c)P(B^c)$$

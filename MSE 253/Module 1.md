@@ -23,3 +23,8 @@
 
 ## Independence
 - Knowledge of outcome of the experiment is in event A does not affect the probability that the outcome is in event B
+
+## Total Probability Theorem
+- A way to find probability of an event by breaking it into different cases
+
+## Bayes
