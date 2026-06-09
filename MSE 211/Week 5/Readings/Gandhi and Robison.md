@@ -1,0 +1,7 @@
+- 48% of America working population is looking for/seeking a job
+- Highest quit rate is among works who are either not engaged or have actively disengaged from their work
+- High engagement teams are 14-18% more productive than low engagement teams
+- Turnover rate are 18-43% higher for low engagement teams
+- Replacement costs 0.5-2 times employee's annual salary
+- Takes more than a 20% pay raise to lure employees away from manager who engages, while it's nothing for employees who are disengaged
+- 
