@@ -42,6 +42,6 @@
 - Waiting time between random events that happen at a constant rate
 	- Similar to Poisson distribution ([[Module 4 - Continuous Distributions|see module 4]])
 	- $\beta = {1 \over \lambda}$, where:
-		- $\beta$ - scale parameter
+		- $\beta$ - scale parameter (average waiting time)
 		- $\lambda$ - how long you wait on average
 

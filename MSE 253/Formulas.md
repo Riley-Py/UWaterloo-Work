@@ -61,7 +61,11 @@ $$
 $$ P(Z > z) = 1 - P(Z < z)$$
 
 ### Exponential Distribution
-*Exponential Distribution (*
+*Exponential Distribution (Rate Form $\lambda$ )*: $$\lambda e ^{-\lambda x}$$
+*Exponential Distribution (Scale Form $\beta$ )*: $${1 \over \beta}e^{-x \over \beta}$$
+*Relationship between $\lambda$ and $\beta$*: $$ \beta = {1 \over \lambda}, \space \lambda = {1 \over \beta}$$
+*Exponential Distribution (Mean)*: $$ \beta {(1 \over \lambda)}$$
+
 
 
 
