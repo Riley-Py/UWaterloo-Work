@@ -58,6 +58,8 @@
 - Models waiting time until multiple random events occur
 
 ### Memoryless Property
-- Only applies to exponential distribution
+- Only applies to exponential distribution and the geometric distribution
 - Past doesn't matter; only care about the present
+- General form: $$P(X > t_0 + t | X > t_0) = P(X > t)$$
+
 
