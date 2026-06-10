@@ -57,3 +57,7 @@
 #### Gamma Distribution
 - Models waiting time until multiple random events occur
 
+### Memoryless Property
+- Only applies to exponential distribution
+- Past doesn't matter; only care about the present
+
