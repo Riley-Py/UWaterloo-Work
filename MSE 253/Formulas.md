@@ -60,7 +60,8 @@ $$
 *Conversion Between Normal and Standard Normal*: $$Z = {{X - \mu}\over \sigma}$$ $$ P(X \leq x) = P \left({{X - \mu}\over \sigma}\leq {{x - \mu}\over \sigma}\right) = P(Z \leq z)$$
 $$ P(Z > z) = 1 - P(Z < z)$$
 
-
+### Exponential Distribution
+*Exponential Distribution (*
 
 
 

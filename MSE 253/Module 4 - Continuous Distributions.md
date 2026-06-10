@@ -40,5 +40,8 @@
 	- Must add $+0.5$ 
 ### Exponential Distribution
 - Waiting time between random events that happen at a constant rate
-	- Similar to Poisson Distribution
+	- Similar to Poisson distribution ([[Module 4 - Continuous Distributions|see module 4]])
+	- $\beta = {1 \over \lambda}$, where:
+		- $\beta$ - scale parameter
+		- $\lambda$ - how long you wait on average
 
