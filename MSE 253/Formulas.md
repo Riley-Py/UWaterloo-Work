@@ -49,7 +49,7 @@ $$
 *Poisson Distribution (Mean and Variance)*: $$ \mu = \sigma^2 = \lambda t$$
 ## Continuous Distributions
 ### Uniform
-*Uniform Distribution*: $$f(x; a, b) = \left
+*Uniform Distribution*: $$\begin{numcases} {f(x; a, b) = } {1 \over b - a} & $a \ \end{numcases}$$
 
 
 
