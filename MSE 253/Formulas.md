@@ -52,6 +52,12 @@ $$
 *Uniform Distribution*: $$\begin{numcases} {f(x; a, b) = } {1 \over b - a} & $a \leq x \leq b$ \\ 0, & otherwise \end{numcases}$$
 *Uniform Distribution (Mean)*: $$ {a + b}\over 2$$
 *Uniform Distribution (Variance)*: $$ {(b - a)^2} \over 12$$
+### Normal
+*Normal Distribution (PDF)*: $$ n(x; \mu, \sigma) = {1 \over {\sqrt{2 \pi \sigma}}}e^{-{1 \over 2 \sigma^2}(x - \mu)^2}, -\infty < x < \infty$$
+*Normal Distribution (Mean)*: $$ \mu$$
+*Normal Distribution (Variance)*:  $$ \sigma^2$$
+
+
 
 
 

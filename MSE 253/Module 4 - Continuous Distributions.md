@@ -9,4 +9,12 @@
 - The distribution that graphs is called a *Normal Curve*
 	- Bell-shaped
 	- Mean and variance
-- 
+#### Normal Curve
+- Mean, median, and mode at $x = \mu$ 
+- Symmetric around mean
+- Approaches horizontal axis in the left and right direction of $x$ 
+
+#### Mean and Variance of Normal Distribution
+- $\mu$ determines center along horizontal axis
+- $\sigma$ determines spread of data and peak height of the normal curve
+
