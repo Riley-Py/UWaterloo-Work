@@ -88,4 +88,12 @@
 #### Poisson Process
 - Conditions for Poisson to be valid:
 	1. Number of outcomes in time interval or specified region is independent of number that occurs in any other time interval/region - no memory
-	2. Probability of single will occur during short time interval/small region is proportional to length of time interval/size of region - doesn't depend on number of outcomes 
+	2. Probability of single will occur during short time interval/small region is proportional to length of time interval/size of region - doesn't depend on number of outcomes occurring time interval/region
+	3. Probability that more than one outcome will occur in short time interval/small region is negligible
+#### Poisson Distribution
+- Variables for distribution:
+	- $t$ - time, distance, area
+	- $\lambda$ - rate of occurrences
+	- $e$ - Euler's number 
+- Consult table for poisson probability sums
+- 

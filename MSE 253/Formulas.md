@@ -36,6 +36,8 @@ $$
 *Geometric Distribution*: $$g(x; p) = pq^{x - 1}, x = 1,2,3\dots$$
 *Geometric Distribution (Mean)*: $$ 1 \over p$$
 *Geometric Distribution (Variance)*: $$ {1 - p} \over p^2$$
+*Poisson Distribution*: $$p(x; \lambda t) = {{e^{-\lambda t} (\lambda t)^x}\over x!}, x=0,1,2\dots$$
+*Poisson *
 
 
 
