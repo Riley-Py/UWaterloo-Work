@@ -96,4 +96,11 @@
 	- $\lambda$ - rate of occurrences
 	- $e$ - Euler's number 
 - Consult table for poisson probability sums
+- Becomes more symmetric as mean becomes larger
+
+#### Approximation of Binomial via Poisson
+- Use it when $n$ is large, $p$ is small, and $np$ is not large
+	- $n \geq 20$ 
+	- $p \leq 0.05$ 
+	- $np \leq 5$ 
 - 
