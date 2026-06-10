@@ -56,4 +56,8 @@
 ### Hypergeometric Distribution
 - Similar to binomial distribution, as we are interested in finding number of observations that fall into a particular category
 - Doesn't require independence and is based on sampling without replacement
-- 
+- Variables for distribution:
+	- $N$ - population size
+	- $K$ - number of successes in population
+	- $n$ - sample size
+	- $x$ - number of successes in sample

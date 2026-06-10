@@ -26,5 +26,10 @@ $$
 *Binomial Distribution (Mean)*: $$ np$$
 *Binomial Distribution (Variance)*: $$np(1-p)$$
 *Multinomial Distribution*: $$ P(X_1 = x_1, \cdots, X_k = x_k) = {n! \over {x_1!x_2!\cdots x_k!}}p_1^{x_1} p_2^{x_2} \cdots p_k^{x_k}$$
+*Hypergeometric Distribution*: $$P(X=x) = {{\binom{K}{x} \binom{N - K}{n-x}}\over \binom{N}{n}}$$
+*Hypergeometric Distribution (Mean)*: $$nk \over N$$
+*Hypergeometric Distribution (Variance)*: $${{N - n}\over N-1}n {k \over n} \left(1 - {k \over N} \right)$$
+
+
 
 
