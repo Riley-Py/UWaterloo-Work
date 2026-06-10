@@ -23,5 +23,7 @@ $$
 *Discrete Uniform Distribution Mean (consecutive values)*: $$ E[X] = {{{first} + {last} \over 2}}$$
 *Discrete Uniform Distribution Variance (consecutive values)*: $$ (n ^2 - 1) \over 12 $$
 *Binomial Distribution*: $$ b(x;n,p) = \binom{n}{x}p^x(1 - p)^{n-x}$$
-*Binomial Distribution (Mean)*: $$ 
+*Binomial Distribution (Mean)*: $$ np$$
+*Binomial Distribution (Variance)*: $$np(1-p)$$
+
 

@@ -43,3 +43,5 @@
 	- $x$ is number of successes
 	- $n - x$ is number of failures
 - Since trials are independent, multiply all probabilities corresponding to different outcomes
+### Multinomial Experiment
+- Each trial having more than two possible outcomes
