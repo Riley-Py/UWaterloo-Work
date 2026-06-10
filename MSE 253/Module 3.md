@@ -103,4 +103,7 @@
 	- $n \geq 20$ 
 	- $p \leq 0.05$ 
 	- $np \leq 5$ 
-- 
+- In that case:
+	- $\lambda = np$ 
+#mse253 
+#module3 
