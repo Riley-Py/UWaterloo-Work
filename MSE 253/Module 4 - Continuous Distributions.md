@@ -18,3 +18,13 @@
 - $\mu$ determines center along horizontal axis
 - $\sigma$ determines spread of data and peak height of the normal curve
 
+#### Properties of Normal Distribution
+- $P (\mu - \sigma < X < \mu + \sigma) = 0.6827$
+- $P (\mu - 2\sigma < X < \mu + 2\sigma) = 0.9545$
+- $P (\mu - 3\sigma < X < \mu + 3\sigma) = 0.9973$
+- *Six-Sigma*: width of normal distribution
+
+### Standard Normal Distribution
+- Normal distribution with $\mu = 0$ and $\sigma^2 = 1$ 
+- Denoted with $Z$ 
+

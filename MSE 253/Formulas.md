@@ -56,6 +56,8 @@ $$
 *Normal Distribution (PDF)*: $$ n(x; \mu, \sigma) = {1 \over {\sqrt{2 \pi \sigma}}}e^{-{1 \over 2 \sigma^2}(x - \mu)^2}, -\infty < x < \infty$$
 *Normal Distribution (Mean)*: $$ \mu$$
 *Normal Distribution (Variance)*:  $$ \sigma^2$$
+### Standard Normal
+*Conversion Between Normal and Standard Normal*: $$Z = {{X - \mu}\over \sigma}$$ $$ P(X \leq x) = P 
 
 
 
