@@ -21,8 +21,8 @@ $$
 *Variance of Expected Value Function*: $$\sigma_{g(X)}^2 = E[(g(X) - \mu_{g(X)})^2]$$
 ### Chebyshev
 *Chebyshev's Theorem*: $$ P(|X - \mu| \ge k\sigma) \le {1 \over k^2}$$
-
-### Discrete Uniform
+## Discrete Distributions
+### Uniform
 *Discrete Uniform Distribution*: $$ f(x_i) = {1\over n}$$
 *Discrete Uniform Distribution Mean (consecutive values)*: $$ E[X] = {{{first} + {last} \over 2}}$$
 *Discrete Uniform Distribution Variance (consecutive values)*: $$ (n ^2 - 1) \over 12 $$
@@ -47,7 +47,9 @@ $$
 ### Poisson 
 *Poisson Distribution*: $$p(x; \lambda t) = {{e^{-\lambda t} (\lambda t)^x}\over x!}, x=0,1,2\dots$$
 *Poisson Distribution (Mean and Variance)*: $$ \mu = \sigma^2 = \lambda t$$
-
+## Continuous Distributions
+### Uniform
+*Uniform Distribution*: $$f(x; a, b) = \left
 
 
 
