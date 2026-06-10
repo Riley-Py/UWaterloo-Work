@@ -68,7 +68,10 @@ $$ P(Z > z) = 1 - P(Z < z)$$
 *Exponential Distribution (Variance)*: $$ \beta^2 {or} {1 \over \lambda^2}$$
 ### Gamma Distribution
 
-
+*Gamma Distribution (Scale Form $\beta$)*: $$ f(x; \alpha, \beta) = {{1 \over \beta^\alpha \Gamma(\alpha)}x^{\alpha - 1}e^{{-x \over \beta}}}$$
+*Gamma Distribution (Mean)*: $$ \alpha \beta$$
+*Gamma Distribution (Variance)*: $$\alpha \beta^2$$
+*Relationship between Gamma and Exponential Distribution*: $$
 
 
 
