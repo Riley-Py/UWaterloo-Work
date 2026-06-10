@@ -61,3 +61,9 @@
 	- $K$ - number of successes in population
 	- $n$ - sample size
 	- $x$ - number of successes in sample
+#### Multivariate Hypergeometric Distribution
+- Like hypergeometric distribution, with more categories
+- Similar variables to hypergeometric/binomial distribution
+#### Relation to Binomial
+- If ${n\over N} \leq 0.05$, binomial can be used to approximate hypergeometric distribution
+- In that case

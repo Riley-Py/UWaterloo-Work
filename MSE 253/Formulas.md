@@ -29,6 +29,8 @@ $$
 *Hypergeometric Distribution*: $$P(X=x) = {{\binom{K}{x} \binom{N - K}{n-x}}\over \binom{N}{n}}$$
 *Hypergeometric Distribution (Mean)*: $$nk \over N$$
 *Hypergeometric Distribution (Variance)*: $${{N - n}\over N-1}n {k \over n} \left(1 - {k \over N} \right)$$
+*Multivariate Hypergeometric Distribution*: $$ P(X_1 = x_1, \cdots, X_k = x_k) = {{{\binom{N_1}{x_1}}{\binom {N_2}{x_2}}\cdots {\binom{N_k}{x_k}}}\over \binom{N}{n}}$$
+
 
 
 
