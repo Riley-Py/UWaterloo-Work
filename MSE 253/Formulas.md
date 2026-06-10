@@ -57,7 +57,9 @@ $$
 *Normal Distribution (Mean)*: $$ \mu$$
 *Normal Distribution (Variance)*:  $$ \sigma^2$$
 ### Standard Normal
-*Conversion Between Normal and Standard Normal*: $$Z = {{X - \mu}\over \sigma}$$ $$ P(X \leq x) = P 
+*Conversion Between Normal and Standard Normal*: $$Z = {{X - \mu}\over \sigma}$$ $$ P(X \leq x) = P \left({{X - \mu}\over \sigma}\leq {{x - \mu}\over \sigma}\right) = P(Z \leq z)$$
+$$ P(Z > z) = 1 - P(Z < z)$$
+
 
 
 

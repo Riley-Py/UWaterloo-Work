@@ -27,4 +27,8 @@
 ### Standard Normal Distribution
 - Normal distribution with $\mu = 0$ and $\sigma^2 = 1$ 
 - Denoted with $Z$ 
+- Common reference scale for all normal distributions
+
+#### Approximating Binomial with Normal
+- 
 
