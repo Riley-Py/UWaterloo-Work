@@ -50,3 +50,10 @@
 - Distribution that represents more than two outcomes - an extension of the binomial distribution, where: 
 	- $p_1, p_2, \cdots, p_k$ are successes
 	- $x_1, x_2, \cdots, x_k$ are the outcomes
+	- $n$ are the amount of trials
+	- $\sum_{i=1}^k x_i = n$ 
+	- $\sum_{i=1}^k p_i = 1$ 
+### Hypergeometric Distribution
+- Similar to binomial distribution, as we are interested in finding number of observations that fall into a particular category
+- Doesn't require independence and is based on sampling without replacement
+- 
