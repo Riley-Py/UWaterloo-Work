@@ -44,4 +44,6 @@
 	- $\beta = {1 \over \lambda}$, where:
 		- $\beta$ - scale parameter (average waiting time)
 		- $\lambda$ - how long you wait on average
+### Gamma Distribution
+- Like exponential distribution, and similar to negative binomial distribution, where we are waiting until multiple poisson events occur
 
