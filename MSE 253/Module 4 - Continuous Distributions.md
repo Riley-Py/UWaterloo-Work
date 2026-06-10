@@ -40,10 +40,17 @@
 	- Must add $+0.5$ 
 ### Exponential Distribution
 - Waiting time between random events that happen at a constant rate
-	- Similar to Poisson distribution ([[Module 4 - Continuous Distributions|see module 4]])
+	- Similar to Poisson distribution ([[Module 3 - Expected Value + Discrete Distributions|see module 3]])
 	- $\beta = {1 \over \lambda}$, where:
 		- $\beta$ - scale parameter (average waiting time)
 		- $\lambda$ - how long you wait on average
 ### Gamma Distribution
 - Like exponential distribution, and similar to negative binomial distribution, where we are waiting until multiple poisson events occur
+	- Extended version of exponential, with multiple events
+#### Properties of Gamma Function
+- 
+1. $\Gamma (n) = (n-1)(n-2)\dots$ 
+2. $\Gamma (n) = (n - 1)!$ 
+3. $\Gamma (1) = 1$
+4. $\Gamma ({1 \over 2}) = \sqrt(\pi)$ 
 
