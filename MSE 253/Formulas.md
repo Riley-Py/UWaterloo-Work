@@ -25,5 +25,5 @@ $$
 *Binomial Distribution*: $$ b(x;n,p) = \binom{n}{x}p^x(1 - p)^{n-x}$$
 *Binomial Distribution (Mean)*: $$ np$$
 *Binomial Distribution (Variance)*: $$np(1-p)$$
-
+*Multinomial Distribution*: $$ P(X_1 = x_1, \cdots, X_k = x_k) = {n! \over {x_1!x_2!}}
 

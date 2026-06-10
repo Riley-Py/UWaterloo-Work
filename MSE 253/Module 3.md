@@ -45,3 +45,8 @@
 - Since trials are independent, multiply all probabilities corresponding to different outcomes
 ### Multinomial Experiment
 - Each trial having more than two possible outcomes
+
+#### Multinomial Distribution
+- Distribution that represents more than two outcomes - an extension of the binomial distribution, where: 
+	- $p_1, p_2, \cdots, p_k$ are successes
+	- $x_1, x_2, \cdots, x_k$ are the outcomes
