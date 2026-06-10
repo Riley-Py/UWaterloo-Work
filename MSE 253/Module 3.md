@@ -66,4 +66,15 @@
 - Similar variables to hypergeometric/binomial distribution
 #### Relation to Binomial
 - If ${n\over N} \leq 0.05$, binomial can be used to approximate hypergeometric distribution
-- In that case
+- In that case:
+	- $p = {k \over N}$
+	- $\mu = np = {nk \over N}$ 
+	- $\mu^2 = np (1 - p) = n{k \over N}\left (1 - {k \over N}\right)$ 
+### Negative Binomial Experiment
+- Trials are repeated until a fixed number of successes
+- Interested in the probability that the $k^{th}$ success occurs on the $x^{th}$ trial
+
+#### Negative Binomial Distribution
+- Counts how may trials are needed to get a certain number of successes
+- Variables for this distribution:
+	- 
