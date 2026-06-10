@@ -30,5 +30,15 @@
 - Common reference scale for all normal distributions
 
 #### Approximating Binomial with Normal
-- 
+- Use when:
+	- $np \geq 5$ 
+	- $n(1 - p) \geq 5$ 
+- Where:
+	- $\mu = np$ 
+	- $\sigma^2 = np (1 - p)$
+- *Continuity correction* is required, as a discrete distribution is being approximated by a continuous distribution
+	- Must add $+0.5$ 
+### Exponential Distribution
+- Waiting time between random events that happen at a constant rate
+	- Similar to Poisson Distribution
 
