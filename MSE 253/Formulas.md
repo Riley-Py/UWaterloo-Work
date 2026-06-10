@@ -66,6 +66,7 @@ $$ P(Z > z) = 1 - P(Z < z)$$
 *Relationship between $\lambda$ and $\beta$*: $$ \beta = {1 \over \lambda}, \space \lambda = {1 \over \beta}$$
 *Exponential Distribution (Mean)*: $$ \beta \space {or} {1 \over \lambda}$$
 *Exponential Distribution (Variance)*: $$ \beta^2 {or} {1 \over \lambda^2}$$
+### Gamma Distribution
 
 
 

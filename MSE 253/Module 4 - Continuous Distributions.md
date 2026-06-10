@@ -48,9 +48,12 @@
 - Like exponential distribution, and similar to negative binomial distribution, where we are waiting until multiple poisson events occur
 	- Extended version of exponential, with multiple events
 #### Properties of Gamma Function
-- 
+- Gamma function: $\Gamma (n) = {\int_0^\infty t^{n - 1}e^-t {dt}}$ 
 1. $\Gamma (n) = (n-1)(n-2)\dots$ 
 2. $\Gamma (n) = (n - 1)!$ 
 3. $\Gamma (1) = 1$
 4. $\Gamma ({1 \over 2}) = \sqrt(\pi)$ 
+
+#### Gamma Distribution
+- Models waiting time until multiple random events occur
 
