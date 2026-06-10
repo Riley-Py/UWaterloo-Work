@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSE 253/Formulas.md",
+                "file": "MSE 253/Module 4 - Continuous Distributions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Formulas"
+              "title": "Module 4 - Continuous Distributions"
             }
           }
         ]
@@ -177,11 +177,11 @@
   },
   "active": "f80d273fc665b168",
   "lastOpenFiles": [
+    "MSE 253/Formulas.md",
     "MSE 253/Module 4 - Continuous Distributions.md",
     "MSE 253/Module 3 - Expected Value + Discrete Probability Distributions.md",
     "MSE 253/Module 2 - Joint Probability.md",
     "MSE 253/Module 1 - Review.md",
-    "MSE 253/Formulas.md",
     "MSE 211/Week 5/Readings/Intrinsic & Extrinsic Motivation from SDT Perspective.md",
     "MSE 253/Module 1",
     "MSE 253",

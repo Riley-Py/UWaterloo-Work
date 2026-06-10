@@ -49,7 +49,10 @@ $$
 *Poisson Distribution (Mean and Variance)*: $$ \mu = \sigma^2 = \lambda t$$
 ## Continuous Distributions
 ### Uniform
-*Uniform Distribution*: $$\begin{numcases} {f(x; a, b) = } {1 \over b - a} & $a \ \end{numcases}$$
+*Uniform Distribution*: $$\begin{numcases} {f(x; a, b) = } {1 \over b - a} & $a \leq x \leq b$ \\ 0, & otherwise \end{numcases}$$
+*Uniform Distribution (Mean)*: $$ {a + b}\over 2$$
+*Uniform Distribution (Variance)*: $$ {(b - a)^2} \over 12$$
+
 
 
 
