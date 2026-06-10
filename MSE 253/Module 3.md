@@ -76,5 +76,7 @@
 
 #### Negative Binomial Distribution
 - Counts how may trials are needed to get a certain number of successes
-- Variables for this distribution:
-	- 
+
+#### Geometric Distribution
+- Special case of negative binomial
+	- Number of trials until first success occurs

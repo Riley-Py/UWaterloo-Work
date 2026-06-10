@@ -30,6 +30,12 @@ $$
 *Hypergeometric Distribution (Mean)*: $$nk \over N$$
 *Hypergeometric Distribution (Variance)*: $${{N - n}\over N-1}n {k \over n} \left(1 - {k \over N} \right)$$
 *Multivariate Hypergeometric Distribution*: $$ P(X_1 = x_1, \cdots, X_k = x_k) = {{{\binom{N_1}{x_1}}{\binom {N_2}{x_2}}\cdots {\binom{N_k}{x_k}}}\over \binom{N}{n}}$$
+*Negative Binomial Distribution*: $$ b^*(x; k, p) = {{\binom{x - 1}{k - 1}}p^k(1 - p)^{x-k}}, x=k, k+1, k+2, \dots$$
+*Negative Binomial Distribution (Mean)*: $$ k \over p$$
+*Negative Binomial Distribution (Variance)*: $$ {k (1 - p)} \over p^2$$
+*Geometric Distribution*: $$g(x; p) = pq^{x - 1}, x = 1,2,3\dots$$
+*Geometric Distribution (Mean)*: $$ 1 \over p$$
+
 
 
 
