@@ -35,6 +35,8 @@ $$
 *Negative Binomial Distribution (Variance)*: $$ {k (1 - p)} \over p^2$$
 *Geometric Distribution*: $$g(x; p) = pq^{x - 1}, x = 1,2,3\dots$$
 *Geometric Distribution (Mean)*: $$ 1 \over p$$
+*Geometric Distribution (Variance)*: $$ {1 - p} \over p^2$$
+
 
 
 

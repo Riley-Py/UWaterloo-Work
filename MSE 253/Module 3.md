@@ -80,3 +80,12 @@
 #### Geometric Distribution
 - Special case of negative binomial
 	- Number of trials until first success occurs
+
+### Poisson Experiment
+- Counting how many times an event occurs in a fixed interval of time, space, etc.
+	- Examples: Number of calls received per hour, number of field mice per acre
+
+#### Poisson Process
+- Conditions for Poisson to be valid:
+	1. Number of outcomes in time interval or specified region is independent of number that occurs in any other time interval/region - no memory
+	2. Probability of single will occur during short time interval/small region is proportional to length of time interval/size of region - doesn't depend on number of outcomes 
