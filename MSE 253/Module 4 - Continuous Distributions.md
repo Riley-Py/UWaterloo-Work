@@ -68,6 +68,10 @@
 
 ### Chi-Squared Distribution
 - Another subset of the gamma distribution
+	- $\alpha = {v / 2}$ 
+	- $\beta = 2$
 - Used for confidence intervals for variance and standard deviation
+- Also used for testing for independence
+
 
 

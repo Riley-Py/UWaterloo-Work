@@ -72,6 +72,12 @@ $$ P(Z > z) = 1 - P(Z < z)$$
 *Gamma Distribution (Mean)*: $$ \alpha \beta$$
 *Gamma Distribution (Variance)*: $$\alpha \beta^2$$
 *Relationship between Gamma and Exponential Distribution*: $$X \sim {Exp}(\lambda) = X \sim {Gamma} (1, \lambda)$$
+### Chi-Squared Distribution
+
+*Chi-Squared Distribution*: $$ f(x; v) = {1 \over {2^{v \over 2}\Gamma ({v \over 2})}} x^{{v \over 2} - 1}e^{-x \over 2}$$
+*Chi-Squared Distribution (Mean)*: $$\mu = v$$
+*Chi-Squared Distribution (Variance)*: $$ \sigma^2 = 2v$$
+
 
 
 
