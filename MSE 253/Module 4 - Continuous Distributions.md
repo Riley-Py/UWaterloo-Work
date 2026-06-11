@@ -48,7 +48,7 @@
 - Like exponential distribution, and similar to negative binomial distribution, where we are waiting until multiple poisson events occur
 	- Extended version of exponential, with multiple events
 #### Properties of Gamma Function
-- Gamma function: $\Gamma (n) = {\int_0^\infty t^{n - 1}e^-t {dt}}$ 
+- Gamma function: $\Gamma (n) = {\int_0^\infty t^{n - 1}e^{-t} {dt}}$ 
 1. $\Gamma (n) = (n-1)(n-2)\dots$ 
 2. $\Gamma (n) = (n - 1)!$ 
 3. $\Gamma (1) = 1$
@@ -61,5 +61,7 @@
 - Only applies to exponential distribution and the geometric distribution
 - Past doesn't matter; only care about the present
 - General form: $$P(X > t_0 + t | X > t_0) = P(X > t)$$
+### Incomplete Gamma Function
+- Used when you want the gamma function up until a certain point
 
 
