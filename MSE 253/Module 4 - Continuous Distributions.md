@@ -73,5 +73,9 @@
 - Used for confidence intervals for variance and standard deviation
 - Also used for testing for independence
 
+### Beta Function
+- Extension of uniform distribution
+- Defined on the interval $[0,1]$ 
+- Comes from beta function: $\int_0^1 x^{\alpha -1}(1 - x)^{\beta - 1} {dx} = {{\Gamma (\alpha) \Gamma(\beta)} \over \Gamma(\alpha + \beta)}$ 
 
 
