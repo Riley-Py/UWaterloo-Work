@@ -63,5 +63,11 @@
 - General form: $$P(X > t_0 + t | X > t_0) = P(X > t)$$
 ### Incomplete Gamma Function
 - Used when you want the gamma function up until a certain point
+- Incomplete Gamma function formula: $\gamma(\alpha, x) = \int_0^x t^{\alpha - 1}e^{-t}{dt}$ 
+- Table will be provided with values
+
+### Chi-Squared Distribution
+- Another subset of the gamma distribution
+- Used for confidence intervals for variance and standard deviation
 
 
