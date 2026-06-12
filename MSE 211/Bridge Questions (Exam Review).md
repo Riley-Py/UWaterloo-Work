@@ -33,4 +33,8 @@ Explain the full mechanism using concepts from:
 - Week 2 - decision-making under constraint
 - Week 3 - perception $\rightarrow$ attribution $\rightarrow$ judgement
 - Week 4 - goals and incentives shaping attention
-- Week 5 - motivation (autonomy, com)
+- Week 5 - motivation (autonomy, competence, relatedness)
+
+
+#mse211 
+#exam_review
