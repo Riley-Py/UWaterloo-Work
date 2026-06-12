@@ -77,6 +77,11 @@ $$ P(Z > z) = 1 - P(Z < z)$$
 *Chi-Squared Distribution*: $$ f(x; v) = {1 \over {2^{v \over 2}\Gamma ({v \over 2})}} x^{{v \over 2} - 1}e^{-x \over 2}$$
 *Chi-Squared Distribution (Mean)*: $$\mu = v$$
 *Chi-Squared Distribution (Variance)*: $$ \sigma^2 = 2v$$
+### Beta Distribution
+
+*Beta Distribution*: $$f(x; \alpha, \beta) = {1 \over B(\alpha, \beta)}x^{\alpha - 1}(1 - x)^{\beta - 1}$$
+*Beta Distribution (Mean)*: $${\alpha \over {\alpha + \beta}}$$
+*Beta Distribution (Variance)*: $$ {\alpha \beta} \over {(\alpha + \beta)^2}{(\alpha + \beta + 1)}$$
 
 
 
