@@ -23,3 +23,14 @@ Explain the full mechanism using concepts from:
 - Week 3 (perception $\rightarrow$ attribution $\rightarrow$ judgement)
 - Week 4 (goals / incentives shaping attention)
 
+## Bridge Question 4
+A software engineering team is given performance bonuses tied to delivery speed.  Initially, output increases.  Over time:
+- Code quality declines
+- Engineerings become disengaged
+- Turnover increases
+Explain the full mechanism using concepts from:
+- Week 1 - system conditions/constraints
+- Week 2 - decision-making under constraint
+- Week 3 - perception $\rightarrow$ attribution $\rightarrow$ judgement
+- Week 4 - goals and incentives shaping attention
+- Week 5 - motivation (autonomy, com)
