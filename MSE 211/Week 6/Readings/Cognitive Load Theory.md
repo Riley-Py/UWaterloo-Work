@@ -18,4 +18,7 @@
 - Studies have found that people with less financial resources have impairments in decision-making
 	- Due to extraneous loads that might lessen focus
 ### History
-- 
+- In 1974, the working memory model was introduced
+	- Found that it's limited in how much information it can store while doing mental operations - serving as the formation of CLT
+	- Differentiate between short-erm and working memory
+- CLT was proposed in 1980 through how instruction impacts learning
