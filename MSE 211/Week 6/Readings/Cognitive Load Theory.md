@@ -15,4 +15,7 @@
 	- *Long-term memory* - responsible for germane cognitive loads by sorting information it wants to keep into schemas to help organize/apply information later on.  Schemas that are used more are easier to refer to it in future
 	- Diagram of this:
 		- ![[Pasted image 20260617094252.png]]
+- Studies have found that people with less financial resources have impairments in decision-making
+	- Due to extraneous loads that might lessen focus
+### History
 - 
