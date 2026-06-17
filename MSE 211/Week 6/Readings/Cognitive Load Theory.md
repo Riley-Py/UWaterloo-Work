@@ -1,0 +1,4 @@
+- Explains how brain processes and retains information through managing limitations of working memory
+- Three types of cognitive load
+	- *Intrinsic (material complexity)*
+	- *Extraneous *

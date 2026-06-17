@@ -66,4 +66,9 @@
 	- Management actions consistent with organizational values
 
 #### Stress Prevention and Job Performance
-- Frequency of medication errors in hospital settings 
+- Frequency of medication errors in hospital settings declined by 50% after prevention actions were put in place
+- 70% reduction in malpractice claims in settings that implemented stress prevention
+- No reduction in claims in settings that didn't implement prevention activities
+
+#mse211 
+#reading 
