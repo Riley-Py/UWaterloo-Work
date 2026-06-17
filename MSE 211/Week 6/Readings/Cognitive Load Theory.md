@@ -1,4 +1,11 @@
 - Explains how brain processes and retains information through managing limitations of working memory
 - Three types of cognitive load
 	- *Intrinsic (material complexity)*
-	- *Extraneous *
+	- *Extraneous (distractions/poor design)*
+	- *Germane (schema building for long-term retention)*
+### Idea
+- Whenever we interact with something new, three types of cognitive load happen
+	- *Intrinsic cognitive load* - how easy/difficult the content presented inherently is to learn, which is constant
+	- *Extraneous cognitive load* - how easy/difficult to learn the content given the environment in which it is presented, which varies
+	- *Germane cognitive load* - mental resources required to fit material into *schemas* (frameworks for organization/interpreting information)
+- Total cognitive load is the sum of the three loads when someone is engaged in learning
