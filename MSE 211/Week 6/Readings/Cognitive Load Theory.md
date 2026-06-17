@@ -28,5 +28,11 @@
 - The founder has updated CLT to include the fact that environment/biology have greatly influenced cognitive abilities
 - The acquisition of knowledge continues to be dynamic and change with how individuals learn
 
-### Imapacts
-- 
+### Impacts
+- Studies have found that for multimedia learning, extraneous load is studied most often
+- Other studies have found that CLT can aid in clinical education practices to get the right amount of information to medical students
+
+### Controversies
+- Can't measure cognitive load directly
+	- CLT studies use post-test results to make claims, even though they may be lower than the actual cognitive loads happening before the tests
+	- Self-report scales are used, which poses a measurement problem, as people responding may 
