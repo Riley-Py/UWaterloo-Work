@@ -25,4 +25,12 @@
 - Most of the US allow for compensation claims for emotional disorders/disability due to stress on the job
 
 ### NIOSH Approach to Job Stress
-- 
+- Working conditions are the primary role in creating job stress
+- Exposure to *job stressors* can influence worker safety and health
+	- However, individual/situational factors can amplify/dampen job stressors
+- Diagram of model:
+	 ![[Pasted image 20260617090518.png]]
+#### Conditions that May Lead to Stress
+- *Design of Tasks* - heavy workload, infrequent rest breaks, long work hours, routine tasks that have no meaning, don't utilize worker skills, and provide little sense of control (see [[Self-Determination Theory|self-determination theory]] )
+- *Management Style* - lack of participation by workers in decision-making, poor communication in organization
+- *Interpersonal Relationships* 
