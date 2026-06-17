@@ -1,0 +1,5 @@
+- Investigation into the loss of Space Shuttle Columbia and seven-member crew
+- Accident was not random, but rooted in NASA history and human space flight program's culture
+- Investigation included examining organizational issues - political and budgetary considerations, compromises, and priority shifts - through the program
+	- Places much weight on these casual factors over physical cause
+- Physical cause was breach of thermal 
