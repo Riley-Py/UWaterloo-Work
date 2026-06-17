@@ -13,4 +13,16 @@
 	- Energizes people/motivates to learn new skills and become masters of the job
 	- We feel relaxed/satisfied once a challenge is met
 ### Causes of Job Stress
-- There are two viewpoints
+- There are two viewpoints of the causes: *worker characteristics* & *working conditions*
+
+#### Worker Characteristics
+- Personality and coping style can predict whether certain job conditions will result in stress
+- Leads to prevention strategies that focus on workers and ways to cope with job conditions
+#### Working Conditions
+- There are certain work conditions that are stressful to most people
+	- Examples: excessive workload demands and conflicting expectations
+- Job redesign as a primary prevention strategy for working conditions
+- Most of the US allow for compensation claims for emotional disorders/disability due to stress on the job
+
+### NIOSH Approach to Job Stress
+- 
