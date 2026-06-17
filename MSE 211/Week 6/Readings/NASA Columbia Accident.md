@@ -15,3 +15,9 @@
 	- Barriers preventing communication of critical safety information/professional difference of opinion
 	- Lack of integrated management across program elements
 	- Evolution of informal chain of command and decision-making processes that operated outside of organization rules
+- Attributes of an organization that would be more effective to run the space program are
+	- Independent program technical authority that has complete control over specifications/requirements
+	- Independent safety assurance organization with line authority over all levels of safety oversight
+	- Organizational culture that reflects best characteristics of learning organization
+#mse211 
+#reading 
