@@ -50,4 +50,9 @@
 
 ### Early Warning Signs of Job Stress
 - *Cardiovascular Disease* - psychologically demanding jobs that allow little control over work process
-- *Musculoskel*
+- *Musculoskeletal Disorders* - increases development of back and upper-extremity disorders
+- *Psychological Disorders* - Depression, burnout
+- *Workplace Injury* - interfere with safe work practices, increase risk of injury
+- *Suicide, Cancer, Ulcers, Impaired Function* - related to job stress
+
+### 
