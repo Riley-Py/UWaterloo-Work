@@ -45,4 +45,9 @@
 	- Everyone responds in the same way
 - Short-lived stress is little risk, but if body is in constant fight-or-flight, it increases rate of wear and tear to biological systems
 	- Increases risk of injury/disease
-- Studies have found that mood/sleep disturbances, headache, and disturbed relationships with family are caused by
+- Studies have found that mood/sleep disturbances, headache, and disturbed relationships with family are caused by job stress
+- Job stress plays a role in chronic health problems like cardiovascular disease, musculoskeletal disorders, and psychological disorder
+
+### Early Warning Signs of Job Stress
+- *Cardiovascular Disease* - psychologically demanding jobs that allow little control over work process
+- *Musculoskel*
