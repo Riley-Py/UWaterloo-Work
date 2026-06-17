@@ -44,4 +44,12 @@
 
 #### Cognitive Load VS. Overload
 - *Information Overload* - too much information to take in all at once
-- Studies found that more motivated and self-efficacy a student had to do homework, the less multi
+- Studies found that more motivated and self-efficacy a student had to do homework, the less multitasking occurred
+	- Connected to CLT in considering extraneous loads that are both auditory and visual
+
+#### CLT Lens on Fake News, Social Media Fatigue
+- Studies have found that some theoretical outcomes of CLT, like information overload, increase the overall cognitive load related to social media fatigue
+- Also shows how this overload can be due to filtering out the misinformation present on social media
+
+#mse211 
+#reading 
