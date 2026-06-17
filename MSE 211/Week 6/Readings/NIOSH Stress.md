@@ -55,4 +55,15 @@
 - *Workplace Injury* - interfere with safe work practices, increase risk of injury
 - *Suicide, Cancer, Ulcers, Impaired Function* - related to job stress
 
-### 
+### Stress, Health, Productivity
+- Common belief that employees must put aside health concerns to remain productive/profitable
+- Studies found that stressful working conditions are associated with absenteeism, tardiness, and quitting
+- *Healthy organizations* - low rates of illness, injury, disability in its workforce whilst being competitive 
+- Characteristics associated with healthy organizations include
+	- Recognition of employees for good work performance
+	- Opportunities for career development
+	- Organizational culture that values individual worker
+	- Management actions consistent with organizational values
+
+#### Stress Prevention and Job Performance
+- Frequency of medication errors in hospital settings 
