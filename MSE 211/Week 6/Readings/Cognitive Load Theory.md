@@ -9,3 +9,10 @@
 	- *Extraneous cognitive load* - how easy/difficult to learn the content given the environment in which it is presented, which varies
 	- *Germane cognitive load* - mental resources required to fit material into *schemas* (frameworks for organization/interpreting information)
 - Total cognitive load is the sum of the three loads when someone is engaged in learning
+- The types of cognitive loads are rooted in different stages of memory system:
+	- *Sensory memory* - aids in filtering out details in environments and communicates important details to working memory
+	- *Working memory* - responsible for processing intrinsic/extraneous cognitive loads.  Only able to process 4 pieces of information at a time.  Decides what to throw away and what to put to long-term memory
+	- *Long-term memory* - responsible for germane cognitive loads by sorting information it wants to keep into schemas to help organize/apply information later on.  Schemas that are used more are easier to refer to it in future
+	- Diagram of this:
+		- ![[Pasted image 20260617094252.png]]
+- 
