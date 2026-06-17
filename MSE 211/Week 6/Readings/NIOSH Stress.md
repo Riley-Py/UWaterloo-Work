@@ -33,4 +33,16 @@
 #### Conditions that May Lead to Stress
 - *Design of Tasks* - heavy workload, infrequent rest breaks, long work hours, routine tasks that have no meaning, don't utilize worker skills, and provide little sense of control (see [[Self-Determination Theory|self-determination theory]] )
 - *Management Style* - lack of participation by workers in decision-making, poor communication in organization
-- *Interpersonal Relationships* 
+- *Interpersonal Relationships* - poor social environment, lack of support from coworkers/supervisors
+- *Work Roles* - Uncertain job expectations, too much responsibility
+- *Career Concerns* - Job insecurity, lack of opportunity for growth/advancement/promotion, rapid changes that catch workers off-guard
+- *Environmental Conditions* - Dangerous physical conditions
+
+### Job Stress and Health
+- Stress sets off the fight or flight response
+	- Helps defend against situations
+	- Preprogrammed biologically
+	- Everyone responds in the same way
+- Short-lived stress is little risk, but if body is in constant fight-or-flight, it increases rate of wear and tear to biological systems
+	- Increases risk of injury/disease
+- Studies have found that mood/sleep disturbances, headache, and disturbed relationships with family are caused by
