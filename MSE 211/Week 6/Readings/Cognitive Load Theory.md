@@ -22,3 +22,11 @@
 	- Found that it's limited in how much information it can store while doing mental operations - serving as the formation of CLT
 	- Differentiate between short-erm and working memory
 - CLT was proposed in 1980 through how instruction impacts learning
+- Two factors involved in learning:
+	- *Casual factors* - environment, task, and learner have an impact on cognitive load
+	- *Assessment factors* - mental load, mental effort, performance are impacted by cognitive load
+- The founder has updated CLT to include the fact that environment/biology have greatly influenced cognitive abilities
+- The acquisition of knowledge continues to be dynamic and change with how individuals learn
+
+### Imapacts
+- 
