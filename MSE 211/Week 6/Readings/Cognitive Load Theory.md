@@ -35,4 +35,13 @@
 ### Controversies
 - Can't measure cognitive load directly
 	- CLT studies use post-test results to make claims, even though they may be lower than the actual cognitive loads happening before the tests
-	- Self-report scales are used, which poses a measurement problem, as people responding may 
+	- Self-report scales are used, which poses a measurement problem, as people responding may be faulty in reporting mental experiences
+- Other critiques point out if there needs to be categories at all for cognitive load
+	- Intrinsic and germane loads are too hard to distinguish
+- CLT has been updated to make germane load a source of cognitive load
+
+### Case Studies
+
+#### Cognitive Load VS. Overload
+- *Information Overload* - too much information to take in all at once
+- Studies found that more motivated and self-efficacy a student had to do homework, the less multi
