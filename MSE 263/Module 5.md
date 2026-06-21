@@ -11,5 +11,8 @@
 		- $\bar K$ is fixed input
 - *Long-run* - lengthy time that all inputs can be varied
 - *Total Product (TP)* - maximum output produced with given amounts of inputs
-- *Average product of labor ($AP_L$)*: ratio of output, $q$, to the number of workers, $L$, used to produce output
-- *Marginal product of labor ($MP_L$)* - 
+
+### 
+- *Average product of labor ($AP_L$)* - ratio of output, $q$, to the number of workers, $L$, used to produce output
+- *Marginal product of labor ($MP_L$)* - change in total output, $\Delta q$, resulting from using an extra unit of labor $\Delta L$, holding other factors constant
+- *Law of Diminishing Marginal Returns* - if firm keeps increasing an input while holding everything else constant, the resulting increases in output diminish eventually
