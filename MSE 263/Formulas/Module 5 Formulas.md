@@ -9,6 +9,8 @@
 *Linear MRTS*: $$-a \over b$$
 *Constant returns to scale (CRS)*: $$f(2L, 2K) = 2f(L, K)$$
 *Increasing returns to scale (IRS)*: $$f(2L, 2K) > 2f(L, K)$$
-*Decreasing returns to scale (DRS)*: 
+*Decreasing returns to scale (DRS)*: $$f(2L, 2K) < 2f(L,K)$$
 
-
+#mse263 
+#formulas 
+#module5

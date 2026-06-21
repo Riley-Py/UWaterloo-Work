@@ -33,3 +33,6 @@
 - *Constant return to scale (CRS)* - property of production function when all inputs are increased by a percentage, output also increases by same percentage
 - *Increasing returns to scale (IRS)* - output rises more in proportion to equal increase in all inputs
 - *Decreasing returns to scale (DRS)* - output increases less in proportion to equal increase to all inputs
+
+#mse263 
+#module5 
