@@ -1,3 +1,4 @@
+## Production
 - *Capital (K)* - long-lived inputs
 	- Examples: land, buildings, equipment
 - *Labor (L)* - human resources
@@ -11,8 +12,14 @@
 		- $\bar K$ is fixed input
 - *Long-run* - lengthy time that all inputs can be varied
 - *Total Product (TP)* - maximum output produced with given amounts of inputs
-
-### 
+### Production with One Variable Input (Labor)
 - *Average product of labor ($AP_L$)* - ratio of output, $q$, to the number of workers, $L$, used to produce output
 - *Marginal product of labor ($MP_L$)* - change in total output, $\Delta q$, resulting from using an extra unit of labor $\Delta L$, holding other factors constant
 - *Law of Diminishing Marginal Returns* - if firm keeps increasing an input while holding everything else constant, the resulting increases in output diminish eventually
+
+### Production with Two Variable Inputs
+- *Isoquant* - curve showing all possible combinations of inputs that yield the same output
+	- Farther isoquant is from origin, greater level of output
+	- Don't cross
+	- Slope downwards
+- Slope of isoquant at any point measures *marginal rate of technical substitution (MRTS)* - ability of firm to replace capital with labor while maintaining same level of output
