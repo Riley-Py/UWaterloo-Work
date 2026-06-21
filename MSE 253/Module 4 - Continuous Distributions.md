@@ -77,5 +77,8 @@
 - Extension of uniform distribution
 - Defined on the interval $[0,1]$ 
 - Comes from beta function: $\int_0^1 x^{\alpha -1}(1 - x)^{\beta - 1} {dx} = {{\Gamma (\alpha) \Gamma(\beta)} \over \Gamma(\alpha + \beta)}$ 
+### Lognormal Distribution
+- Models quantities that can't be negative and grow multiplicatively
+	- Examples: Stock prices, income distributions, etc.
 
 
