@@ -23,3 +23,8 @@
 	- Don't cross
 	- Slope downwards
 - Slope of isoquant at any point measures *marginal rate of technical substitution (MRTS)* - ability of firm to replace capital with labor while maintaining same level of output
+
+### Production Function Algebraic Forms
+- *Linear production function* - inputs are [[Module 4|perfect substitutes]]
+- *Leontief production function* - inputs are used in fixed proportions
+- *Cobb-Douglas production function* - inputs have a degree of substitutability
