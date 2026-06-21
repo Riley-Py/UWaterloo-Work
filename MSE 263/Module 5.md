@@ -1,0 +1,5 @@
+- *Capital (K)* - long-lived inputs
+	- Examples: land, buildings, equipment
+- *Labor (L)* - human resources
+	- Examples: managers, skilled/less skilled workers
+- *Production function* - relationship between quantities of inputs used and the maximum quantity of output that can be produced, with knowledge of tech
