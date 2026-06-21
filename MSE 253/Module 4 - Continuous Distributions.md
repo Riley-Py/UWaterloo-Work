@@ -80,5 +80,8 @@
 ### Lognormal Distribution
 - Models quantities that can't be negative and grow multiplicatively
 	- Examples: Stock prices, income distributions, etc.
+#mse253 
+#module4 
+
 
 
