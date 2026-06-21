@@ -28,3 +28,8 @@
 - *Linear production function* - inputs are [[Module 4|perfect substitutes]]
 - *Leontief production function* - inputs are used in fixed proportions
 - *Cobb-Douglas production function* - inputs have a degree of substitutability
+
+### Returns to Scale
+- *Constant return to scale (CRS)* - property of production function when all inputs are increased by a percentage, output also increases by same percentage
+- *Increasing returns to scale (IRS)* - output rises more in proportion to equal increase in all inputs
+- *Decreasing returns to scale (DRS)* - output increases less in proportion to equal increase to all inputs

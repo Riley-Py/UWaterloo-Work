@@ -6,6 +6,9 @@
 *Linear production function*: $$q = f(L, K) = aL + bK$$
 *Leontief production function*: $$q = f(L, K) = {min} [aL, bK]$$
 *Cobb-Douglas Production Function (general form)*: $$ q = f(L, K) = AL^{\alpha}K^{\beta}$$
-Li
+*Linear MRTS*: $$-a \over b$$
+*Constant returns to scale (CRS)*: $$f(2L, 2K) = 2f(L, K)$$
+*Increasing returns to scale (IRS)*: $$f(2L, 2K) > 2f(L, K)$$
+*Decreasing returns to scale (DRS)*: 
 
 
