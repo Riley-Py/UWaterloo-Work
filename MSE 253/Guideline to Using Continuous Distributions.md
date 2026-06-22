@@ -7,6 +7,8 @@
 ## Exponential
 - Time until first event in a poisson process
 - Special case of the gamma distribution
+- Memoryless
+	- Doesn't matter how much time has past since last event
 
 ## Gamma
 - Time until the k-th event in a poisson process
@@ -19,6 +21,13 @@
 	2. Random variable is getting multiplied, as you can turn it to an additive 
 ## Beta
 - Probabilities between 0 and 1
-- Examples
+- Examples:
 	- Percentages
-	- 
+	- Proportions
+## Chi-Squared
+- Variance-related problems
+- Hypothesis testing
+- Categorical data
+
+#mse253 
+#guidelines 
