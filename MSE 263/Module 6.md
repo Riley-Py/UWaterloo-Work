@@ -28,6 +28,13 @@
 - Fixed costs are avoidable in long run
 	- F = 0, due to firms haivng longer time to optimize production for low volumes, so short term becomes variable in long term
 	- $C = {VC}$ as a result
-- Exceptions:
-	- Products with large R&D
-	- Published material with large first-copy costs
+	- Exceptions:
+		- Products with large R&D
+		- Published material with large first-copy costs
+- *Isocost line* - combinations of inputs that require same total expenditure
+- Cost equation: $C = {wL} + {rK}$
+	- We get the isocost equation with fixing the costs at particular level: $\bar C = {wL} + {rK}$ 
+### Cost-Minimizing 
+- *Lowest-isocost rule* - pick the bundle of inputs where the lowest isocost line touches the isoquant
+- *Tangency rule* - pick the bundle of inputs where the isoquant is tanget to the isocost line
+- *Last-d*
