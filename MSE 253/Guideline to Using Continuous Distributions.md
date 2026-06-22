@@ -30,4 +30,4 @@
 - Categorical data
 
 #mse253 
-#guidelines 
+#guidelines_continuous 
