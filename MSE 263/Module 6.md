@@ -12,4 +12,10 @@
 - *Variable cost $VC(Q)$* - cost that changes with quantity of output produced
 - *Total cost (cost) ($C(Q)$)* - sum of firm's variable cost and fixed cost
 	- $C = F + VC$
-- *Marginal cost ($MC(Q)$)* - amount a firm's cost changes 
+- *Marginal cost ($MC(Q)$)* - amount a firm's cost changes if the firm produces one more unit of output
+	- $MC(Q) = {{dC} \over {dQ}}$ or ${MC (Q)} = {{dVC} \over {dQ}}$
+- Marginal cost and marginal product of labor are inversely related
+	- ${MC} = {w \over {MP_L}}$
+	- Due to labor being the variable input
+### Average Cost
+- *Average fixed cost (AFC)* - 
