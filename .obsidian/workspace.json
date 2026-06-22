@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSE 263/Module 6.md",
+                "file": "MSE 263/Module 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Module 6"
+              "title": "Module 2"
             }
           }
         ]
@@ -177,9 +177,10 @@
   },
   "active": "e653d24ab5b070b0",
   "lastOpenFiles": [
+    "MSE 263/Module 1.md",
+    "MSE 263/Module 6.md",
     "MSE 263/Formulas/Module 5 Formulas.md",
     "MSE 263/Module 5.md",
-    "MSE 263/Module 6.md",
     "MSE 253/Guideline to Using Continuous Distributions.md",
     "MSE 263/Module 4.md",
     "MSE 253/Module 5 - Functions of Discrete and Continuous Random Variables.md",
@@ -203,7 +204,6 @@
     "MSE 211/Week 1/Readings/Hackman.md",
     "MSE 211/Week 1/Readings/Texas City Explosion.md",
     "MSE 211/Week 1/Readings/Rasmussen.md",
-    "MSE 211/Week 2/Readings/Kahneman.md",
     "MSE 211/Week 6/Images/Pasted image 20260617094252.png",
     "MSE 211/Week 6/Images",
     "MSE 211/Week 6/Images/Pasted image 20260617090518.png",
