@@ -18,4 +18,16 @@
 	- ${MC} = {w \over {MP_L}}$
 	- Due to labor being the variable input
 ### Average Cost
-- *Average fixed cost (AFC)* - 
+- *Average fixed cost (AFC)* - falls as output rises because fixed cost is spread over more units
+	- ${AFC} = {F \over q}$
+- *Average variable cost (AVC)* - may increase or decrease as output rises
+	- ${AVC} = {{VC} \over q}$
+- *Average cost (AC)* - may increase or decrease as output rises
+	- ${AC} = {C \over q} = {AFC} + {AVC}$
+### Long-Run Costs
+- Fixed costs are avoidable in long run
+	- F = 0, due to firms haivng longer time to optimize production for low volumes, so short term becomes variable in long term
+	- $C = {VC}$ as a result
+- Exceptions:
+	- Products with large R&D
+	- Published material with large first-copy costs
