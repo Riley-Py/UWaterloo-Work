@@ -37,4 +37,11 @@
 ### Cost-Minimizing 
 - *Lowest-isocost rule* - pick the bundle of inputs where the lowest isocost line touches the isoquant
 - *Tangency rule* - pick the bundle of inputs where the isoquant is tanget to the isocost line
-- *Last-d*
+- *Last-dollar rule* - pick the bundle of inputs where the last dollar spent on one input gives as much extra output as last dollar spent on any other input
+- *Expansion path* - cost-minimizing combination of labor and capital for each output level
+
+### Economies of Scale
+- *Economies of scale* - average cost of production falls as output expands
+- *Diseconomies of scale* - average cost of production rises when output expands
+- Firm has:
+	- *No economies of scale*
