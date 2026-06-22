@@ -44,4 +44,7 @@
 - *Economies of scale* - average cost of production falls as output expands
 - *Diseconomies of scale* - average cost of production rises when output expands
 - Firm has:
-	- *No economies of scale*
+	- *No economies of scale* - $ac(Q)$ is constant
+	- *Diseconomies of scale* - $ac(Q)$ is increasing
+	- *Economies of scale* - $ac(Q)$ is decreasing
+	- *U-shaped average cost* - $ac(Q)$ is decreasing, then increasing
