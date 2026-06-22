@@ -26,7 +26,7 @@
 
 ### Production Function Algebraic Forms
 - *Linear production function* - inputs are [[Module 4|perfect substitutes]]
-- *Leontief production function* - inputs are used in fixed proportions
+- *Leontief production function* - inputs are used in fixed proportions; perfect complements
 - *Cobb-Douglas production function* - inputs have a degree of substitutability
 
 ### Returns to Scale
