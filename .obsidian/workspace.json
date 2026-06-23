@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSE 263/Formulas/Module 5 Formulas.md",
+                "file": "MSE 263/Module 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Module 5 Formulas"
+              "title": "Module 5"
             }
           }
         ]
@@ -175,12 +175,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e653d24ab5b070b0",
+  "active": "059c515cd4110e39",
   "lastOpenFiles": [
+    "MSE 263/Formulas/Module 5 Formulas.md",
     "MSE 263/Formulas/Module 4 Formulas.md",
     "MSE 263/Module 5.md",
     "MSE 263/Module 4.md",
-    "MSE 263/Formulas/Module 5 Formulas.md",
     "MSE 263/Module 6.md",
     "MSE 263/Module 2.md",
     "MSE 263/Module 1.md",
