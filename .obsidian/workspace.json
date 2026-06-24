@@ -35,8 +35,7 @@
               "title": "Formulas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -190,10 +189,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6061438618a7a706",
+  "active": "9a5b8d5975467271",
   "lastOpenFiles": [
-    "MSE 253/Module 3 - Expected Value + Discrete Distributions.md",
     "MSE 253/Formulas.md",
+    "MSE 253/Module 3 - Expected Value + Discrete Distributions.md",
     "MSE 253/Module 2 - Marginal + Joint.md",
     "MSE 253/Module 1 - Review.md",
     "MSE 253/Guideline to Using Continuous Distributions.md",
