@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSE 253/Module 1 - Review.md",
+                "file": "MSE 253/Module 2 - Marginal + Joint.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Module 1 - Review"
+              "title": "Module 2 - Marginal + Joint"
             }
           }
         ],
@@ -192,8 +192,8 @@
   },
   "active": "9a5b8d5975467271",
   "lastOpenFiles": [
-    "MSE 253/Formulas.md",
     "MSE 253/Module 1 - Review.md",
+    "MSE 253/Formulas.md",
     "MSE 253/Guideline to Using Continuous Distributions.md",
     "MSE 263/Module 4.md",
     "MSE 263/Module 3.md",
