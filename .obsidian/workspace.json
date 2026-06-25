@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE 252/L05.md",
+                "file": "ECE 252/L06.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L05"
+              "title": "L06"
             }
           },
           {
@@ -189,11 +189,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "059c515cd4110e39",
+  "active": "9a5b8d5975467271",
   "lastOpenFiles": [
+    "ECE 252/L05.md",
+    "ECE 252/L06.md",
     "ECE 252/Images/Pasted image 20260624220855.png",
     "ECE 252/Images/Pasted image 20260624220219.png",
-    "ECE 252/L05.md",
     "ECE 252/Images/Pasted image 20260624215545.png",
     "ECE 252/L04.md",
     "ECE 252/L03.md",
@@ -229,7 +230,6 @@
     "MSE 211/Week 6/Readings/Cognitive Load Theory.md",
     "MSE 211/Week 6/Images/Pasted image 20260617094252.png",
     "MSE 211/Week 6/Images",
-    "MSE 211/Week 6/Images/Pasted image 20260617090518.png",
     "EARTH 121 (Complete)/Field Notes/EARTH 121 - Field Notes Journal 1-5.pdf",
     "MSE 211/Week 6/Readings",
     "MSE 211/Week 6",
