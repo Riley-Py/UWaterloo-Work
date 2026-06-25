@@ -11,14 +11,12 @@
             "id": "9a5b8d5975467271",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "ECE 252/L05.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20260624220219.png"
               },
-              "icon": "lucide-file",
-              "title": "L05"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260624220219"
             }
           },
           {
@@ -189,11 +187,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9a5b8d5975467271",
+  "active": "059c515cd4110e39",
   "lastOpenFiles": [
+    "ECE 252/L05.md",
+    "Pasted image 20260624220219.png",
     "ECE 252/Images/Pasted image 20260624215545.png",
     "ECE 252/L04.md",
-    "ECE 252/L05.md",
     "ECE 252/L03.md",
     "ECE 252/Images/Pasted image 20260624214924.png",
     "ECE 252/Images/Pasted image 20260624213740.png",
@@ -235,8 +234,6 @@
     "MSE 211/Week 4/Practice Questions",
     "MSE 253/Module 1",
     "MSE 253",
-    "MSE 211/Week 5/Images/Pasted image 20260609120214.png",
-    "MSE 211/Week 4/Images/Pasted image 20260603103649.png",
     "Untitled.canvas"
   ]
 }
