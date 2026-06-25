@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE 252/L06.md",
+                "file": "ECE 252/L07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L06"
+              "title": "L07"
             }
           },
           {
@@ -191,8 +191,9 @@
   },
   "active": "9a5b8d5975467271",
   "lastOpenFiles": [
-    "ECE 252/Images/Pasted image 20260625115113.png",
     "ECE 252/L06.md",
+    "ECE 252/L07.md",
+    "ECE 252/Images/Pasted image 20260625115113.png",
     "ECE 252/Images/Pasted image 20260625114754.png",
     "ECE 252/L05.md",
     "ECE 252/Images/Pasted image 20260624220855.png",
