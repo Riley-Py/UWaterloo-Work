@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE 252/L03.md",
+                "file": "MSE 253/Guideline to Using Discrete Distributions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L03"
+              "title": "Guideline to Using Discrete Distributions"
             }
           },
           {
@@ -191,9 +191,10 @@
   },
   "active": "9a5b8d5975467271",
   "lastOpenFiles": [
+    "MSE 253/Guideline to Using Continuous Distributions.md",
+    "ECE 252/L03.md",
     "ECE 252/L02.md",
     "ECE 252/L01.md",
-    "ECE 252/L03.md",
     "ECE 252/Images/Pasted image 20260624144013.png",
     "ECE 252/Images",
     "ECE 252/Images/Pasted image 20260624142919.png",
@@ -203,7 +204,6 @@
     "MSE 253/Module 3 - Expected Value + Discrete Distributions.md",
     "MSE 253/Module 2 - Marginal + Joint.md",
     "MSE 253/Module 1 - Review.md",
-    "MSE 253/Guideline to Using Continuous Distributions.md",
     "MSE 263/Module 4.md",
     "MSE 263/Module 3.md",
     "MSE 263/Module 5.md",
