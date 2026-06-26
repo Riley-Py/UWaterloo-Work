@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE 252/L04.md",
+                "file": "ECE 252/L10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L04"
+              "title": "L10"
             }
           },
           {
@@ -191,13 +191,13 @@
   },
   "active": "9a5b8d5975467271",
   "lastOpenFiles": [
+    "ECE 252/L06.md",
+    "ECE 252/L05.md",
+    "ECE 252/L04.md",
     "ECE 252/L03.md",
     "ECE 252/L02.md",
     "ECE 252/L01.md",
     "ECE 252/L10.md",
-    "ECE 252/L06.md",
-    "ECE 252/L05.md",
-    "ECE 252/L04.md",
     "ECE 252/L12.md",
     "ECE 252/L11.md",
     "ECE 252/L13.md",
