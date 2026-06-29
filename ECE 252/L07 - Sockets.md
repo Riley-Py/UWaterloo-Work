@@ -20,6 +20,15 @@
 	- Diagram of this: 
 		- ![[Pasted image 20260629093514.png]]
 - In ``arpa/inet.h`` header, it contains functions to allow the translation to occur for both host/network 
+	- ``htonl(address_32)`` - translate 4 byte int for network
+	- ``htons(address_16)`` - translate 2 byte int for network
+	- ``ntohl(address_32)`` translate 4 byte int for host
+	- ``ntohs(address_16)`` - translate 2 byte int for host
 
 ### Addresses
-- IPv4 addresses take the format of ``XXX.XXX.XXX.XXX``
+- For socket address, you use ``struct sockaddr_in`` structure
+	- `````
+	  ```
+- IPv4 addresses take the format of ``XXX.XXX.XXX.XXX``, where each grouping of ``XXX`` is number between 0 and 255
+- ``INADDR_ANY`` indicates to choose the address of the current computer within the ``htonl(address)`` argument
+- 
