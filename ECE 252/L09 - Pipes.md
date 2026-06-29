@@ -50,4 +50,13 @@
 	- ``address`` - leave this NULL
 	- ``length`` - number of bytes to map
 	- ``protection`` - rules; read (``PROT_READ``), write (``PROT_WRITE``), execute (``PROT_EXECUTE``), none (``PROT_NONE``); can be combined with ``|`` 
-	- ``flag`` - mode memory 
+	- ``flag`` - mode memory will be mapped in
+		- ``MAP_PRIVATE`` for modifications not visible to other processes and ``MAP_SHARED`` for modifications visible to other processes
+	- ``fd`` - file descriptor
+	- ``offset`` - offset from start of file where segment begins
+- To change rules, use ``mprotect(address, length, prot)``
+- To make changes instantly, use ``msync(address, length, flags)``
+- Diagram of this: 
+	- ![[Pasted image 20260629104205.png]]
+#ece252 
+#L09 
