@@ -7,4 +7,16 @@
 	- ``fileDescriptors[1]`` is write end
 - Diagram of a pipe: 
 	- ![[Pasted image 20260629101245.png]]
-- Pipe is block of main memory 
+- Pipe is block of main memory as a circular queue
+	- Each entry in queue is fixed in size/one character
+- Sender may place message into queue in small chunks, but receiver gets data one character at a time
+	- Both need to know when the message is finished; can use termination character or how many characters the message will have
+- *Named pipe* - pipe stored on disk
+	- Pipes traditionally only as long as processes are communicating
+	- Named pipes are bidirectional (i.e. only need one pipe for send/receive)
+- Pipes depend on file descriptors
+	- Parent-child relationship required
+- To create named pipe, use ``mkfifo`` (make first-in-first-out)
+	- Can be manipulated like a [[L03 - Files|file]]
+### Shared Memory
+- Particular region of memory d
