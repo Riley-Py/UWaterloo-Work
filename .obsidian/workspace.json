@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE 252/L07 - Networks Part 1.md",
+                "file": "ECE 252/L09 - Pipes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L07 - Networks Part 1"
+              "title": "L09 - Pipes"
             }
           }
         ]
@@ -175,11 +175,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9a5b8d5975467271",
+  "active": "059c515cd4110e39",
   "lastOpenFiles": [
+    "ECE 252/Images/Pasted image 20260629101245.png",
+    "ECE 252/L06 - IPC.md",
+    "ECE 252/L09 - Pipes.md",
+    "ECE 252/L07 - Networks Part 1.md",
     "ECE 252/L04 - Processes Part 1.md",
     "ECE 252/L05 - Processes Part 2.md",
-    "ECE 252/L07 - Networks Part 1.md",
     "ECE 252/Images/Pasted image 20260629093514.png",
     "ECE 252/L12 - Syncing.md",
     "ECE 252/L13 - Semaphores.md",
@@ -188,7 +191,6 @@
     "ECE 252/L01 - Intro.md",
     "ECE 252/L02 - System Call.md",
     "ECE 252/L03 - Files.md",
-    "ECE 252/L06 - IPC.md",
     "MSE 253/Formulas.md",
     "ECE 252/Images/Pasted image 20260625124315.png",
     "ECE 252/Images/Pasted image 20260625120717.png",
@@ -212,7 +214,6 @@
     "MSE 263/Module 5.md",
     "MSE 263/Formulas/Module 4 Formulas.md",
     "MSE 263/Formulas/Module 5 Formulas.md",
-    "MSE 263/Module 6.md",
     "Untitled.base",
     "MSE 211/Week 6/Images",
     "EARTH 121 (Complete)/Field Notes/EARTH 121 - Field Notes Journal 1-5.pdf",
