@@ -44,4 +44,15 @@
 	- No two processes can use the same port
 	- Ports with numbers below 1024 are reserved for system services
 	- ``ssh`` uses port 22, and is a default known port that ``ssh`` uses
-#### Lo
+#### Look-Ups
+- ``int getaddrinfo(*node, *service, struct addrinfo *hints, struct addrinfo **res)`` is used to get the hostname
+	- ``node`` - hostname to connect to; can be IP address
+	- ``service`` - gets the defined port for protocol; recommended to use explicit port numbers (i.e. 80 for HTTP)
+	- ``hints`` - optional; restrict what kind of connection you want
+	- ``res`` - pointer to pointer to the structure that will be updated once it's done
+- To free info that has been allocated, use ``freeaddrinfo()``
+
+### Client
+- If client, connect to server with ``int connect (sockfd, struct sockaddr *addr, len)``
+	- ``sockfd`` - socket file descriptor
+	- 
