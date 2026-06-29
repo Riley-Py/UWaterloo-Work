@@ -27,4 +27,12 @@
 - Can overwrite another's changes, but is solved with [[L13 - Semaphores|semaphores]]
 - To share section of memory:
 	1. Obtain a key that identifies specific memory segment (see [[IPC|this]] for more info)
-	2. Create new shared memory seg
+	2. Create new shared memory segment utilizing ``shmget (key, size, shmflg)``
+		- ``key`` - key specified, or ``IPC_PRIVATE``
+		- ``size`` - amount of bytes shared memory should be
+		- ``shmflg`` - access permissions
+			- ``IPC_CREAT`` is used to create segment with key, and ``IPC_EXCL`` is used to make sure that the key used isn't being used elsewhere; can be combined using `|` operator
+	3. Attach shared memory segment (add shared segment to process calling attach) - ``shamat (shmid, shmaddr, shmflg)``
+		- ``shmid`` - ID of shared memory returned by ``s
+	4. Detach from shared memory segment (if forgotten, it happens automatically) - ``shmdt``
+	5. Delete shared memory segment; done only by one process - ``shmctl``
