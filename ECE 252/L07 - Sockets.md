@@ -27,8 +27,21 @@
 
 ### Addresses
 - For socket address, you use ``struct sockaddr_in`` structure
-	- `````
-	  ```
+	- `````c
+	  struct sockaddr_in {
+	  sa_family sin_family; /* Address family */
+	  in_port_t sin_port; /* Port Number */
+	  struct in_addr sin_addr; /*IPv4 Address */
+	  }
+	  struct sockaddr_in addr;
+	  addr.sin_family = AF_INET;
+	  addr.sin_port = htons(2520);
+	  addr.sin_addr.s_addr = htonl(INADDR_ANY);
+	  `````
 - IPv4 addresses take the format of ``XXX.XXX.XXX.XXX``, where each grouping of ``XXX`` is number between 0 and 255
 - ``INADDR_ANY`` indicates to choose the address of the current computer within the ``htonl(address)`` argument
-- 
+- Ports are like an apartment number
+	- No two processes can use the same port
+	- Ports with numbers below 1024 are reserved for system services
+	- ``ssh`` uses port 22, and is a default known port that ``ssh`` uses
+#### Lo
