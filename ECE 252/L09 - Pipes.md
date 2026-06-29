@@ -43,3 +43,11 @@
 		- ``shmid`` - ID of segment
 		- ``cmd`` - use ``IPC_RMID`` to remove ID
 		- ``*buf`` - default to NULL for deletion
+### Alternative: mmap
+- Can map file into memory
+	- Useful as you can treat files as if they were memory accesses
+- Used with ``mmap(address, length, protection, flag, fd, offset)``
+	- ``address`` - leave this NULL
+	- ``length`` - number of bytes to map
+	- ``protection`` - rules; read (``PROT_READ``), write (``PROT_WRITE``), execute (``PROT_EXECUTE``), none (``PROT_NONE``); can be combined with ``|`` 
+	- ``flag`` - mode memory 
