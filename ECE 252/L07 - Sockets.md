@@ -62,7 +62,14 @@
 	- *Bind* - choose what port we are going to connect to 
 	- *Listen* - wait for connections from client
 	- *Accept* - establish connection to start communication
-- ``bind()`` associates the socket with whatever port we want to use
+- ``int bind(socketfd, struct sockaddr, len)`` associates the socket with whatever port we want to use
 	- When ``ssh`` is available for connection, it bounds itself to port 22
-- ``listen(sockfd, backlog)`` waits for incoming connections
-	- 
+- ``int listen(sockfd, backlog)`` waits for incoming connections
+	- ``sockfd`` - socket file descriptor
+	- ``backlog`` - limited to 20 connections waiting; if full, server rejects additional requests
+- ``int accept (sockfd, struct sockaddr *addr, socklen_t *len)`` finally accepts the connection request
+	- ``sockfd`` - socket file descriptor
+	- ``*addr`` - address of client
+	- ``*len`` - length of client socket
+	- Can pass NULL for both second and third parameters
+	- If no requests in the queue, server is blocked until request arrives; waits for connection
