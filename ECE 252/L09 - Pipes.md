@@ -19,4 +19,12 @@
 - To create named pipe, use ``mkfifo`` (make first-in-first-out)
 	- Can be manipulated like a [[L03 - Files|file]]
 ### Shared Memory
-- Particular region of memory d
+- Particular region of memory designated as being shared between multiple processes, where they can read and write to location
+- Normally, regions of memory are only associated with one process, and if others try to read from section, they can't
+- If process that creates shared memory is terminated, memory can be used by the 2nd process
+- Diagram of this:
+	- ![[Pasted image 20260629102036.png]]
+- Can overwrite another's changes, but is solved with [[L13 - Semaphores|semaphores]]
+- To share section of memory:
+	1. Obtain a key that identifies specific memory segment (see [[IPC|this]] for more info)
+	2. Create new shared memory seg
