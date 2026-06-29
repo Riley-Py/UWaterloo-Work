@@ -35,6 +35,25 @@ Explain the full mechanism using concepts from:
 - Week 4 - goals and incentives shaping attention
 - Week 5 - motivation (autonomy, competence, relatedness)
 
+## Bridge Question 5
+An engineering team is operating under tight deadlines and high workload.
+
+Over time:
+- Errors increase
+- Communication breaks down
+- Decision quality declines
+- Some individuals are blamed for "poor judgement"
+
+Explain the full mechanism using concepts from:
+- Week 1 - system conditions and constraints
+- Week 2 - decision-making under constraint
+- Week 3 - perception and interpretation
+- Week 4 - goals shaping attention
+- Week 5 - motivation (autonomy, competence, relatedness)
+- Week 6 - cognitive load and stress
+
+Trace the entire chain: system conditions $\rightarrow$ goals $\rightarrow$ perception $\rightarrow$ interpretation $\rightarrow$ cognitive load $\rightarrow$ stress $\rightarrow$ motivation $\ri
+
 
 #mse211 
 #exam_review
