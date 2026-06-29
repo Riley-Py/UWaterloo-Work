@@ -52,7 +52,7 @@ Explain the full mechanism using concepts from:
 - Week 5 - motivation (autonomy, competence, relatedness)
 - Week 6 - cognitive load and stress
 
-Trace the entire chain: system conditions $\rightarrow$ goals $\rightarrow$ perception $\rightarrow$ interpretation $\rightarrow$ cognitive load $\rightarrow$ stress $\rightarrow$ motivation $\ri
+Trace the entire chain: system conditions $\rightarrow$ goals $\rightarrow$ perception $\rightarrow$ interpretation $\rightarrow$ cognitive load $\rightarrow$ stress $\rightarrow$ motivation $\rightarrow$ decision $\rightarrow$ behaviour $\rightarrow$ outcome
 
 
 #mse211 
