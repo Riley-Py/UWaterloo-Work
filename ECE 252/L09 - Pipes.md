@@ -33,6 +33,13 @@
 		- ``shmflg`` - access permissions
 			- ``IPC_CREAT`` is used to create segment with key, and ``IPC_EXCL`` is used to make sure that the key used isn't being used elsewhere; can be combined using `|` operator
 	3. Attach shared memory segment (add shared segment to process calling attach) - ``shamat (shmid, shmaddr, shmflg)``
-		- ``shmid`` - ID of shared memory returned by ``s
-	4. Detach from shared memory segment (if forgotten, it happens automatically) - ``shmdt``
-	5. Delete shared memory segment; done only by one process - ``shmctl``
+		- ``shmid`` - ID of shared memory returned by ``shmget``
+		- ``shmaddr`` - use NULL
+		- ``shmflg`` - use NULL
+	4. Detach from shared memory segment (if forgotten, it happens automatically) - ``shmdt (shmaddr)``
+		- ``shmaddr`` - shared memory segment
+		- Automatically happens at process termination, but good practice
+	5. Delete shared memory segment; done only by one process - ``shmctl (shmid, cmd, struct shmid_ds *buf)``
+		- ``shmid`` - ID of segment
+		- ``cmd`` - use ``IPC_RMID`` to remove ID
+		- ``*buf`` - default to NULL for deletion
