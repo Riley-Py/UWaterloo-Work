@@ -73,3 +73,7 @@
 	- ``*len`` - length of client socket
 	- Can pass NULL for both second and third parameters
 	- If no requests in the queue, server is blocked until request arrives; waits for connection
+- You can modularize the code so that it's less boilerplate
+
+#ece252 
+#L07 
