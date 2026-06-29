@@ -1,0 +1,5 @@
+- *Groupthink* - desire for harmony/conformity within a group results in irrational/dysfunctional decision-making outcomes
+- Results found that 32 out of 39 statements were categorized as "groupthink"
+	- Most of them were about pressures about uniformity
+	- These were also related to defective decision making
+- 
