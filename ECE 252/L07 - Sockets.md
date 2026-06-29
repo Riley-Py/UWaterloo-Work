@@ -55,4 +55,14 @@
 ### Client
 - If client, connect to server with ``int connect (sockfd, struct sockaddr *addr, len)``
 	- ``sockfd`` - socket file descriptor
+	- ``addr`` - pointer to ``struct sockaddr`` 
+	- ``len`` - size of second parameter; use ``sizeof()`` or if from ``getaddrinfo()``, can use ``ai_addrlen``
+### Server
+- *Bind*, *listen*, *accept* are the steps that the server undertakes to establish connection
+	- *Bind* - choose what port we are going to connect to 
+	- *Listen* - wait for connections from client
+	- *Accept* - establish connection to start communication
+- ``bind()`` associates the socket with whatever port we want to use
+	- When ``ssh`` is available for connection, it bounds itself to port 22
+- ``listen(sockfd, backlog)`` waits for incoming connections
 	- 
