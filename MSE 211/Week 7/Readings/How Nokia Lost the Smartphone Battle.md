@@ -148,5 +148,13 @@
 	- TM didn't take corrective actions
 - Rigidity created the temporal myopia by the TM receiving info from MM indicating that their current actions would lead to success
 	- Made bounded rational decisions based on inaccurate understanding, so product quality declined
-- 
+- Nokia could have corrected temporal myopia
+	- Taking more time to improve Symbian
+	- Improving capabilities to long-term development
+
+## Discussion
+- Diagram of fears: 
+	- ![[Pasted image 20260630110614.png]]
+- Structural distribution of attention in organization can lead to TM/MM to experience external/internal fear, respectively
+- External fear can result from 
 
