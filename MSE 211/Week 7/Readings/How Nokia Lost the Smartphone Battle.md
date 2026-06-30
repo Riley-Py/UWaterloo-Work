@@ -23,3 +23,12 @@
 	- Emotions directed to specific actions reduces attention to other matters
 	- Targets don't need to be real; they can be concepts like money/power
 - Emotions can make people prefer small short-term benefits over longer-term benefits
+- *Appraisal process* - people appraise specific aspects in a target that determine the emotion that happens; two stages that happen in process
+	- Example: Fear
+		- *Primary appraisal* - potential harm to well-being
+		- *Secondary appraisal* - outcome of situation is uncertain or beyond control
+- Emotional states that are consistent in an organizational setting have a system-wide effect on innovation process
+
+### Fear During Innovation Process
+- Innovation is emotion-driven due to uncertainty/consequential nature of innovation
+- Negative emotions are more prominent than positive ones due
