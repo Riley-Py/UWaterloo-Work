@@ -98,5 +98,13 @@
 - Expected that top-level executives to appreciate tech complexity in innovation process; being careful to not let impatience ruin the product
 	- Opposite was true at Nokia due to shared external fear
 - TM put direct pressure on MM to perform faster
-- TM also selected MM
+- TM favoured MMs who provided reassuring reports to alleviate TMs' external fears, and punished others who reinforced external fears
+- TM favoured newbies who were perceived as having new skills/motivation needed to expand Nokia
+- TM paid less attention to MM who had low internal fears/more honest about organizational limitations 
+	- Perceived these MMs as pessimists to discount external fears
+
+### MM Over-Optimistic Reporting
+- Expected that if TM issued objectives that weren't good due to lack of operational knowledge, MM would help TM improve decisions through joint sensemaking
+	- Did not happen at Nokia; MM promised to deliver objectives to TM, even if they thought that those objectives weren't feasible
+- 
 
