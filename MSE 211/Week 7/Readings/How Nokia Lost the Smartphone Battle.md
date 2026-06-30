@@ -106,5 +106,16 @@
 ### MM Over-Optimistic Reporting
 - Expected that if TM issued objectives that weren't good due to lack of operational knowledge, MM would help TM improve decisions through joint sensemaking
 	- Did not happen at Nokia; MM promised to deliver objectives to TM, even if they thought that those objectives weren't feasible
+- MM reacted emotionally in particular situations as fear drove them to make over-optimistic promises/reports
+	- Brought short-term relief
+		- MMs - didn't have to admit limitations/risk backlash
+		- TM - losing to external competition was band-aided
+	- Resulted in TM perception that their requests were feasible/long-term development was viable
+- Typical sequence happened within organization:
+	- MM voiced concerns
+	- TM puts pressure on MM
+	- MM complies
+- When problems arose, MM didn't inform TM of delays/missing product features due to fear of TM reaction
+	- Remained silent/filtered information
 - 
 
