@@ -11,3 +11,10 @@
 	- Middle managers' understandings transform to be different from top managers' perceptions
 - Emotions influence people's choices/behaviours/social processes
 	- Emotions are shared within groups as members share their emotions socially
+- Organizations need specialization and integration
+	- *Specialization* - no individual can handle everything
+	- *Integration* - combine different viewpoints
+	- As specialization increases, people in organization push issues up the chain, which slows down innovation
+	- Integration decreases when communication channels are only for refinement of current products
+### Innovation/Emotion
+- *Emotion* - 
