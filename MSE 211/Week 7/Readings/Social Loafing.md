@@ -32,4 +32,9 @@
 		- *Maximizing task* - how rapidly/much something is accomplished is measure of success
 		- *Optimizing task* - how closely an individual/group approximates the "best" outcome as measure of success
 		- Working in a group makes individuals trying to optimize the task, thereby exerting less effort to meet the approximated "best" outcome
-	3. *Lessened contingency between input and outcome* - 
+	3. *Lessened contingency between input and outcome* - individuals can avoid negative consequences of slacking off, or they may have felt as though that they wouldn't obtain their fair share of the work
+		- Research has found that people become depressed when they are presented tasks that they have no control over outcomes
+			- Could have led people to feel like they lost control over share of rewards when performing in a group
+		- If inputs were made identifiable and rewards were based off those inputs, then people would have incentive to put in the maximum individual work
+### Social Loafing/Social Impact Theory
+- *Social Impact Theory* - increasing number of other persons in a target group would diminish pressures on each individual because impact is divided among group members
