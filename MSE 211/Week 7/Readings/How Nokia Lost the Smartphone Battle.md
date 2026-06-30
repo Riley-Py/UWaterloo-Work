@@ -166,3 +166,10 @@
 	- More organic structures dampen effects of hierarchy-based fear
 - When MM status is dependent on organization, they are more sensitive to threats inside organization
 	- Suggests that organizations should retain longer-tenured, successful MM due to not experiencing high internal fear; therefore communicating honestly about organizational reality
+### Integration of Attention
+- Ideal view is that different groups distribute organizational attention, then bring their perspectives together to create high-quality decisions
+	- Did not happen in Nokia case; it amplified differences in perspective than unify them
+- TM external fear led them to exert pressure on MM without revealing severity of external threats and interpreting MM messages in biased ways
+	- MM internal fear then misled TM during interactions, fostering this cycle
+- Shared emotions in one group can influence attention of another group
+- MM fearing external competition direclty can lead to more functional communication patt
