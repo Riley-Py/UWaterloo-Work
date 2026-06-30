@@ -19,3 +19,12 @@
 - People had more intensity shouting alone rather than shouting in a group
 	- Due to not being influenced by the output of others, lifting pressure of social conformity
 - Again, the more people shouting, the total sound output increased, but not at the expected rate
+
+### General Discussion
+- Making noise can be hard work
+	- People get involved enough to try hard and become somewhat enthusiastic, but the task has enough effort so that they loaf at the first chance
+- There are three causes of social loafing:
+	1. *Attribution and equity* - faulty attribution process, leading to attempt to maintain equitable division of labor
+		- Individuals may have judged their own output as greater than others
+		- Individuals may have thought that other individuals weren't working as hard, and as a result, produced less sound
+		- Lack of trust and attributing laziness/ineptitude to others can lead to 
