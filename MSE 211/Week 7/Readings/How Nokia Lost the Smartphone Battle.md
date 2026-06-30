@@ -74,5 +74,5 @@
 ### TM High External Fear
 - Both long/short-term survival of organization
 	- Long-term: iOS was an extension of MacOS; therefore TMs experienced external fear that their OS wouldn't keep up
-	- Short-term: 
+	- Short-term: cannibalization of Symbian; TMs didn't want to admit that it was inferior to Symbian, and the fact that developing an OS to compete with iOS would take years
 
