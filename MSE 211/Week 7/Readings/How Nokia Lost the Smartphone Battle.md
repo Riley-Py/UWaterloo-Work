@@ -133,5 +133,12 @@
 	- Maintained TM over-optimistic perception
 
 ### TM Low Tech Competence
-- 
+- Expected that deep tech knowledge is not critical for top-level executives effectiveness
+	- Opposite is true: TM low tech competence made them more reliant on MM communication, which amplified effects of fear-based communication on TM perception of organizational capability
+- TMs weren't able to assess tech demos/early prototypes' progress, so they relied on what MMs reported
+- Influenced how TM assessed tech limitations during goal setting, with no feedback from tech MM
+- No software competence in TM 
+- Affected Nokia's innovativeness as a result
+
+##
 
