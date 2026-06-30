@@ -53,4 +53,8 @@
 	- MM was responsible for implementing TM actions
 - Nokia knew that they had to create a touchscreen device to compete with Apple - cognitive inertia isn't the cause
 - Communication flowed from TM to product units (responsible for defining products) to software units (development of OSes), but software units were able to communicate to TM - lack of opportunity to interact isn't the cause
-- 
+- TM placed emphasize on product segmentation, cost, and schedule to PU, while software unit was tasked with satisfying both of these requests
+- TM thought that MM internal focus would allow for good implementation and so discouraged MM external focus
+	- When MM asked critical questions, TMs shot them down and stated to stay focus on implementing their tasks
+### Different Appraisals
+- TM appraisal was focused on external environment (person-environment relationship), MM's apprasials were focused on 
