@@ -27,4 +27,9 @@
 	1. *Attribution and equity* - faulty attribution process, leading to attempt to maintain equitable division of labor
 		- Individuals may have judged their own output as greater than others
 		- Individuals may have thought that other individuals weren't working as hard, and as a result, produced less sound
-		- Lack of trust and attributing laziness/ineptitude to others can lead to 
+		- Lack of trust and attributing laziness/ineptitude to others can lead to them working less hard themselves
+	2. *Submaximal goal setting* - individuals expect to meet the goal easier when working with others; therefore they set lower goals than if they were working alone
+		- *Maximizing task* - how rapidly/much something is accomplished is measure of success
+		- *Optimizing task* - how closely an individual/group approximates the "best" outcome as measure of success
+		- Working in a group makes individuals trying to optimize the task, thereby exerting less effort to meet the approximated "best" outcome
+	3. *Lessened contingency between input and outcome* - 
