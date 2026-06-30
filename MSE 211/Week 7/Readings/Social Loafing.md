@@ -42,4 +42,7 @@
 ### Social Loafing as Social Disease
 - Results in reduction in human efficiency, leading to lowered profits/benefits
 	- From presence/actions of other people
-- 
+- Cure is channeling social forces so that group can amplify individual responsibility rather than lessening it (i.e. making person more accountable)
+
+#mse211 
+#reading 
