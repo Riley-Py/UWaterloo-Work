@@ -63,4 +63,9 @@
 		- If MM didn't meet the pace that TMs wanted them to, they'd be labelled as a loser
 - Nokia changed structures numerous times
 	- Made MMs fear their well-being in the organization (primary appraisal of fear) and low ability to cope with uncertainty (secondary appraisal of fear)
+### TM History of Aggression
+- Widely known in organization
+- Difficult to tell things that TMs didn't want to hear
+
+### MMs' Intuitive Fear Reactions
 
