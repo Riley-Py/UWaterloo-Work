@@ -8,4 +8,9 @@
 	- Called the *Ringelmann effect*
 
 ### Experiment 1 Clapping Hands Results/Discussion
-- More people doing 
+- More people clapping, more noise produced
+	- However, it didn't grow in proportion to number of people
+	- Sound pressure per person decreased with increased group size
+- *Social facilitation theory* - people are aroused by others and are likely to work harder when together
+- Group product may have suffered due to inefficiency within group
+	- Due to no social coordination
