@@ -37,4 +37,9 @@
 			- Could have led people to feel like they lost control over share of rewards when performing in a group
 		- If inputs were made identifiable and rewards were based off those inputs, then people would have incentive to put in the maximum individual work
 ### Social Loafing/Social Impact Theory
-- *Social Impact Theory* - increasing number of other persons in a target group would diminish pressures on each individual because impact is divided among group members
+- *Social Impact Theory* - increasing number of other persons in a target group would diminish pressures on each individual because impact is divided among group members; thus, decrease in output from individuals
+
+### Social Loafing as Social Disease
+- Results in reduction in human efficiency, leading to lowered profits/benefits
+	- From presence/actions of other people
+- 
