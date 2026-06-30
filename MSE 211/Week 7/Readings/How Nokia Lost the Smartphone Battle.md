@@ -87,9 +87,16 @@
 	- Attention was focused on inter-organizational factors, not external
 	- Compared Nokia's future developments to competitors' past products, not present
 - TM PR contributed to MM low external fear
-- MM had beliefs about own superi
+- MM had beliefs about own superiority relative to members in other organizations
 ### MM Dependence on Organizational Status
 - MM dependence on high status within organizational amplified MM internal fears
 	- Perceived negative reactions from peers as personal threats
 	- Lived in a country without many successful high-tech companies
+- Some MMs, however, experienced lower internal fear due to having enough personal achievements/material resources to have individual autonomy/self-worth
+	- These MMs were confronting towards the TMs
+### TM Increasing Pressure on MMs for Fast Performance
+- Expected that top-level executives to appreciate tech complexity in innovation process; being careful to not let impatience ruin the product
+	- Opposite was true at Nokia due to shared external fear
+- TM put direct pressure on MM to perform faster
+- TM also selected MM
 
