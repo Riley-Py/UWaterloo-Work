@@ -140,5 +140,13 @@
 - No software competence in TM 
 - Affected Nokia's innovativeness as a result
 
-##
+## Innovation Underperformance
+- Due to TM over-optimistic capability perception
+	- Decisions regarding resource allocation to innovation processes were decoupled from organizational reality
+- *Temporal myopia* - brain struggles to process future consequences (short-term benefits are preferred over long-term benefits, to the detriment of the long-term)
+- Nokia prioritized new phone devices (short-term) over developing their OS (long-term)
+	- TM didn't take corrective actions
+- Rigidity created the temporal myopia by the TM receiving info from MM indicating that their current actions would lead to success
+	- Made bounded rational decisions based on inaccurate understanding, so product quality declined
+- 
 
