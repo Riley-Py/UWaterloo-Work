@@ -172,4 +172,8 @@
 - TM external fear led them to exert pressure on MM without revealing severity of external threats and interpreting MM messages in biased ways
 	- MM internal fear then misled TM during interactions, fostering this cycle
 - Shared emotions in one group can influence attention of another group
-- MM fearing external competition direclty can lead to more functional communication patt
+- MM fearing external competition directly can lead to more functional communication patterns
+- TM being able to regulate external fear can foster higher-quality interactions with MM
+
+#mse211 
+#reading 
