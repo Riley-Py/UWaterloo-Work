@@ -156,5 +156,10 @@
 - Diagram of fears: 
 	- ![[Pasted image 20260630110614.png]]
 - Structural distribution of attention in organization can lead to TM/MM to experience external/internal fear, respectively
-- External fear can result from 
-
+- External fear can result from role to focus mainly on threats in external environment
+- Internal fear can result from role to focus on implementing other members' objectives/requests
+- Both internal/external fear are *structurally based fear*
+- Emotional reactions occur when groups look at info, it's not just to plot a course of action, but also triggers appraisals of person-environment relationship
+	- These emotions that emerged from outcomes of avoiding various types of myopia hinder the integration of attention, leading to temporal myopia
+	- Groups' shared emotions can influence quality of information exchange
+- Organizational str
