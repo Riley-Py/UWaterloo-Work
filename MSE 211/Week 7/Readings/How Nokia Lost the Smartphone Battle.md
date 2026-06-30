@@ -79,4 +79,17 @@
 - Feared superiors; shared between MM
 - Also feared others in different units
 	- Due to perceived behaviours of self-centeredness and being dysfunctional
+- No one mentioned their true feelings because they suspected that the company was monitoring them
+
+### MM Low External Fear
+- MMs only experienced modest external fear
+	- Thought that Nokia had superior capabilities compared to other organizations
+	- Attention was focused on inter-organizational factors, not external
+	- Compared Nokia's future developments to competitors' past products, not present
+- TM PR contributed to MM low external fear
+- MM had beliefs about own superi
+### MM Dependence on Organizational Status
+- MM dependence on high status within organizational amplified MM internal fears
+	- Perceived negative reactions from peers as personal threats
+	- Lived in a country without many successful high-tech companies
 
