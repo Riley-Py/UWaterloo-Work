@@ -162,4 +162,7 @@
 - Emotional reactions occur when groups look at info, it's not just to plot a course of action, but also triggers appraisals of person-environment relationship
 	- These emotions that emerged from outcomes of avoiding various types of myopia hinder the integration of attention, leading to temporal myopia
 	- Groups' shared emotions can influence quality of information exchange
-- Organizational str
+- Organizational structures can influence MM fears through formal hierarchy
+	- More organic structures dampen effects of hierarchy-based fear
+- When MM status is dependent on organization, they are more sensitive to threats inside organization
+	- Suggests that organizations should retain longer-tenured, successful MM due to not experiencing high internal fear; therefore communicating honestly about organizational reality
