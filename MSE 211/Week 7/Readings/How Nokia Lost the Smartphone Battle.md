@@ -49,6 +49,8 @@
 
 ### Structural Distribution of Attention
 - TM and MM had differing duties
-	- TM were responsible for external environment - 
+	- TM were responsible for external environment - interaction with customers/competitors, translate market expectations to clear goals
 	- MM was responsible for implementing TM actions
+- Nokia knew that they had to create a touchscreen device to compete with Apple - cognitive inertia isn't the cause
+- Communication flowed from TM to product units (responsible for defining products) to software units (development of OSes), but software units were able to communicate to TM - lack of opportunity to interact isn't the cause
 - 
