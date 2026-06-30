@@ -38,4 +38,7 @@
 		- Narrows top managers' thinking
 		- Strains communication
 		- Middle managers cling on to top managers
+- People can perceive threats to status and power within a structure, which triggers emotions
+- People's status influences emotions experienced
+	- Low status people have hard-wired fear of high-status people due to high-status people controlling resources critical to survival
 - 
