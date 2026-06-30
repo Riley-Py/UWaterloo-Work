@@ -31,4 +31,11 @@
 
 ### Fear During Innovation Process
 - Innovation is emotion-driven due to uncertainty/consequential nature of innovation
-- Negative emotions are more prominent than positive ones due
+- Negative emotions are more prominent than positive ones due to helping people survive/avoid harm
+- Fear also plays a role in innovation, as when people experience a negative past-focused emotion and imagine a future situation, they can fear the same outcome happening again
+- *Threat-rigidity theory* - thought of mechanisms that caused organizations to respond in a rigid way to a threat
+	- Increased emotional arousal
+		- Narrows top managers' thinking
+		- Strains communication
+		- Middle managers cling on to top managers
+- 
