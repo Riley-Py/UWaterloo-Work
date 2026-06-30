@@ -57,4 +57,10 @@
 - TM thought that MM internal focus would allow for good implementation and so discouraged MM external focus
 	- When MM asked critical questions, TMs shot them down and stated to stay focus on implementing their tasks
 ### Different Appraisals
-- TM appraisal was focused on external environment (person-environment relationship), MM's apprasials were focused on 
+- TM appraisal was focused on external environment (person-environment relationship), MM's appraisals were focused on inside Nokia
+	- TM recognized that external conditions beyond Nokia's control threatened Nokia
+	- MM was focused on what TMs wanted from them
+		- If MM didn't meet the pace that TMs wanted them to, they'd be labelled as a loser
+- Nokia changed structures numerous times
+	- Made MMs fear their well-being in the organization (primary appraisal of fear) and low ability to cope with uncertainty (secondary appraisal of fear)
+
