@@ -41,4 +41,14 @@
 - People can perceive threats to status and power within a structure, which triggers emotions
 - People's status influences emotions experienced
 	- Low status people have hard-wired fear of high-status people due to high-status people controlling resources critical to survival
+	- Can also determine sequence of emotions experienced among individuals
+	- People of different status will experience different emotions, whilst people of the same status will experience similar emotions
+- Members of same group are likely to attend to similar things and perceive that those things have similar implications
+
+## Findings
+
+### Structural Distribution of Attention
+- TM and MM had differing duties
+	- TM were responsible for external environment - 
+	- MM was responsible for implementing TM actions
 - 
