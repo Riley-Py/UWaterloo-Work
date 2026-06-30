@@ -70,7 +70,7 @@
 ### MMs' Intuitive Fear Reactions
 - Aggressiveness automatically triggers fear in social situations, especially if aggressor is of high status compared to target; emotions can be associated with places; hearing stories of other experiences with leaders can activate fear toward those leaders
 - MMs were nervous when interacting with TM
-
+## Fears
 ### TM High External Fear
 - Both long/short-term survival of organization
 	- Long-term: iOS was an extension of MacOS; therefore TMs experienced external fear that their OS wouldn't keep up
@@ -94,6 +94,8 @@
 	- Lived in a country without many successful high-tech companies
 - Some MMs, however, experienced lower internal fear due to having enough personal achievements/material resources to have individual autonomy/self-worth
 	- These MMs were confronting towards the TMs
+
+## Decoupling Interactions
 ### TM Increasing Pressure on MMs for Fast Performance
 - Expected that top-level executives to appreciate tech complexity in innovation process; being careful to not let impatience ruin the product
 	- Opposite was true at Nokia due to shared external fear
@@ -117,5 +119,19 @@
 	- MM complies
 - When problems arose, MM didn't inform TM of delays/missing product features due to fear of TM reaction
 	- Remained silent/filtered information
+## Assessment Gap
+
+### TM Over-Optimistic Capability Perception
+- TM relied on reports by MM to stay updated on speed of development of OS software
+	- Due to MM being over-optimistic, though, TM thought that Nokia were quite capable
+- TM emotional states might have influenced how they interpreted signals from MM
+- Due to having a perception of capability development being greater than it was, TM pressured MM to work faster due to external fear of competition
+- Cycle developed
+	- Pressure from TM hurt long-term OS software development by forcing MM to take short cuts
+	- Amplified MM internal fear
+	- Made MM submit over-optimistic reports
+	- Maintained TM over-optimistic perception
+
+### TM Low Tech Competence
 - 
 
