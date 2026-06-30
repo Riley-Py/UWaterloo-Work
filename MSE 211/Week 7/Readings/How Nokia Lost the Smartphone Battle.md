@@ -68,4 +68,11 @@
 - Difficult to tell things that TMs didn't want to hear
 
 ### MMs' Intuitive Fear Reactions
+- Aggressiveness automatically triggers fear in social situations, especially if aggressor is of high status compared to target; emotions can be associated with places; hearing stories of other experiences with leaders can activate fear toward those leaders
+- MMs were nervous when interacting with TM
+
+### TM High External Fear
+- Both long/short-term survival of organization
+	- Long-term: iOS was an extension of MacOS; therefore TMs experienced external fear that their OS wouldn't keep up
+	- Short-term: 
 
