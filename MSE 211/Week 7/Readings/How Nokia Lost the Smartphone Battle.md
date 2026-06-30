@@ -17,4 +17,9 @@
 	- As specialization increases, people in organization push issues up the chain, which slows down innovation
 	- Integration decreases when communication channels are only for refinement of current products
 ### Innovation/Emotion
-- *Emotion* - 
+- *Emotion process* - someone who is exposed to a stimulus, registers it for meaning, and experiences feeling state changes, while exhibiting facial expressions/expressive cues
+- Emotions accompany actions depending on the target of said emotion to said action
+	- Example: fear can make people get a vaccine or not get one; the target of the fear varies
+	- Emotions directed to specific actions reduces attention to other matters
+	- Targets don't need to be real; they can be concepts like money/power
+- Emotions can make people prefer small short-term benefits over longer-term benefits
