@@ -31,3 +31,12 @@
 		- Reflecting on results
 		- Discussing errors/unexpected outcomes
 - To discover gaps and make changes, team members must discuss differences of opinion and test assumptions in public, not private
+- Ability to discuss errors is associated with organizational effectiveness
+- Learning behaviour is ineffective when teams are responsible for repetitive tasks with no need to improve/modify
+
+### Team Psychological Safety
+- Not the same as group cohesiveness
+	- Cohesiveness can reduce willingness to disagree and challenge other views (leading to groupthink)
+	- Term is meant as a sense of confidence that team will not reprimand someone from speaking up - stems from mutual respect/trust among team members
+- *Trust* - expectation that others' future actions is favorable to one's interests
+- 
