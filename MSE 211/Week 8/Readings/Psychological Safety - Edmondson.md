@@ -52,4 +52,10 @@
 ### Team Leader Coaching/Context Support before Team Psychological Safety
 - Compelling team goal, enabling team design, and team leader behaviours (coaching, direction setting) increase team effectiveness
 - Access to resources and info reduces insecurity/defensiveness in a team
-- Supportive, coaching-oriented, 
+- Supportive, coaching-oriented, and non-defensive responses that team leader exhibits allows team members to assume a safe environment
+
+### Complete Model of Work-Team
+- ![[Pasted image 20260702110413.png]]
+
+#mse211 
+#reading 
