@@ -39,4 +39,9 @@
 	- Cohesiveness can reduce willingness to disagree and challenge other views (leading to groupthink)
 	- Term is meant as a sense of confidence that team will not reprimand someone from speaking up - stems from mutual respect/trust among team members
 - *Trust* - expectation that others' future actions is favorable to one's interests
-- 
+- Team members must hold a similar perception of the term for it to permeate within the team
+- People pay attention to tone/quality of social processes and are more willing to comply when they feel valued
+- Doesn't play direct role in team satisfying customers' needs
+	- Aids in team taking actions to accomplish work
+- Team learning behaviour is between team psychological safety/team performance
+### Team Efficacy
