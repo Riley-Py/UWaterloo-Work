@@ -35,8 +35,13 @@
 	- If members didn't want to be in the group, then the end product the group produces wasn't worth it
 
 ### Conditions for Effectiveness in Teams
-1. A real team, not a team in name - people working together and not against each other, propping each other up
-2. Has direction for work
-3. Enabling structure for teamwork
-4. Operates in a supportive organizational context
-5. Expert coaching in teamwork
+- Steps for an effective team: 
+	1. A real team, not a team in name - people working together and not against each other, propping each other up
+	2. Has direction for work
+	3. Enabling structure for teamwork
+	4. Operates in a supportive organizational context
+	5. Expert coaching in teamwork
+- Diagram of this:
+	- ![[Pasted image 20260702102829.png]]
+#mse211 
+#reading 
