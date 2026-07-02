@@ -16,4 +16,16 @@
 	- Apply political pressure - sway them to think another way
 	- Replace customers who aren't aligned with team's goals with other customers
 	- Do what the customer wants without rebuke
-- 
+- Never insult the customer at all or blame them
+- Good teams meet client expectations; great teams shape expectations and exceed them
+
+### Team Growth
+- Social processes team uses in carrying out work enhance members' capability to work together interdependently in future
+- Members get to know special strengths/weaknesses of others and become skilled in coordinating activities
+- Effective work teams build shared commitment, collective skills, task-appropriate coordination strategies
+	- Detection/correcting errors before serious damage is done, noticing/exploiting opportunities
+	- Review how the team has been operating, and learn from review
+- More capable performing unit than when the work began
+
+### Individual Members' Learning
+- Group experience contributes to learning and personal well-being of individual team members
