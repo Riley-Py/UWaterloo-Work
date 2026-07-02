@@ -29,3 +29,14 @@
 
 ### Individual Members' Learning
 - Group experience contributes to learning and personal well-being of individual team members
+- Can expand one's knowledge, acquire new skills, and seeing different perspectives
+- Can also give team members belonging and create interpersonal relationships
+- If group prevents members from doing what they want, it prevents personal learning
+	- If members didn't want to be in the group, then the end product the group produces wasn't worth it
+
+### Conditions for Effectiveness in Teams
+1. A real team, not a team in name - people working together and not against each other, propping each other up
+2. Has direction for work
+3. Enabling structure for teamwork
+4. Operates in a supportive organizational context
+5. Expert coaching in teamwork
