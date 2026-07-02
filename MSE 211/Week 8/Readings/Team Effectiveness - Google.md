@@ -19,4 +19,8 @@
 - These behaviours listed above constitute *psychological safety*
 - A survey done on a team that a manager thought was doing well found weaknesses that were overlooked
 	- Members of the team didn't understand their work had impact and were discontent
-	- The manager, to combat this, encouraged open dialogue about personal matters, which built psychologa
+	- The manager, to combat this, encouraged open dialogue about personal matters, which built psychological safety into the team
+- Ultimately found that success is built on experiences that can't be optimized like data collection
+
+#mse211 
+#reading 
