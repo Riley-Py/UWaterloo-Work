@@ -17,4 +17,6 @@
 	- Discussing errors
 	- Experimenting
 - People in these teams are fearful of exhibiting learning behaviour as they are fearful
-- If there is a sense of threat
+- If there is a sense of threat, it limits individuals' willingness to engage in problem-solving activities (threat rigidity)
+	- People act in ways that inhibit learning when they face a threat/potential embarrassment
+- Familiarity among group members reduce tendency to conform/suppress unusual information
