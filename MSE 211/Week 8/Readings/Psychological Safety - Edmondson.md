@@ -20,3 +20,14 @@
 - If there is a sense of threat, it limits individuals' willingness to engage in problem-solving activities (threat rigidity)
 	- People act in ways that inhibit learning when they face a threat/potential embarrassment
 - Familiarity among group members reduce tendency to conform/suppress unusual information
+
+### Team Learning Behaviour
+- Learning is a process of detecting and correcting error
+- *Learning* - iterative process of designing, carrying out, reflecting upon, and modifying actions
+	- At group level: reflection and action
+		- Asking questions
+		- Seeking feedback
+		- Experimenting
+		- Reflecting on results
+		- Discussing errors/unexpected outcomes
+- To discover gaps and make changes, team members must discuss differences of opinion and test assumptions in public, not private
