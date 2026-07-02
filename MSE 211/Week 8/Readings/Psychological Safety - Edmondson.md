@@ -44,4 +44,12 @@
 - Doesn't play direct role in team satisfying customers' needs
 	- Aids in team taking actions to accomplish work
 - Team learning behaviour is between team psychological safety/team performance
-### Team Efficacy
+### Team Efficacy/Team Learning
+- Team efficacy is associated with team learning behaviour
+- Team members are more likely to speak up on errors they made if two conditions are met
+	1. Team psychological safety is met
+	2. Revelation of error can be used to generate results (team efficacy)
+### Team Leader Coaching/Context Support before Team Psychological Safety
+- Compelling team goal, enabling team design, and team leader behaviours (coaching, direction setting) increase team effectiveness
+- Access to resources and info reduces insecurity/defensiveness in a team
+- Supportive, coaching-oriented, 
