@@ -1,0 +1,2 @@
+- With assertive leadership, creativity, agility, and learning can happen alongside consistency, control, and fulfilment of collective objectives
+- An effective team does these
