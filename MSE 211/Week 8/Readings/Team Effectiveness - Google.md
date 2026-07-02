@@ -16,4 +16,7 @@
 - Two behaviours that all good teams shared:
 	1. Members spoke in same proportion
 	2. Knew how others felt based on tone of voice, expressions, and other nonverbal cues
-- These behaviours constitute *psychological safety*
+- These behaviours listed above constitute *psychological safety*
+- A survey done on a team that a manager thought was doing well found weaknesses that were overlooked
+	- Members of the team didn't understand their work had impact and were discontent
+	- The manager, to combat this, encouraged open dialogue about personal matters, which built psychologa
