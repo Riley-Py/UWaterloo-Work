@@ -8,4 +8,12 @@
 - Productive output of team exceeds standards of quantity, quality, and timeliness of *customers* (people who receive, review, use output)
 - Client's standards/assessments that count; not of the team's standards/assessments
 - Manager's job is to help team identify standards used by real customers, and do whatever can be done to help team meet standards
-	- Managers should address that different clients have different views on what good i
+	- Managers should address that different clients have different views on what good is
+- Example: orchestra
+	- An orchestra that looked at what musicians' and audiences' views of what good is, and integrate the audience views into the musicians, was very successful
+- Appropriate ways of serving customers:
+	- Educate clients - tell them about requirements and teach them 
+	- Apply political pressure - sway them to think another way
+	- Replace customers who aren't aligned with team's goals with other customers
+	- Do what the customer wants without rebuke
+- 
