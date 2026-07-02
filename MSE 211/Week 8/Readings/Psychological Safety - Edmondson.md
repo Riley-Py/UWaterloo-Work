@@ -2,4 +2,19 @@
 - *Psychological safety* - team is safe for interpersonal risk-taking
 	- Associated with learning behaviour, but not team efficacy
 	- Learning behaviour is the middle-person between psychological safety and team performance
-- Team effectiveness is enable
+- Team effectiveness is enabled by structural features
+	- Well-designed team task
+	- Team composition
+	- Availability of information, resources, rewards
+- Organization/team structures explain variance in team effectiveness
+- *Organizational work teams* - groups that exist within context of larger organization
+	- Defined membership
+	- Share responsibility for product/service
+- Examples of learning behaviour
+	- Seeking feedback
+	- Sharing information
+	- Asking for aid
+	- Discussing errors
+	- Experimenting
+- People in these teams are fearful of exhibiting learning behaviour as they are fearful
+- If there is a sense of threat
