@@ -21,4 +21,18 @@
 - After sending data, call the ``close()`` function
 
 ### Datagrams
-- To just send a message without establishing a connection, use ``sendto(sockfd, msg, length, flags, sockadd)
+- To just send a message without establishing a connection, use ``sendto(sockfd, msg, length, flags, sockaddr* to, fromlength)`` and ``recvfrom(sockfd, buffer, length, flags, sockaddr* from, fromlength)``
+### cURL
+- Don't use sockets with URLs; use network communication and transfer request library called *cURL*
+- Only for client-side; not meant for server-side operations
+- Servers have "endpoints" that clients connect via HTTP for client to get response
+	- Usually use the *REST (Representational State Transfer)* principle
+		- To communicate, use ``GET`` request (get resource)
+- Uses the ``libcurl`` library in C
+- Example and walkthrough of code: 
+	- `````c
+	  #include <stdio.h>
+	  #include <curl/curl.h>
+	  
+	  int main (int argc, char** argv) 
+	  `````
