@@ -58,4 +58,14 @@
 	  `````
 	  - ``CURL`` structure is "handle"; has to be initialized/cleaned up when finished
 	  - ``CURLcode`` is also structure to find out how operations went
-	  - ``curl_global_init()
+	  - ``curl_global_init()`` uses ``CURL_GLOBAL_DEFAULT``; if forgotten, ``curl_easy_init`` does it, but is dangerous
+	  - Handle is initialized with ``curl_easy_init()``; connections are accessed through handle
+		  - ``easy`` because there is a ``multi`` interface
+	  - Set options for connection with URL
+	  - Perform request with ``curl_easy_perform``; sends data over network and retrieves response; stores result in ``res``
+	  - ``CURLE_OK`` is response code if everything went well
+- Handle can be used multiple times; options have to be updated
+- Cleanup handle with ``curl_easy_cleanup`` and then globally cleanup handle
+
+### Setup of Callbacks
+- 
