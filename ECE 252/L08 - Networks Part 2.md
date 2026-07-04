@@ -68,4 +68,17 @@
 - Cleanup handle with ``curl_easy_cleanup`` and then globally cleanup handle
 
 ### Setup of Callbacks
-- 
+- *Callback* - tell the handle what function we would like like it to call when time comes
+	- *Read callback* - uploading data to server (*POST*)
+	- *Write callback* - receiving data from server (*GET*)
+- Function for write callback is ``write_callback(ptr, size, nemb, userdata)``
+	- ``ptr`` - points to data received
+	- ``nmemb`` - size of data
+	- ``size`` - always 1
+	- ``userdata`` - pass data to the function
+	- Returns number of bytes processed; if not equal to ``nemb``, then error
+- Function for read callback is ``read_callback(buffer, size, nitems, inputdata)``
+	- ``buffer`` - put data to send
+	- ``size`` - size of each data element
+	- ``nitems`` - number of items
+	- Return value is 
