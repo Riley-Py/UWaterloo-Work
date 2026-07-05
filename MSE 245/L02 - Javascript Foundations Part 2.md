@@ -1,0 +1,5 @@
+- *Ternary operator* - takes three operands
+	- Condition
+	- Value-if-true
+	- Value-if-false
+- General structure: ``conditi
