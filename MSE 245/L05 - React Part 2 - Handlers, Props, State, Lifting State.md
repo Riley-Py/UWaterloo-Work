@@ -27,4 +27,15 @@
 - Re-render steps (using user input from keyboard as example)
 	1. User types character; input fires change event
 	2. React calls ``handleChange``; passes event
-	3. ``handleChange
+	3. ``handleChange`` reads ``event.target.value``; calls ``setSearchTerm(...)``
+	4. ``setSearchTerm`` records new value and flags component for re-render
+	5. React re-runs ``Search`` function; ``useState`` hands back updated value as ``searchTerm`` 
+	6. Returned JSX contains new value; React updates screen
+### Hooks
+- Special function React provides that lets function component tap into React features
+- Call hooks at top level of component and not inside loops/conditions/nested functions
+
+### Callback Handlers
+- Way to communicate back up
+- Parent defines function and passes it down to child as prop
+	- Child calls function, sending data to where it was defined
