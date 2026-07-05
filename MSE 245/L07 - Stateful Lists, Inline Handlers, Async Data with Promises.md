@@ -18,3 +18,7 @@
 	- Start state as empty array
 	- Write function that returns Promise of data
 	- Call it from ``useEffect`` so it runs after first render
+- Component must render first, and data arrives after; calling fetch in body re-fire on every render
+
+#mse245 
+#L07 
