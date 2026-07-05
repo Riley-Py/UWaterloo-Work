@@ -47,3 +47,16 @@
 - In the URL, the route parameter is marked with a colon
 	- Example: ``'/api/hello/:name'`` where ``:name`` is the placeholder for the value
 	- To access it, use ``req.params.name`` 
+### REST Conventions
+- URL names resource, and HTTP method names action
+- ``GET /api/recipes`` - read all recipes
+- ``POST /api/recipes`` - create new recipe
+- ``GET /api/recipes/:id`` - read one specific recipe
+
+### Receiving Data
+- Incoming data rides in request body
+- In Express, you turn it on with middleware that reads incoming JSON and attaches it to ``req.body``
+- Difference between ``GET`` route
+	- Data comes from ``req.body`` instead of ``req.params`` or ``req.query``
+	- Input stays out of URL
+### POST Endp
