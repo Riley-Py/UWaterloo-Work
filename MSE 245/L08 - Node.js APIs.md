@@ -45,4 +45,5 @@
 	- Starts server on port 5000 and keeps it running for incoming requests
 ### Route Parameters
 - In the URL, the route parameter is marked with a colon
-	- Example: ``'/api/hello/:name'`` where ``:name`` i
+	- Example: ``'/api/hello/:name'`` where ``:name`` is the placeholder for the value
+	- To access it, use ``req.params.name`` 
