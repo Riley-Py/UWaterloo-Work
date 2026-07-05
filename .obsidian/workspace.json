@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSE 245/L02 - Javascript Foundations Part 2.md",
+                "file": "MSE 245/L03 - Asynchronous Programming.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L02 - Javascript Foundations Part 2"
+              "title": "L03 - Asynchronous Programming"
             }
           }
         ]
@@ -177,8 +177,9 @@
   },
   "active": "9a5b8d5975467271",
   "lastOpenFiles": [
-    "MSE 245/L01 - Javascript Foundations Part 1.md",
     "MSE 245/L02 - Javascript Foundations Part 2.md",
+    "MSE 245/L03 - Asynchronous Programming.md",
+    "MSE 245/L01 - Javascript Foundations Part 1.md",
     "ECE 252/L08 - Networks Part 2.md",
     "MSE 245",
     "MSE 211/Week 8/Readings/Leading Teams - Hackman.md",
@@ -217,7 +218,6 @@
     "ECE 252/L01 - Intro.md",
     "ECE 252/L02 - System Call.md",
     "ECE 252/L03 - Files.md",
-    "MSE 253/Formulas.md",
     "ECE 252/Images/Pasted image 20260625124315.png",
     "ECE 252/Images/Pasted image 20260625120717.png",
     "ECE 252/Images",
