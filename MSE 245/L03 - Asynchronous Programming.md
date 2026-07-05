@@ -14,4 +14,11 @@
 - Rule: when call stack is empty, pull one callback off queue and run it
 - Synchronous code always run to completion first
 - To read files, you have to express dependency between two operations explicitly
-	- 
+	- Put the dependent call inside the callback of call it depends on
+	- Creates *callback hell*, as there are many levels of indentation
+### Callback Convention
+- ``err`` and ``result`` is called as convention
+	- ``err`` - null on success; ``error`` object with ``.message``, ``.code``, and stack trace on fail
+	- ``result`` - operation produced; file handle, number of bytes read, rows of database query; only valid if ``err`` is null
+- To handle errors, you do early return and exit the program (like C)
+- Errors don't come up through async
