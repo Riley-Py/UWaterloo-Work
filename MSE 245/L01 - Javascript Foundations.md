@@ -117,5 +117,19 @@
 - Can chain ``map`` and ``filter``, as they return array objects
 - To modify arrays in place
 	- ``push(arg)`` - put something at the end of array
-	- ``pop()`` - remove something and return t
-
+	- ``pop()`` - remove something and return that something
+	- ``splice (start_index, end_index)`` - cut the array from starting index to ending index
+### Functions
+- Three ways to do in Javascript
+	1. ````js
+	   function greet(name) {
+	   return `Hello, ${name!}`;
+	   }
+	   
+	   ````
+		- Python like
+		- Use for top-level named functions
+	2. ````js
+	   const greet = function(name) { return 
+	   }
+	   ````
