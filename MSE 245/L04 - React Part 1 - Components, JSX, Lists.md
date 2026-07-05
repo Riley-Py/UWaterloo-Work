@@ -44,4 +44,9 @@
 	- Javascript can read and change this
 	- Slow to change this
 - *Virtual DOM* - React creates copy of real DOM
-	- React 
+	- React builds fresh new virtual DOM based off previous snapshot (*reconciliation*) and works out smallest set of real-DOM changes needed
+	- Faster than modifying DOM directly
+### Attaching React to Page
+- Use ``ReactDOM.render (component, DOM_node)``
+	- ``component`` - instance of component 
+	- ``DOM_node`` - DOM node React should take over to create virtual DOM; usually ``root`` 
