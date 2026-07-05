@@ -41,3 +41,6 @@
 ### Conditional Rendering
 - Use ternary operator for most things
 - To render something or nothing at all, you can do this: ``{condition && expression to render if truthy}`` as short-hand
+
+#mse245 
+#L06 
