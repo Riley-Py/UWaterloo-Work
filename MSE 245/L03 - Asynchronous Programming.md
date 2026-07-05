@@ -21,4 +21,15 @@
 	- ``err`` - null on success; ``error`` object with ``.message``, ``.code``, and stack trace on fail
 	- ``result`` - operation produced; file handle, number of bytes read, rows of database query; only valid if ``err`` is null
 - To handle errors, you do early return and exit the program (like C)
-- Errors don't come up through async
+- Errors don't come up through async boundaries; ``try`` and ``catch`` don't work
+
+### Promises
+- Object that represents future value; something that is available later after async operation
+- Three states
+	- ``pending`` - in progress
+	- ``fulfilled`` - succeeded
+	- ``rejected`` - ``error`` object available
+- Has two methods for handling result
+	- ``then`` - runs on success
+	- ``catch`` - runs on failure
+	- Can chain ``then``; returns new promise
