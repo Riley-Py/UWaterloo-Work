@@ -60,3 +60,15 @@
 	- Data comes from ``req.body`` instead of ``req.params`` or ``req.query``
 	- Input stays out of URL
 ### POST Endpoint
+- Validation guards run first for a POST endpoint
+- Status codes carry meaning
+- Increment ID every time you put it
+### API Call With React
+- For HTTP requests, use ``fetch(url)``
+	- Returns a Promise that resolves to *response object*
+	- Read object as JSON
+- ``await`` unwraps Promise; pauses ``async`` function until response arrives, then gives you resolved value
+
+### Submitting Form
+- To let user create data, you collect data in *controlled form* and ``POST`` it
+- Each part in a submission
