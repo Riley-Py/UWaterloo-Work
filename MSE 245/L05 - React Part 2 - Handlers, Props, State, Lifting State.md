@@ -14,4 +14,17 @@
 - Steps to setup
 	1. Put the data into component
 	2. Pass it as an argument to a component
-- When parent passes attributes to child, React collects them as single object as first parameter, named ``
+- When parent passes attributes to child, React collects them as single object as first parameter, named ``props``
+- Passed down only, never up
+- Shares data only
+
+### State
+- Tells React to re-render whenever an update happens to a variable
+- Uses this structure: ``const [searchTerm, setSearchTerm] = React.useState('')``
+	- ``searchTerm`` - current state value; first render is the initial value; subsequent renders renders latest version
+	- ``setSearchTerm`` - state updater function; changes state; stores new value and tells React to re-render component
+- Never assign to state variable directly
+- Re-render steps (using user input from keyboard as example)
+	1. User types character; input fires change event
+	2. React calls ``handleChange``; passes event
+	3. ``handleChange
