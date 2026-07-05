@@ -24,3 +24,24 @@
 	- Do not use array index; it's positional and dependent on the list itself
 ### Numerous Components
 - Split one component into several components for different jobs
+- *Extracting component* - taking chunk of JSX and moving it to own function; benefits are:
+	- *Readability* 
+	- *Single responsibility*
+	- *Reusability*
+### Component Tree
+- Diagram of this: 
+	- ![[Pasted image 20260705141725.png]]
+- *Parent/child* - ``App`` is parent of ``Search`` and ``List``; they are children
+- *Siblings* - shares a parent
+- *Root component* - topmost one
+- *Leaf component* - doesn't render any other components
+- Every component can have 0, 1, or many children
+
+### DOM and Virtual DOM
+- *DOM (Document Object Model)* - browser loads page, it builds in-memory representation as tree of objects
+	- Diagram of this: 
+		- ![[Pasted image 20260705141930.png]]
+	- Javascript can read and change this
+	- Slow to change this
+- *Virtual DOM* - React creates copy of real DOM
+	- React 
