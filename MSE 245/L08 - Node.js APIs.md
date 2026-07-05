@@ -59,4 +59,4 @@
 - Difference between ``GET`` route
 	- Data comes from ``req.body`` instead of ``req.params`` or ``req.query``
 	- Input stays out of URL
-### POST Endp
+### POST Endpoint
