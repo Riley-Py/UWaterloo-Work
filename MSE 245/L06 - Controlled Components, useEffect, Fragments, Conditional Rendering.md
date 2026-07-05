@@ -18,3 +18,17 @@
 ### State Survives Re-renders
 - In ``useState``, initial value is used only on first render
 	- On every other render, React only uses current stored value
+
+### useEffect Hook
+- Runs side effects after component has rendered to screen
+- Use cases:
+	- Update one piece of state when several others change
+	- Fetch data from server
+	- Manually touch DOM
+	- Set up timers/subscriptions
+- Run rule once and have React run it whenever inputs change/re-renders
+- Here is function: ``useEffect (function, arr)``
+	- ``function`` - effect to run
+	- ``arr`` - controls when it runs
+- Three forms of it
+	- 
