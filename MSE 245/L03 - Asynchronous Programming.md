@@ -33,3 +33,10 @@
 	- ``then`` - runs on success
 	- ``catch`` - runs on failure
 	- Can chain ``then``; returns new promise
+### Async/Await
+- Makes code look synchronous while being asynchronous
+- ``async`` - function returns promise
+- ``await`` - pauses async function until Promise settles, then unwraps value
+	- Can only be used in ``async`` function
+- Modern default
+- ``try`` and ``catch`` work again
