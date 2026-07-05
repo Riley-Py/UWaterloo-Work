@@ -152,3 +152,8 @@
 ### Functions Equal Values
 - Functions are values
 - *Anonymous functions* - defined inline; single-use
+
+#mse245 
+#L01 
+
+

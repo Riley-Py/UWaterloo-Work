@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSE 245/L01 - Javascript Foundations.md",
+                "file": "MSE 245/L02 - Javascript Foundations Part 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L01 - Javascript Foundations"
+              "title": "L02 - Javascript Foundations Part 2"
             }
           }
         ]
@@ -177,8 +177,9 @@
   },
   "active": "9a5b8d5975467271",
   "lastOpenFiles": [
+    "MSE 245/L01 - Javascript Foundations Part 1.md",
+    "MSE 245/L02 - Javascript Foundations Part 2.md",
     "ECE 252/L08 - Networks Part 2.md",
-    "MSE 245/L01 - Javascript Foundations.md",
     "MSE 245",
     "MSE 211/Week 8/Readings/Leading Teams - Hackman.md",
     "MSE 211/Week 8/Readings/Team Effectiveness - Google.md",
@@ -219,7 +220,6 @@
     "MSE 253/Formulas.md",
     "ECE 252/Images/Pasted image 20260625124315.png",
     "ECE 252/Images/Pasted image 20260625120717.png",
-    "MSE 253/Guideline to Using Discrete Distributions.md",
     "ECE 252/Images",
     "Untitled.base",
     "MSE 211/Week 6/Images",
