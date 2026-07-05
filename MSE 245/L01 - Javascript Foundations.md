@@ -28,4 +28,18 @@
 - ``Infinity``, ``-Infinity``, and ``NaN`` are valid ``number`` values
 - To convert strings to numbers, use ``parseInt(string, radix)``
 	- ``string`` - type to convert
-	- ``radix`` - base 10
+	- ``radix`` - base number; use base 10
+- To check for real numbers, use ``isFinite(number)``
+	- Returns true for finite numbers; false otherwise
+- To check for ``NaN``, use ``isNaN(number)``
+	- Returns true for ``NaN``
+	- ``NaN`` isn't equal to itself
+### Strings/Template Literals
+- Double and single quotes are interchangeable 
+- Backticks are *template literals*
+	- Can embed expressions with ``${...}`` (string concatenation)
+		- Example of new string concatenation: `` `I ran ${distance} km today`; ``
+		- Example of old string concatenation: `` "I ran " + distance + " km today";
+		- Use the new form
+	- Also read multi-line strings
+- 
