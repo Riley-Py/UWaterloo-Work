@@ -94,5 +94,28 @@
 	- Keys must be in double quotes
 - To convert from object to JSON, use ``JSON.stringify(object)``
 - To convert from JSON to object, use ``JSON.parse(json)``
-- 
+### Arrays
+- Same as Python lists
+- Can hold mixed values
+- NOTE: ``typeof`` won't tell you if it's an array, so you must use ``isArray(arr)``
+
+### Iteration
+- ``for`` loop
+	- Getting index
+	- Skipping elements
+	- Break out of loop early
+- ``forEach`` loop
+	- Do something for each element
+	- For index, use a second parameter
+- ``map`` 
+	- Transform every item
+	- Returns new array
+	- Like Python list comprehension
+- ``filter``
+	- Keeps matching items
+	- Returns new array
+- Can chain ``map`` and ``filter``, as they return array objects
+- To modify arrays in place
+	- ``push(arg)`` - put something at the end of array
+	- ``pop()`` - remove something and return t
 
