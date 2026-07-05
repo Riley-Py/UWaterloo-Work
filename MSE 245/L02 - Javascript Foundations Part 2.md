@@ -50,4 +50,9 @@
 	- ``constructor`` is how to construct the class, while Python uses ``__init__`` 
 - Put methods in class body, not in constructor
 	- Memory issues
-- ``new`` creates 
+- ``new`` creates an instance of the class
+- ``extends`` allows inheritance within functions
+	- ``super`` calls parent constructor; must use before ``this`` 
+	- Child can use any method from parent and its own defined methods
+	- Child can override a parent's method; can get parent's method with ``super.methodName(args)``
+- *Polymorphism* - method overriding and method overloading
