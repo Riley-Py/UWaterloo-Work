@@ -57,4 +57,27 @@
 - ``startsWith(string)`` returns true if it starts with string
 
 ### Booleans/Truthiness
-- 
+- Falsy values
+	1. ``false``
+	2. ``0``
+	3. ``""``
+	4. ``null``
+	5. ``undefined``
+	6. ``NaN``
+- Truthy values (everything else is truthy except for the above)
+	1. `"0"`
+	2. ``"false"``
+	3. ``[]``
+	4. ``{}``
+	5. ``Infinity``
+### Null Versus Undefined
+- ``undefined`` - value not assigned yet; default state of variable declared but not initialized; Javascript does this automatically
+- ``null`` - intentionally no value; value is assigned by programmer
+
+### Checking types
+- Use ``typeof (arg)`` to check the type
+	- NOTE: ``typeof(null)`` is an object; this is a bug
+
+### Equality
+- ``===`` and ``!==`` should always be
+
