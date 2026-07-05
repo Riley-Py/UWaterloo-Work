@@ -31,4 +31,13 @@
 	- ``function`` - effect to run
 	- ``arr`` - controls when it runs
 - Three forms of it
-	- 
+	- *No array* - runs after every render
+	- *Empty array* - runs once on mount
+	- *Array with values* - runs on mount + whenever listed value changes
+### React Fragments
+- Group siblings without adding any element
+- Use ``<>...</>`` to do this
+
+### Conditional Rendering
+- Use ternary operator for most things
+- To render something or nothing at all, you can do this: ``{condition && expression to render if truthy}`` as short-hand
