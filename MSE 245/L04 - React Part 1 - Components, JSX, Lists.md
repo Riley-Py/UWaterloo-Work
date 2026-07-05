@@ -50,3 +50,5 @@
 - Use ``ReactDOM.render (component, DOM_node)``
 	- ``component`` - instance of component 
 	- ``DOM_node`` - DOM node React should take over to create virtual DOM; usually ``root`` 
+#mse245 
+#L04 
