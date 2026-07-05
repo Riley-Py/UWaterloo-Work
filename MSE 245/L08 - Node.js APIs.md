@@ -34,4 +34,15 @@
 - Gives 3 things to run web server
 	1. *Routing* - decide what code runs for each URL + method combo
 	2. *Middleware* - functions that process a request before it reaches your route
-		1. 
+		- Example: parsing body, checking auth, logging
+	3. *Response handling* - send data back in right format
+- Example: ``app.get('/menu', handler)`` 
+	- Register this as a route whenever someone calls GET for ``/menu``
+	- Handler receives 2 objects
+		- ``req`` - incoming request
+		- ``res`` - the response being built
+- ``app.listen(5000, ...)`` 
+	- Starts server on port 5000 and keeps it running for incoming requests
+### Route Parameters
+- In the URL, the route parameter is marked with a colon
+	- Example: ``'/api/hello/:name'`` where ``:name`` i
