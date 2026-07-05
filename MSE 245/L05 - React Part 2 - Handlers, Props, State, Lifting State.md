@@ -39,3 +39,11 @@
 - Way to communicate back up
 - Parent defines function and passes it down to child as prop
 	- Child calls function, sending data to where it was defined
+### Lifting State Up
+- Used when wanting to share value with list objects
+	- Move state from child up to lowest common parent that all interested components share
+- Rule: manage state at level where every component that cares about it is either manager itself or sits below it
+	- If component below needs to update state, pass callback handler
+	- If component needs to use state, pass it as prop
+#mse245 
+#L05 
