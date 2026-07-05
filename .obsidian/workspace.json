@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSE 245/L06 - Controlled Components, useEffect, Fragments, Conditional Rendering.md",
+                "file": "MSE 245/L07 - Stateful Lists, Inline Handlers, Async Data with Promises.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L06 - Controlled Components, useEffect, Fragments, Conditional Rendering"
+              "title": "L07 - Stateful Lists, Inline Handlers, Async Data with Promises"
             }
           }
         ]
@@ -177,8 +177,8 @@
   },
   "active": "9a5b8d5975467271",
   "lastOpenFiles": [
-    "MSE 245/L07 - Stateful Lists, Inline Handlers, Async Data with Promises.md",
     "MSE 245/L06 - Controlled Components, useEffect, Fragments, Conditional Rendering.md",
+    "MSE 245/L07 - Stateful Lists, Inline Handlers, Async Data with Promises.md",
     "MSE 245/L05 - React Part 2 - Handlers, Props, State, Lifting State.md",
     "MSE 245/L04 - React Part 1 - Components, JSX, Lists.md",
     "MSE 245/Images",
