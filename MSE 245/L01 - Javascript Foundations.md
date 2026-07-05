@@ -79,5 +79,20 @@
 	- NOTE: ``typeof(null)`` is an object; this is a bug
 
 ### Equality
-- ``===`` and ``!==`` should always be
+- ``===`` and ``!==`` should always be used
+	- ``==`` performs *type coercion*; converts operands to common type before comparing
+	- ``===`` compares type and value
+### Objects
+- Key-value pairs; like Python dictionaries
+	- Keys don't need quotes
+	- Can access with dot form or bracket form
+		- Example: ``person.firstName`` or ``person["firstName"]``
+- ``const`` on object doesn't allow you to assign a new object, but it still allows you to modify the values of said object
+
+### Objects to JSON
+- *JSON* - JavaScript Object Notation
+	- Keys must be in double quotes
+- To convert from object to JSON, use ``JSON.stringify(object)``
+- To convert from JSON to object, use ``JSON.parse(json)``
+- 
 
