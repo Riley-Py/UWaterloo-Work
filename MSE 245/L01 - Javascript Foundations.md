@@ -130,6 +130,25 @@
 		- Python like
 		- Use for top-level named functions
 	2. ````js
-	   const greet = function(name) { return 
+	   const greet = function(name) { return `Hello, ${name}!`;
 	   }
 	   ````
+		- Function as a value
+		- Use when function is data
+	3. ````js
+	   const greet = (name) => `Hello, ${name}!`;
+	   ````
+		- Modern, compact form
+		- Preferred way of declaring functions
+- Javascript allows extra arguments without checking; they will be ignored
+- Can give functions default values to fall back on if no arguments are provided/parameters missing
+
+### Scope
+- ``let`` and ``const`` are block-scoped
+	- Only lives within the curly braces
+- Scope can read variables from any enclosing scope
+	- Called *closure*
+
+### Functions Equal Values
+- Functions are values
+- *Anonymous functions* - defined inline; single-use
