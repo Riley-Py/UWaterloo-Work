@@ -56,3 +56,12 @@
 	- Child can use any method from parent and its own defined methods
 	- Child can override a parent's method; can get parent's method with ``super.methodName(args)``
 - *Polymorphism* - method overriding and method overloading
+
+### Arguments Object
+- Automatic variable for any non-arrow function that access every value passed to function
+	- Works for values not declared as parameters
+- Arrow functions don't have this object
+- Array-like, but not an array
+	- To get an array from arguments, use ``from(arguments)`` function
+#mse245 
+#L02 
