@@ -81,4 +81,9 @@
 	- ``buffer`` - put data to send
 	- ``size`` - size of each data element
 	- ``nitems`` - number of items
-	- Return value is 
+	- Return value is number of bytes successfully put in buffer
+- To register read and write callback
+	1. Register the function
+	2. Set the data
+#ece252 
+#L08 
