@@ -71,4 +71,13 @@
 
 ### Submitting Form
 - To let user create data, you collect data in *controlled form* and ``POST`` it
-- Each part in a submission
+- Each part in a submission, using recipes as an example:
+	- ``event.preventDefault()`` - prevents reloading the entire page when submitting
+	- Filters user input using ``split(',')`` $\rightarrow$ ``map(trim)`` $\rightarrow$ ``filter(non-empty)``, which turns input into array
+	- ``fetch`` - POST needs 3 things beyond URL
+		1. ``method: 'POST'``
+		2. ``Content-Type: application/json`` header so server knows how to read it
+		3. ``body`` - data run through ``JSON.stringify``
+		4. ``response.ok`` - true for 2xx status
+#mse245 
+#L08 
