@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSE 245/Untitled.md",
+                "file": "MSE 245/L06 - Controlled Components, useEffect, Fragments, Conditional Rendering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "L06 - Controlled Components, useEffect, Fragments, Conditional Rendering"
             }
           }
         ]
@@ -178,7 +178,7 @@
   "active": "9a5b8d5975467271",
   "lastOpenFiles": [
     "MSE 245/L05 - React Part 2 - Handlers, Props, State, Lifting State.md",
-    "MSE 245/Untitled.md",
+    "MSE 245/L06 - Controlled Components, useEffect, Fragments, Conditional Rendering.md",
     "MSE 245/L04 - React Part 1 - Components, JSX, Lists.md",
     "MSE 245/Images",
     "MSE 245/Images/Pasted image 20260705141930.png",
