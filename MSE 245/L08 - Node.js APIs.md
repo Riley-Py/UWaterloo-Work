@@ -72,7 +72,7 @@
 ### Submitting Form
 - To let user create data, you collect data in *controlled form* and ``POST`` it
 - Each part in a submission, using recipes as an example:
-	- ``event.preventDefault()`` - prevents reloading the entire page when submitting
+	- ``event.preventDefault()`` - prevents reloading the entire page when submitting; saves user data
 	- Filters user input using ``split(',')`` $\rightarrow$ ``map(trim)`` $\rightarrow$ ``filter(non-empty)``, which turns input into array
 	- ``fetch`` - POST needs 3 things beyond URL
 		1. ``method: 'POST'``
