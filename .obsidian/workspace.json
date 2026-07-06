@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSE 245/L08 - Node.js APIs.md",
+                "file": "MSE 245/L01 - Javascript Foundations Part 1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L08 - Node.js APIs"
+              "title": "L01 - Javascript Foundations Part 1"
             }
           }
         ]
@@ -177,8 +177,9 @@
   },
   "active": "9a5b8d5975467271",
   "lastOpenFiles": [
-    "MSE 245/L07 - Stateful Lists, Inline Handlers, Async Data with Promises.md",
+    "MSE 245/L02 - Javascript Foundations Part 2.md",
     "MSE 245/L08 - Node.js APIs.md",
+    "MSE 245/L07 - Stateful Lists, Inline Handlers, Async Data with Promises.md",
     "MSE 245/L06 - Controlled Components, useEffect, Fragments, Conditional Rendering.md",
     "MSE 245/L05 - React Part 2 - Handlers, Props, State, Lifting State.md",
     "MSE 245/L04 - React Part 1 - Components, JSX, Lists.md",
@@ -186,7 +187,6 @@
     "MSE 245/Images/Pasted image 20260705141930.png",
     "MSE 245/Images/Pasted image 20260705141725.png",
     "MSE 245/L03 - Asynchronous Programming.md",
-    "MSE 245/L02 - Javascript Foundations Part 2.md",
     "MSE 245/L01 - Javascript Foundations Part 1.md",
     "ECE 252/L08 - Networks Part 2.md",
     "MSE 245",
