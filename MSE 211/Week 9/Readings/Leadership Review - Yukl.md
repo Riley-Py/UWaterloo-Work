@@ -62,4 +62,15 @@
 - Components of managerial motivation for effective management include:
 	- Desire for power
 	- Desire to compete
-	- Positive attitude toward
+	- Positive attitude toward authority figures
+	- Desire for achievement
+- Skills for effective leaders include:
+	- Technical
+	- Conceptual 
+	- Interpersonal 
+	- Varies within situations
+- Balance is needed between traits; not too much and not too little
+	- Compensate for each other's weaknesses and enhance other's strengths
+#### Situational
+- *Role Theory* - expectations from superiors, peers, subordinates, outsiders influence leader's behaviour; leaders adapt behaviour to role requirements, constraints, demands of situation
+- *Demands-Constraints-Choices Theory* - pattern of interactions/
