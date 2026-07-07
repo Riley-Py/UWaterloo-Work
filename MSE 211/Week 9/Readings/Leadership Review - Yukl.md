@@ -73,4 +73,8 @@
 	- Compensate for each other's weaknesses and enhance other's strengths
 #### Situational
 - *Role Theory* - expectations from superiors, peers, subordinates, outsiders influence leader's behaviour; leaders adapt behaviour to role requirements, constraints, demands of situation
-- *Demands-Constraints-Choices Theory* - pattern of interactions/
+- *Demands-Constraints-Choices Theory* - pattern of interactions/time spent with others depends on nature of work
+	- Examples: self-generating or reactive, repetitive or variable, uncertain or predictable, fragmented or sustained, hurried or unhurried
+- Managers have choice as to what aspects of job to emphasize, allocate time, and whom to interact with; effectiveness depends on understanding demands/constraints, coping with demands, overcoming constraints, recognizing opportunity
+- Effective leaders act to modify situation to increase their discretion
+- 
