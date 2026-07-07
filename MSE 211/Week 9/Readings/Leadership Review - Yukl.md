@@ -115,4 +115,7 @@
 	- Ambiguity about what LPC scale measures
 	- Doesn't include moderate LPC leaders
 #### LMX
-- *LMX* - 
+- *LMX* - Leader-Member Exchange
+- Leaders develop different exchange relationships with different subordinates
+	- Some are given greater influence, autonomy, and benefits in exchange for loyalty, commitment, and assistance in admin duties
+- 
