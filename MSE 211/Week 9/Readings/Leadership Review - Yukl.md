@@ -152,3 +152,5 @@
 - Leader can influence subordinate performance by manipulating with these attributes
 - Leader behaviour is influenced by leader traits, situational variables, and feedback from said variables
 
+### Transformational and Charismatic Leadership
+- *Transformational leadership* - influencing major changes in attitudes/assumptions of organizational members/building commitment for organization's mission, objectives, strategies
