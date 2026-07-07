@@ -178,4 +178,15 @@
 #### Burns' Theory of Transforming Leadership
 - Process of evolving inter-relationships
 	- Leader influence followers and are influenced to modify behaviour to meet responsiveness/resistance
-- 
+- Leaders seek to raise consciousness of followers by appealing to higher ideals/values
+	- Examples: liberty, justice, equality, peace
+- Can be from anyone in the organization in any type of position
+
+#### Bass' Theory of Transformational Leadership
+- Based on Burns' theory
+- Leaders transform followers by making them more aware of importance/values of task outcomes by activating higher-order needs
+	- Result is followers feel trust and respect toward leader; more motivated to do more than expected
+- Charisma is necessary but not sufficient 
+- Two components needed are *intellectual stimulation* and *individualized consideration*
+	- *Intellectual stimulation* - leaders increase follower awareness of problems and view problems from different perspective
+	- *Individualized consideration* - providing support, enco
