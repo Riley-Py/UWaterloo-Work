@@ -23,4 +23,19 @@
 		- Not mutually exclusive; not enough to have expertise or information, but must use expertise to solve problems for others who are dependent, or using information to influence decision
 - *Social Exchange Theory* - greater status/expert power are awarded to someone within a group who is loyal to group and competent in solving problems/making decisions
 	- Example: Proposals are source of increased power if good, but leaders can lose power if failure occurs at expense of group
-- 
+- Effective leaders rely on combo of power sources
+	- Develop expert power to support position power, and use it to motivate commitment to high-effort tasks
+	- Exhibits position/personal power in subtle way
+- Direct tactics used by leaders include
+	- Rational persuasion
+	- Exchange of benefits
+	- Pressure
+	- Appeal to authority
+	- Consultation
+	- Inspirational appeal
+- Indirect tactics used by leaders include
+	- Role modelling
+	- Situational engineering
+	- Political coalitions
+- Amount of power depends on nature of organization, task, subordinates
+	- Too little position power, and it's difficult to develop high-performing organization
