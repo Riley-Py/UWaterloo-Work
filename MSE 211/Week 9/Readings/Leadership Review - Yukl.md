@@ -108,4 +108,11 @@
 	- Simplifying decision processes
 	- Assumption that managers have skills to use each decision procedure
 #### LPC Contingency
-- 
+- *LPC* - Least Preferred Co-worker index
+- High LPC leaders (relationship-oriented) are more effective in some situations and low LPC leaders (task-oriented) are more effective in other situations
+- Weaknesses include
+	- Focus on single leader trait
+	- Ambiguity about what LPC scale measures
+	- Doesn't include moderate LPC leaders
+#### LMX
+- *LMX* - 
