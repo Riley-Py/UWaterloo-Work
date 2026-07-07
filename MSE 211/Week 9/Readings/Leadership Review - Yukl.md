@@ -39,3 +39,13 @@
 	- Political coalitions
 - Amount of power depends on nature of organization, task, subordinates
 	- Too little position power, and it's difficult to develop high-performing organization
+	- Too much position power, and it leads to resentment and rebellion
+	- Optimal amount of power should be moderate, and leader should have constraints on how to use it
+
+#### Behaviour
+- Relevant info exists in head of individuals who are scattered within/outside organization; managers make decisions based on incomplete information
+	- Managers have to rely on oral interaction for info, problems, and influence; involves peers, superiors, outsiders, subordinates
+- Decision processes are political; planning is informal and subject to changing conditions
+- Effective managers are able to recognize relationships among problems, issues, and opportunities they see
+	- Can find opportunities to solve more than one problem at same time
+- 
