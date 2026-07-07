@@ -49,4 +49,10 @@
 	- Modesty is related to agreeableness, but isn't to leadership
 - Ambiguously related to leader emergence/effectiveness
 
-#### Conscienti
+#### Conscientiousness
+- Related to overall job performance; therefore related to leader effectiveness
+- Initiative/persistence are related to leadership
+- Positively related to leader emergence/effectiveness
+
+#mse211 
+#reading 
