@@ -88,17 +88,20 @@
 #### Path-Goal
 - Leaders motivate higher performance by influencing subordinates to believe valued outcomes can be got by making serious effort
 - Aspects of situation determine optimal amount of each type of leader behaviour for improved subordinate performance
-- Ignores leader's influence on task organization, resource levels, and skill levels as weaknesses to theory
+- Weaknesses include
+	- Ignores leader's influence on task organization, resource levels, and skill levels as weaknesses to theory
 
 #### Situational Leadership
 - Optimal amount of task and relations behaviour depends on subordinate maturity
-- Too simple, and lack of intervening explanatory processes
+- Weaknesses include
+	- Too simple, and lack of intervening explanatory processes
 
 #### Leader Substitutes
 - Supportive/instrumental leadership by designated hierarchical leaders is redundant or irrelevant in some situations
 	- Characteristics of subordinates, task, and organization serve as either *substitutes* for leadership or *neutralizers* for effects
-- Fails to provide explanation for substitute/neutralizer
-- Over-reliance on categories of leader behaviour that are too broad to link to situational conditions
+- Weaknesses include
+	- Fails to provide explanation for substitute/neutralizer
+	- Over-reliance on categories of leader behaviour that are too broad to link to situational conditions
 
 #### Normative Decision
 - Decision procedures most likely to result in effective decision in particular situation; moderator variables are characteristics of immediate situation that determine whether decision procedure will increase/decrease decision quality
@@ -118,4 +121,13 @@
 - *LMX* - Leader-Member Exchange
 - Leaders develop different exchange relationships with different subordinates
 	- Some are given greater influence, autonomy, and benefits in exchange for loyalty, commitment, and assistance in admin duties
-- 
+- Effective leaders establish some degree of special relationship between all members
+- Weaknesses include
+	- Process of role-making
+	- Unclear on how selection occurs
+	- Need clearer separation between quality of relationship, measures of specific leader behaviour, and measures of outcomes
+#### Cognitive Resources
+- Leader's cognitive resources affect group performance when leader is directive and task is unstructured
+	- Leader intelligence is related to group performance when stress is low
+- Weaknesses include
+	- Emphasizes general intelligence over skills like analytical ability, planning
