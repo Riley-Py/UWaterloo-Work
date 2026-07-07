@@ -20,3 +20,6 @@
 - Transforming leader moves followers up Maslow's hierarchy
 - Transformational leader needs to align followers' self-interests in their own development with the interests of the group
 
+### Related Concepts And Measures
+- Transformational leaders can be directive (authoritarian) or participative (democratic)
+- *Leader-member exchange (LMX)* - refer to [[Leadership Review - Yukl|leadership review]]
