@@ -77,4 +77,8 @@
 	- Examples: self-generating or reactive, repetitive or variable, uncertain or predictable, fragmented or sustained, hurried or unhurried
 - Managers have choice as to what aspects of job to emphasize, allocate time, and whom to interact with; effectiveness depends on understanding demands/constraints, coping with demands, overcoming constraints, recognizing opportunity
 - Effective leaders act to modify situation to increase their discretion
-- 
+- [[Ross|Attribution Theory]] is used to how managers interpret situations
+	- Determine if its internal to subordinate control (lack of effort) or external (no resources/support)
+	- External attribution made, manager will try to change situation
+	- Internal attribution made, manager provide detailed instruction/coaching
+		- For effort, manager will give
