@@ -48,4 +48,8 @@
 - Decision processes are political; planning is informal and subject to changing conditions
 - Effective managers are able to recognize relationships among problems, issues, and opportunities they see
 	- Can find opportunities to solve more than one problem at same time
-- 
+- Task/relationship-oriented behaviour are required for leadership effectiveness
+- Participation/empowerment of subordinates is a key trait of effect managers
+	- Power sharing and delegation also play a role as well
+- Praise/rewards increase subordinate satisfaction/performance
+- Clarifying for subordinates is related to effective perfo
