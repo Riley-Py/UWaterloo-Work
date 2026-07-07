@@ -7,4 +7,14 @@
 - Dominance and masculinity/femininity related to leadership emergence some studies
 ### Five-Factor Model of Personality
 - Related to [[Personalities|this article]]
-- Heritable and sta
+- Heritable and stable over time
+- Relevant to aspects of life
+	- Well-being
+	- Longevity
+- Applied to job performance
+
+### Leadership Criteria
+- Two categories: *leadership emergence* and *leadership effectiveness*
+	- *Leadership emergence* - viewed by leader by others; others have limited info on individual's performance
+	- *Leadership effectiveness* - leader's performance in influencing/guiding activities of unit toward achievement of goals
+		- Measured in terms of team, group, or organizational effectiveness through ratings by supervisor, peer, or subordinate
