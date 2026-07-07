@@ -96,4 +96,16 @@
 
 #### Leader Substitutes
 - Supportive/instrumental leadership by designated hierarchical leaders is redundant or irrelevant in some situations
-	- Characteristics of subordinates, task, and organization serve as either *substitutes* for leadership or *neutra*
+	- Characteristics of subordinates, task, and organization serve as either *substitutes* for leadership or *neutralizers* for effects
+- Fails to provide explanation for substitute/neutralizer
+- Over-reliance on categories of leader behaviour that are too broad to link to situational conditions
+
+#### Normative Decision
+- Decision procedures most likely to result in effective decision in particular situation; moderator variables are characteristics of immediate situation that determine whether decision procedure will increase/decrease decision quality
+- Best of situational theories
+- Focus on specific aspects of behaviour rather than broad behaviour
+- Weaknesses include
+	- Simplifying decision processes
+	- Assumption that managers have skills to use each decision procedure
+#### LPC Contingency
+- 
