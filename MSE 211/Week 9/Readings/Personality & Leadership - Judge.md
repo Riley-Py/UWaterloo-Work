@@ -36,3 +36,15 @@
 	- Active
 	- Lively
 	- Restless
+- Dominance and sociability are related to self/peer ratings of leadership
+- Positively related to leader emergence/effectiveness; leans more toward emergence
+
+#### Openness
+- Originality/creativity is related to leadership
+- Positively related to leader emergence/effectiveness
+
+#### Agreeableness
+- Ambiguous connection
+	- Interpersonal sensitivity is related to leadership
+	- Modesty is related to agreeableness, but isn't to leadership
+- 
