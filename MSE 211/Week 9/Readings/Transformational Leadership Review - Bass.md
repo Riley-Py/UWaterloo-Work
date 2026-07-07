@@ -22,4 +22,9 @@
 
 ### Related Concepts And Measures
 - Transformational leaders can be directive (authoritarian) or participative (democratic)
-- *Leader-member exchange (LMX)* - refer to [[Leadership Review - Yukl|leadership review]]
+- *Leader-member exchange (LMX)* - refer to [[Leadership Review - Yukl|leadership review]] 
+- *Individualized consideration* - concern for each follower as an individual and with follower's development
+
+### Training, Education, Development
+- Mature moral development is required for transformational leader
+- 
