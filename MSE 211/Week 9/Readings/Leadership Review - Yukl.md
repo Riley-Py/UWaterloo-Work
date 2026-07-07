@@ -81,4 +81,10 @@
 	- Determine if its internal to subordinate control (lack of effort) or external (no resources/support)
 	- External attribution made, manager will try to change situation
 	- Internal attribution made, manager provide detailed instruction/coaching
-		- For effort, manager will give
+		- For effort, manager will give incentives/warnings
+### Situational Theories
+- Nine theories listed for leader effectiveness
+
+#### Path-Goal
+- Leaders motivate higher performance by influencing subordinates to believe valued outcomes can be got by making serious effort
+- 
