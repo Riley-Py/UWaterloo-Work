@@ -47,4 +47,6 @@
 - Ambiguous connection
 	- Interpersonal sensitivity is related to leadership
 	- Modesty is related to agreeableness, but isn't to leadership
-- 
+- Ambiguously related to leader emergence/effectiveness
+
+#### Conscienti
