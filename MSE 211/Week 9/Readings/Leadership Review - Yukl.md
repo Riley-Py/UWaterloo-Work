@@ -181,6 +181,7 @@
 - Leaders seek to raise consciousness of followers by appealing to higher ideals/values
 	- Examples: liberty, justice, equality, peace
 - Can be from anyone in the organization in any type of position
+- *Transactional leadership* - followers are motivated by appealing to their self-interest
 
 #### Bass' Theory of Transformational Leadership
 - Based on Burns' theory
@@ -189,4 +190,5 @@
 - Charisma is necessary but not sufficient 
 - Two components needed are *intellectual stimulation* and *individualized consideration*
 	- *Intellectual stimulation* - leaders increase follower awareness of problems and view problems from different perspective
-	- *Individualized consideration* - providing support, enco
+	- *Individualized consideration* - providing support, encouragement to followers
+- Same leader can use transactional
