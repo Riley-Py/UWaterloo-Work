@@ -154,3 +154,12 @@
 
 ### Transformational and Charismatic Leadership
 - *Transformational leadership* - influencing major changes in attitudes/assumptions of organizational members/building commitment for organization's mission, objectives, strategies
+	- Involves influence by leader on subordinates
+	- Shared process
+- *Charismatic leadership* - perception that leader possesses inspired gift and is unique/larger than life
+	- Followers worship/idolize leader as hero/spiritual figure
+	- Focus is on individual leader
+
+#### House's Charismatic Leadership
+- Specific leader traits are needed, like
+	- 
