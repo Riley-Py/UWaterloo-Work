@@ -16,5 +16,23 @@
 ### Leadership Criteria
 - Two categories: *leadership emergence* and *leadership effectiveness*
 	- *Leadership emergence* - viewed by leader by others; others have limited info on individual's performance
+		- Within-group; leader emerged from within a group
 	- *Leadership effectiveness* - leader's performance in influencing/guiding activities of unit toward achievement of goals
 		- Measured in terms of team, group, or organizational effectiveness through ratings by supervisor, peer, or subordinate
+		- Between-groups; must be a leader first and compared to other leaders in different groups
+### Relationship of Big Five Traits to Leadership
+
+#### Neuroticism
+- Low neuroticism were related to higher self-confidence and self-esteem
+- Neurotic individuals are less likely to be perceived as leaders
+- Negatively related to leader emergence/effectiveness
+
+#### Extraversion
+- Related to social leadership and leader emergence
+- Inconsistent findings in relating extraversion to leadership
+- Leaders are more likely to have high level of:
+	- Energy
+	- Stamina
+	- Active
+	- Lively
+	- Restless
