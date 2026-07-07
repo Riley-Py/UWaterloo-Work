@@ -52,4 +52,14 @@
 - Participation/empowerment of subordinates is a key trait of effect managers
 	- Power sharing and delegation also play a role as well
 - Praise/rewards increase subordinate satisfaction/performance
-- Clarifying for subordinates is related to effective perfo
+- Clarifying for subordinates is related to effective management
+- Planning that was informal/flexible is related to leadership
+- Motivating behaviour (inspiring enthusiasm, role-modelling) was related to effective leadership
+
+#### Trait
+- High self-confidence, energy, initiative, emotional maturity, stress tolerance, and belief in internal control are related to leadership effectiveness
+	- Managers are pragmatic/results-oriented
+- Components of managerial motivation for effective management include:
+	- Desire for power
+	- Desire to compete
+	- Positive attitude toward
