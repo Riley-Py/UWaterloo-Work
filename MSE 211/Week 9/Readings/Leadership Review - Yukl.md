@@ -162,4 +162,20 @@
 
 #### House's Charismatic Leadership
 - Specific leader traits are needed, like
-	- 
+	- Strong need for power
+	- High self-confidence
+	- Strong convictions
+- Behaviours needed are
+	- Impression management to maintain follower confidence
+	- Communication of appealing vision to define task in terms of idealogical goals to build follower commitment
+	- Communication of high expectations
+	- Expression of confidence that followers' can build their own confidence
+- *Pygmalion effect* - followers perform better when leader expresses confidence in them
+
+#### Conger and Kanungo Charismatic Theory
+- Charisma is an attributional phenomenon
+	- Followers attribute qualities to leader based on observations of leader behaviour/outcomes
+#### Burns' Theory of Transforming Leadership
+- Process of evolving inter-relationships
+	- Leader influence followers and are influenced to modify behaviour to meet responsiveness/resistance
+- 
