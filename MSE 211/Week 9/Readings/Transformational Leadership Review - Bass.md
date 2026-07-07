@@ -27,4 +27,10 @@
 
 ### Training, Education, Development
 - Mature moral development is required for transformational leader
-- 
+- Training and education can aid in making transformational leader
+
+### Contingencies
+- Transformational leadership is enhanced by centrality of work in life and high level of group orientation among followers
+- In organizations, desired role models of leadership start at the top, and are encouraged in subsequent lower levels
+- Individually considerate leaders will participate in encouraging and fostering organizational cultures that are conducive to creativity, problem solving, risk taking, and experimentation
+- Women tend to be more transformational than men
