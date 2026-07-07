@@ -150,3 +150,5 @@
 	3. Clear role perceptions
 	4. Presence/absence of environmental constraints
 - Leader can influence subordinate performance by manipulating with these attributes
+- Leader behaviour is influenced by leader traits, situational variables, and feedback from said variables
+
