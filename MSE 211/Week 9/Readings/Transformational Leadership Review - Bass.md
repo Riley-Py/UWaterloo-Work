@@ -18,4 +18,5 @@
 ### Going Beyond Self-Actualization
 - Related to [[Maslow's Hierarchy of Needs|maslow's hierarchy of needs]] 
 - Transforming leader moves followers up Maslow's hierarchy
-- 
+- Transformational leader needs to align followers' self-interests in their own development with the interests of the group
+
