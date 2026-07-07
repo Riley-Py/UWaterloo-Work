@@ -198,4 +198,9 @@
 
 ### Issues/Controversies
 - Leaders are often pictured as heroic who are capable of determining the fate of organizations
-	- Bias towards explaining experience through rational actions 
+	- Bias towards explaining experience through rational actions of people
+- Bias for people to exaggerate the importance of leadership as cause of organizational performance
+- Leadership importance lies between two extremes of heroic leader and figurehead
+
+#mse211 
+#reading
