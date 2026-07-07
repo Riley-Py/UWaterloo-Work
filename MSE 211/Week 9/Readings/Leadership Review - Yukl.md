@@ -191,4 +191,11 @@
 - Two components needed are *intellectual stimulation* and *individualized consideration*
 	- *Intellectual stimulation* - leaders increase follower awareness of problems and view problems from different perspective
 	- *Individualized consideration* - providing support, encouragement to followers
-- Same leader can use transactional
+- Same leader can use transactional/transformational leadership at different times in different situations
+
+### Framework of Leadership
+- ![[Pasted image 20260707120930.png]]
+
+### Issues/Controversies
+- Leaders are often pictured as heroic who are capable of determining the fate of organizations
+	- Bias towards explaining experience through rational actions 
