@@ -130,4 +130,23 @@
 - Leader's cognitive resources affect group performance when leader is directive and task is unstructured
 	- Leader intelligence is related to group performance when stress is low
 - Weaknesses include
-	- Emphasizes general intelligence over skills like analytical ability, planning
+	- Emphasizes general intelligence over skills like analytical ability, planning, reasoning, and creativity
+#### Multiple Linkage
+- Work unit performance dependent on six attributes:
+	1. Member effort
+	2. Member ability
+	3. Organization of work
+	4. Teamwork and cooperation
+	5. Availability of resources
+	6. External coordination with other parts of organization
+- Weaknesses include
+	- Lack of specific propositions where leader behaviours influence which intervening variables in which situations
+
+#### Leader-Environment-Follower-Interaction
+- Similar to Multiple Linkage
+- Subordinate performance is dependent on four attributes:
+	1. Ability to do work
+	2. Task motivation
+	3. Clear role perceptions
+	4. Presence/absence of environmental constraints
+- Leader can influence subordinate performance by manipulating with these attributes
