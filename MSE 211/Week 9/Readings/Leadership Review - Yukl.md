@@ -19,4 +19,8 @@
 	- Influence over events
 	- Two types of power: *position power* and *personal power*
 		- *Personal power* - control over information; expertise
-		- 
+		- *Position power* - power given to person within a position they are in
+		- Not mutually exclusive; not enough to have expertise or information, but must use expertise to solve problems for others who are dependent, or using information to influence decision
+- *Social Exchange Theory* - greater status/expert power are awarded to someone within a group who is loyal to group and competent in solving problems/making decisions
+	- Example: Proposals are source of increased power if good, but leaders can lose power if failure occurs at expense of group
+- 
