@@ -87,4 +87,13 @@
 
 #### Path-Goal
 - Leaders motivate higher performance by influencing subordinates to believe valued outcomes can be got by making serious effort
-- 
+- Aspects of situation determine optimal amount of each type of leader behaviour for improved subordinate performance
+- Ignores leader's influence on task organization, resource levels, and skill levels as weaknesses to theory
+
+#### Situational Leadership
+- Optimal amount of task and relations behaviour depends on subordinate maturity
+- Too simple, and lack of intervening explanatory processes
+
+#### Leader Substitutes
+- Supportive/instrumental leadership by designated hierarchical leaders is redundant or irrelevant in some situations
+	- Characteristics of subordinates, task, and organization serve as either *substitutes* for leadership or *neutra*
