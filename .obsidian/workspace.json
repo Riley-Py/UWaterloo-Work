@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSE 261 (Complete in Content)/Topic 8/Tax, Depreciation, Life Cycle Costing.md",
+                "file": "MSE 253/Module 5 - Functions of Discrete and Continuous Random Variables.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tax, Depreciation, Life Cycle Costing"
-            }
-          },
-          {
-            "id": "451d3ec3dca23f75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Module 5 - Functions of Discrete and Continuous Random Variables"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,10 +176,10 @@
       "print:Print note": false
     }
   },
-  "active": "451d3ec3dca23f75",
+  "active": "6164685f11577843",
   "lastOpenFiles": [
-    "MSE 261 (Complete in Content)/Topic 8/Tax, Depreciation, Life Cycle Costing.md",
     "conflict-files-obsidian-git.md",
+    "MSE 261 (Complete in Content)/Topic 8/Tax, Depreciation, Life Cycle Costing.md",
     "MSE 245/Images/Pasted image 20260705141725.png",
     "MSE 245/Images/Pasted image 20260705141930.png",
     "MSE 245/L08 - Node.js APIs.md",
