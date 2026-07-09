@@ -94,7 +94,10 @@ $$E(X^r) = {\sum_x x^rp(x)}$$
 ### Continuous nth-Moment
 $$E(X^r) = {\int_{a}^{b}x^rf(x){dx}}$$
 ### Moment Generating Function - Discrete
-$$E(e^{tX}) = 
+$$E(e^{tX}) = {\sum_x}e^{tx}p(x)$$
+### Moment Generating Function - Continuous
+$$E(e^{tX}) = {\int_a^b e^{tx}f(x)dx}$$
+### Conversion Between Function 
 
 
 
