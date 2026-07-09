@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSE 253/Module 5 - Functions of Discrete and Continuous Random Variables.md",
+                "file": "MSE 211/Week 9/Readings/Leadership Review - Yukl.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Module 5 - Functions of Discrete and Continuous Random Variables"
+              "title": "Leadership Review - Yukl"
             }
           }
         ]
@@ -176,8 +176,11 @@
       "print:Print note": false
     }
   },
-  "active": "6164685f11577843",
+  "active": "059c515cd4110e39",
   "lastOpenFiles": [
+    "MSE 211/Week 9/Images/Pasted image 20260707120930.png",
+    "MSE 211/Week 9/Images",
+    "MSE 253/Module 5 - Functions of Discrete and Continuous Random Variables.md",
     "conflict-files-obsidian-git.md",
     "MSE 261 (Complete in Content)/Topic 8/Tax, Depreciation, Life Cycle Costing.md",
     "MSE 245/Images/Pasted image 20260705141725.png",
@@ -214,8 +217,6 @@
     "SCI 238 (AI Notes, Complete)/Chapter 3 - The Science of Astronomy/The Historical Importance of Astronomy.md",
     "SCI 238 (AI Notes, Complete)/Chapter 3 - The Science of Astronomy/The Nature of Science.md",
     "SCI 238 (AI Notes, Complete)/Chapter 5 - Light & Matter Reading Messages from the Cosmos/Learning from Light.md",
-    "SCI 238 (AI Notes, Complete)/Chapter 2 - Discovering the Universe Yourself/Seasons on Earth.md",
-    "SCI 238 (AI Notes, Complete)/Chapter 3 - The Science of Astronomy/Challenging an Earth-Centred Model.md",
     "SCI 238 (AI Notes, Complete)/Chapter 7 - Our Planetary System",
     "SCI 238 (AI Notes, Complete)/Images",
     "SCI 238 (AI Notes, Complete)/Chapter S2 - Space & Time",
@@ -223,7 +224,6 @@
     "SCI 238 (AI Notes, Complete)/Chapter 6 - Telescopes Portals of Discovery",
     "SCI 238 (AI Notes, Complete)/Chapter 5 - Light & Matter Reading Messages from the Cosmos",
     "SCI 238 (AI Notes, Complete)/Chapter 3 - The Science of Astronomy",
-    "SCI 238 (AI Notes, Complete)/Chapter 2 - Discovering the Universe Yourself",
     "Untitled.canvas"
   ]
 }
