@@ -111,7 +111,9 @@ Note: r represents the amount of times to take derivative (first derivative, sec
 
 ### Sampling
 
-*Variance*: $$S^2 = {{1 \over n - 1} \sum_{i =1}^n (X_i - \bar X)} $$
+*Variance*: $$S^2 = {{1 \over n - 1} \sum_{i =1}^n (X_i - \bar X)^2} $$
+*Standard Deviation*: $$ S = \sqrt{S^2}$$
+
 
 
 
