@@ -1,2 +1,5 @@
 - *One-One Transformations* - each value $x$ is related to one value $y = u(x)$ and that each value $y$ is related to one value $x = w(y)$,obtained by solving $y = u(x)$ for $x$ in terms of $y$ 
-- fasdf
+- More details can be found in the slides
+
+## Moments
+- 
