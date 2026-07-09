@@ -97,7 +97,9 @@ $$E(X^r) = {\int_{a}^{b}x^rf(x){dx}}$$
 $$E(e^{tX}) = {\sum_x}e^{tx}p(x)$$
 ### Moment Generating Function - Continuous
 $$E(e^{tX}) = {\int_a^b e^{tx}f(x)dx}$$
-### Conversion Between Function 
+### Conversion Between Function and Moment
+$$E(X^r) = {{d^rE(e^{tX})} \over {dt}^r}$$
+
 
 
 
