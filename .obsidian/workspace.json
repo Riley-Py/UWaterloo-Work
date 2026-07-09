@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSE 253/Module 5 - Functions of Discrete and Continuous Random Variables, Moments.md",
+                "file": "MSE 253/Formulas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Module 5 - Functions of Discrete and Continuous Random Variables, Moments"
+              "title": "Formulas"
             }
           }
         ]
@@ -165,6 +165,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "print:Print note": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -177,6 +178,10 @@
   },
   "active": "9a5b8d5975467271",
   "lastOpenFiles": [
+    "MSE 253/Module 4 - Continuous Distributions.md",
+    "MSE 253/Module 5 - Functions of Discrete and Continuous Random Variables, Moments.md",
+    "MSE 253/Formulas.md",
+    "MSE 253/Module 6 -.md",
     "MSE 211/Week 9/Readings/Transformational Leadership Review - Bass.md",
     "Pasted image 20260707120930.png",
     "MSE 261 (Complete in Content)/Topic 1/Time Value of Money (Topic 1).md",
@@ -209,9 +214,6 @@
     "MSE 261 (Complete in Content)/Formulas/Present and Future Worth.md",
     "MSE 261 (Complete in Content)/Formulas/Market Capitalization.md",
     "MSE 261 (Complete in Content)/Formulas/Life-Cycle Costing.md",
-    "MSE 261 (Complete in Content)/Formulas/Internal Rate of Return.md",
-    "MSE 261 (Complete in Content)/Formulas/Interest Rate & Inflation.md",
-    "MSE 261 (Complete in Content)/Formulas/Geometric Gradient Series.md",
     "MSE 261 (Complete in Content)/Topic 4",
     "MSE 261 (Complete in Content)/Topic 1",
     "MSE 261 (Complete in Content)/Topic 8",
