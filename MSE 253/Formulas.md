@@ -90,7 +90,11 @@ $$ P(Z > z) = 1 - P(Z < z)$$
 ## Moments
 
 ### Discrete nth-Moment
-$$E(X^r) = {\sum_x x^r}
+$$E(X^r) = {\sum_x x^rp(x)}$$
+### Continuous nth-Moment
+$$E(X^r) = {\int_{a}^{b}x^rf(x){dx}}$$
+### Moment Generating Function - Discrete
+$$E(e^{tX}) = 
 
 
 
