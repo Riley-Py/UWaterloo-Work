@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c8c939895370aa65",
+        "id": "2a62b197e9348ebe",
         "type": "tabs",
         "children": [
           {
-            "id": "6164685f11577843",
+            "id": "9a5b8d5975467271",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSE 253/Module 5 - Functions of Discrete and Continuous Random Variables, Moments.md",
+                "file": "MSE 211/Week 9/Readings/Transformational Leadership Review - Bass.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Module 5 - Functions of Discrete and Continuous Random Variables, Moments"
+              "title": "Transformational Leadership Review - Bass"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#l04",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SCI 238/Chapter 3 - The Science of Astronomy/The Historical Importance of Astronomy.md",
+                "file": "Unit 3 - Rates of Reaction/Requirements for Reaction to Occur.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for The Historical Importance of Astronomy"
+              "title": "Backlinks for Requirements for Reaction to Occur"
             }
           },
           {
@@ -172,58 +172,57 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "print:Print note": false
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6164685f11577843",
+  "active": "9a5b8d5975467271",
   "lastOpenFiles": [
-    "MSE 253/Formulas.md",
-    "MSE 253/Module 5 - Functions of Discrete and Continuous Random Variables, Moments.md",
-    "MSE 253/Module 4 - Continuous Distributions.md",
-    "MSE 211/Week 9/Readings/Leadership Review - Yukl.md",
-    "MSE 211/Week 9/Images/Pasted image 20260707120930.png",
-    "MSE 211/Week 9/Images",
-    "conflict-files-obsidian-git.md",
+    "Pasted image 20260707120930.png",
+    "MSE 211/Week 9/Readings/Transformational Leadership Review - Bass.md",
+    "MSE 261 (Complete in Content)/Topic 1/Time Value of Money (Topic 1).md",
     "MSE 261 (Complete in Content)/Topic 8/Tax, Depreciation, Life Cycle Costing.md",
-    "MSE 245/Images/Pasted image 20260705141725.png",
-    "MSE 245/Images/Pasted image 20260705141930.png",
-    "MSE 245/L08 - Node.js APIs.md",
-    "MSE 245/L06 - Controlled Components, useEffect, Fragments, Conditional Rendering.md",
-    "MSE 245/L07 - Stateful Lists, Inline Handlers, Async Data with Promises.md",
-    "MSE 245/L04 - React Part 1 - Components, JSX, Lists.md",
-    "MSE 245/L05 - React Part 2 - Handlers, Props, State, Lifting State.md",
-    "MSE 245/L03 - Asynchronous Programming.md",
-    "MSE 245/L02 - Javascript Foundations Part 2.md",
-    "MSE 245/L01 - Javascript Foundations Part 1.md",
-    "MSE 245/Images",
-    "MSE 245",
-    "SCI 238 (AI Notes, Complete)/Images/umbra-penumbra.webp",
-    "SCI 238 (AI Notes, Complete)/Images/total-solar-eclipse-com.png",
-    "SCI 238 (AI Notes, Complete)/Images/total-lunar-eclipse-blood-moon.png",
-    "SCI 238 (AI Notes, Complete)/Images/Solar_System_true_color_(title_and_caption).jpg",
-    "SCI 238 (AI Notes, Complete)/Images/Screenshot 2025-09-27 124346.jpg",
-    "SCI 238 (AI Notes, Complete)/Images/phases-Moon-Earth-orbit.webp",
-    "SCI 238 (AI Notes, Complete)/Images/Saros145-big.jpg",
-    "SCI 238 (AI Notes, Complete)/Chapter 7 - Our Planetary System/Discovering our Solar System.md",
-    "SCI 238 (AI Notes, Complete)/Chapter 7 - Our Planetary System/Our Planetary System.md",
-    "SCI 238 (AI Notes, Complete)/Chapter S2 - Space & Time/Introduction to Special Relativity.md",
-    "SCI 238 (AI Notes, Complete)/Chapter 4 - Making Sense of the Universe (Understanding Motion, Energy, Gravity)/Physical Laws.md",
-    "SCI 238 (AI Notes, Complete)/Chapter 6 - Telescopes Portals of Discovery/Telescopes.md",
-    "SCI 238 (AI Notes, Complete)/Chapter S2 - Space & Time/Theory and Evidence of Special Relativity.md",
-    "SCI 238 (AI Notes, Complete)/Chapter 4 - Making Sense of the Universe (Understanding Motion, Energy, Gravity)/Motion, Energy, Gravity.md",
-    "SCI 238 (AI Notes, Complete)/Chapter 6 - Telescopes Portals of Discovery/Telescopes and the Atmosphere.md",
-    "SCI 238 (AI Notes, Complete)/Chapter 5 - Light & Matter Reading Messages from the Cosmos/Light.md",
-    "SCI 238 (AI Notes, Complete)/Chapter 6 - Telescopes Portals of Discovery/Eyes and Cameras.md",
-    "SCI 238 (AI Notes, Complete)/Chapter 5 - Light & Matter Reading Messages from the Cosmos/Matter.md",
-    "SCI 238 (AI Notes, Complete)/Chapter 3 - The Science of Astronomy/The Historical Importance of Astronomy.md",
-    "SCI 238 (AI Notes, Complete)/Chapter 7 - Our Planetary System",
-    "SCI 238 (AI Notes, Complete)/Images",
-    "SCI 238 (AI Notes, Complete)/Chapter S2 - Space & Time",
-    "SCI 238 (AI Notes, Complete)/Chapter 4 - Making Sense of the Universe (Understanding Motion, Energy, Gravity)",
-    "SCI 238 (AI Notes, Complete)/Chapter 6 - Telescopes Portals of Discovery",
-    "SCI 238 (AI Notes, Complete)/Chapter 5 - Light & Matter Reading Messages from the Cosmos",
-    "SCI 238 (AI Notes, Complete)/Chapter 3 - The Science of Astronomy",
+    "MSE 261 (Complete in Content)/Topic 1/Introduction (Topic 1).md",
+    "MSE 261 (Complete in Content)/Topic 4/Stocks (Topic 4).md",
+    "MSE 261 (Complete in Content)/Topic 4/Bond (Topic 4).md",
+    "MSE 261 (Complete in Content)/Topic 7/Financial Statements.md",
+    "MSE 261 (Complete in Content)/Topic 9/Inflation.md",
+    "MSE 261 (Complete in Content)/Images/Pasted image 20251116173152.png",
+    "MSE 261 (Complete in Content)/Images/Pasted image 20251116170617.png",
+    "MSE 261 (Complete in Content)/Images/Pasted image 20251107113329.png",
+    "MSE 261 (Complete in Content)/Images/Pasted image 20251107112436.png",
+    "MSE 261 (Complete in Content)/Images/Pasted image 20251016100652.png",
+    "MSE 261 (Complete in Content)/Images/Pasted image 20251015104336.png",
+    "MSE 261 (Complete in Content)/Images/Pasted image 20250910105403.png",
+    "MSE 261 (Complete in Content)/Images/Pasted image 20250910105207.png",
+    "MSE 261 (Complete in Content)/Images/Pasted image 20250910104120.png",
+    "MSE 261 (Complete in Content)/Images/Pasted image 20250910103234.png",
+    "MSE 261 (Complete in Content)/Topic 3/Project Evaluation (Topic 3).md",
+    "MSE 261 (Complete in Content)/Topic 5/Risk & Return (Topic 5).md",
+    "MSE 261 (Complete in Content)/Topic 6/Risk Management (Topic 6).md",
+    "MSE 261 (Complete in Content)/Topic 2/Cash Flow Analysis (Topic 2).md",
+    "MSE 261 (Complete in Content)/Formulas/Yield-To-Maturity (YTM).md",
+    "MSE 261 (Complete in Content)/Formulas/Unit-Of-Production.md",
+    "MSE 261 (Complete in Content)/Formulas/Uniform Cash Flow.md",
+    "MSE 261 (Complete in Content)/Formulas/Straight-Line Depreciation.md",
+    "MSE 261 (Complete in Content)/Formulas/Standard Deviation of Returns.md",
+    "MSE 261 (Complete in Content)/Formulas/Sharpe Ratio.md",
+    "MSE 261 (Complete in Content)/Formulas/Regression Model on Market-Wide Risk.md",
+    "MSE 261 (Complete in Content)/Formulas/Present and Future Worth.md",
+    "MSE 261 (Complete in Content)/Formulas/Market Capitalization.md",
+    "MSE 261 (Complete in Content)/Formulas/Life-Cycle Costing.md",
+    "MSE 261 (Complete in Content)/Formulas/Internal Rate of Return.md",
+    "MSE 261 (Complete in Content)/Formulas/Interest Rate & Inflation.md",
+    "MSE 261 (Complete in Content)/Formulas/Geometric Gradient Series.md",
+    "MSE 261 (Complete in Content)/Topic 4",
+    "MSE 261 (Complete in Content)/Topic 1",
+    "MSE 261 (Complete in Content)/Topic 8",
+    "MSE 261 (Complete in Content)/Topic 9",
+    "MSE 261 (Complete in Content)/Topic 5",
+    "MSE 261 (Complete in Content)/Topic 7",
+    "MSE 261 (Complete in Content)/Topic 6",
+    "MSE 261 (Complete in Content)/Topic 3",
+    "MSE 261 (Complete in Content)/Topic 2",
+    "MSE 261 (Complete in Content)/Images",
     "Untitled.canvas"
   ]
 }
