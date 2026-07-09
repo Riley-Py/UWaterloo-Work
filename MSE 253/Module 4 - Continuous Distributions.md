@@ -88,6 +88,11 @@
 	- Population is approximately normally distributed
 - Usage
 	- Confidence intervals for population mean when $\sigma$ is unknown
+- Variables
+	- $\bar x$ - sample mean
+	- $\mu$ - population mean
+	- $s$ - sample standard deviation
+	- $n$ - sample size
 #mse253 
 #module4 
 
