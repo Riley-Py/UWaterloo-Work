@@ -22,3 +22,8 @@
 
 ### Difference Between Two Sample Means
 - Refer to [[Formulas|formulas]] 
+
+### Distribution of Sample Variance
+- Refer to [[Formulas|formulas]]
+
+

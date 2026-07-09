@@ -115,7 +115,11 @@ Note: r represents the amount of times to take derivative (first derivative, sec
 *Central Limit Theorem*: $$Z = {{\bar X - \mu \over {\sigma \over \sqrt n}}} $$
 *Difference Between Sample Means (Mean)*: $$ \mu_{{\bar X_1 - \bar X_2}} = \mu_1 - \mu_2$$
 *Difference Between Sample Means (Variance)*: $$\sigma_{\bar X_1 - \bar X_2}^2 = {\sigma_1^2 \over n_1} + {\sigma_2^2 \over n_2}$$
-*Differen*
+*Difference Between Sample Means (Z-statistic)*: $$Z = {(\bar X_1 - \bar X_2) - (\mu_1 - \mu_2)\over {\sqrt {{\sigma_1^2 \over n_1} + {\sigma_2^2 \over n_2}}}}$$
+*Chi-Squared Statistic*: $$\chi^2 = {(n - 1)S^2 \over \sigma^2} $$
+*Chi *
+
+
 
 
 
