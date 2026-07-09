@@ -88,9 +88,6 @@ $$ P(Z > z) = 1 - P(Z < z)$$
 *Lognormal Distribution (mean)*: $$ e^{\mu + {\sigma^2 \over 2}}$$
 *Lognormal Distribution (variance)*: $$e^{2\mu + \sigma^2}(e^{\sigma^2 - 1})$$
 
-
-
-
 ### Moments
 
 *Discrete nth-Moment*
