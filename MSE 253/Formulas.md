@@ -94,7 +94,7 @@ $$ P(Z > z) = 1 - P(Z < z)$$
 *Degrees of Freedom*: $${df} = n - 1 $$
 
 
-## Moments
+### Moments
 
 *Discrete nth-Moment*
 $$E(X^r) = {\sum_x x^rp(x)}$$
@@ -108,12 +108,15 @@ $$E(e^{tX}) = {\int_a^b e^{tx}f(x)dx}$$
 $$E(X^r) = {{d^rE(e^{tX})} \over {dt}^r}$$
 Note: r represents the amount of times to take derivative (first derivative, second, etc.)
 
-
 ### Sampling
 
 *Variance*: $$S^2 = {{1 \over n - 1} \sum_{i =1}^n (X_i - \bar X)^2} $$
 *Standard Deviation*: $$ S = \sqrt{S^2}$$
 *Central Limit Theorem*: $$Z = {{\bar X - \mu \over {\sigma \over \sqrt n}}} $$
+*Difference Between Sample Means (Mean)*: $$ \mu_{{\bar X_1 - \bar X_2}} = \mu_1 - \mu_2$$
+*Difference Between Sample Means (Variance)*: $$\sigma_{\bar X_1 - \bar X_2}^2 = {\sigma_1^2 \over n_1} + {\sigma_2^2 \over n_2}$$
+*Differen*
+
 
 
 

@@ -21,3 +21,4 @@
 - $n$ should be greater than or equal to 30
 
 ### Difference Between Two Sample Means
+- Refer to [[Formulas|formulas]] 
