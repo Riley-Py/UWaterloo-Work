@@ -34,3 +34,10 @@
 - In organizations, desired role models of leadership start at the top, and are encouraged in subsequent lower levels
 - Individually considerate leaders will participate in encouraging and fostering organizational cultures that are conducive to creativity, problem solving, risk taking, and experimentation
 - Women tend to be more transformational than men
+- Cultural competency has the following
+	1. Understanding methods individuals/groups perceive the world
+	2. Understanding one's own perception of world
+	3. Integrating other views into one's view
+	4. Valuing diversity in all views
+#mse211 
+#reading 
