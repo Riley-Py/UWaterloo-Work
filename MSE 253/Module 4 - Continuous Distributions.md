@@ -80,19 +80,7 @@
 ### Lognormal Distribution
 - Models quantities that can't be negative and grow multiplicatively
 	- Examples: Stock prices, income distributions, etc.
-### t-Distribution
-- Used when estimating population mean
-- Conditions
-	- Sample size small ($n < 30$)
-	- Population standard deviation is unknown
-	- Population is approximately normally distributed
-- Usage
-	- Confidence intervals for population mean when $\sigma$ is unknown
-- Variables
-	- $\bar x$ - sample mean
-	- $\mu$ - population mean
-	- $s$ - sample standard deviation
-	- $n$ - sample size
+
 #mse253 
 #module4 
 

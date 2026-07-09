@@ -88,10 +88,7 @@ $$ P(Z > z) = 1 - P(Z < z)$$
 *Lognormal Distribution (mean)*: $$ e^{\mu + {\sigma^2 \over 2}}$$
 *Lognormal Distribution (variance)*: $$e^{2\mu + \sigma^2}(e^{\sigma^2 - 1})$$
 
-### t-Distribution
 
-*t-Statistic*: $$t = {{\bar x - \mu} \over {s \over \sqrt n}} $$
-*Degrees of Freedom*: $${df} = n - 1 $$
 
 
 ### Moments
@@ -116,8 +113,13 @@ Note: r represents the amount of times to take derivative (first derivative, sec
 *Difference Between Sample Means (Mean)*: $$ \mu_{{\bar X_1 - \bar X_2}} = \mu_1 - \mu_2$$
 *Difference Between Sample Means (Variance)*: $$\sigma_{\bar X_1 - \bar X_2}^2 = {\sigma_1^2 \over n_1} + {\sigma_2^2 \over n_2}$$
 *Difference Between Sample Means (Z-statistic)*: $$Z = {(\bar X_1 - \bar X_2) - (\mu_1 - \mu_2)\over {\sqrt {{\sigma_1^2 \over n_1} + {\sigma_2^2 \over n_2}}}}$$
+
+*t-Statistic*: $$t = {{\bar x - \mu} \over {s \over \sqrt n}} $$
+*Degrees of Freedom*: $${df} = n - 1 $$
+
 *Chi-Squared Statistic*: $$\chi^2 = {(n - 1)S^2 \over \sigma^2} $$
-*Chi *
+*Chi-Squared Degrees of Freedom*: $$v = n - 1$$
+
 
 
 

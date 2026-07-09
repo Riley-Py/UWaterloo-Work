@@ -20,10 +20,25 @@
 - Only need to know mean and variance of population
 - $n$ should be greater than or equal to 30
 
+### t-Distribution
+- Used when estimating population mean
+- Conditions
+	- Sample size small ($n < 30$)
+	- Population standard deviation is unknown
+	- Population is approximately normally distributed
+- Usage
+	- Confidence intervals for population mean when $\sigma$ is unknown
+- Variables
+	- $\bar x$ - sample mean
+	- $\mu$ - population mean
+	- $s$ - sample standard deviation
+	- $n$ - sample size
+
 ### Difference Between Two Sample Means
 - Refer to [[Formulas|formulas]] 
 
 ### Distribution of Sample Variance
 - Refer to [[Formulas|formulas]]
+- $\chi_\alpha^2$ represent value above which we find an area of $\alpha$ 
 
 
