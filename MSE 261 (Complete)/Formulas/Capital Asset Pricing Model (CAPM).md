@@ -1,0 +1,9 @@
+- Formula: $$ E[R_j] = R_f + \beta_j(E[R_m] - R_f)$$
+- Where:
+	- $E[R_j]$ is expected return on asset $j$ 
+	- $R_f$ is risk-free return
+	- $E[R_m]$ is expected market return
+	- $\beta_j$ is the $\beta$ of asset $j$ 
+#mse261 
+#formulas 
+#topic_5 

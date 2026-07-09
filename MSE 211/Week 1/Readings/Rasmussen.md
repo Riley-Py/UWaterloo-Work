@@ -1,0 +1,60 @@
+- Risk management should be modelled by different studies, and it should be considered a control problem
+	- Requires a system-oriented approach
+- Models created from results from different fields can be useful for design of work to support systems for decision makers
+	- Not useful for total risk management
+- System is more than the sum of its elements
+- Safety depends on work processes to avoid harm towards people/environment/investment
+- Safety is controlled through a hierarchy
+	- Top: legal system, where the focus is in the political/legal sciences
+		- Legislation at this level is for conflicting goals/setting boundaries of human conditions
+	- Next: industrial associations (worker unions), where the focus for management scientists/work sociologists
+		- Legislation at this level is to control activities in different kinds of workplaces for specific employees
+	- Next: psychologists/researchers in human-machine interaction
+		- Legislations is focused on local conditions and processes
+	- Bottom: engineering disciplines
+		- Involved in developing SOPs for operational states which include disturbances
+	- Diagram of hierarchy:
+		- ![[Pasted image 20260513090017.png]]
+- This is effective in a society where instruction/work tools can be based on task analysis, but is not effective in contemporary society
+- Dynamic society brings many changes in risk management:
+	- Change of tech is faster than change in management structures, creating a modelling problem
+	- Scale of industrial installations corresponds with increased risk of large-scale accidents.  Models need to include rare conditions in addition to average performance
+	- Development of IT have made it so that a single decision can have dramatic effects on society (e.g. stock-trading with computers), which make it hard to model in isolation and make small experiments to evaluate models
+	- Companies focus on money and survival over welfare, safety, and environmental impact
+- Approach to model systems is to decompose elements that are modelled separately
+	- Analyses are based on statistics/questionnaires
+- Companies have changed from offering services/products from people who are experts in the field to people who are in finance
+	- Example: naval safety may decrease due to being operated by banks/investors over shipping professionals
+- *System* is modelled by decomposition of structural elements, while *behaviour of systems/actors* is modelled by decomposition of behaviour flow into events
+	- Identifies task elements in decisions, acts, and errors
+- Task instruction is unreliable for judging behaviour in actual work as it only works in isolation, whereas several tasks are active at a time
+- Modelling behaviour as a stream of acts for dynamic environments where behaviour is context-specific
+- Modelling by task analysis is only useful when behaviour is controlled by control requirements
+- Hard to isolate proper decisions
+	- Workers know normal flow of activities/alternative actions, so no analytical reasoning is put to the side (basically being on autopilot)
+- Led to development of skill, rule, knowledge-based behaviour model of cognitive control
+- Human error is determining factor 70-80% of accident reviews
+- Commercial success involves operating outside of accepted practices/pushing boundaries of what is normal
+	- Many accident reports found that the cause of those accidents was from being cost effective
+- Different decisions have different effects, which create different stresses within an organization, all to be cost effective:
+	- Example: Zeebrugge accident (diagram below)
+		- ![[Pasted image 20260513092411.png]]
+- Individual decision makers can't see the complete picture, and thus can't make effective decisions
+- Human behaviour in any work system is shaped by objectives/constraints for work performance to be successful
+- In a well designed work system, precautions are taken to protect against accidents/risks
+- Systems designed with "defence-in-depth" strategy degrade due to cost-effectiveness
+	- A variation in somebody's behaviour can create an accident due to the request to be cost-effective
+- Explanation of an accident with regards to events, acts, and errors isn't useful for design of improved systems
+- Below shows an image of how when decision makers adapt to being cost-effective, safety degrades over the hierarchy:
+	- ![[Pasted image 20260513093358.png]]
+- Instead of controlling behaviour by fighting deviations, the focus should be on making the boundaries explicit and known and making coping skills at boundaries; improves safety in a few ways:
+	- Increase margin from normal operation, but if width is too much, then safety can deteriorate
+	- Increase awareness of boundary through safety campaigns, but then a struggle will be perpetuated for safety culture
+	- Diagram of this: 
+		- ![[Pasted image 20260515092336.png]]
+- Management/work planning in any organization apply different control strategies, dependent on time horizon, stability of systems, and predictability of disturbances
+	- Example: Materials and resource planning systems, where management is based on overlooking plans/budgets/schedule performance and eliminating deviations
+- Modelling risk management requires a closed loop feedback point of view
+	- Control structure must be identified, all actors identified, objectives/performance criteria determined, capability of control evaluated, and info available to them to the state of the system with regards to production objectives/safety boundaries is required for this
+#mse211 
+#reading 

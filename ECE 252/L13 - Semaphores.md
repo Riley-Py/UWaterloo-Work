@@ -1,0 +1,42 @@
+### Mutual Exclusion - Messages
+- Properties of mutual exclusion
+	- Must apply; flags don't work
+	- Thread that halts outside of critical section can't interfere with other threads
+	- Not possible for thread requiring access to critical section to be delayed indefinitely
+	- If no thread is in critical section, thread that requests critical section should be able to get in right away
+	- No assumptions about what threads will do or number of processors in system
+	- Thread remains inside critical section for finite time
+- Busy-Waiting isn't good
+	- Wastes CPU time that another process/thread can use
+### Semaphore
+- System of signals used for communication
+	- Based off flag semaphores - signals based off certain flags in certain positions
+- *Binary semaphore* - variable that only has two values: 0 and 1
+	- Two operations: ``wait`` (``Proberen``) and ``post (signal)`` (``Verhogen``)
+		- ``wait`` - program tries to enter critical section
+			- If 1, set to 0 and thread can enter critical section
+			- If 0, some other thread is in the section and must wait
+		- ``post`` - sends message that it is finished in the critical section
+			- If 1, do nothing
+			- If 0, and there is a task blocked, task can be unblocked
+			- Else, set semaphore to 1
+	- Doesn't check the current value
+	- When thread signals semaphore, it doesn't know if other threads are waiting on semaphore, and there are no checks
+- No checks against bad behaviour between threads
+	- Can result in one process letting another process into the critical section, even if that other process isn't allowed
+	- Solved through *mutex*
+		- Binary semaphore with rule that the thread that has called ``wait`` may ``post`` to semaphore
+### Semaphore Syntax
+- ``sem_init (semaphore, shared, initial_value)``
+	- ``shared`` - 0 if the semaphore is not shared between processes, 1 otherwise
+	- ``initial_value`` - can be anything, and is the max value
+- ``sem_destroy (semaphore)``
+	- Destroys semaphore
+- ``sem_wait (semaphore)``
+	- Decrements semaphore by 1
+	- If 0, blocks the process
+- ``sem_post (semaphore)``
+	- Increments semaphore by 1
+	- If above 1, runs the process
+#ece252 
+#L13 

@@ -1,0 +1,23 @@
+- Investigation into the loss of Space Shuttle Columbia and seven-member crew
+- Accident was not random, but rooted in NASA history and human space flight program's culture
+- Investigation included examining organizational issues - political and budgetary considerations, compromises, and priority shifts - through the program
+	- Places much weight on these casual factors over physical cause
+- Physical cause was breach of thermal system on wing of space ship
+- Organizational causes are in the history and culture of space shuttle program
+	- Compromises required to gain approval
+	- Resource constraints
+	- Priorities shifting 
+	- Schedule pressures
+	- Shuttle as operational than developmental 
+	- Lack of agreed vision for human space flight
+- Cultural traits and organizational practices include
+	- Reliance on past success in lieu of sound engineering practices
+	- Barriers preventing communication of critical safety information/professional difference of opinion
+	- Lack of integrated management across program elements
+	- Evolution of informal chain of command and decision-making processes that operated outside of organization rules
+- Attributes of an organization that would be more effective to run the space program are
+	- Independent program technical authority that has complete control over specifications/requirements
+	- Independent safety assurance organization with line authority over all levels of safety oversight
+	- Organizational culture that reflects best characteristics of learning organization
+#mse211 
+#reading 

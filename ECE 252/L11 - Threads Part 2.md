@@ -1,0 +1,28 @@
+### Expansion of Threads
+#### Thread Cancel
+- Thread will be terminated before it's finished work
+- *Target thread* - thread that is going to get terminated
+- Two ways to cancel
+	1. *Asynchronous Cancellation* - one thread immediately terminates target
+	2. *Deferred Cancellation* - target informed that it is cancelled; target responsible for checking if it is terminated
+		- Default behaviour
+		- Used to reclaim resources in an organized manner
+- To cleanup thread and make sure resources are claimed
+	- Use ``pthread_cleanup_push`` and ``pthread_cleanup_pop``
+	- Both of them need to be together in the same level
+### Concurrency
+- *Core* - logical processing unit
+	- If multiple processes, each process can execute on different core
+- If more processes than cores, then CPU can switch between tasks through *time slicing*
+	- Threads execute for designated period of time to make it seem like task is being ran in parallel, but it's still serial
+	- Diagram of this: 
+		- ![[Pasted image 20260625124315.png]]
+### Parallelism + Speedup
+- If task can be *fully parallelized*, task can be split up in a way that adding second thread would double speed of execution
+- If task can be *partially parallelized*, task can be divided, but doubling doesn't result in half the time taken
+- If task *can't be parallelized*, it doesn't matter how many workers are added
+- General formula for how much faster a task can be completed based on how many processors are available (Amdahl's Law): $$ {speedup} \leq {1 \over {S + {{1 - S} \over N}}}$$
+	- $S$ - portion of applications that can be performed serially
+	- $N$ - number of processing cores available
+#ece252 
+#L11 

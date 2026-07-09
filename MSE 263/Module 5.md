@@ -1,0 +1,38 @@
+## Production
+- *Capital (K)* - long-lived inputs
+	- Examples: land, buildings, equipment
+- *Labor (L)* - human resources
+	- Examples: managers, skilled/less skilled workers
+- *Production function* - relationship between quantities of inputs used and the maximum quantity of output that can be produced, with knowledge of tech/organization
+	- $q = f(L, K)$
+		- $q$ - units of output
+- *Short-run* - brief time that at least one factor of production cannot be varied
+	- $q = f(L, \bar K)$
+		- $L$ is variable input
+		- $\bar K$ is fixed input
+- *Long-run* - lengthy time that all inputs can be varied
+- *Total Product (TP)* - maximum output produced with given amounts of inputs
+### Production with One Variable Input (Labor)
+- *Average product of labor ($AP_L$)* - ratio of output, $q$, to the number of workers, $L$, used to produce output
+- *Marginal product of labor ($MP_L$)* - change in total output, $\Delta q$, resulting from using an extra unit of labor $\Delta L$, holding other factors constant
+- *Law of Diminishing Marginal Returns* - if firm keeps increasing an input while holding everything else constant, the resulting increases in output diminish eventually
+
+### Production with Two Variable Inputs
+- *Isoquant* - curve showing all possible combinations of inputs that yield the same output
+	- Farther isoquant is from origin, greater level of output
+	- Don't cross
+	- Slope downwards
+- Slope of isoquant at any point measures *marginal rate of technical substitution (MRTS)* - ability of firm to replace capital with labor while maintaining same level of output
+
+### Production Function Algebraic Forms
+- *Linear production function* - inputs are [[Module 4|perfect substitutes]]
+- *Leontief production function* - inputs are used in fixed proportions; perfect complements
+- *Cobb-Douglas production function* - inputs have a degree of substitutability
+
+### Returns to Scale
+- *Constant return to scale (CRS)* - property of production function when all inputs are increased by a percentage, output also increases by same percentage
+- *Increasing returns to scale (IRS)* - output rises more in proportion to equal increase in all inputs
+- *Decreasing returns to scale (DRS)* - output increases less in proportion to equal increase to all inputs
+
+#mse263 
+#module5 

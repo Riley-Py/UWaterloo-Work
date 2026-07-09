@@ -1,0 +1,35 @@
+### Process in UNIX
+- Each process has unique identifer in PCB called ``pid`` (process ID)
+	- ``init`` gets pid of 1
+- Diagram of tree hierarchy of Linux: 
+	- ![[Pasted image 20260624215545.png]]
+- Can obtain list of processes with ``ps`` command
+- To run task in the background, use the ``&`` symbol when compiling 
+
+### Code
+- Workflow in UNIX as follows
+	1. Parent spawns child with ``fork`` system call
+		- Creates new process/copy of parent process
+		- If it returns negative, ``fork`` failed
+		- If it returns 0, process that got 0 back is child 
+		- If it returns positive, it's PID of child
+	2. One of the processes can use ``exec`` system call
+		- Used to start execution of command/file
+- Diagram of this: 
+	- ![[Pasted image 20260624220219.png]]
+- Can use ``fork`` to do different execution of functions
+
+### Fork Bomb
+- Call ``fork`` repeatedly until number of processes spawned is too high for system to manage and it either crashes or is too slow
+- Systems defend this by limiting the number of processes a user may create or the rate at which processes can spawn
+### Signals
+- Indicates events
+- Can be *synchronous*
+	- Occurs as program execution
+- Can be *asynchronous*
+	- Comes outside of process
+- Are interrupts with certain integer ID
+- Diagram of this:
+	- ![[Pasted image 20260624220855.png]]
+#ece252 
+#L05 

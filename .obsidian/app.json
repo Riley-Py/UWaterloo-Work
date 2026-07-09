@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
+<<<<<<< HEAD
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "Letter",
@@ -7,4 +8,7 @@
     "margin": "0",
     "downscalePercent": 70
   }
+=======
+  "promptDelete": false
+>>>>>>> origin/main
 }

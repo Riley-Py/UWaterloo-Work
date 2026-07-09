@@ -1,0 +1,84 @@
+### Inter-Process Communication (IPC)
+- Coordinate or exchange data is called *IPC*
+- Allows for breaking a large task into smaller subtasks
+- *Communication* - transfer of data from one process to another
+	- Data being transferred - *message*
+	- Process sending message - *sender*
+	- Process receiving message - *receiver*
+- Processes involved must have agreement on what data message contain, and way data is formatted
+- Sending messages can be *synchronous* or *asynchronous* - four combinations
+	- *Synchronous send, synchronous receive* - sender is blocked until message is received; receiver waits for message and is blocked until it arrives
+	- *Synchronous send, asynchronous receive* - sender is blocked until message is received; receiver continues whether or not message is available; uncommon
+	- *Asynchronous send, synchronous receive* - sender continues execution when message is sent, but receiver will wait for message before continuing; most common
+	- *Asynchronous send, asynchronous receive* - sender continues after message is sent, and the receiver will check for message but continue regardless of status of message
+- For asynchronous receive, it's common for receiver to send back message confirming receipt of message
+- General problem is *producer-consumer*
+	- *Producer* - creates information
+	- *Consumer* - uses information by producer
+
+### IPC #1: File System
+- Messages in file system are stored and are present across multiple reboots
+- Used when sender/receiver know nothing of each other
+- Producer may write file in agreed upon location and consumer reads from same location
+	- OS is involved in file creation/manipulation/permissions
+- Unique IDs with multiple files gets around the issue of one process overwriting work of another process
+
+### IPC #2: Message Passing
+- Give message to OS and ask it to deliver it to recipient
+- Multiple ways of delivering it
+
+#### Signals
+- Interrupt with specified ID
+- Doesn't contain message within them
+- Use ``signal.h`` in C to include them
+- Need to know process ID of recipient
+- Different values for ``pid`` argument
+	- ``pid > 0`` - send signal to process with ``pid`` 
+	- ``pid == 0`` - send signal to all processes in same process group
+	- ``pid == -1`` send signal to all processes which the calling process has permission to send signal. Broadcasting
+	- ``pid < -1`` - send signal to all processes whose process group ID = absolute value of ``pid``
+- Using ``kill`` with 0 checks if process exists
+- *Pending signal* - time between generation of signal and delivery
+- *Blocking signals* - refuse to listen to signals
+	- If same signal is sent again when it's blocked, it might be delivered once
+- *Disposition of signal* - action that signal does
+- Three options with signals
+	1. Ignore it
+	2. Run signal handler
+	3. Run default action
+- Diagram of handling signals:
+	- ![[Pasted image 20260625114754.png]]
+- Content of signal handler is restricted
+	- If run during a ``malloc()``, it could put memory management in invalid state
+- *Reentrant functions* - functions that can be interrupted during execution
+
+#### Pass Message
+- *Indirect communication* - messages are sent to queues
+	- Owned by OS, so persistent and independent of processes
+	- Diagram of this:
+		- ![[Pasted image 20260625115113.png]]
+	- There are limits to max size of each message and message queue, and there are three choices to this:
+		1. Wait for space to be available
+		2. Overwrite older messages
+		3. Discard current message
+- Steps to message pass
+	1. Obtain key using ``ftok`` (file has to exist) or using ``IPC_PRIVATE``
+	2. Get queue with ``msgget (key, flag)``
+		- If queue is being created for first time, ``IPC_CREAT`` flag
+		- If you want queue to be created uniquely, use ``IPC_CREAT | IPC_EXCL`` flag
+	3. To send message to queue, use ``msgnd (msquid, message, bytes, flag)``
+		- ``msquid`` - the queue ID
+		- ``message`` - message sending
+		- ``bytes`` - size of message
+		- ``flag`` - can block when queue is full with 0
+			- Can also do ``IPC_NOWAIT`` to return error
+	4. To receive message from queue, use ``msgrcv (msquid, message, bytes, type, flag)``
+		- ``type`` - specify what message you want
+			- If 0, return first message on queue
+			- If >0, return first message with specified type
+			- If <0, return first message where type is smallest value less than or equal to absolute value of type
+	5. To clean up queue, use ``msgctl(msqid, command, NULL)``
+		- ``command`` - use ``IPC_RMID`` to remove the queue ID
+
+#ece252 
+#L06 

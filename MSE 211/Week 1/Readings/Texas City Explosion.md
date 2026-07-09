@@ -1,0 +1,61 @@
+## Executive Summary
+- Killed 15 people, injured 180, and costed $1.5 billion 
+	- Shelter-in-place was required
+	- Houses damaged
+- Was third-largest oil refinery in US
+- Caused by organizational/safety issues
+- Experienced two other incidents before this one
+	- One costed $30 million
+	- Another resulted in $2 million worth of property
+- One cause was not measuring safety conditions properly
+	- Low personal injury rate was misleading and that was what was used
+- Safety culture/management was not valued highly
+- Budget cuts resulted in the infrastructure being in disrepair and training/staffing downsized
+- OSHA enforcement was lacking
+	- Didn't identify any likelihood for a catastrophic event despite warning signs
+	- After, they identified 301 violations and issued the largest fine to BP
+	- OSHA didn't conduct an inspection on the 29 other units at the Texas City refinement despite violations
+- OSHA's focus on inspecting facilities with high injury rates resulted in less attention towards process safety incidents and their ability to inspect/enforce process safety regulations was deemed insufficient
+- Overfilling of the tower had factors including:
+	- High level alarm not activating, and no other level indications/automatic safety devices were equipped 
+	- Control board display didn't provide info on imbalance of flow in/out of tower to alert operators
+	- Lack of trained people during startup, despite recommendations for additional people needed
+	- Poor communication regarding startup sequence when shift turnover happened, as there was no requirement for the operation staff to communicate 
+	- Fatigued operators
+	- Training program not sufficient
+	- Procedures not being updated
+	- Unit started despite malfunctions reported
+	- Relief valve system safety study not conducted despite insufficient size of blowdown drum
+	- Not replacing blowdown drum despite incidents being reported
+	- Releases of flammable material happened in the past with no investigation follow-up
+	- No implementation of pre-startup safety review policy to remove nonessential people from process units
+- There were also some key organizational findings, such as:
+	- Cost-cutting
+	- Board not having a member responsible for verifying the performance of hazard prevention programs
+	- Reliance on low personal injury rate as safety indicator
+	- People checking boxes for safety policy/procedure even the requirements weren't met
+	- No reporting/learning culture
+		- People were not encouraged to report safety problems
+	- Improving personal safety metrics/worker behavior was prioritized over process safety/management safety systems
+## Management of Change
+### Incident 1
+- Internal investigation team recommended for procedures to be written for the drums, but never happened
+- On day of fire, process supervisor/operators didn't write any procedures for partially filled drums
+	- Supervisors were aware of this
+	- When the supervisors met with the operators to empty the partially filled drum, no engineers were present
+- Some workers weren't aware that something was wrong even when they should have
+	- Example: coker unit workers
+- Incident could have been avoided if the "change" was managed by an experienced team in operations, safety procedures, and engineering calculations; and if procedures were written
+### Incident 2
+- Personnel were aware that aluminum chloride reacts with water, which releases heat, but didn't do anything about it due to the chemist deeming it fine
+- Actions were performed without the process supervisor being on-site
+- Miscommunication during shift turnover resulted in the reactor vessel exploding
+- Importance of managing changes was a main idea
+	- A hazard analysis of the procedure devised by the chemist/engineer could have identified safety issues
+	- Preparing written procedures for varying operating conditions and practices are key as well
+### Summary of both incidents
+- Each could have been avoided with more analytical/structured approach to problem solving
+- Each could have also been avoided by implementing plans to managing changes with regards to shift turnover and operational variances
+
+#reading
+#mse211

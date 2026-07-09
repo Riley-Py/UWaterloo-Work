@@ -1,0 +1,100 @@
+### Threads
+- *Thread of execution* - sequence of executable commands that can be scheduled to run on CPU
+- Threads have a state/local variables
+- *Multithreaded* - program that uses more than one thread
+- When program begins, it starts with only one thread and can create multiple threads as necessary
+- Can be created and destroyed dynamically
+- Each thread has the following
+	- Thread execution state (process state)
+	- Saved thread context
+	- Execution stack
+	- Local variables
+	- Access to memory/resources of process
+- Diagram of this: 
+	- ![[Pasted image 20260625120717.png]]
+- All threads of a process share resources/state of process 
+
+### Motivation for Threads
+- Performance
+	1. Creating new thread is faster than new process
+	2. Termination/cleanup of thread is faster than termination/cleanup of process
+	3. Less time to switch between two threads
+	4. Don't need to use IPC mechanisms to communicate
+	5. Allows program to be responsive even when part of program is blocked
+- Usage of threads
+	1. *Foreground/background work* 
+	2. *Asynchronous processing* - writing data from main memory to disk periodically
+	3. *Speed of Execution* - multithreaded program can get more done in same amount of time
+	4. *Modular Structure* -threads can be given specific jobs to do
+- Drawbacks of threads
+	1. No protection between threads in same process - messing of memory
+	2. If any thread encounters error, it can terminate the entire process
+### Thread States
+- Like process states, but using only the five-state model
+
+### POSIX Threads
+- ``pthread`` defines thread behaviour in UNIX/UNIX-like OSes
+- Function calls of ``pthread``
+	- ``pthread_create`` - create new thread
+	- ``pthread_exit`` - terminate thread
+	- ``pthread_join`` - wait for thread to exit
+	- ``pthread_detach`` - thread prohibited from joining
+	- ``pthread_yield`` - release CPU and let another thread run
+	- ``pthread_attr_init`` - create and initialize thread's attributes
+	- ``pthread_attr_destroy`` - removes thread's attributes to free memory
+	- ``pthread_cancel`` - signal cancellation to thread
+	- ``pthread_testcancel`` - test to see if thread has been cancelled
+#### Creation
+- Function to create thread is: ``pthread_create(*thread, *attr, *(*routine), *arg)
+	- ``*thread`` - pointer to ``pthread`` identifier
+	- ``attr`` - can be NULL for default
+	- ``*routine`` - a void pointer function
+	- ``*arg`` - arguments passed to ``*routine`` 
+		- Two ways to get around only one input: array or structures
+			- Array - pointer to array
+			- Structure - pointer to structure, then cast it
+#### Returning Values
+- No return value returns NULL
+- ``pthread_exit`` can return a value of choosing (typically a pointer)
+#### Collecting Returned Values
+- ``pthread_join (thread, retval)``
+	- ``thread`` - the thread that is joining back to main thread
+	- ``retval`` - address of a pointer
+		- After, you can cast it
+
+#### Example
+`````c
+#include <stdlib.h>
+#include <stdio.h>
+#include <pthread.h>
+
+void * run (void * argument) {
+
+char* a = (char *) argument;
+printf("Provided argument is %s", a);
+int* return_val = malloc(sizeof(int));
+*return_val = 99;
+pthread_exit(return_val);
+
+
+}
+
+int main (int argc, char** argv) {
+	if (argc != 2) {
+		printf("Invalid");
+		return -1;
+	}
+	pthread_t t;
+	void *vr;
+	
+	pthread_create(&t, NULL, run, argv[1]);
+	pthread_join(t, &vr);
+	int *r = (int *) vr;
+	printf("Other thread returned %d", *r);
+	free (vr);
+	pthread_exit(0);
+}
+`````
+
+#ece252 
+#L10 

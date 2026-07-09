@@ -1,0 +1,29 @@
+- New View of human error has these aspects:
+	- Not cause of failure; it's a symptom of deeper trouble
+	- Not random; connected to features of people's  tools, tasks, operating environment
+	- Not conclusion of investigation, but a starting point
+- Systems aren't safe
+	- People have to create safety by adapting under pressure and acting under uncertainty
+- Safety is not the sole goal in systems that people operate
+	- Pressures and goals are always at work (examples: economic, schedules, customer service, public image)
+- Trade-offs between safety and other goals have to be made under uncertainty/ambiguity
+- People are vital to creating safety
+	- Only ones who can negotiate between safety and other pressures in operating conditions
+- Human errors don't come unexpectedly
+- A few insights around the new view have arose:
+	- *Sources of error are structural, not personal* - have to dig into the system that people work and not at the people's personal shortcomings
+	- *Errors and accidents are remotely related* - accidents are from system's complexity, not simplicity.  It takes many factors to push a system to failure
+	- *Accidents are not the result of a breakdown* - accidents are structural by-products of system's normal functioning
+- People are doing what makes sense given the situation, organizational norms, and operational pressures
+	- Accidents are rarely preceded by weird behaviour
+- Investigations are driven by one idea: human errors are symptoms of deeper trouble
+	- Have to target what lies behind the error - organizational trade-offs; effect of new technology; complexity buried in circumstances concerning human performance; mental work that went in difficult situations; coordination/communication of people; uncertainty of evidence
+- Recommendations in new view are:
+	- Not about the individual, as their errors may be because of system problems that everyone could be experiencing
+	- Tighter procedures can't be relied on, as individuals need to be flexible given complex/dynamic situations
+	- New technology may pose new complexities and errors that it was trying to resolve
+	- Address system problems within organizational decisions, operational conditions or technological features
+- New View aims to explain "why" for decisions/assessments
+
+#mse211 
+#reading 

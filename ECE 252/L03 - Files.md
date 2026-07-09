@@ -1,0 +1,91 @@
+### File Systems
+- Stores data and programs long-term
+- Organization for files through directory structure and maintains metadata related to files
+- *File* - logical unit to organize bytes (UNIX also defines everything as a file)
+	- Can contain programs/data defined by creator
+	- UNIX treats everything as a file
+- Attributes of file:
+	1. *Name* - symbolic file name, human-readable
+	2. *Identifier* - a number that identifies file inside file system
+	3. *Type* - info about what kind of file it is
+	4. *Location* - physical location of file; what device it's on
+	5. *Size* - current/max size of file
+	6. *Protection* - access-control info; who owns, who may read, write, execute
+	7. *Time, Date, User ID* - owner of file, time of creation, last access, last change
+- Files are placed in *directories*
+	- Information about what files are in what locations, and are also stored on disk
+### File Operations
+- Six operations for file system to be useful
+	1. Creating file
+	2. Writing file
+	3. Reading file
+	4. Repositioning file
+	5. Deleting file
+	6. Truncating file
+- *Creating* - find place to put file, allocate space and mark file as allocated, and put file in appropriate directory
+- *Writing* - requires name/identifier of file and data to be written
+	- System using name/identifier can find file and can put data in file
+	- Write can replace or append (write at end) to existing contents
+		- Pointer is needed to keep track of where next write takes place
+- *Reading* - requires name/identifier of file and where in memory the next block of file should be put
+	- Pointer is required to indicate where next read take place
+- *Truncating* - cut off all contents
+	- File length is rest to zero, but rest of attributes remain same
+- Requires ``FILE * fopen(const char* filename, const char* mode)
+	- Modes are:
+		- ``r`` - reading file; pointer at beginning
+		- ``w`` - truncate file to 0 length or create file for writing
+		- ``a`` - append file; creates file if it does not exist; pointer at end of file
+		- ``r+`` - reading + writing; pointer at beginning
+		- ``w+`` - reading + writing; file is created if not there, otherwise truncated; pointer at beginning 
+		- ``a+`` - open for reading and appending; file is created if it does not exist; pointer at end
+- *Repositioning* - called a "seek operation", where we adjust where the pointer is pointing
+	- Done with ``fseek()``
+- *Deleting* - find file, mark its space as free, and remove it from directory listing
+	- Doesn't get rid of any of the data; makes file system forget existence of file
+	- Can recover the data if space hasn't been overwritten
+	- Done with ``remove()``
+- All operations besides creation/deletion require file to be open
+	- Good practice to close file when done with it
+- *File locks* - locks the file from being read/deleted
+	- In Linux, you use ``flock()``
+		- Takes file descriptor (``fileno()``) and type of lock (either exclusive (``LOCK_EX``), shared (``LOCK_SH``), or unlocked (``LOCK_UN``))
+### Reading and Writing
+- Use ``fprintf`` to tell C where to write to
+- Use ``fscanf`` to tell C where to read
+	- Can also use ``getline`` as well
+### File Types
+- Have extensions followed by period
+	- Tells us info about information about the file
+	- Hints to the OS about what file it is and what programs can deal with it
+### Directories
+- Symbol table that translates file names to directory entries
+- Operations that directories support
+	1. *Search* - find file
+	2. *Add file* - add file
+	3. *Remove file* - remove file
+	4. *List directory* - list file entries of directory and contents of directory entry
+	5. *Rename file* - change user-friendly name
+	6. *Navigate File System* - open subdirectories, go to parent directories, etc.
+- Root directory in UNIX is ``/``
+	- *Absolute path* - full file name
+	- *Relative path* - path from current directory
+- Can support sharing of files
+	- One copy of file but it has more than one name
+		- UNIX calls it a *link* and is a pointer to another file
+	- *Symlinks* - references by file name (like a shortcut)
+		- If deleted, it points to nothing, and if accessed, it results in error
+	- *Hardlink* - creating second pointer to underlying file in file system
+		- If deleted, file remains on disk until the hardlink is removed
+### File Permissions
+- Here are common permissions:
+	1. *Read*
+	2. *Write*
+	3. *Execute*
+	4. *Append (write to end of file)*
+	5. *Delete*
+	6. *List (attributes)*
+- *Unix-Style Permissions*
+	- Read, write, and execute
+#ece252 
+#L03 
