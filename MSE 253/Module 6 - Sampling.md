@@ -16,4 +16,8 @@
 - Variance of sample mean $\sigma^2$ is population: $\sigma^2 \over n$ 
 
 ### Central Limit Theorem
-- 
+- Distribution of sample mean becomes approximately normal as sample size increases
+- Only need to know mean and variance of population
+- $n$ should be greater than or equal to 30
+
+### Difference Between Two Sample Means

@@ -96,15 +96,15 @@ $$ P(Z > z) = 1 - P(Z < z)$$
 
 ## Moments
 
-### Discrete nth-Moment
+*Discrete nth-Moment*
 $$E(X^r) = {\sum_x x^rp(x)}$$
-### Continuous nth-Moment
+ *Continuous nth-Moment*
 $$E(X^r) = {\int_{a}^{b}x^rf(x){dx}}$$
-### Moment Generating Function - Discrete
+ *Moment Generating Function - Discrete*
 $$E(e^{tX}) = {\sum_x}e^{tx}p(x)$$
-### Moment Generating Function - Continuous
+*Moment Generating Function - Continuous*
 $$E(e^{tX}) = {\int_a^b e^{tx}f(x)dx}$$
-### Conversion Between Function and Moment
+*Conversion Between Function and Moment*
 $$E(X^r) = {{d^rE(e^{tX})} \over {dt}^r}$$
 Note: r represents the amount of times to take derivative (first derivative, second, etc.)
 
@@ -113,6 +113,7 @@ Note: r represents the amount of times to take derivative (first derivative, sec
 
 *Variance*: $$S^2 = {{1 \over n - 1} \sum_{i =1}^n (X_i - \bar X)^2} $$
 *Standard Deviation*: $$ S = \sqrt{S^2}$$
+*Central Limit Theorem*: $$Z = {{\bar X - \mu \over {\sigma \over \sqrt n}}} $$
 
 
 
