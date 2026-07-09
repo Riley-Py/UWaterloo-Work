@@ -3,4 +3,7 @@
 
 ## Moments
 - Used to characterize distribution/shape of random variables (*Moment*)
+- Different moments give different information
+	- *First moment* - expected value
+	- *Second moment*  - variance
 - 
