@@ -99,6 +99,7 @@ $$E(e^{tX}) = {\sum_x}e^{tx}p(x)$$
 $$E(e^{tX}) = {\int_a^b e^{tx}f(x)dx}$$
 ### Conversion Between Function and Moment
 $$E(X^r) = {{d^rE(e^{tX})} \over {dt}^r}$$
+Note: r represents the amount of times to take derivative (first derivative, second, etc.)
 
 
 

@@ -6,4 +6,6 @@
 - Different moments give different information
 	- *First moment* - expected value
 	- *Second moment*  - variance
-- 
+- Properties of moment generating function:
+	- If $M_X(t) = M_Y(t)$, then $X$ and $Y$ have the same probability distribution
+	- $
