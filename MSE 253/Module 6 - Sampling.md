@@ -1,0 +1,11 @@
+- *Population* - all observations we are concerned with analyzing
+- *Sample* - subset of population
+	- *Statistical inference* - using sample characteristics to infer information about the population
+	- *Bias* - inferences that are always overestimating or underestimating the population
+### Sample Measures
+- *Mean* - same as before
+- *Median* - same as before
+- *Mode* - same as before
+- *Variance* - refer to [[Formulas|formulas]]
+- *Standard Deviation* - refer to [[Formulas|formulas]] 
+- *Range* - same as before

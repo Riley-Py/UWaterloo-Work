@@ -109,7 +109,9 @@ $$E(X^r) = {{d^rE(e^{tX})} \over {dt}^r}$$
 Note: r represents the amount of times to take derivative (first derivative, second, etc.)
 
 
+### Sampling
 
+*Variance*: $$S^2 = {{1 \over n - 1} \sum_{i =1}^n (X_i - \bar X)} $$
 
 
 
