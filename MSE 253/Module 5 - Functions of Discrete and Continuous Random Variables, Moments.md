@@ -2,5 +2,5 @@
 - More details can be found in the slides
 
 ## Moments
-- Used to characterize distribution of random variables
+- Used to characterize distribution/shape of random variables (*Moment*)
 - 
