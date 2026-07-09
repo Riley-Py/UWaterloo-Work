@@ -1,4 +1,14 @@
 {
   "alwaysUpdateLinks": true,
+<<<<<<< HEAD
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 70
+  }
+=======
   "promptDelete": false
+>>>>>>> origin/main
 }

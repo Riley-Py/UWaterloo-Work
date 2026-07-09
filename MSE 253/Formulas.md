@@ -87,6 +87,19 @@ $$ P(Z > z) = 1 - P(Z < z)$$
 *Lognormal Distribution*: $$f(x; \mu, \sigma) = {1 \over {x\sigma\sqrt{2\pi}}} * e^{-{(lnx - \mu)^2 \over 2\sigma^2}}$$
 *Lognormal Distribution (mean)*: $$ e^{\mu + {\sigma^2 \over 2}}$$
 *Lognormal Distribution (variance)*: $$e^{2\mu + \sigma^2}(e^{\sigma^2 - 1})$$
+## Moments
+
+### Discrete nth-Moment
+$$E(X^r) = {\sum_x x^rp(x)}$$
+### Continuous nth-Moment
+$$E(X^r) = {\int_{a}^{b}x^rf(x){dx}}$$
+### Moment Generating Function - Discrete
+$$E(e^{tX}) = {\sum_x}e^{tx}p(x)$$
+### Moment Generating Function - Continuous
+$$E(e^{tX}) = {\int_a^b e^{tx}f(x)dx}$$
+### Conversion Between Function and Moment
+$$E(X^r) = {{d^rE(e^{tX})} \over {dt}^r}$$
+Note: r represents the amount of times to take derivative (first derivative, second, etc.)
 
 
 

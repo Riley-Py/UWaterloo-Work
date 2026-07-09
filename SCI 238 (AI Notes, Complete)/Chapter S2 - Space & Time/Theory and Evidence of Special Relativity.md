@@ -35,3 +35,17 @@
 - Where:
 	- $l'$ is measured by us (static)
 	- $l$ is measured by the moving object
+
+### Tests of Relativity
+- Absoluteness of speed of light came from Michelson-Morley experiment in 1887
+- Time dilation happens to subatomic particles that approach the speed of light in accelerators
+	- Also verified through precision measurements in airplanes moving at slower speeds
+- $E = mc^2$ is verified through nuclear reactors/core of Sun
+- If speed of light were not absolute, binary stars would not look like two distinct points of light
+- If speed of light were not absolute, you would see a car coming toward you reach the collision point before the car it struck
+	- There is no paradox if light speed is same for everyone
+
+#sci238 
+#space_time 
+
+

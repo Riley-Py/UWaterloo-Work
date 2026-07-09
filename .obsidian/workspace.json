@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2a62b197e9348ebe",
+        "id": "c8c939895370aa65",
         "type": "tabs",
         "children": [
           {
-            "id": "9a5b8d5975467271",
+            "id": "6164685f11577843",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSE 211/Week 9/Readings/Transformational Leadership Review - Bass.md",
+                "file": "MSE 253/Module 5 - Functions of Discrete and Continuous Random Variables, Moments.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transformational Leadership Review - Bass"
+              "title": "Module 5 - Functions of Discrete and Continuous Random Variables, Moments"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#l04",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Unit 3 - Rates of Reaction/Requirements for Reaction to Occur.md",
+                "file": "SCI 238/Chapter 3 - The Science of Astronomy/The Historical Importance of Astronomy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Requirements for Reaction to Occur"
+              "title": "Backlinks for The Historical Importance of Astronomy"
             }
           },
           {
@@ -172,57 +172,58 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "print:Print note": false
     }
   },
-  "active": "9a5b8d5975467271",
+  "active": "6164685f11577843",
   "lastOpenFiles": [
+    "MSE 253/Formulas.md",
+    "MSE 253/Module 5 - Functions of Discrete and Continuous Random Variables, Moments.md",
+    "MSE 253/Module 4 - Continuous Distributions.md",
     "MSE 211/Week 9/Readings/Leadership Review - Yukl.md",
-    "MSE 211/Week 9/Readings/Transformational Leadership Review - Bass.md",
-    "Pasted image 20260707120930.png",
-    "MSE 211/Week 3/Readings/Ross.md",
-    "MSE 211/Week 3/Readings/Dekker.md",
-    "MSE 211/Week 4/Readings/Wells-Fargo Cross-Selling Scandal.md",
-    "MSE 211/Week 4/Readings/Maslow's Hierarchy of Needs.md",
-    "MSE 211/Week 4/Readings/Locke & Latham.md",
-    "MSE 211/Week 4/Readings/Herzberg.md",
-    "MSE 211/Week 5/Readings/Self-Determination Theory.md",
-    "MSE 211/Week 5/Readings/Intrinsic & Extrinsic Motivation from SDT Perspective.md",
-    "MSE 211/Week 5/Readings/Gandhi and Robison.md",
-    "MSE 211/Week 5/Readings/Bernstein.md",
-    "MSE 211/Week 9/Readings/Personality & Leadership - Judge.md",
-    "MSE 211/Week 2/Readings/Personalities.md",
-    "MSE 245/L08 - Node.js APIs.md",
-    "MSE 211/Week 9/Readings",
-    "MSE 211/Week 9",
-    "MSE 245/L01 - Javascript Foundations Part 1.md",
-    "MSE 245/L07 - Stateful Lists, Inline Handlers, Async Data with Promises.md",
-    "MSE 245/L06 - Controlled Components, useEffect, Fragments, Conditional Rendering.md",
-    "MSE 245/L05 - React Part 2 - Handlers, Props, State, Lifting State.md",
-    "MSE 245/L04 - React Part 1 - Components, JSX, Lists.md",
-    "MSE 245/L02 - Javascript Foundations Part 2.md",
-    "MSE 245/L03 - Asynchronous Programming.md",
-    "MSE 245/Images",
-    "MSE 245/Images/Pasted image 20260705141930.png",
+    "MSE 211/Week 9/Images/Pasted image 20260707120930.png",
+    "MSE 211/Week 9/Images",
+    "conflict-files-obsidian-git.md",
+    "MSE 261 (Complete in Content)/Topic 8/Tax, Depreciation, Life Cycle Costing.md",
     "MSE 245/Images/Pasted image 20260705141725.png",
-    "ECE 252/L08 - Networks Part 2.md",
+    "MSE 245/Images/Pasted image 20260705141930.png",
+    "MSE 245/L08 - Node.js APIs.md",
+    "MSE 245/L06 - Controlled Components, useEffect, Fragments, Conditional Rendering.md",
+    "MSE 245/L07 - Stateful Lists, Inline Handlers, Async Data with Promises.md",
+    "MSE 245/L04 - React Part 1 - Components, JSX, Lists.md",
+    "MSE 245/L05 - React Part 2 - Handlers, Props, State, Lifting State.md",
+    "MSE 245/L03 - Asynchronous Programming.md",
+    "MSE 245/L02 - Javascript Foundations Part 2.md",
+    "MSE 245/L01 - Javascript Foundations Part 1.md",
+    "MSE 245/Images",
     "MSE 245",
-    "MSE 211/Week 8/Readings/Leading Teams - Hackman.md",
-    "MSE 211/Week 8/Readings/Team Effectiveness - Google.md",
-    "MSE 211/Week 8/Readings/Psychological Safety - Edmondson.md",
-    "MSE 211/Week 8/Images/Pasted image 20260702110413.png",
-    "MSE 211/Week 8/Images",
-    "MSE 211/Week 8/Images/Pasted image 20260702102829.png",
-    "MSE 211/Week 8/Readings",
-    "MSE 211/Week 8",
-    "MSE 211/Week 7/Images/Pasted image 20260630110614.png",
-    "MSE 211/Week 7/Images",
-    "MSE 211/Week 7/Images/Pasted image 20260629160153.png",
-    "MSE 211/Week 7/Readings",
-    "MSE 211/Week 7",
-    "ECE 252/Images/Pasted image 20260629104205.png",
-    "ECE 252/Images/Pasted image 20260629102036.png",
-    "ECE 252/Images/Pasted image 20260629101245.png",
+    "SCI 238 (AI Notes, Complete)/Images/umbra-penumbra.webp",
+    "SCI 238 (AI Notes, Complete)/Images/total-solar-eclipse-com.png",
+    "SCI 238 (AI Notes, Complete)/Images/total-lunar-eclipse-blood-moon.png",
+    "SCI 238 (AI Notes, Complete)/Images/Solar_System_true_color_(title_and_caption).jpg",
+    "SCI 238 (AI Notes, Complete)/Images/Screenshot 2025-09-27 124346.jpg",
+    "SCI 238 (AI Notes, Complete)/Images/phases-Moon-Earth-orbit.webp",
+    "SCI 238 (AI Notes, Complete)/Images/Saros145-big.jpg",
+    "SCI 238 (AI Notes, Complete)/Chapter 7 - Our Planetary System/Discovering our Solar System.md",
+    "SCI 238 (AI Notes, Complete)/Chapter 7 - Our Planetary System/Our Planetary System.md",
+    "SCI 238 (AI Notes, Complete)/Chapter S2 - Space & Time/Introduction to Special Relativity.md",
+    "SCI 238 (AI Notes, Complete)/Chapter 4 - Making Sense of the Universe (Understanding Motion, Energy, Gravity)/Physical Laws.md",
+    "SCI 238 (AI Notes, Complete)/Chapter 6 - Telescopes Portals of Discovery/Telescopes.md",
+    "SCI 238 (AI Notes, Complete)/Chapter S2 - Space & Time/Theory and Evidence of Special Relativity.md",
+    "SCI 238 (AI Notes, Complete)/Chapter 4 - Making Sense of the Universe (Understanding Motion, Energy, Gravity)/Motion, Energy, Gravity.md",
+    "SCI 238 (AI Notes, Complete)/Chapter 6 - Telescopes Portals of Discovery/Telescopes and the Atmosphere.md",
+    "SCI 238 (AI Notes, Complete)/Chapter 5 - Light & Matter Reading Messages from the Cosmos/Light.md",
+    "SCI 238 (AI Notes, Complete)/Chapter 6 - Telescopes Portals of Discovery/Eyes and Cameras.md",
+    "SCI 238 (AI Notes, Complete)/Chapter 5 - Light & Matter Reading Messages from the Cosmos/Matter.md",
+    "SCI 238 (AI Notes, Complete)/Chapter 3 - The Science of Astronomy/The Historical Importance of Astronomy.md",
+    "SCI 238 (AI Notes, Complete)/Chapter 7 - Our Planetary System",
+    "SCI 238 (AI Notes, Complete)/Images",
+    "SCI 238 (AI Notes, Complete)/Chapter S2 - Space & Time",
+    "SCI 238 (AI Notes, Complete)/Chapter 4 - Making Sense of the Universe (Understanding Motion, Energy, Gravity)",
+    "SCI 238 (AI Notes, Complete)/Chapter 6 - Telescopes Portals of Discovery",
+    "SCI 238 (AI Notes, Complete)/Chapter 5 - Light & Matter Reading Messages from the Cosmos",
+    "SCI 238 (AI Notes, Complete)/Chapter 3 - The Science of Astronomy",
     "Untitled.canvas"
   ]
 }
