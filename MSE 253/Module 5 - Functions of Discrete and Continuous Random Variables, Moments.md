@@ -8,4 +8,6 @@
 	- *Second moment*  - variance
 - Properties of moment generating function:
 	- If $M_X(t) = M_Y(t)$, then $X$ and $Y$ have the same probability distribution
-	- $
+	- $M_{X + a}(t) = e^{at} M_X(t)$
+	- $M_{aX}(t) = M_X({at})$
+	- If $Y = X_1 + X_2 + \cdots + X_n$, then $M_Y(t) = M 
