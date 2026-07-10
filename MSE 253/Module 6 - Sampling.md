@@ -44,6 +44,12 @@
 	- Reject $H_0$ if $\chi^2 < \chi_{0.025}^2$ or $\chi^2 > \chi_{0.975}^2$
 	- Fail to reject $H_0$ otherwise
 
-### 
+### F-Distribution
+- Used to compare two sample variances
+- Variables
+	- $U, V$ - independent variables with chi-sqaured distributions
+	- $v_1, v_2$ - degrees of freedom respectively
+- F-distribution is NOT symmetrical; therefor, you must convert (see [[Formulas|formulas]])
+- 
 
 
