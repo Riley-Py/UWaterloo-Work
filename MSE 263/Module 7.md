@@ -57,6 +57,11 @@
 ### Upward Sloping Long-Run Supply Curve
 - Market supply curve is flat at minimum (long-run) average cost if firms can freely enter/exit market, firms have identical costs, input prices are constant
 - Can be upward sloping if
-	1. *Limited entry* - number of firms in market is limited in long-run, supply curve slopes up 
-	2. *Different cost structures*
-	3. *Input prices increase with output*
+	1. *Limited entry* - number of firms in market is limited in long-run, supply curve slopes up and active firms earn positive profit
+		- Diagram
+			- ![[Pasted image 20260710090824.png]]
+	2. *Different cost structures* - relatively low minimum long-run average costs are willing to enter market at lower prices than others; results in upward slope
+	3. *Input prices increase with output* - supply curve slopes upward, even if firms have identical costs and can freely enter/exit market
+
+#mse263 
+#module7
