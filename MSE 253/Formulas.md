@@ -121,6 +121,10 @@ Note: r represents the amount of times to take derivative (first derivative, sec
 *Test Statistic*: $$F = {s_1^2 \over s_2^2}$$
 where the larger sample variance is placed in the numerator
 
+### Confidence Interval
+
+*Confidence Interval on population mean ($\mu$) where $\sigma$ is known*
+
 
 
 
