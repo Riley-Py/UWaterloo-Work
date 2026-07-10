@@ -47,6 +47,9 @@
 
 ### Entry and Exit
 - Firms can enter/leave market; entry takes place until profit is driven down to 0
-- Conditions for entry
+- Conditions for entry, exit, staying
 	- Firm can enter market if $\pi > 0$
-	- 
+	- Firm exits market if $\pi < 0$
+	- Firm stays in market if $\pi = 0$
+- Once market price is known, output is determined by demand curve $Q* = d(P*)$
+- Number of firms in market is $N* = {Q* \over Q_{i}*}$, where $Q_{i}*$ is output of each individual market
