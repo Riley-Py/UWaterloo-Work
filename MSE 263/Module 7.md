@@ -33,6 +33,9 @@
 ### Short-Term Market Supply Curve
 - No free entry in short run; maximum number of firms is fixed
 - If firms are identical in competitive market, each supply curve is identical; market supply is n times supply of individual firm
+- Example on how to find it: 
+	- ![[Pasted image 20260710095051.png]]
+	- 
 
 ### Long-Term Profit Maximization
 - Output decision is same as short-term
