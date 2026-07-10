@@ -7,3 +7,13 @@
 - $\theta_L < \theta < \theta_U$ is called *confidence interval*
 - For more, see [[Formulas|formulas]] 
 - There will be errors; again, see formulas
+- If $\sigma$ is unknown, there are two options:
+	1. *Large-Sample Confidence Interval* - $n \ge 30$ 
+		- Use sample $s$ as substitute
+	2. *Random Sample is from Normal Distribution* - $n \le 30$
+		- Use T-distribution
+### Difference Between Two Sample Means
+- Independent populations
+- Normal populations
+- See formulas for equation
+	
