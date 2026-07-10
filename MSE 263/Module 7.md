@@ -36,4 +36,17 @@
 
 ### Long-Term Profit Maximization
 - Output decision is same as short-term
-- 
+- There's free entry and exit in long-run; drives long profits to 0
+
+#### Shutdown Decision
+- Firm shuts down if it makes economic loss by operating; $P< {AC}$
+
+### Long-Term Market Supply Curve
+- Flat at minimum (long-run) average cost if firms can freely enter and exit market, have identical costs, input prices constants
+- NOTE: only possible equilibrium price is minimum average cost $P* = {AC}_u$ 
+
+### Entry and Exit
+- Firms can enter/leave market; entry takes place until profit is driven down to 0
+- Conditions for entry
+	- Firm can enter market if $\pi > 0$
+	- 
