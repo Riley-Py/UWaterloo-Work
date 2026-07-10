@@ -6,3 +6,4 @@
 - $1 - \alpha$  is *confidence level*
 - $\theta_L < \theta < \theta_U$ is called *confidence interval*
 - For more, see [[Formulas|formulas]] 
+- There will be errors; again, see formulas

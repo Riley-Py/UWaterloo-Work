@@ -123,7 +123,9 @@ where the larger sample variance is placed in the numerator
 
 ### Confidence Interval
 
-*Confidence Interval on population mean ($\mu$) where $\sigma$ is known*
+*Confidence Interval on Population Mean ($\mu$) where $\sigma$ is known*: $$\bar x - z_{\alpha \over 2} {\sigma\over \sqrt n} < \mu < \bar x + z_{\alpha \over 2} {\sigma\over \sqrt n} $$
+*Error*: $$ |{\bar X - \mu}| \le z_{\alpha \over 2} {\sigma \over \sqrt n}$$
+*Confidence Interval on Population Mean where $\sigma$ is unknown ($n \ge 30$)*:
 
 
 
