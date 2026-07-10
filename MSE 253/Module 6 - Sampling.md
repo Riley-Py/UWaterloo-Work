@@ -49,7 +49,7 @@
 - Variables
 	- $U, V$ - independent variables with chi-sqaured distributions
 	- $v_1, v_2$ - degrees of freedom respectively
-- F-distribution is NOT symmetrical; therefor, you must convert (see [[Formulas|formulas]])
+- F-distribution is NOT symmetrical; therefore, you must convert (see [[Formulas|formulas]])
 - 
 
 
