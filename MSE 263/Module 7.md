@@ -14,7 +14,7 @@
 	- *Firms enter/exit market* - can't raise price because firms can enter market and cut price
 	- *Transaction costs low* - No search costs; can find cheaper price if firm charges more than market price
 	- *Firms have no influence in market price* - firm sells sufficiently small proportion of total market; decisions have no impact on market price
-### Profit Maximization
+### Short-Term Profit Maximization
 - Firm must answer two questions
 	1. *Output decision* - firm produces, what output ($q*$) maxs profit/mins losses
 	2. *Shutdown decision* - more profitable to produce $q*$ or shut down and produce no output
@@ -28,4 +28,12 @@
 #### Shutdown Decision
 - Firm shutdown only if it can reduce its loss by doing so; revenue is less than variable cost
 	- ${pq*} < {VC}(q*)$
-	- With average cost, $p < {AVC}
+	- With average cost, $p < {AVC}(q*)$ 
+
+### Short-Term Market Supply Curve
+- No free entry in short run; maximum number of firms is fixed
+- If firms are identical in competitive market, each supply curve is identical; market supply is n times supply of individual firm
+
+### Long-Term Profit Maximization
+- Output decision is same as short-term
+- 
