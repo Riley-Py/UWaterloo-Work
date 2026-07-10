@@ -118,6 +118,9 @@ Note: r represents the amount of times to take derivative (first derivative, sec
 *Chi-Squared Degrees of Freedom*: $$v = n - 1$$
 *F-statistic*: $$F = {{U \over v_1}\over {V \over v_2}}$$
 *Convert from $f_\alpha$ to $f_{1 - \alpha}$*: $$ f_{1 - \alpha} (v_1, v_2) = {1 \over {f_\alpha}(v_2, v_1)}$$
+*Test Statistic*: $$F = {s_1^2 \over s_2^2}$$
+where the larger sample variance is placed in the numerator
+
 
 
 
