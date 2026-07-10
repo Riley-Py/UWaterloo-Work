@@ -48,3 +48,5 @@
 	- *Diseconomies of scale* - $ac(Q)$ is increasing
 	- *Economies of scale* - $ac(Q)$ is decreasing
 	- *U-shaped average cost* - $ac(Q)$ is decreasing, then increasing
+#mse263 
+#module6 

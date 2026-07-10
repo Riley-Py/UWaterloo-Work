@@ -12,4 +12,10 @@
 	- *Firms sell identical products* - if goods are perfect substitutes, you can't raise prices; consumers stop buying
 	- *Buyers/sellers know prices charged by firms* - can't raise price if consumers know what other firms are charging
 	- *Firms enter/exit market* - can't raise price because firms can enter market and cut price
-	- *Transaction costs low* - 
+	- *Transaction costs low* - No search costs; can find cheaper price if firm charges more than market price
+	- *Firms have no influence in market price* - firm sells sufficiently small proportion of total market; decisions have no impact on market price
+### Profit Maximization
+- Firm must answer two questions
+	1. *Output decision* - firm produces, what output ($q*$) maxs profit/mins losses
+	2. *Shutdown decision* - more profitable to produce $q*$ or shut down and produce no output
+- Output is when marginal revenue is equal to marginal cost; $
