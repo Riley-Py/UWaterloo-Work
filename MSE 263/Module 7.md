@@ -53,3 +53,10 @@
 	- Firm stays in market if $\pi = 0$
 - Once market price is known, output is determined by demand curve $Q* = d(P*)$
 - Number of firms in market is $N* = {Q* \over Q_{i}*}$, where $Q_{i}*$ is output of each individual market
+
+### Upward Sloping Long-Run Supply Curve
+- Market supply curve is flat at minimum (long-run) average cost if firms can freely enter/exit market, firms have identical costs, input prices are constant
+- Can be upward sloping if
+	1. *Limited entry* - number of firms in market is limited in long-run, supply curve slopes up 
+	2. *Different cost structures*
+	3. *Input prices increase with output*
