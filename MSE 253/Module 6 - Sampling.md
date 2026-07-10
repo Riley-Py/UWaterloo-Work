@@ -42,6 +42,8 @@
 - $\chi_\alpha^2$ represent value above which we find an area of $\alpha$ 
 - For hypothesis testing
 	- Reject $H_0$ if $\chi^2 < \chi_{0.025}^2$ or $\chi^2 > \chi_{0.975}^2$
+	- Fail to reject $H_0$ otherwise
 
+### 
 
 
