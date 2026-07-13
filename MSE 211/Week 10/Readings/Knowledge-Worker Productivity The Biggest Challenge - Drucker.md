@@ -47,3 +47,7 @@
 - No nationality to productivity of manual labor
 - Task is to create satisfied customer
 	- In order to do so, one must define quality 
+- Three elements that make technologists productive
+	1. Answering question "What is the task?" to the response of "a satisfied customer"
+	2. Have to take full responsibility for giving customer satisfaction; what formal knowledge was needed of the technologist in order to do the manual part of the job
+	3. Technologists have to be treated as *knowledge workers*
