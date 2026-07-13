@@ -51,4 +51,10 @@
 	1. Answering question "What is the task?" to the response of "a satisfied customer"
 	2. Have to take full responsibility for giving customer satisfaction; what formal knowledge was needed of the technologist in order to do the manual part of the job
 	3. Technologists have to be treated as *knowledge workers*
-1. 
+
+### How to Begin?
+- Work itself needs to be part of a system
+- Productivity in knowledge worker requires changes in basic attitude; manual worker only requires telling worker how to do job
+
+#mse211 
+#reading 
