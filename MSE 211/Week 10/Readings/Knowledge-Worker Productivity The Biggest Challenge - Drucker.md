@@ -10,4 +10,12 @@
 5. Motions are put together in a logical sequence (*job*)
 6. Tools needed to do motions are redesigned
 - What makes workers more productive is knowledge
-- 
+
+### Future of Manual-Worker Productivity
+- Above principles is based in manufacturing only
+	- Prevalent in third-world countries still, where manual labor is abundant
+- In developed countries, principles can be applied towards knowledge work as well
+
+### Knowledge-Worker Productivity 
+- Six factors determine knowledge-worker productivity
+	1. Ask the question: 
