@@ -43,3 +43,6 @@
 	- Department interest will be fought without regard to mission
 - *Awareness* is limited only to the unit within the organization
 - *Empowerment* is not really here; thinking stops at department's boundary
+
+### Case Studies
+- Generative environments are more effective than alternatives
