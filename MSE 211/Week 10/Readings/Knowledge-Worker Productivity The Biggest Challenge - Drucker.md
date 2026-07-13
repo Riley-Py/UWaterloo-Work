@@ -28,4 +28,10 @@
 
 ### What is the Task?
 - Task is always given in manual work
-	- Question was always "How does the manual worker best do the job?" not "What is the manual worker "
+	- Question was always "How does the manual worker best do the job?" not "What is the manual worker supposed to do?"
+- Task does not program worker in knowledge work
+- Must find out task in order to put knowledge workers on task and eliminate everything else
+- Once task is defined, the below are requirements needed by knowledge worker:
+	- Knowledge workers have responsibility for their own contribution due to having autonomy over task
+	- Continuous innovation needed in knowledge worker's job
+	- Continuous learning/teaching needed in knowledge worker's job
