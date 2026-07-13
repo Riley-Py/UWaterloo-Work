@@ -14,4 +14,16 @@
 	- *Pathological* - power-oriented
 	- *Bureaucratic* - rule-oriented
 	- *Generative* - performance-oriented
-	- Above creates climate
+	- Above creates climate that affect processing of info; shapes communication, cooperation, innovation, problem-solving
+#### Generative
+- Proactive in getting info to right people by any means necessary in right form/time-frame
+- When things go wrong, discover bas
+
+#### Pathological
+- Views info as personal resource; used in power struggles
+	- Withheld, doled out, or used as weapon to advance parties in organization
+- When things go wrong, find scapegoat
+#### Bureaucratic
+- Uses standard channels/procedures to get info to the right person
+	- Insufficient in crisis
+- When things go wrong, seek justice
