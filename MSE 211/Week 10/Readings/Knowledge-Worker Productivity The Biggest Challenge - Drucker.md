@@ -35,3 +35,5 @@
 	- Knowledge workers have responsibility for their own contribution due to having autonomy over task
 	- Continuous innovation needed in knowledge worker's job
 	- Continuous learning/teaching needed in knowledge worker's job
+### Knowledge Worker as Capital Asset
+- 
