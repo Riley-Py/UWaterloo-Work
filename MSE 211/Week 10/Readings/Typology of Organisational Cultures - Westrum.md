@@ -46,3 +46,12 @@
 
 ### Case Studies
 - Generative environments are more effective than alternatives
+	- More safe due to high empowerment
+- Better organization culture leads to better information processing
+- Six types of responses to anomalies within organizations:
+	1. *Suppression* - shooting messenger
+	2. *Encapsulation* - isolating messenger; message isn't heard
+	3. *Public Relations* - message is put "in context"; minimize impact
+	4. *Local Fix* - responding to present case; ignoring possibility of others
+	5. *Global Fix* - attempt to respond to problem wherever it exists
+	6. *Inquiry* - get at "root causes" of problem
