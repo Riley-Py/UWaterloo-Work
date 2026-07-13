@@ -26,13 +26,15 @@
 	- Individual "buys into" what they are supposed to do and effect/outcome
 	- Ownership is a consequence of this
 - *Awareness* is keeping all group members informed about what is happening and why
+- *Empowerment* is required for maximum performance; individuals' intelligence are used to meet organization's goals through questioning
 
 #### Pathological
 - Views info as personal resource; used in power struggles
 	- Withheld, doled out, or used as weapon to advance parties in organization
 - When things go wrong, find scapegoat
 - *Alignment* is with a person or specific group; interests are advanced over other loyalties
-- *Awareness* 
+- *Awareness* is about the power-struggle
+- *Empowerment* is all about this climate, but only personal empowerment without thought for others
 #### Bureaucratic
 - Uses standard channels/procedures to get info to the right person
 	- Insufficient in crisis
@@ -40,4 +42,4 @@
 - *Alignment* takes place with person's own unit over mission
 	- Department interest will be fought without regard to mission
 - *Awareness* is limited only to the unit within the organization
-- 
+- *Empowerment* is not really here; thinking stops at department's boundary
