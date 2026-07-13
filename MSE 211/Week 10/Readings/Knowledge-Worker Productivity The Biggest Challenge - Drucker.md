@@ -36,4 +36,10 @@
 	- Continuous innovation needed in knowledge worker's job
 	- Continuous learning/teaching needed in knowledge worker's job
 ### Knowledge Worker as Capital Asset
-- 
+- Assets need to be made to grow, like the knowledge worker
+- One manual worker is like any other manual worker
+- Knowledge workers own means of production; they are mobile and can jump from organization-organization
+
+### Technologists
+- People who do knowledge work and manual work
+- Work knowledge for these people is crucial, yet is put to the side
