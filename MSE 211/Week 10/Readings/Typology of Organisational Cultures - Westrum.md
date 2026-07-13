@@ -56,4 +56,10 @@
 	5. *Global Fix* - attempt to respond to problem wherever it exists; common in generative environment
 	6. *Inquiry* - get at "root causes" of problem; common in generative environment
 - Bureaucracies use other strategies apart from the above
-	- Can lead to detri
+	- Can lead to detrimental results (medical sector)
+### Striking Confirmation
+- Information flow is higher in generative situation; managers see themselves as coaches rather than commanders
+- Information flow may be related to safety, but isn't directly correlated
+
+#mse211 
+#reading 
