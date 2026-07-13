@@ -1,0 +1,3 @@
+- Tech professionals have belief that they can manage complexity and that normal rules don't apply
+- Recommendations to drive business success
+	- *Establish clearly defined roles* - formal structure with clearly defined roles and evaluation crite
