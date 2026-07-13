@@ -7,4 +7,7 @@
 	- *Provide ample resources* - plenty of access to enrichment resources
 	- *Don't confuse task management software with managing talent* - Asana/Jira don't advance efforts to provide coaching/clarify tasks; people are still needed for that
 	- *Understand what motivates people to do their best work* - [[Intrinsic & Extrinsic Motivation from SDT Perspective|see this]] 
-	- *Make best use of diversity within team* - some workers are technical while others are more organized/structured; good manager re
+	- *Make best use of diversity within team* - some workers are technical while others are more organized/structured; good manager recognizes strengths/weaknesses of both types and pairs them accordingly
+	- *Emphasize collaboration, encourage autonomy* - manager creates environment that balances autonomy need with desire to collaborate within group to work toward same goals/amplify others' contributions
+#mse211 
+#reading 

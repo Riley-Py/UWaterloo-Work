@@ -1,0 +1,1 @@
+- *Culture* - organisation's pattern of response to problems
