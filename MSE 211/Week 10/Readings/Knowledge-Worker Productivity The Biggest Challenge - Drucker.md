@@ -43,3 +43,7 @@
 ### Technologists
 - People who do knowledge work and manual work
 - Work knowledge for these people is crucial, yet is put to the side
+- Biggest group of knowledge workers
+- No nationality to productivity of manual labor
+- Task is to create satisfied customer
+	- In order to do so, one must define quality 
