@@ -18,4 +18,14 @@
 
 ### Knowledge-Worker Productivity 
 - Six factors determine knowledge-worker productivity
-	1. Ask the question: 
+	1. Ask the question: *What is the task?*
+	2. Knowledge Workers have to manager themselves; need *autonomy*
+	3. Continuing innovation has to be part of work, task, responsibility of knowledge workers
+	4. Continuous learning and continuous teaching on knowledge worker
+	5. Quantity isn't important for measure of productivity, but quality
+	6. Knowledge worker is treated as "asset" rather than "cost"; knowledge worker want to work for organization
+- Quality is essence of output, not a minimum or restraint
+
+### What is the Task?
+- Task is always given in manual work
+	- Question was always "How does the manual worker best do the job?" not "What is the manual worker "
