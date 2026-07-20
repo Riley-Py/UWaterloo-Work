@@ -34,4 +34,10 @@
 	- Seen as legitimate; never questioned
 	- Three problems with this
 		1. *Out of fashion* - outdated and doesn't work most of the time
-		2. *Need cooperation of others who don't fall within immediate chain of command* - 
+		2. *Need cooperation of others who don't fall within immediate chain of command* - need others whom can't be overseen directly (i.e. other units)
+		3. *Person at top is incorrect* - organization can fall if insight/leadership fails
+- Another way is by developing *strongly shared vision/organizational culture*
+	- If developed, command/hierarchical authority is less important
+	- Can have some problems in implementation
+		1. *Takes time and effort* - not enough time to develop shared premises on how to respond
+		2. *New ideas are inconsistent with culture* - strong culture prescribes on how to look at things, what appropriate methods/techniques are used to solve problems, and what are important problems; can ignore some lines of inquiry (see )
