@@ -31,3 +31,9 @@
 - Dependent on agent
 	- Piece rate has more effect on production than merit rate due to probability of reward due to conformity than non-conformity
 - Exerting reward outside range of power decreases power
+
+#### Coercive Power
+- Person will be punished by agent if they fail to conform
+- Dependent on magnitude of punishment that is threatened and the person's ability to avoid said punishment
+- Reward versus Coercive depends on situation for the person
+- 
