@@ -73,4 +73,12 @@
 
 #### Expert Power
 - Knowledge perception of person seeing within the agent in a given area
-- 
+- Influence on persons's cognitive structure and nothing else
+	- Example: accepting attorney's legal advice
+- *Informational power* - person does not need to be in agent's group
+- Person has to trust agent and know that agent is telling the truth
+- Limited to areas where agent is knowledgeable in; power can only be exerted in these areas
+	- Trying to exert expert power outside of range decreases expert power
+
+#mse211 
+#reading 
