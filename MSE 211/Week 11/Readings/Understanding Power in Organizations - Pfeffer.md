@@ -26,4 +26,12 @@
 		- People are rationalizing animals; adjusts attitudes to conform to past actions and consequences
 - Should spend time implementing decisions/dealing with ramifications
 - More effort is expended on assigning credit/blame than working on improving results of decision
-- 
+- Important actions aren't the original choices, but what happens after, and actions taken to make things work out
+
+### Ways of Getting Things Done
+- One way is through *hierarchical authority*
+	- Higher level have power to hire/fire, measure/reward, and provide direction
+	- Seen as legitimate; never questioned
+	- Three problems with this
+		1. *Out of fashion* - outdated and doesn't work most of the time
+		2. *Need cooperation of others who don't fall within immediate chain of command* - 
