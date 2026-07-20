@@ -14,4 +14,17 @@
 	- *Negative power* - opposite of positive power
 - *Resistance* - opposition set up by the social agent
 	- Example: Boy resist mother's order to eat spinach because mother wanted him to, or boy doesn't like spinach
-- 
+- Degree of dependence on agent is based on the agent observing state of system and noting the conformity
+
+### Bases of Power
+- Relationship between agent and person which is source of power
+- There are five bases of power for agent:
+	1. Reward power
+	2. Coercive power
+	3. Legitimate power
+	4. Referent power 
+	5. Expert power
+
+#### Reward Power
+- Ability to reward
+- Based on perception o 
