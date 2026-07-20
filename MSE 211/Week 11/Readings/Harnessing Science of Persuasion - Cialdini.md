@@ -28,3 +28,8 @@
 - People defer to experts
 - Experts offer valuable/efficient short-cuts to good decisions
 - People mistakenly assume that others recognize/appreciate experience; must be made explicit
+
+### Principle of Scarcity
+- People want more of what they can have less of
+- Opportunities/items are seen to be more valuable the less available they are; can present one-of-a-kind offers in management towards employees
+- *Loss language* - what people can lose if they don't take the offer; potential losses figure more than potential gains
