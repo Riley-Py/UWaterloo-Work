@@ -14,4 +14,12 @@
 	- *Ends and Means* - don't like to consider methods necessary to get things accomplished
 		- Can be counteracted by recognizing processes of power/influence, take counter measures, and develop moral values
 		- Required to get things accomplished in systems
-	- *Lessons to be Unlearned* - lessons learnt in school may not be applicable 
+	- *Lessons to be Unlearned* - lessons learnt in school may not be applicable within organization
+		- Individual success is based on how you work with other people
+		- Organizational success is based on how individuals can coordinate activities
+		- There is much grey area within organizations; not clear-cut "right"/"wrong" answers like school
+### Alternative Perspective on Decision Making
+- Three things to remember decisions
+	1. Decision by itself changes nothing
+	2. Moment decision is made, can't know if it's good or bad
+	3. 
