@@ -61,4 +61,16 @@
 	- Example: job description
 	- Exercise of legitimate power out of range decreases this power for agent
 - In short: legitimate power is based on perception of person seeing an agent as "legitimate" or not; varies depending on method as well
-	- Example: an agent may exercise legitimate power through a "bribe" in reward system, which is ill
+	- Example: an agent may exercise legitimate power through a "bribe" in reward system, which is illegitimate, but the person sees them as legitimate due to how the agent approached the situation
+#### Referent Power
+- Identification of agent by person; person's aspirations to become like the agent
+- Maintained if person behaves, believes, and perceives like the agent
+- Agent has ability to influence person, but may not know it
+- Stronger identification = stronger referent power
+- Against reward/coercive power
+	- *Reward/coercive power* - ability of agent to mediate sanctions
+	- *Referent power* - person conforms to agent to avoid discomfort/gain satisfaction regardless of agent responses
+
+#### Expert Power
+- Knowledge perception of person seeing within the agent in a given area
+- 
