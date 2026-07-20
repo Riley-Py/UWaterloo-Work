@@ -40,4 +40,10 @@
 	- If developed, command/hierarchical authority is less important
 	- Can have some problems in implementation
 		1. *Takes time and effort* - not enough time to develop shared premises on how to respond
-		2. *New ideas are inconsistent with culture* - strong culture prescribes on how to look at things, what appropriate methods/techniques are used to solve problems, and what are important problems; can ignore some lines of inquiry (see )
+		2. *New ideas are inconsistent with culture* - strong culture prescribes on how to look at things, what appropriate methods/techniques are used to solve problems, and what are important problems; can ignore some lines of inquiry (see [[Groupthink - NASA Space Shuttle|groupthink]])
+- A third way is *use of power and influence*
+	- Emphasis on method rather than structure
+	- Set of ways of getting things done
+
+### Management Process: Power Perspective
+- Process of implementation foll
