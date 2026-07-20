@@ -62,3 +62,8 @@
 	3. *To get things done, need power - and more of it than opposition - and to understand where it comes from/how it can be developed* - be willing to do things that build sources of power, or otherwise be less effective
 	4. *Understanding strategies and tactics through which power is developed and used in organizations* - includes timing, use of structure, social psychology of commitment, other forms of interpersonal influence
 - Requires political maneuvering/willingness to force issue
+- Paralysis/inaction are bad, and are caused by having either little skill or little interest in overcoming opposition when it comes to change
+- Innovation and change require skill to develop power, and willingness to employ it to get things accomplished
+
+#mse211 
+#reading 
