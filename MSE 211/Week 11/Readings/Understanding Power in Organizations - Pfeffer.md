@@ -19,7 +19,8 @@
 		- Organizational success is based on how individuals can coordinate activities
 		- There is much grey area within organizations; not clear-cut "right"/"wrong" answers like school
 ### Alternative Perspective on Decision Making
-- Three things to remember decisions
+- Three things to remember about decision-making
 	1. Decision by itself changes nothing
 	2. Moment decision is made, can't know if it's good or bad
-	3. 
+	3. Spend more time living with consequences of decision than making them
+		- 
