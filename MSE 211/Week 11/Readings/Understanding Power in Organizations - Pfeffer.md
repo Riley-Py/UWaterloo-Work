@@ -58,4 +58,7 @@
 ### What Does It Mean To Manage with Power
 - There are a series of meanings to manage with power
 	1. *Recognizing varying interests within organizations* - figure out relevant interests are, and what important political subdivisions describe organization
-	2. *Figuring out what point*
+	2. *Figuring out what point of view various individuals/subunits have on issues* - ability to get those who differ from us to do what needs to be done
+	3. *To get things done, need power - and more of it than opposition - and to understand where it comes from/how it can be developed* - be willing to do things that build sources of power, or otherwise be less effective
+	4. *Understanding strategies and tactics through which power is developed and used in organizations* - includes timing, use of structure, social psychology of commitment, other forms of interpersonal influence
+- Requires political maneuvering/willingness to force issue
