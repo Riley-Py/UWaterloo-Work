@@ -23,3 +23,8 @@
 - Good turns/winning public commitment from subordinates
 - When a choice is made actively, more likely to direct someone's future conduct than same choice unspoken
 - Written statements become more powerful when made public
+
+### Principle of Authority
+- People defer to experts
+- Experts offer valuable/efficient short-cuts to good decisions
+- People mistakenly assume that others recognize/appreciate experience; must be made explicit
