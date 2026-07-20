@@ -53,6 +53,12 @@
 		- Age
 		- Intelligence
 		- Physical characteristics
-	- Acceptance of social structure
-	- Acceptance of an office as right
+	- Acceptance of social structure/office as a right
 		- Example: Judge being able to hand out fines, foreman assigning work
+	- Designation by legitimizing agent 
+		- Success is based on acceptance of agent/procedure
+- Range of legitimate power is based on designation of power
+	- Example: job description
+	- Exercise of legitimate power out of range decreases this power for agent
+- In short: legitimate power is based on perception of person seeing an agent as "legitimate" or not; varies depending on method as well
+	- Example: an agent may exercise legitimate power through a "bribe" in reward system, which is ill
