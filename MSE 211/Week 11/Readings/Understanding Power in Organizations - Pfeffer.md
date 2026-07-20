@@ -46,4 +46,16 @@
 	- Set of ways of getting things done
 
 ### Management Process: Power Perspective
-- Process of implementation foll
+- Process of implementation follows steps below:
+	1. Decide on goals/what you are trying to accomplish
+	2. Decide on what individuals are important in achieving goal
+	3. Determine their point of view/feelings on method of achieving goal
+	4. Determine their power bases; which is more influential in making decision
+	5. Determine personal bases of power/influence; what bases can be developed to gain control of situation
+	6. Determine strategies/tactics for exercising power that are appropriate/effective in given situation
+	7. Choose course of action
+
+### What Does It Mean To Manage with Power
+- There are a series of meanings to manage with power
+	1. *Recognizing varying interests within organizations* - figure out relevant interests are, and what important political subdivisions describe organization
+	2. *Figuring out what point*
