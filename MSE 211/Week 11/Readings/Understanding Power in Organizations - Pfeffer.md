@@ -11,4 +11,7 @@
 ### Ambivalence About Power
 - Power and politics are necessary, but are not liked within organizations
 - Stems from multiple sources:
-	- 
+	- *Ends and Means* - don't like to consider methods necessary to get things accomplished
+		- Can be counteracted by recognizing processes of power/influence, take counter measures, and develop moral values
+		- Required to get things accomplished in systems
+	- *Lessons to be Unlearned* - lessons learnt in school may not be applicable 
