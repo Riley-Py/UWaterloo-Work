@@ -12,4 +12,6 @@
 - *Strength of power* - maximum ability of agent to influence person in a system
 	- *Positive power* - able to influence and change a person in the way the agent wants
 	- *Negative power* - opposite of positive power
+- *Resistance* - opposition set up by the social agent
+	- Example: Boy resist mother's order to eat spinach because mother wanted him to, or boy doesn't like spinach
 - 
