@@ -13,4 +13,13 @@
 		- Also can make it so that a person who doesn't like a boss/manager can start to warm up to them
 ### Principle of Reciprocity
 - People repay in kind
-- Leaders should mo
+- Leaders should model behaviour that they see from others; subordinates will follow suit
+### Principle of Social Proof
+- People follow the lead of similar others
+- Persuasion is effective when it comes from peers; influence is best exerted horizontally than vertically (i.e. from peer-peer instead from manager-peer)
+
+### Principle of Consistency
+- People align with their clear commitments
+- Good turns/winning public commitment from subordinates
+- When a choice is made actively, more likely to direct someone's future conduct than same choice unspoken
+- Written statements become more powerful when made public
