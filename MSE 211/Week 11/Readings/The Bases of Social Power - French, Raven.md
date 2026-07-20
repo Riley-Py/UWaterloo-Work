@@ -47,4 +47,12 @@
 	- *Alternatives* - people can choose to accept them
 	- *Specialties* - specific to role for person
 - Induced by some norm or values 
-	- Internalized values in person that deem agent to be able to influence them and agent has obli
+	- Internalized values in person that deem agent to be able to influence them and agent has obligation to accept influence
+- Some bases for this include:
+	- Cultural values, including
+		- Age
+		- Intelligence
+		- Physical characteristics
+	- Acceptance of social structure
+	- Acceptance of an office as right
+		- Example: Judge being able to hand out fines, foreman assigning work
