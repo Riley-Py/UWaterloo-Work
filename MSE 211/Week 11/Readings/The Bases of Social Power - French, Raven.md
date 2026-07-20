@@ -27,4 +27,7 @@
 
 #### Reward Power
 - Ability to reward
-- Based on perception o 
+- Based on perception of agent being able to reward person
+- Dependent on agent
+	- Piece rate has more effect on production than merit rate due to probability of reward due to conformity than non-conformity
+- Exerting reward outside range of power decreases power
