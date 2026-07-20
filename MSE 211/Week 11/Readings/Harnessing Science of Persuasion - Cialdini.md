@@ -33,3 +33,6 @@
 - People want more of what they can have less of
 - Opportunities/items are seen to be more valuable the less available they are; can present one-of-a-kind offers in management towards employees
 - *Loss language* - what people can lose if they don't take the offer; potential losses figure more than potential gains
+
+#mse211 
+#reading 
