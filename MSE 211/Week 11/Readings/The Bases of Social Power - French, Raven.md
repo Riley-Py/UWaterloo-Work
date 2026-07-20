@@ -31,9 +31,20 @@
 - Dependent on agent
 	- Piece rate has more effect on production than merit rate due to probability of reward due to conformity than non-conformity
 - Exerting reward outside range of power decreases power
+- Person conforms to gain acceptance
+- Increases attraction to agent
 
 #### Coercive Power
 - Person will be punished by agent if they fail to conform
 - Dependent on magnitude of punishment that is threatened and the person's ability to avoid said punishment
-- Reward versus Coercive depends on situation for the person
-- 
+- Reward versus coercive depends on situation for the person
+- Person conforms to forestall rejection
+- Decreases attraction to agent
+
+#### Legitimate Power
+- Group norms are divided into categories
+	- *Universals* - for everyone
+	- *Alternatives* - people can choose to accept them
+	- *Specialties* - specific to role for person
+- Induced by some norm or values 
+	- Internalized values in person that deem agent to be able to influence them and agent has obli
