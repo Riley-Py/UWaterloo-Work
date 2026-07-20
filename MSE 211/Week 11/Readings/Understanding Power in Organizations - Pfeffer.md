@@ -24,4 +24,6 @@
 	2. Moment decision is made, can't know if it's good or bad
 	3. Spend more time living with consequences of decision than making them
 		- People are rationalizing animals; adjusts attitudes to conform to past actions and consequences
-		- 
+- Should spend time implementing decisions/dealing with ramifications
+- More effort is expended on assigning credit/blame than working on improving results of decision
+- 
