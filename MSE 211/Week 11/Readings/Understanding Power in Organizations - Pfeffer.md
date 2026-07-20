@@ -23,4 +23,5 @@
 	1. Decision by itself changes nothing
 	2. Moment decision is made, can't know if it's good or bad
 	3. Spend more time living with consequences of decision than making them
+		- People are rationalizing animals; adjusts attitudes to conform to past actions and consequences
 		- 
