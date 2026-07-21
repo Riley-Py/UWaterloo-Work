@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE 252/L18 - Deadlock Avoidance.md",
+                "file": "ECE 252/L22 - Valgrind & Helgrind.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L18 - Deadlock Avoidance"
+              "title": "L22 - Valgrind & Helgrind"
             }
           }
         ]
@@ -178,12 +178,18 @@
   },
   "active": "301ff8708df08c60",
   "lastOpenFiles": [
-    "Pasted image 20260721153539.png",
-    "Pasted image 20260721152838.png",
-    "Pasted image 20260721152450.png",
-    "Pasted image 20260721152312.png",
-    "ECE 252/L17 - Deadlock.md",
+    "ECE 252/L13 - Semaphores.md",
+    "ECE 252/L08 - Networks Part 2.md",
+    "ECE 252/L06 - IPC.md",
+    "ECE 252/L03 - Files.md",
+    "ECE 252/L01 - Intro.md",
+    "ECE 252/L22 - Valgrind & Helgrind.md",
+    "ECE 252/Images/Pasted image 20260721153539.png",
+    "ECE 252/Images/Pasted image 20260721152838.png",
+    "ECE 252/Images/Pasted image 20260721152450.png",
+    "ECE 252/Images/Pasted image 20260721152312.png",
     "ECE 252/L18 - Deadlock Avoidance.md",
+    "ECE 252/L17 - Deadlock.md",
     "ECE 252/Images/Pasted image 20260721144918.png",
     "ECE 252/Images/Pasted image 20260721144939.png",
     "ECE 252/Images/Pasted image 20260721143306.png",
@@ -193,7 +199,6 @@
     "ECE 252/L15 - Producer-Consumer Problem.md",
     "ECE 252/L14 - Synchronization Patterns.md",
     "ECE 252/Images/Pasted image 20260720201602.png",
-    "ECE 252/L13 - Semaphores.md",
     "MSE 211/Week 11/Readings/Understanding Power in Organizations - Pfeffer.md",
     "MSE 211/Week 7/Readings/Groupthink - NASA Space Shuttle.md",
     "MSE 211/Week 8/Readings/Leading Teams - Hackman.md",
@@ -207,15 +212,10 @@
     "MSE 211/Week 10/Readings/Knowledge-Worker Productivity The Biggest Challenge - Drucker.md",
     "MSE 211/Week 11/Readings/Harnessing Science of Persuasion - Cialdini.md",
     "MSE 211/Week 11/Readings/The Bases of Social Power - French, Raven.md",
-    "ECE 252/L08 - Networks Part 2.md",
     "MSE 211/Week 11/Readings",
     "MSE 211/Week 11",
     "ECE 252/L07 - Networks Part 1.md",
-    "ECE 252/L06 - IPC.md",
     "CHE 102 (U3-U6)/Unit 6 - Electrochemistry/The Nernst Equation At Equilibrium.md",
-    "CHE 102 (U3-U6)/Unit 6 - Electrochemistry/Standard State.md",
-    "CHE 102 (U3-U6)/Unit 6 - Electrochemistry/Standard Cell Potential.md",
-    "CHE 102 (U3-U6)/Pasted image 20241208132746.png",
     "MSE 211/Week 10/Readings",
     "MSE 211/Week 10",
     "MSE 261 (Complete in Content)/Topic 4",
