@@ -23,5 +23,15 @@
 	- ![[Pasted image 20260721152450.png]]
 ### Resource-Allocation-Graph Algorithm
 - OS maintains allocation graph to avoid deadlock
-- Model for resource allocation graph
-	- 
+- Model for resource allocation graph - three edges
+	- One represents requests; process wants resource
+	- One represents allocation; resource currently belongs to process
+	- One represents wanting a resource in the future
+- Diagram of this; dashed line is wanting resource in future, and when request is made, it gets turned into a request edge
+	- ![[Pasted image 20260721152838.png]]
+- Assignment allowed if converting request edge to assignment edge doesn't result in cycle
+- Only works if resources are known in advance; one instance of each resource
+
+### Banker's Algorithm
+- Allows for resources with multiple instances
+- 
