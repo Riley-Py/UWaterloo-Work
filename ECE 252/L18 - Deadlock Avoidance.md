@@ -11,4 +11,8 @@
 	- In development, enforced by coding convention/review
 ### Stay Safe
 - Instead of ordering, process gives OS additional info about resources requested; processes need to say in advance of execution maximum resources of each type they need
-- *Safe* - some scheduling order where every process runs to completion even if all of them request max resourc
+- *Safe* - some scheduling order where every process runs to completion even if all of them request max resources immediately
+	- Deadlock not possible
+- *Safe sequence* - guarantees program correctness when multiple threads access shared resources
+- *Unsafe* - opposite of safe
+	- Deadlock can occur
