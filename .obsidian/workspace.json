@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE 252/L14 - Synchronization Patterns.md",
+                "file": "ECE 252/L15 - Producer-Consumer Problem.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L14 - Synchronization Patterns"
+              "title": "L15 - Producer-Consumer Problem"
             }
           }
         ]
@@ -176,11 +176,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "059c515cd4110e39",
+  "active": "9a5b8d5975467271",
   "lastOpenFiles": [
+    "ECE 252/L14 - Synchronization Patterns.md",
+    "ECE 252/L15 - Producer-Consumer Problem.md",
     "ECE 252/Images/Pasted image 20260720201602.png",
     "ECE 252/L13 - Semaphores.md",
-    "ECE 252/L14 - Synchronization Patterns.md",
     "MSE 211/Week 11/Readings/Understanding Power in Organizations - Pfeffer.md",
     "MSE 211/Week 7/Readings/Groupthink - NASA Space Shuttle.md",
     "MSE 211/Week 8/Readings/Leading Teams - Hackman.md",
@@ -217,7 +218,6 @@
     "MSE 261 (Complete in Content)/Images/Pasted image 20251116170617.png",
     "MSE 261 (Complete in Content)/Images/Pasted image 20251107113329.png",
     "MSE 261 (Complete in Content)/Images/Pasted image 20251107112436.png",
-    "MSE 261 (Complete in Content)/Images/Pasted image 20251016100652.png",
     "MSE 261 (Complete in Content)/Topic 4",
     "MSE 261 (Complete in Content)/Topic 1",
     "MSE 261 (Complete in Content)/Topic 8",

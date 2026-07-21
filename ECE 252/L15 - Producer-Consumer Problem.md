@@ -1,0 +1,7 @@
+- Also known as "bounded-buffer problem"
+- Two processes share common buffer that is fixed
+- One process is *producer*; generates data and puts it to buffer
+- Other process is *consumer*; takes data out of buffer
+- Few rules 
+	- Not possible to write into buffer that is already full; producer must wait until space is made available
+	- Not possible to read from an empty buffer; consumer must wait until there is something there
