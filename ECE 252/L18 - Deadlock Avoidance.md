@@ -16,3 +16,12 @@
 - *Safe sequence* - guarantees program correctness when multiple threads access shared resources
 - *Unsafe* - opposite of safe
 	- Deadlock can occur
+- Example 1: Each process can run to completion; first is b, then c, then finally a
+	- ![[Pasted image 20260721152312.png]]
+	- The process that can consume the max resources with the amount of free resources available goes first, consumes it to max, then releases it back to memory pool
+- Example 2: Same as before, but this time, a got an extra resource initially, messing up the final sequence and not allowing completion of all resources; unsafe
+	- ![[Pasted image 20260721152450.png]]
+### Resource-Allocation-Graph Algorithm
+- OS maintains allocation graph to avoid deadlock
+- Model for resource allocation graph
+	- 
