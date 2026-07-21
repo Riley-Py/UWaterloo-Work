@@ -19,4 +19,15 @@
 
 ### Barrier
 - Generalization of rendezvous pattern; way of having more than two threads meet at the same point before any can proceed
-- *Turnstile* - 
+- *Turnstile* - A wait semaphore, followed up immediately by a post semaphore; allows only one person to go at a time
+- Barrier can never be closed again; `count` can only be incremented
+
+### Reusable Barrier
+- Fix to barrier problem of never being closed; decrements `count` after rendezvous has taken place
+- Use two turnstiles; all threads wait at first turnstile until last gets there, then all threads wait at second turnstile until the last gets there and lets them all through again
+	- Diagram of this:
+			![[Pasted image 20260720201602.png]]
+	- Steps:
+		1. Threads arrive at rendezvous
+		2. nth thread arrives at rendezvous
+		3. Last thread unlocks fi
