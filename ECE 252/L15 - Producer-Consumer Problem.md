@@ -2,6 +2,12 @@
 - Two processes share common buffer that is fixed
 - One process is *producer*; generates data and puts it to buffer
 - Other process is *consumer*; takes data out of buffer
-- Few rules 
+- Few rules:
 	- Not possible to write into buffer that is already full; producer must wait until space is made available
 	- Not possible to read from an empty buffer; consumer must wait until there is something there
+### Mutex Syntax
+- Representing mutex is `pthread_mutext_t`
+- Either locked or unlocked
+- Here are the functions associated with structure
+	- `pthread_mutex_init(*mutex, *attributes)` - create new mutex variable and return it; use `NULL` for attributes and set mutex to `PTHREAD_MUTEX_INITIALIZER`
+	- `pthread_mutex_lock(*mutex)` - blocks mutex; mutex is unlocked by default
