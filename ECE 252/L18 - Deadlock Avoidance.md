@@ -34,4 +34,8 @@
 
 ### Banker's Algorithm
 - Allows for resources with multiple instances
-- 
+- Diagram of this:
+	- ![[Pasted image 20260721153539.png]]
+- Steps for algorithm
+	1. Look for row in matrix where unmet resources are less than or equal to resources in A; no such row means state is unsafe
+	2. Assume that row gets all resources it needs.  Mark process as terminated 
