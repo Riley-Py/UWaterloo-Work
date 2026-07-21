@@ -59,4 +59,10 @@
 	- *Mutual Exclusion* - can't be disallowed; prevents errors like crashes/inconsistent state
 		- Don't need this if threads are given a copy of the data and not sharing it
 	- *Hold and Wait* - process requests a resource, it doesn't have any other resource
-		- Cannot release all resources, however, and releasing only some resources reduces 
+		- Cannot release all resources, however, and releasing only some resources reduces probability of deadlock, but doesn't eliminate it
+		- Solution: *two-phase locking*
+			- Process attempts to lock group of resources; if it doesn't get all resources, it releases lock and tries again; doesn't wait while holding resources
+			- `trylock` functions in `pthread` do this
+				- Check to see if return is 0 to see if lock was acquired
+	- *No Preemption* - violate condition, and preemption occurs; forcible removal of resources from process by OS
+- Condition 4 is explained [[L18 - Deadlock Avoidance|]]
