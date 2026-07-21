@@ -11,4 +11,13 @@
 ### Readers Writers Syntax
 - `pthread_rwlock_t` is the solution for the readers-writers problem built int
 - Analogous to `pthread_mutex_t`
-- 
+
+### Search-Insert-Delete Problem
+- Extension of readers-writers problem
+- Operates on linked list of data
+- Three types of threads:
+	1. *Searchers* - examine list; can execute concurrently with each other; resembles readers
+	2. *Inserters* - add new items to end of list; one insertion at a time; like readers, but only one of them can manipulate the list at a time
+	3. *Deleters* - remove items from anywhere within a list; only one deleter process can access the list; like writers
+#ece252 
+#L16 
