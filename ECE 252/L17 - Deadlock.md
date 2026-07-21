@@ -65,4 +65,7 @@
 			- `trylock` functions in `pthread` do this
 				- Check to see if return is 0 to see if lock was acquired
 	- *No Preemption* - violate condition, and preemption occurs; forcible removal of resources from process by OS
-- Condition 4 is explained [[L18 - Deadlock Avoidance|]]
+- Condition 4 is explained [[L18 - Deadlock Avoidance|here]] 
+
+#ece252 
+#L17 
