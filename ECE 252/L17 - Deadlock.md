@@ -34,4 +34,21 @@
 	3. *No Preemption* - resource can't be taken from process that holds it; process holding resource may release it
 	4. *Circular-Wait* - cycle in resource allocation graph
 - First three conditions true: deadlock possible
-	- Fourth condition
+	- Fourth condition must be fulfilled for deadlock to occur
+- *Resource allocation graph* - graph that tells about state of system; represents processes/resources held by which processes
+	- Diagram of graph:
+		- ![[Pasted image 20260721144818.png]]
+	- Diagram of graph with deadlock when cycle happens:
+		- ![[Pasted image 20260721144918.png]]
+	- Diagram of graph with cycle with no deadlock:
+		- ![[Pasted image 20260721144939.png]]
+### Dealing with Deadlock
+- Four basic approaches with deadlock:
+	1. *Ignore It*
+	2. *Deadlock Prevention*
+	3. *Deadlock Avoidance*
+	4. *Deadlock Detection*
+
+#### Option 1: Ignore It
+- Pretend that deadlock can never happen
+	- If it does, it's someone else
