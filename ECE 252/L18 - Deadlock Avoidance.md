@@ -38,4 +38,10 @@
 	- ![[Pasted image 20260721153539.png]]
 - Steps for algorithm
 	1. Look for row in matrix where unmet resources are less than or equal to resources in A; no such row means state is unsafe
-	2. Assume that row gets all resources it needs.  Mark process as terminated 
+	2. Assume that row gets all resources it needs.  Mark process as terminated and put all resources into A, available pool
+	3. Repeat until all process are marked terminated, and initial state was safe; or no process remains whose needs can't be met, and initial state is unsafe
+- Pool of resources does not shrink; only stays the same or gets larger
+- Useless, as processes don't know what their maximum resource needs will be and number of processes is not fixed
+
+#ece252 
+#L18 
