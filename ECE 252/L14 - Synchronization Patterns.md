@@ -30,4 +30,10 @@
 	- Steps:
 		1. Threads arrive at rendezvous
 		2. nth thread arrives at rendezvous
-		3. Last thread unlocks fi
+		3. Last thread unlocks first turnstile and locks second
+		4. Threads pass through first turnstile
+		5. nth thread passes through first turnstile; may not have been last to arrive at first 
+		6. Thread that just arrived locks first turnstile/unlocks second
+		7. Thread leaves rendezvous
+#ece252 
+#L14 
