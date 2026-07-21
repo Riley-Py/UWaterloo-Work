@@ -6,4 +6,9 @@
 	- One writer may be in critical section; no readers in this case
 - File systems work like this; files can be read by many threads, but only one thread can write to it, and no readers are able to read while the thread writes
 - *Light switch* - first one into the critical section turns on lights (allowing readers in) and the last one turns off the lights (allowing the writer to come in and write)
-- *Starvation* - a thread never gets to run; 
+- *Starvation* - a thread never gets to run; in this problem, readers are constantly reading, so the writer thread never has the chance to perform writing the data
+	- Solution: use turnstile method
+### Readers Writers Syntax
+- `pthread_rwlock_t` is the solution for the readers-writers problem built int
+- Analogous to `pthread_mutex_t`
+- 
