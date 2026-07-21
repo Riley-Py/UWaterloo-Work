@@ -11,3 +11,7 @@
 - Here are the functions associated with structure
 	- `pthread_mutex_init(*mutex, *attributes)` - create new mutex variable and return it; use `NULL` for attributes and set mutex to `PTHREAD_MUTEX_INITIALIZER`
 	- `pthread_mutex_lock(*mutex)` - blocks mutex; mutex is unlocked by default
+	- `pthread_mutex_unlock(*mutex)` - unlocks mutex; default value
+	- `pthread_mutex_destroy(*mutex)` - destroys mutex
+#ece252 
+#L15 
