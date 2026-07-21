@@ -51,4 +51,12 @@
 
 #### Option 1: Ignore It
 - Pretend that deadlock can never happen
-	- If it does, it's someone else
+	- If it does, it's someone else's fault
+- Windows does this when the "not responding" dialog box appears
+
+#### Option 2: Deadlock Prevention
+- Eliminate one of the three conditions, deadlock isn't possible; below are ways to avoid conditions
+	- *Mutual Exclusion* - can't be disallowed; prevents errors like crashes/inconsistent state
+		- Don't need this if threads are given a copy of the data and not sharing it
+	- *Hold and Wait* - process requests a resource, it doesn't have any other resource
+		- Cannot release all resources, however, and releasing only some resources reduces 
