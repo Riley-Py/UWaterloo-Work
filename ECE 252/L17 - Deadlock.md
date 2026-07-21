@@ -7,4 +7,16 @@
 	- When philosopher wishes to eat, they sit down at designated chair, and attempt to pickup two chopsticks that are nearest; one left, one right
 	- Philosophers don't grab chopsticks out of their colleague's hands as they are polite; whoever has both chopsticks can eat rice, and when finished, puts down chopsticks to think again
 - Chopstick can equal a binary semaphore
-	- When all philosophers sit down at same time, each tries to grab the left/right chopstick, but they are already 
+	- When all philosophers sit down at same time, each tries to grab the left/right chopstick, but they are already taken
+	- None of them can eat as they are stuck
+- Above scenario is *deadlock*
+- Solutions
+	- Limit number of philosophers to 4, due to pigeonhole principle (one pigeonhole must have at least two pigeons if there are more pigeons than holes)
+	- Some try to pick up left, and some pick up the right
+### Deadlock
+- *Deadlock* - permanent blocking of set of processes that either compete for system resources/communicate with each other
+- Involves conflicting need for resources by two or more processes
+- Occurs if everyone tries to do the same thing at the same time
+- Example: traffic deadlock, when all four cars try to pass each other at once
+	- ![[Pasted image 20260721144125.png]]
+- 
