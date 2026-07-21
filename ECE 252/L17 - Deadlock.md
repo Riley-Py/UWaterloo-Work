@@ -19,4 +19,19 @@
 - Occurs if everyone tries to do the same thing at the same time
 - Example: traffic deadlock, when all four cars try to pass each other at once
 	- ![[Pasted image 20260721144125.png]]
-- 
+### Reusable and Consumable Resources
+- *Reusable* - used by one process at a time; not depleted by use
+	- Process can lock resource, make use of it, then release it for other processes
+	- Examples: processors, memory, files, semaphores
+- *Consumable* - created and destroyed upon consumption
+	- Example: user input, interrupts, messages, posts
+	- Less likely for deadlock to occur than reusable resources
+
+### Conditions for Deadlock
+- Four conditions to occur:
+	1. *Mutual Exclusion* - resource belongs to one resource at a time
+	2. *Hold-and-Wait* - process holding resources may request additional resources and be forced to wait 
+	3. *No Preemption* - resource can't be taken from process that holds it; process holding resource may release it
+	4. *Circular-Wait* - cycle in resource allocation graph
+- First three conditions true: deadlock possible
+	- Fourth condition
