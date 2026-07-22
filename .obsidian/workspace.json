@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE 252/L27 - Asynchronous IO (CURL).md",
+                "file": "ECE 252/L19 - Deadlock Detection & Recovery.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L27 - Asynchronous IO (CURL)"
+              "title": "L19 - Deadlock Detection & Recovery"
             }
           }
         ]
@@ -178,8 +178,10 @@
   },
   "active": "301ff8708df08c60",
   "lastOpenFiles": [
-    "ECE 252/Images/Pasted image 20260722091756.png",
+    "Pasted image 20260722131529.png",
     "ECE 252/L27 - Asynchronous IO (CURL).md",
+    "ECE 252/L19 - Deadlock Detection & Recovery.md",
+    "ECE 252/Images/Pasted image 20260722091756.png",
     "ECE 252/L26 - Asynchronous IO (Select, Poll).md",
     "Untitled.md",
     "ECE 252/L08 - Networks Part 2.md",
@@ -212,7 +214,6 @@
     "MSE 211/Week 9/Readings/Personality & Leadership - Judge.md",
     "MSE 211/Week 9/Readings/Leadership Review - Yukl.md",
     "MSE 211/Week 10/Readings/Typology of Organisational Cultures - Westrum.md",
-    "MSE 211/Week 10/Readings/Leading Tech Professionals And Teams - Stackpole.md",
     "MSE 211/Week 11/Readings",
     "MSE 211/Week 11",
     "MSE 211/Week 10/Readings",
