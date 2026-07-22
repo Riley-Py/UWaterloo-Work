@@ -1,0 +1,2 @@
+- Don't want to use threads, or can't due to race conditions, thread stack size, or limits on max of threads
+- Some programming lan
