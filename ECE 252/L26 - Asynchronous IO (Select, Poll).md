@@ -19,3 +19,12 @@
 	- `exceptfds` - sockets in exceptional state (Out-Of-Band data on TCP socket)
 	- Don't need all three; can put NULL for rest of them
 - After `select` returns, can check all file descriptors in set
+
+### Example: Chat Server
+- When people join chart room, send message to server; server accepts/opens connection, adds client to chat room
+	- People don't always talk; nothing to send if no talking
+	- Server can use `select()` to keep open for when someone has said something
+		- If socket for accepting activated, accept connection, and add new socket to list for listening
+		- Can send notification to other sockets regarding new connection; that would be writing
+		- If someone says something, read socket and pass message to other clients
+### Ps
