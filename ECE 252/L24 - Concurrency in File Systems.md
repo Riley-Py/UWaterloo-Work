@@ -32,4 +32,12 @@
 		- `F_SETLKW` - blocking version of `F_SETLK`; if region we want to lock is in use, caller is blocked
 - Simplified version of command above: `lockf(file_descriptor, command, length)`
 	- `command` - can be one of four options
-		- `F_LOCK` - acqurte 
+		- `F_LOCK` - acquire exclusive lock on section of file
+		- `F_TLOCK` - try to acquire exclusive lock
+		- `F_ULOCK` - unlock section of file
+		- `F_TEST` - check if section of file is locked; 0 if unlocked, -1 if locked
+	- `length` - offset based on current position in file; if 0, locks entire file
+- Do not mix `fcntl` and `lockf` together; use one or the other
+
+### Using File As Lock
+- `git` places file `index.lock` at particular directory to indicate that operation is in progress; doesn't allow two `git`
