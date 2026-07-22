@@ -1,4 +1,7 @@
 - [[L08 - Networks Part 2|CURL]] can be used asynchronously by using the multi-handle type `CURLM` and is initialized with `curl_multi_init()`
 - Can add easy handles to the multi handle with `curl_multi_add_handle(*cm, *eh)`
 - Once done with adding handles, can make all of them work at once with `curl_multi_perform(*cm, *still_running)`
-	- `still_running` - integer that is updated with number of easy handles multi handle is loading; 
+	- `still_running` - integer that is updated with number of easy handles multi handle is loading; if 0, they are done
+- Run `curl_multi_perform()` more than once
+- Call `curl_multi_wait(*multi_handle, extra_fds[], extra_nfds, timeout_ms, *numfds)` to block current thread
+	- `multi_`
