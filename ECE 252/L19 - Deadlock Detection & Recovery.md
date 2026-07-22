@@ -26,4 +26,21 @@
 - Algorithm has runtime of O(m x n^2)
 
 #### Deadlock Detection Algorithm - Example
-- 4 types of resources, 3 
+- 4 types of resources, 3 processes
+- Diagram of initial state of system: 
+	- ![[Pasted image 20260722133730.png]]
+- Going through algorithm
+	1. Process 1 can't run due to not having resource 4 available
+	2. Process 2 can't run due to not having resource 3
+	3. Process 3 can run, and it runs to completion; releases resources and now $A = [2, 2, 2, 0]$ 
+	4. Process 1 can't run due to not having resource 4 available
+	5. Process 2 can run, and now $A = [4, 2, 2, 1]$
+	6. Process 1 can run now, and $A = [4, 2, 3, 1]$
+- No deadlock if $E = A$ at the end of it all; deadlock if no process can go to completion after searching
+
+### Assumption Algorithm
+- Assume deadlock
+	- If operation takes too long, deadlock occurs
+	- If it doesn't, then it hasn't
+- Might be false positives/negatives
+- Can implement this with watchdog timer;
