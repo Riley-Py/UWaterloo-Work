@@ -16,3 +16,11 @@
 	- *Suppressed* - what to ignore
 ### Helgrind
 - Detect errors in POSIX pthreads
+- Three basic categories:
+	1. Misuses of pthreads
+	2. Lock ordering problems
+		- Builds directed graph of lock acquisitions; checks to see if cycle exists if deadlock is possible
+		- Reports error for initial order
+	3. Data races
+#ece252 
+#L22 
