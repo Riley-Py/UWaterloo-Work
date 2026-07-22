@@ -9,3 +9,13 @@
 - Syntax for `select(nfds, *readfds, *writefds, *exceptfds, *timeout)`
 	- When called, blocked until one socket becomes "ready" (data available to read, space to write, or timeout); can get interrupted by signal
 	- `nfds` - value of highest number file descriptor in any three sets plus 1
+	- `fd_set` can have up to 1024 file descriptors; implemented as bitfield, and has four functions
+		- `FD_ZERO (*set)` - clear set
+		- `FD_SET(fd, *set)` - add `fd` to set
+		- `FD_CLR (fd, *set)` - remove `fd` from set
+		- `FD_ISSET(fd, *set)` - test if `fd` part of set
+	- `readfds` - sockets reading from
+	- `writefds` - sockets writing from
+	- `exceptfds` - sockets in exceptional state (Out-Of-Band data on TCP socket)
+	- Don't need all three; can put NULL for rest of them
+- After `select` returns, can check all file descriptors in set
