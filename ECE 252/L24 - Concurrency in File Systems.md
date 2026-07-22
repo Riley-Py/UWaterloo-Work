@@ -21,4 +21,15 @@
 	- `file_descriptor` - obtained using `open`
 	- `flockptr` - pointer to structure `flock`, which has the following parameters
 		- `l_type` - `F_RDLCK` (read lock) or `F_WRLCK` (write lock) or `F_UNLCK` (unlock)
-		- `l_whence` - `SEEK_SET` (where offset begins at file) or `SEEK_CUR` ()
+		- `l_whence` - `SEEK_SET` (where offset begins at file) or `SEEK_CUR` (current position of file) or `SEEK_END` (user-defined endpoint of file)
+		- `l_start` - offset in bytes; relative to `l_whence`
+		- `l_len` - length in bytes; 0 means lock to EOF
+		- `l_pid` - returned with `F_GETLK`
+	- `command` has three options
+		- `F_GETLK` - determine if lock described by `flockptr` is blocked by other lock; if lock exists, content of `flockptr` is overwritten, and if it doesn't, `l_type` is set to `F_UNCLK`
+		- `F_SETLK` - set lock as described by `flockptr`; if lock can't be acquired, return error
+			- `trylock` can be used in this case
+		- `F_SETLKW` - blocking version of `F_SETLK`; if region we want to lock is in use, caller is blocked
+- Simplified version of command above: `lockf(file_descriptor, command, length)`
+	- `command` - can be one of four options
+		- `F_LOCK` - acqurte 
