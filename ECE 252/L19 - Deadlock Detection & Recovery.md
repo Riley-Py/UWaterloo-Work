@@ -23,3 +23,7 @@
 	1. Search for unmarked process whose requests can be satisfied with available resources in $A$; find process $P_i$ where $R_i \leq A$ 
 	2. If process found, add allocated resources of that process to available process and mark the process; $A = A + C_i$; back to step 1
 	3. If no process was found in step 1, algorithm stops
+- Algorithm has runtime of O(m x n^2)
+
+#### Deadlock Detection Algorithm - Example
+- 4 types of resources, 3 
