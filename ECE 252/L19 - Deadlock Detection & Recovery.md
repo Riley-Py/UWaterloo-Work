@@ -16,4 +16,10 @@
 		- $i$ row is how many of each resource $P_i$ has
 	- $R$ - request matrix
 		- $i$ row shows how many resource $P_i$ wants
-	- $
+	- $C_{ij}$ - number of instances of resource $j$ that $P_i$ has
+	- $R_{ij}$ - number of instances of resource $j$ that $P_i$ wants
+	- Resource is considered either allocated or available; this relationship holds: $$ \sum_{i = 1}^n C_{ij} + A_j = E_j$$
+- Algorithm steps:
+	1. Search for unmarked process whose requests can be satisfied with available resources in $A$; find process $P_i$ where $R_i \leq A$ 
+	2. If process found, add allocated resources of that process to available process and mark the process; $A = A + C_i$; back to step 1
+	3. If no process was found in step 1, algorithm stops
