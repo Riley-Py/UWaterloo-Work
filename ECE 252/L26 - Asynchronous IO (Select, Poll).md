@@ -39,7 +39,13 @@
 - Syntax for this: `poll(*fds, nfds, timeout)`
 	- `*fds` - structure for sockets to monitor with parameters:
 		- `fd` - file descriptor
-		- `events` - requested events
+		- `events` - requested events; `POLLIN` (read data) or `POLLOUT` (write data without blocking) or `POLLPRI` (exception); can be combined
 		- `revents` - returned events
 	- `nfds` - number of items to monitor
 	- `timeout` - number of milliseconds to wait
+### Comparison
+- Both do the same job; `poll` is good if max file descriptor is unavailable 
+- Both are slow; have linear characteristics (more sockets = slower processing)
+
+#ece252 
+#L26 
