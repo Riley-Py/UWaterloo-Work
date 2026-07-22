@@ -4,4 +4,11 @@
 	- `still_running` - integer that is updated with number of easy handles multi handle is loading; if 0, they are done
 - Run `curl_multi_perform()` more than once
 - Call `curl_multi_wait(*multi_handle, extra_fds[], extra_nfds, timeout_ms, *numfds)` to block current thread
-	- `multi_`
+	- `multi_handle` - the multi-handle
+	- `extra_fds[]` - extra file descriptors to wait on; always NULL
+	- `extra_nfds` - number of extra file descriptors; always 0
+	- `timeout_ms` - max time to wait
+	- `numfds` - updated with events that occurred
+- Can ask about status of request using `curl_multi_info_read (*cm, *msgs_left)`; returns a pointer to information for the "next" easy handle if there is one with type `CURLMsg`
+- When handle is finished, remove from multi handle with `curl_multi_remove_handle(*cm, *eh)` and clean it up with `curl_easy_cleanup(*eh)`; cleanup multi handle with `curl_multi_cleanup(*cm)`
+- 
