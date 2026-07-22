@@ -40,4 +40,14 @@
 - Do not mix `fcntl` and `lockf` together; use one or the other
 
 ### Using File As Lock
-- `git` places file `index.lock` at particular directory to indicate that operation is in progress; doesn't allow two `git`
+- `git` places file `index.lock` at particular directory to indicate that operation is in progress; doesn't allow two `git` clients to operate on the same repository at the same time
+- Use `open (*filename, flags)`, where `flags` are
+	- `O_RDONLY` - read-only
+	- `O_WRONLY` - write-only
+	- `O_RDWR` - read/write
+	- `O_APPEND` - append info to EOF
+	- `O_TRUNC` - clear all data from file
+	- `O_CREAT` - create file
+	- `O_EXCl` - used with `O_CREAT`, must create file; if file exists, fail
+#ece252 
+#L24 
