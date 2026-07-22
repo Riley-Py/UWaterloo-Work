@@ -75,9 +75,20 @@
 - Checkpoints can be created periodically/before beginning of particular operation
 - `git` and `svn` are examples of rollback
 
-#### Armageddon
+#### 5. Armageddon
 - Complete reboot of system
 - Easy to implement; very disruptive
 
 ### Victim Selection
-- 
+- Factors to consider in selection of processes
+	1. Priority of process
+	2. How long process has been executing
+	3. How long is remaining in execution
+	4. What resources process has
+	5. Future resource requests
+	6. Process is user-interactive or in background
+	7. How many times has process been selected as victim
+- Favours old process rather than younger ones; more expensive to restart old ones, and might be starved of resources
+
+#### Miscarriages of Justice
+- Algorithm is conservative; will side with being a deadlock present in syst
