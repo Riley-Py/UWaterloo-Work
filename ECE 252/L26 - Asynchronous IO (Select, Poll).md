@@ -27,4 +27,9 @@
 		- If socket for accepting activated, accept connection, and add new socket to list for listening
 		- Can send notification to other sockets regarding new connection; that would be writing
 		- If someone says something, read socket and pass message to other clients
-### Ps
+### Pselect
+- Same as `select()`, but different in two ways
+	1. `timeval` is `timespec`, and uses seconds/nanoseconds, instead of seconds/microseconds
+	2. `*sigmask` - signals 
+### Nap
+- Can put current thread to sleep with `select` by making three sets empty, and `nfds` at 0 with whatever timeout
