@@ -10,3 +10,12 @@
 			1. *Linked Scheme* - index block is disk block; link them together, where last entry in index block is null or pointer to next index block
 			2. *Multilevel Index* - variant of linked scheme with multiple levels; first level points to second level block, where it then points to actual file data
 				- Example: If block is 4KB, can have 1024 4-byte pointers, so two levels allows up to 4GB of data
+			3. *Combined Scheme* - combo of the above; used in UNIX
+				- Keep first 15 pointers of index block in inode structure; 12 point directly to file data
+				- Next three refer to indirect blocks; 13th is index block with addresses of blocks with data; 14th points to double indirect block; 15th points to triple indirect block
+		- Diagram of this: 
+			- ![[Pasted image 20260722091756.png]]
+- *Record locking* - use `fcntl` to lock a byte range of file instead of whole file
+	- Allows for more concurrency to happen
+- `fcntl(file_descriptor, command, *flockptr`)
+	- 
