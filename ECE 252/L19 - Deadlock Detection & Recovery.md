@@ -43,4 +43,19 @@
 	- If operation takes too long, deadlock occurs
 	- If it doesn't, then it hasn't
 - Might be false positives/negatives
-- Can implement this with watchdog timer;
+- Can implement this with watchdog timer; begin timer when process starts
+	- If task finishes first, cancel timer
+	- If timer finishes, then deadlock is assumed, and must take action
+### When to Detect Deadlock
+- It depends on the situation
+	- If deadlock happens a lot, checking for deadlock often makes sense
+	- When CPU utilization is low; when a drop in CPU usage happens, it could be an indication that deadlock occurs
+
+### Deadlock Recovery
+- Can recover by "breaking" deadlock
+- Several strategies that aren't mutually exclusive to one another to recover from deadlock
+
+#### 1. Robbery
+- Preemption, basically
+- Steals resources from one process and gives it to another that needs it until deadlock is broken
+- System needs to choose victim
