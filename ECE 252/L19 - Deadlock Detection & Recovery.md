@@ -59,3 +59,25 @@
 - Preemption, basically
 - Steals resources from one process and gives it to another that needs it until deadlock is broken
 - System needs to choose victim
+- If state of resource can't be saved/restored, then strategy isn't good
+
+#### 2. Mass Murder
+- Terminate all processes involved in deadlock; releases resources
+#### 3. Murder
+- Terminate processes selectively to free up resources that other processes need
+- Deadlock detection algorithm must run again and again to determine victim to terminate
+#### 4. Time Travel
+- *Rollback* - returning the state of process to saved state from earlier time
+- *Checkpoint* - saved state
+	- Contains memory image (call stack) and resource state
+	- Written to disk; persistent as long as process executes
+- *Checkpointing* - creating saved state
+- Checkpoints can be created periodically/before beginning of particular operation
+- `git` and `svn` are examples of rollback
+
+#### Armageddon
+- Complete reboot of system
+- Easy to implement; very disruptive
+
+### Victim Selection
+- 
