@@ -18,4 +18,7 @@
 - *Record locking* - use `fcntl` to lock a byte range of file instead of whole file
 	- Allows for more concurrency to happen
 - `fcntl(file_descriptor, command, *flockptr`)
-	- 
+	- `file_descriptor` - obtained using `open`
+	- `flockptr` - pointer to structure `flock`, which has the following parameters
+		- `l_type` - `F_RDLCK` (read lock) or `F_WRLCK` (write lock) or `F_UNLCK` (unlock)
+		- `l_whence` - `SEEK_SET` (where offset begins at file) or `SEEK_CUR` ()
