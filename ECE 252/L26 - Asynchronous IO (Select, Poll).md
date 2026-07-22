@@ -27,9 +27,19 @@
 		- If socket for accepting activated, accept connection, and add new socket to list for listening
 		- Can send notification to other sockets regarding new connection; that would be writing
 		- If someone says something, read socket and pass message to other clients
-### Pselect
+### Pselect ()
 - Same as `select()`, but different in two ways
 	1. `timeval` is `timespec`, and uses seconds/nanoseconds, instead of seconds/microseconds
 	2. `*sigmask` - signals 
 ### Nap
 - Can put current thread to sleep with `select` by making three sets empty, and `nfds` at 0 with whatever timeout
+
+### Poll()
+- Used to watch file descriptors and see if any of them are ready for I/O operation
+- Syntax for this: `poll(*fds, nfds, timeout)`
+	- `*fds` - structure for sockets to monitor with parameters:
+		- `fd` - file descriptor
+		- `events` - requested events
+		- `revents` - returned events
+	- `nfds` - number of items to monitor
+	- `timeout` - number of milliseconds to wait
