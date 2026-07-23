@@ -91,4 +91,12 @@
 - Favours old process rather than younger ones; more expensive to restart old ones, and might be starved of resources
 
 #### Miscarriages of Justice
-- Algorithm is conservative; will side with being a deadlock present in syst
+- Algorithm is conservative; will side with being a deadlock present in system
+- Sometimes, termination of an innocent process happens, as they release resources naturally
+- Algorithms don't have to be perfect so long as appropriate recovery strategy is chosen
+### Livelock
+- Seems like threads are running and working, but no work is getting done
+- Recovery strategies should have limit on number of retries before moving on to different strategy
+
+#ece252 
+#L19 
