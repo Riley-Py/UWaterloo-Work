@@ -37,5 +37,8 @@
 ### Confidence Interval for $\sigma^2$ and $\sigma_1^2 \over \sigma_2^2$: 
 - See formulas
 
-### MLE
+### Maximum Likelihood Estimation (MLE)
+- Chooses explanation that would produce evidence that is found - the observed data
 - 
+- Example: Bernoulli Distribution with dataset ${1, 1, 0, 1, 1}$ 
+	1. Write the likelihood
