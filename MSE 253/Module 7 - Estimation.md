@@ -33,3 +33,9 @@
 - Two binomial populations
 - $\hat{p_i} = {x_i \over n_i}$ 
 - See formulas
+
+### Confidence Interval for $\sigma^2$ and $\sigma_1^2 \over \sigma_2^2$: 
+- See formulas
+
+### MLE
+- 

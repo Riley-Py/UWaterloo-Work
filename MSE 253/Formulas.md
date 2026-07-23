@@ -141,7 +141,7 @@ $q$ - complement of $p$ (i.e. $q = 1 - p$)
 *Confidence Interval*: $$ \left (\hat{p_1} - \hat{p_2}\right) - z_{\sigma \over 2}\sqrt{{\hat{p_1}\hat{q_1}\over n_1} + {\hat{p_2}\hat{q_2}\over n_2}} < p < \hat{P} + z_{\sigma \over 2}\sqrt{{\hat{p_1}\hat{q_1}\over n_1} + {\hat{p_2}\hat{q_2}\over n_2}}$$
 ### Confidence Interval ($\sigma^2$)
 *Confidence Interval ($\sigma^2$):* $${(n-1)s^2 \over \chi_{\sigma \over 2}^2} < \sigma^2 < {(n-1)s^2 \over \chi_ {1 - {\sigma \over 2}}^2}$$
-*Confidence Interval ($\sigma_1^2 \over \sigm*
+*Confidence Interval ($\sigma_1^2 \over \sigma_2^2$)*: $$ {{{s_1^2 \over s_2^2}}  \over {f_{\sigma \over 2}(v_1, v_2)}} < {\sigma_1^2 \over \sigma_2^2} < {{{s_1^2 \over s_2^2}}  {f_{\sigma \over 2}(v_2, v_1)}}$$
 
 
 
