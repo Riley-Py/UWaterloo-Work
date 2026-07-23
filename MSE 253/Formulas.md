@@ -137,7 +137,9 @@ $q$ - complement of $p$ (i.e. $q = 1 - p$)
 *Confidence Interval:* $$ \hat{P} - z_{\sigma \over 2}\sqrt{{\hat{p}\hat{q}\over n}} < p < \hat{P} + z_{\sigma \over 2}\sqrt{{\hat{p}\hat{q}\over n}}$$
 ### Difference between $\hat{p_1} - \hat{p_2}$ 
 *Mean*: $$\mu_{\hat{p_1} - \hat{p_2}} = p_1 - p_2$$
-*Variance*: ${P_1q_1}
+*Variance*: $${p_{1}q_1\over n_1} + {p_2q_2 \over n_2}$$
+*Confidence Interval*: $$ \left (\hat{p_1} - \hat{p_2}\right) - z_{\sigma \over 2}\sqrt{{\hat{p_1}\hat{q_1}\over n_1} + {\hat{p_2}\hat{q_2}\over n_2}} < p < \hat{P} + z_{\sigma \over 2}\sqrt{{\hat{p_1}\hat{q_1}\over n_1} + {\hat{p_2}\hat{q_2}\over n_2}}$$
+
 
 
 
