@@ -134,7 +134,8 @@ where the larger sample variance is placed in the numerator
 *Point Statistic (mean)*: $$ p$$
 *Point Statistic (variance)*: $$ {pq} \over n$$
 $q$ - complement of $p$ (i.e. $q = 1 - p$)
-*Confidence Interval:* $$ P \left(\hat{P} - z_{\sigma \over 2}\sqrt{{}})
+*Confidence Interval:* $$ \hat{P} - z_{\sigma \over 2}\sqrt{{\hat{p}\hat{q}\over n}} < p < \hat{P} + z_{\sigma \over 2}\sqrt{{\hat{p}\hat{q}\over n}}$$
+
 
 
 

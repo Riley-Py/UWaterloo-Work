@@ -20,4 +20,10 @@
 ### Point Estimator of Proportion
 - Use the p-statistic
 - For confidence interval, use the Z-distribution/CLT
+
+### Notes about P
+- $n\hat{p} \ge 5$ and $n\hat{q} \geq 5$ 
+- When $n$ is small and $p$ is close to 0 or 1, confidence interval is bad
+- Sample size should be following:
+	- $n = {z_{\sigma \over 2}^2pq \over e}
 	
