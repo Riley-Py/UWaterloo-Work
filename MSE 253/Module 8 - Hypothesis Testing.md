@@ -1,0 +1,2 @@
+- Done this already; just putting it here to complete the set
+- Look at [[Module 6 - Sampling|module 6]] and [[Module 7 - Estimation]]

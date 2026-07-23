@@ -41,4 +41,11 @@
 - Chooses explanation that would produce evidence that is found - the observed data
 - 
 - Example: Bernoulli Distribution with dataset ${1, 1, 0, 1, 1}$ 
-	1. Write the likelihood
+	1. Write the likelihood function: $$L(\theta) = f(x_1; \theta) \times f(x_2; \theta) \times \cdots f(x_i; \theta)$$
+		- $f(x_i; \theta)$ is the PDF of a particular discrete distribution
+	2. Take the log of it: $$l(\theta) = {ln}L(\theta) $$
+	3. Differentiate
+	4. Set derivative to 0
+	5. Solve for $\theta$ 
+#mse253 
+#module7 
