@@ -19,4 +19,5 @@
 
 ### Point Estimator of Proportion
 - Use the p-statistic
+- For confidence interval, use the Z-distribution/CLT
 	

@@ -130,8 +130,11 @@ where the larger sample variance is placed in the numerator
 *Confidence Interval on Population Mean where $\sigma$ is unknown ($n \le 30$)*: $$ \bar x - t_{\alpha \over 2} {s\over \sqrt n} < \mu < \bar x + t_{\alpha \over 2} {s \over \sqrt n} $$
 *Confidence Interval on $\mu_1 - \mu_2$ where $\sigma_1, \sigma_2$ are known*: $$(\bar x_1 - \bar x_2) - z_{\sigma \over 2} \sqrt {{\sigma_1^2 \over n_1} + {\sigma_2^2 \over n_2}} < \mu_1 - \mu_2 < (\bar x_1 - \bar x_2) + z_{\sigma \over 2} \sqrt {{\sigma_1^2 \over n_1} + {\sigma_2^2 \over n_2}}$$
 ### Point Estimation
-*Point statistic*: $$ \hat{p} = {X \over n}$$
-*Point statistic*
+*Point Statistic*: $$ \hat{p} = {X \over n}$$
+*Point Statistic (mean)*: $$ p$$
+*Point Statistic (variance)*: $$ {pq} \over n$$
+$q$ - complement of $p$ (i.e. $q = 1 - p$)
+*Confidence Interval:* $$ P \left(\hat{P} - z_{\sigma \over 2}\sqrt{{}})
 
 
 
