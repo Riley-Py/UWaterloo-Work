@@ -16,4 +16,7 @@
 - Independent populations
 - Normal populations
 - See formulas for equation
+
+### Point Estimator of Proportion
+- Use the p-statistic
 	

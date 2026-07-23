@@ -47,7 +47,7 @@ $$
 ### Poisson 
 *Poisson Distribution*: $$p(x; \lambda t) = {{e^{-\lambda t} (\lambda t)^x}\over x!}, x=0,1,2\dots$$
 *Poisson Distribution (Mean and Variance)*: $$ \mu = \sigma^2 = \lambda t$$
-## Continuous Distributions
+## Continuous Distributions/Moments
 ### Uniform
 *Uniform Distribution*: $$\begin{numcases} {f(x; a, b) = } {1 \over b - a} & $a \leq x \leq b$ \\ 0, & otherwise \end{numcases}$$
 *Uniform Distribution (Mean)*: $$ {a + b}\over 2$$
@@ -102,6 +102,7 @@ $$E(e^{tX}) = {\int_a^b e^{tx}f(x)dx}$$
 $$E(X^r) = {{d^rE(e^{tX})} \over {dt}^r}$$
 Note: r represents the amount of times to take derivative (first derivative, second, etc.)
 
+## Statistics
 ### Sampling
 
 *Variance*: $$S^2 = {{1 \over n - 1} \sum_{i =1}^n (X_i - \bar X)^2} $$
@@ -128,7 +129,9 @@ where the larger sample variance is placed in the numerator
 *Confidence Interval on Population Mean where $\sigma$ is unknown ($n \ge 30$)*: $$\bar x - z_{\alpha \over 2} {s\over \sqrt n} < \mu < \bar x + z_{\alpha \over 2} {s \over \sqrt n} $$
 *Confidence Interval on Population Mean where $\sigma$ is unknown ($n \le 30$)*: $$ \bar x - t_{\alpha \over 2} {s\over \sqrt n} < \mu < \bar x + t_{\alpha \over 2} {s \over \sqrt n} $$
 *Confidence Interval on $\mu_1 - \mu_2$ where $\sigma_1, \sigma_2$ are known*: $$(\bar x_1 - \bar x_2) - z_{\sigma \over 2} \sqrt {{\sigma_1^2 \over n_1} + {\sigma_2^2 \over n_2}} < \mu_1 - \mu_2 < (\bar x_1 - \bar x_2) + z_{\sigma \over 2} \sqrt {{\sigma_1^2 \over n_1} + {\sigma_2^2 \over n_2}}$$
-
+### Point Estimation
+*Point statistic*: $$ \hat{p} = {X \over n}$$
+*Point statistic*
 
 
 
