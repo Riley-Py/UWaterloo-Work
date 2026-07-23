@@ -31,5 +31,5 @@
 ### Difference Between Two Binomial Parameters 
 - Independent random samples
 - Two binomial populations
+- $\hat{p_i} = {x_i \over n_i}$ 
 - See formulas
-	
