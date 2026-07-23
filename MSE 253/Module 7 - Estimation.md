@@ -25,5 +25,11 @@
 - $n\hat{p} \ge 5$ and $n\hat{q} \geq 5$ 
 - When $n$ is small and $p$ is close to 0 or 1, confidence interval is bad
 - Sample size should be following:
-	- $n = {z_{\sigma \over 2}^2pq \over e}
+	- $n = {z_{\sigma \over 2}^2pq \over e^2}$ 
+- To estimate $n$ without knowing $p$, use this
+	- $n = {z_{\sigma \over 2}^2 \over 4e^2}$ 
+### Difference Between Two Binomial Parameters 
+- Independent random samples
+- Two binomial populations
+- See formulas
 	
