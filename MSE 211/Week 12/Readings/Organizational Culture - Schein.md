@@ -1,0 +1,2 @@
+- Culture is in between many disciplines, which allows it to be the centre point of said disciplines
+- 
