@@ -53,4 +53,14 @@
 ### Assumptions
 - Determines perceptions, though processes, feelings, behaviour
 - Once known, easier to decipher the aforementioned levels
+	- Can also see how cultures are ambiguous/contradictory
+- Start out as values, then evolves into assumptions that aren't questioned/open to discussion
+
+## Deciphering "Content" of Culture
+- To decipher what is going on in organization, one records *artifacts* as well as *anomalies* 
+- Combining insider knowledge with outsider questions, assumptions can be brought to surface; process has to be interactive, where outsider continues to probe until assumptions are exposed
+- Diagram of internal/external tasks faced with all groups
+	- 
+
+## Two Case Examples
 - 
