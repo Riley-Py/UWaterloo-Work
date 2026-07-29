@@ -61,6 +61,8 @@
 - Combining insider knowledge with outsider questions, assumptions can be brought to surface; process has to be interactive, where outsider continues to probe until assumptions are exposed
 - Diagram of internal/external tasks faced with all groups
 	- ![[Pasted image 20260728201405.png]]
+- Diagram of dimensions of organizational culture
+	- ![[Pasted image 20260728202134.png]]
 
 
 ## Two Case Examples
@@ -74,6 +76,16 @@
 	2. Truth is determined by pitting employees to debate ideas until one idea survives, and that idea has to be agreed upon/convinced
 	3. Employees must think for themselves and "do the right thing"
 	4. Company members are one big family; take care of each other/protect each other
+- Diagram of paradigm of company
+	- ![[Pasted image 20260728201923.png]]
+
 ### Case 2 - Multi Company
 - Old company
-- Formal, private, status symbols present; people respect each o
+- Formal, private, status symbols present; people respect each other
+- Lacking in lateral communication/cross-functional meetings; each unit keeps to themselves
+- Truth is from a senior, and everyone is expected to go along
+- Future success depend on ability to be good at marketing/manufacturing, but treats research/development above that
+- Diagram of paradigm of company
+	- ![[Pasted image 20260728202319.png]]
+## Cultural Dynamics
+- Culture is learned
