@@ -25,8 +25,23 @@
 ### Proactive Onboarding
 - All four C's are addressed
 
-### Outcomes of Onboarding
+### Short-Term Outcomes of Onboarding
 - Four levels to maximize onboarding
 	1. *Self-efficacy* - employee feels confident in doing job well; more successful
 	2. *Clarity* - how well employee understands their role/expectations; higher clarity is higher performance
 	3. *Social integration* - socially comfortable/accepted by peers and superiors
+	4. *Knowledge of culture* - understanding politics/goals/values of firm
+### Long-Term Outcomes of Onboarding
+- Good onboarding is *job satisfaction* and *organizational commitment*
+- When onboarding is done right, it leads to
+	- Higher job satisfaction
+	- Organizational commitment
+	- Lower turnover
+	- Higher performance levels
+	- Career effectiveness
+	- Lowered stress
+- Diagram of good onboarding
+	- ![[Pasted image 20260728214635.png]]
+- 
+
+
