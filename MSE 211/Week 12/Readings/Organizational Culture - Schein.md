@@ -145,4 +145,12 @@
 
 ## Cultural Dynamics: Guided Evolution and Managed Change
 - Leaders do different things to produce cultural changes
-	1. Unfreeze present system by highlighting threats to organiz
+	1. Unfreeze present system by highlighting threats to organization; make organization believe change is possible
+	2. Discuss new direction/new assumptions
+	3. Positions filled with new incumbents with new assumptions
+	4. Reward adoption of new directions/punish adherence of old direction
+	5. Members may be seduced to adopt new behaviours consistent with new assumptions
+	6. Scandals may be created to discredit sacred cows
+	7. Create rituals and develop new symbols for new assumptions to be embraced using embedding mechanisms
+#mse211 
+#reading 
