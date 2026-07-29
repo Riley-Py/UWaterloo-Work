@@ -41,4 +41,13 @@
 			- ![[Pasted image 20260729084252.png]]
 		- Can fill first column; lieutenant 1 doesn't care what other people think they said; whole column can be replaced with what was actually said
 			- ![[Pasted image 20260729084426.png]]
-		- Figure out majority vote for each column j in table; sum up colum
+		- Figure out majority vote for each column j in table; sum up columns
+			- ![[Pasted image 20260729084501.png]]
+		- Attack is majority
+- Disloyal participants can lie, so can't rely on their data at all; some message is received, and can identify which participants are traitors
+- Back to example: If Lieutenant 7, vector looks like below
+	- ![[Pasted image 20260729084830.png]]
+- If Lieutenant 1, replace Lieutenant 4 with ?, as they are a traitor; replace first column
+	- ![[Pasted image 20260729084929.png]]
+- Sum each column
+	- 
