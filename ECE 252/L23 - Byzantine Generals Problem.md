@@ -20,4 +20,16 @@
 - If there are d disloyal participants, need more than 3 times of participants for loyal lieutenants to agree on what to do
 - If general is loyal, then at least 2d loyal lieutenants are needed to obey orders
 - If general is disloyal, then at least 2d + 1 lieutenants are needed to come with course of action
-- 
+- Scenario: general is disloyal, one lieutenant is collaborator
+	- Diagram
+		- ![[Pasted image 20260729083538.png]]
+	- In order for loyal lieutenants to not come to consensus, disloyal lieutenant sends mix messages to the others
+	- Diagram
+		- ![[Pasted image 20260729083624.png]]
+	- No consensus will be reached; hence chaos ensues
+- Scenario 2: general is loyal, but two disloyal lieutenants
+	- Diagram
+		- ![[Pasted image 20260729083828.png]]
+	- Each lieutenant constructs following vector, and would compare messages
+		- ![[Pasted image 20260729083932.png]]
+	- For lieutenant 1
