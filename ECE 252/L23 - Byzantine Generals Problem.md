@@ -32,4 +32,13 @@
 		- ![[Pasted image 20260729083828.png]]
 	- Each lieutenant constructs following vector, and would compare messages
 		- ![[Pasted image 20260729083932.png]]
-	- For lieutenant 1
+	- For lieutenant 1, the value they got was "Attack", and they gathered the other values
+		- ![[Pasted image 20260729084013.png]]
+	- Whatever lieutenant x received in first round forms row x of table, and other rows are added with communicating with the others; $v_{i, j}$ is "Lieutenant i says that Lieutenant j reports the general said v"
+		- Diagram
+			- ![[Pasted image 20260729084224.png]]
+		- Redundant entries are removed
+			- ![[Pasted image 20260729084252.png]]
+		- Can fill first column; lieutenant 1 doesn't care what other people think they said; whole column can be replaced with what was actually said
+			- ![[Pasted image 20260729084426.png]]
+		- Figure out majority vote for each column j in table; sum up colum
