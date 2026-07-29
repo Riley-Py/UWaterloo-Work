@@ -1,0 +1,2 @@
+- *Onboarding* - aiding new hires adjust to social/performance aspects of new job
+- Faster new hires feel welcome, faster to be able to contribute to mission of firm
