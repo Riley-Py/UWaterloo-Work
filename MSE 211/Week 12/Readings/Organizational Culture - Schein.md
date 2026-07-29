@@ -103,4 +103,17 @@
 	1. Leaders pay attention to, measure, control
 	2. Leaders react to incidents/crises
 	3. Role-modeling/coaching
-	4. Criteria for rewards/statu
+	4. Criteria for rewards/status
+	5. Criteria for recruitment, selection, promotion, retirement, excommunication
+- The *secondary articulation and reinforcement mechanisms* are
+	1. Organization design/structure
+	2. Organization systems/procedures
+	3. Design of space/buildings
+	4. Stories/symbols
+	5. Organizational philosophy
+
+## Cultural Dynamics: Preservation Through Socialization
+- Begins with recruitment/selection of members who have "right" set of assumptions/beliefs/values
+- Can be analyzed through seven dimensions
+	1. *Group VS Individual* - recruits in batches (bootcamp) or individually (offices)
+	2. *Formal VS *
