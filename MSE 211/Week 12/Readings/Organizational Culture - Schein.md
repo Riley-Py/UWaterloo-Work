@@ -116,4 +116,15 @@
 - Begins with recruitment/selection of members who have "right" set of assumptions/beliefs/values
 - Can be analyzed through seven dimensions
 	1. *Group VS Individual* - recruits in batches (bootcamp) or individually (offices)
-	2. *Formal VS *
+	2. *Formal VS Informal* - training programs (formal) or individual coaching (informal)
+	3. *Self-destructive/Reconstructing VS Self-Enhancing* - destroys aspects of self (bootcamp) or enhances self (offices)
+	4. *Serial VS Random* - role models provided (mentoring programs) or sink-or-swim (figure it out yourself)
+	5. *Sequential VS Disjunctive* - guiding recruit through discrete steps or being open-ended and not allowing prediction to happen
+	6. *Fixed VS Variable* - training process has fixed timetables for each stage (bootcamp), or are open-ended (promotions)
+	7. *Tournament VS Contest* - one is out of the organization if one fails or one builds up track record
+
+### Socialization Consequences
+- Produces different outcomes for organization
+- Three outcomes
+	- *Custodial Orientation* - total conformity to all norms/assumptions
+	- *Creative Individualism* - accepts central 
