@@ -20,4 +20,13 @@
 - Role clarification can be given, but culture/connection is not addressed
 
 ### High Potential Onboarding
-- Compliance and clairification 
+- Compliance and clarification are covered; some culture/connection are in place
+
+### Proactive Onboarding
+- All four C's are addressed
+
+### Outcomes of Onboarding
+- Four levels to maximize onboarding
+	1. *Self-efficacy* - employee feels confident in doing job well; more successful
+	2. *Clarity* - how well employee understands their role/expectations; higher clarity is higher performance
+	3. *Social integration* - socially comfortable/accepted by peers and superiors
