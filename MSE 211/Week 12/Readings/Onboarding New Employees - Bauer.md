@@ -46,6 +46,11 @@
 - *Recruiting* - relates to higher organizational commitment; provides information, but aids new employees form expectations and coping mechanisms
 - *Realistic Job Previews (RJP)* - prevent employees from suffering unmet expectations; employees adjust better with accurate info about company/new job
 - *Orientations* - aids employees in understanding culture/values, goals/history, and power structure of organization; helps employees feel welcome
-- *Support Tools/Processes* - onboarding plan, s
+- *Support Tools/Processes* - examples like
+	- *Onboarding plan* - outlines specific timeline/goals/responsibilities available to new hires; are written and communicated to all members
+	- *Stakeholder meetings* - aids new employees to get info they need in timely manner; potential problems can be solved
+	- *Onboarding online* - not as effective as in-person, but can automate basic forms/track progress
+- *Coaching and Support* - teach employees about organization, offer advice, help with job instruction, and provide support; employees are more knowledgeable/learnt key values of organization's culture with mentor
+- *Training* - employees learning about hard skills, soft skills, and onboarding skills
 
 
