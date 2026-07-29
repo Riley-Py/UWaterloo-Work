@@ -42,6 +42,10 @@
 	- Lowered stress
 - Diagram of good onboarding
 	- ![[Pasted image 20260728214635.png]]
-- 
+### Events During Onboarding
+- *Recruiting* - relates to higher organizational commitment; provides information, but aids new employees form expectations and coping mechanisms
+- *Realistic Job Previews (RJP)* - prevent employees from suffering unmet expectations; employees adjust better with accurate info about company/new job
+- *Orientations* - aids employees in understanding culture/values, goals/history, and power structure of organization; helps employees feel welcome
+- *Support Tools/Processes* - onboarding plan, s
 
 
