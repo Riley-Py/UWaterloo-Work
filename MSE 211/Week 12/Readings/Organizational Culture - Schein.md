@@ -127,4 +127,22 @@
 - Produces different outcomes for organization
 - Three outcomes
 	- *Custodial Orientation* - total conformity to all norms/assumptions
-	- *Creative Individualism* - accepts central 
+	- *Creative Individualism* - accepts central assumptions, but rejects the side assumptions, so individual has freedom to perform them (role innovation)
+	- *Rebellion* - individual rejects all assumptions; causes mayhem
+- To produce the best outcome, techniques must be
+	- Formal
+	- Self-reconstructing
+	- Serial
+	- Sequential
+	- Variable
+	- Tournament-like
+## Cultural Dynamics: Natural Evolution
+- New members will bring new beliefs/assumptions that will influence held assumptions
+
+### Differentiation 
+- Divide labor and form functional units in their own environment; builds subcultures
+- Differentiation occurs with age/size
+
+## Cultural Dynamics: Guided Evolution and Managed Change
+- Leaders do different things to produce cultural changes
+	1. Unfreeze present system by highlighting threats to organiz
