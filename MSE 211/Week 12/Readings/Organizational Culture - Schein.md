@@ -24,4 +24,16 @@
 
 ## Definition of Organizational Culture
 - Some organizations don't have culture due to frequent turnover/common history; others have strong culture due to shared history or shared intense experiences
-- 
+- Group learns culture as it solves problems both internal and external
+- There can be many subcultures within an organization
+- *Culture* can be defined as such
+	- Pattern of basic assumptions
+	- Developed by given group
+	- Learns to cope with adaptation/integration
+	- Worked well enough to be valid
+	- Taught to new members
+	- Correct way to perceive, think, feel in relation to problems
+- Aspects of culture are like defense mechanisms for individuals
+
+## Levels of Culture
+- Three 
