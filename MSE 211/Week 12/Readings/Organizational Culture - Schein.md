@@ -36,4 +36,21 @@
 - Aspects of culture are like defense mechanisms for individuals
 
 ## Levels of Culture
-- Three 
+- Three levels of culture
+	1. *Observable artifacts*
+	2. *Values*
+	3. *Basic underlying assumptions*
+
+### Observable Artifacts
+- *Artifacts* - physical layout, dress code, addressing people a certain way, smell/feel of place, emotional intensity, company records, products, philosophy, annual reports
+- Problem is that they can be hard to decipher; can make incorrect inferences from them if not knowing how they connect to assumptions
+
+### Values
+- Can be found though surveys/interviews
+- Includes norms, ideologies, charters, philosophies 
+- How people feel/think
+
+### Assumptions
+- Determines perceptions, though processes, feelings, behaviour
+- Once known, easier to decipher the aforementioned levels
+- 
