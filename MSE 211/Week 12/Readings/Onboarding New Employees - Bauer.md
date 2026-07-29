@@ -53,4 +53,7 @@
 - *Coaching and Support* - teach employees about organization, offer advice, help with job instruction, and provide support; employees are more knowledgeable/learnt key values of organization's culture with mentor
 - *Training* - employees learning about hard skills, soft skills, and onboarding skills
 
+#mse211 
+#reading 
+
 
