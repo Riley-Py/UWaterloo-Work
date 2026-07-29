@@ -89,3 +89,18 @@
 	- ![[Pasted image 20260728202319.png]]
 ## Cultural Dynamics
 - Culture is learned
+
+### Norm Formation Around Critical Incidents
+- Norms/beliefs arise from incidents
+	- Example: member goes against leader, leader counterattacks, member apologizes
+		- Norm of "we do not attack the leader in this group" forms; can become belief and eventually assumption
+		- If leader responds differently to attacks, different norm arises
+### Identification With Leaders
+- Identify with group leader's values/assumptions
+- Model how group should be structured/function
+- New leaders try to put their assumptions in, but organizations may have experiences that can't be changed
+- The *primary embedding mechanisms* are
+	1. Leaders pay attention to, measure, control
+	2. Leaders react to incidents/crises
+	3. Role-modeling/coaching
+	4. Criteria for rewards/statu
