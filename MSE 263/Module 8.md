@@ -35,4 +35,10 @@
 	3. Check if it's higher than fixed cost; if so, produce; otherwise, shutdown
 ### Pricing Dependent on Demand Curve
 - Demand curve shift when
-	- 
+	- Rival firm changes price
+	- News report about firm's product
+	- Firm engages in advertising
+- Two effects on pricing
+	1. *Volume* - demand shifts outward, then extra volume of sales pushes firm to region of higher marginal cost; firm raises price
+	2. *Price-sensitivity* - firm should raise price if demand becomes less elastic
+- Pricing doesn't change if demand goes from $d(P)$ to $kd(P)$ and firm has constant MC; holds if demand is not linear
