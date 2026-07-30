@@ -41,4 +41,13 @@
 - Two effects on pricing
 	1. *Volume* - demand shifts outward, then extra volume of sales pushes firm to region of higher marginal cost; firm raises price
 	2. *Price-sensitivity* - firm should raise price if demand becomes less elastic
-- Pricing doesn't change if demand goes from $d(P)$ to $kd(P)$ and firm has constant MC; holds if demand is not linear
+- Pricing doesn't change if demand goes from $d(P)$ to $kd(P)$ and firm has constant MC; holds if demand is not linear as well
+- Combined, then the firm should charge a higher price following shift
+
+### Shift in Demand - Competitor Raising Price
+- Increase in price of substitute good increases demand for firm's good; volume effect positive
+- Increase in price of substitute good makes demand for firm's good less elastic; price-sensitivity effect positive
+- Hence, firm increases price
+
+#mse263 
+#module8 
