@@ -17,4 +17,7 @@
 
 ### Marginal Conditions for Revenue Maximization
 - $MR_1 = MR_2$, or marginal cost for segment #1 is equal to segment #2. 
-- 
+- $MR = MC$ as well
+- ${MR_1} = {MR_2}$ means that price is higher for less elastic curve
+	- Thus, $${p_1 \over p_2} = {(1 + {1 \over \epsilon_2}) \over {(1 + {1 \over \epsilon_1})}}$$
+- For *constant marginal cost*, each market segment represents independent uniform pricing
