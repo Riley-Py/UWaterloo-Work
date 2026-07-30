@@ -1,0 +1,2 @@
+- *Marginal Revenue*: $$mR(Q) = P(Q) + {dP(Q) \over dQ}Q $$
+- 
