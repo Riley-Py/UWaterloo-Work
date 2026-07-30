@@ -27,7 +27,7 @@
 - For *increasing marginal cost*, pricing across different segments are related due to marginal cost being a function of total amount
 	- Solve system of equations: ${MR_1(Q_1)} = {MC}(Q_1 + Q_2)$ and ${MR_2(Q_2)} = MC (Q_1 + Q_2)$
 	- Diagram:
-		- 
+		- ![[Pasted image 20260730194255.png]]
 
 ### Perfect Price Discrimination with Unit Demand
 - Conditions for this
@@ -35,3 +35,13 @@
 	2. You know each customer's valuation
 	3. Arbitrage is not possible
 	4. Charging customer different price involves no transaction cost
+- *Surplus Extraction* - trade with customer, charge him their valuation; get all gains from trade
+- *Surplus Generation* - to maximize gains from trade, sell good to any customer whose valuation is at least as high as marginal cost
+
+### Implicit Market Segmentation (Screening)
+- Recognize difference of customers but lack info for explicit segmentation
+- To do this, propose options to customers and let trades adapt themselves to customers' characteristics through choices they make
+- Constraints
+	- *Participation* - each type of customer must weakly prefer their intended deal over not trading
+	- *Self-Selection* - each type of customer must weakly prefer their intended deal over other deals that are offered
+- Screening involves quality differentiation that the differences in quality are exaggerated and that differences in prices exceed differences in product costs for various
