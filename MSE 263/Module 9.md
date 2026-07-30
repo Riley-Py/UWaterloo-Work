@@ -44,4 +44,11 @@
 - Constraints
 	- *Participation* - each type of customer must weakly prefer their intended deal over not trading
 	- *Self-Selection* - each type of customer must weakly prefer their intended deal over other deals that are offered
-- Screening involves quality differentiation that the differences in quality are exaggerated and that differences in prices exceed differences in product costs for various
+- Screening involves quality differentiation that the differences in quality are exaggerated and that differences in prices exceed differences in product costs for various qualities
+- Example: software versions
+	- *Low Types' Participation* - can't set the price of a certain software so high that hobbyists don't want to buy that software
+	- *High Types' Self-Selection* - can't set the price of a certain software so high that high types don't want to buy that software
+	- Example of pricing:
+		- ![[Pasted image 20260730195117.png]]
+	#mse263 
+	#module9 
