@@ -13,4 +13,5 @@
 
 ### Firm's Decision
 - Price/quantity are not independent variables; tied by demand curve
-	- 
+	- *Linear Demand* - look at formulas for profit-maximizing price
+	- *E*
