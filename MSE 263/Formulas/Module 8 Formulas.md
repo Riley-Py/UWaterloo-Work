@@ -1,3 +1,4 @@
+- *Variable Profit*: $$\pi(Q) = (P - {MC})Q$$ 
 - *Marginal Revenue*: $$mR(Q) = P(Q) + {dP(Q) \over dQ}Q $$
 - *Profit-Maximizing Price (linear demand, constant marginal cost)*: $$ P = {{MC} + \bar{P} \over 2}$$
 - *Profit-Maximizing Price (constant demand elasticity, constant marginal cost)*: $$ P = {{B \over {B - 1}}{MC}}$$

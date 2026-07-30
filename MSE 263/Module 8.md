@@ -29,4 +29,10 @@
 ### LR Fixed Cost - Effects
 - Same for all levels of output; doesn't affect profit-maximizing quantity or socially optimal quantity (unless it's 0)
 	- Only affects decision whether to operate at all or not
-- 
+- Entry-exit decision process:
+	1. Calculate profit-maximizing price/quantity ignoring fixed cost
+	2. Calculate profit ignoring fixed cost (variable profit)
+	3. Check if it's higher than fixed cost; if so, produce; otherwise, shutdown
+### Pricing Dependent on Demand Curve
+- Demand curve shift when
+	- 
