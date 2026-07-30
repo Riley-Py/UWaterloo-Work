@@ -14,4 +14,9 @@
 ### Firm's Decision
 - Price/quantity are not independent variables; tied by demand curve
 	- *Linear Demand* - look at formulas for profit-maximizing price
-	- *E*
+	- *Exponential Demand* - look at formulas for profit-maximizing price; only applies if B > 1
+### Effect of Tax
+- Marginal revenue is now marginal cost + the tax applied
+- Marginal cost increases, profit-maximizing quantity falls; prices rise
+	- $MR = MC$ always; if no adjustment, then $MR < MC$ 
+	- Profit-maximzing quantity is alower th
