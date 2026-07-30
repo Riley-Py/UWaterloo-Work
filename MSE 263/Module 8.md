@@ -15,8 +15,18 @@
 - Price/quantity are not independent variables; tied by demand curve
 	- *Linear Demand* - look at formulas for profit-maximizing price
 	- *Exponential Demand* - look at formulas for profit-maximizing price; only applies if B > 1
-### Effect of Tax
+### Effect of Tax/Various Effects
 - Marginal revenue is now marginal cost + the tax applied
 - Marginal cost increases, profit-maximizing quantity falls; prices rise
 	- $MR = MC$ always; if no adjustment, then $MR < MC$ 
-	- Profit-maximzing quantity is alower th
+	- Profit-maximizing quantity is always lower than revenue maximizing quantity; always in elastic portion of demand curve
+		- Diagram
+			- ![[Pasted image 20260730150013.png]]
+	- Profit maximizing quantity is always lower than efficient quantity as MR curve lies below inverse demand curve
+		- Diagram
+			- ![[Pasted image 20260730150202.png]]
+			- ![[Pasted image 20260730150231.png]]
+### LR Fixed Cost - Effects
+- Same for all levels of output; doesn't affect profit-maximizing quantity or socially optimal quantity (unless it's 0)
+	- Only affects decision whether to operate at all or not
+- 
