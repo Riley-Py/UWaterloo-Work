@@ -50,4 +50,11 @@
 - If Lieutenant 1, replace Lieutenant 4 with ?, as they are a traitor; replace first column
 	- ![[Pasted image 20260729084929.png]]
 - Sum each column
-	- 
+	- ![[Pasted image 20260729084952.png]]
+- Now it's default choice as it's a tie
+- More disloyalty in system, more rounds the process will go on 
+- Communication grows at $n^2$ 
+- Messages are signed with public-key cryptography to check if received message was genuine; order that doesn't appear genuine can be disregarded
+- Problem applies to space flight and cryptocurrency
+#ece252 
+#L23 
