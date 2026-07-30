@@ -21,3 +21,17 @@
 - ${MR_1} = {MR_2}$ means that price is higher for less elastic curve
 	- Thus, $${p_1 \over p_2} = {(1 + {1 \over \epsilon_2}) \over {(1 + {1 \over \epsilon_1})}}$$
 - For *constant marginal cost*, each market segment represents independent uniform pricing
+	- Solve two separate equations: ${MR_1(Q_1)} = MC$ and ${MR_2(Q_2)} = MC$ 
+	- Diagram:
+		- ![[Pasted image 20260730194148.png]]
+- For *increasing marginal cost*, pricing across different segments are related due to marginal cost being a function of total amount
+	- Solve system of equations: ${MR_1(Q_1)} = {MC}(Q_1 + Q_2)$ and ${MR_2(Q_2)} = MC (Q_1 + Q_2)$
+	- Diagram:
+		- 
+
+### Perfect Price Discrimination with Unit Demand
+- Conditions for this
+	1. Each customer has unit demand
+	2. You know each customer's valuation
+	3. Arbitrage is not possible
+	4. Charging customer different price involves no transaction cost
