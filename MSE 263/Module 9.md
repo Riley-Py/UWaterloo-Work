@@ -11,4 +11,10 @@
 - Customers avoid price discrimination by
 	- *Masquerading* - pretending to be other segment
 	- *Arbitrage* - buying product through customers in other segment
-- *Observability C*
+- *Observability Condition* - lack of masquerading
+- *No-Resale Condition* - lack of arbitrage
+- Explicit market segmentation only works of either of the above is difficult/inconvenient 
+
+### Marginal Conditions for Revenue Maximization
+- $MR_1 = MR_2$, or marginal cost for segment #1 is equal to segment #2. 
+- 
