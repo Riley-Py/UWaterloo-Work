@@ -10,7 +10,7 @@
 - *Homogenous variance assumption* - variances of population being compared are equal across groups
 	- Based on assumption: $E(\epsilon) = 0$ and ${Var(\epsilon)} = \sigma^2$ 
 - *True Regression Model* - like SLR formula, but using the population attributes instead of sample attributes
-- *Fitted regression* - predicted line of true regression
+- *Fitted regression* - predicted line of true regression; $\hat{y}$ is the notation
 - *Residual* - error in the fitted regression when compared to the true regression
 	- Computed with $e_i = y_i - \hat{y_i}$ 
 	- Small values are sign of good fit
@@ -25,8 +25,9 @@
 	- $b_0 = \bar{y} - b_1\bar{x}$ 
 - Assume that $\beta_0$ and $\beta_1$ are normally distributed
 - For $\beta_1$
-	- Mean: $\beta_1$
-	- Variance: $\sigma^2 \over \sum_{i = 1}^n (x_i - \bar{x})^2$ 
+	- *Mean:* $\beta_1$
+	- *Variance*: $\sigma^2 \over \sum_{i = 1}^n (x_i - \bar{x})^2$ 
+	- *Standard Error*: 
 - For $\beta_0$
 	- Mean: $\beta_0$
 	- Variance: $\sigma^2 ({1 \over n} + {\bar{x}^2 \over \sum_{i=1}^n(x_i - \bar{x})^2})$ 
