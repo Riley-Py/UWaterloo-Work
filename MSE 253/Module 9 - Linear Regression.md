@@ -28,11 +28,19 @@
 	- *Mean:* $\beta_1$
 	- *Variance*: $\sigma^2 \over \sum_{i = 1}^n (x_i - \bar{x})^2$ 
 	- *Standard Error*: $s \over {\sqrt{\sum(x_i  - \bar{x})^2}}$ 
-	- *Confidence Interval*: use T-distribution
+	- *Confidence Interval*: use T-distribution (put on cheetsheet)
 	- *Hypothesis Testing*: $t = {{b_1} - \beta_1 \over {standard \space error}}$ 
 - For $\beta_0$
 	- *Mean*: $\beta_0$
 	- *Variance*: $\sigma^2 ({1 \over n} + {\bar{x}^2 \over \sum_{i=1}^n(x_i - \bar{x})^2})$ 
 	- *Standard Error*: $s \sqrt{{1 \over n} + {\bar{x}^2 \over \sum(x_i - \bar{x})^2}}$ 
+	- *Confidence Interval*: use T-distribution (put on cheatsheet)
+	- *Hypothesis Testing*: Same as $\beta_1$, but with the appropriate variables
 - To estimate variance: $s^2 = {\sum_{i = 1}^n (y_i - \hat{y_i})^2 \over {n - 2}}$ 
-- 
+
+### Coefficient of Determination
+- Proportion of total variability in y explained by fitted regression
+- Components of the coefficient of determination
+	- *SST* - Sum of squares Total; total variation in observed values
+	- *SSR* - Sum of Squares Regression; variation explained by regression model
+	- **
