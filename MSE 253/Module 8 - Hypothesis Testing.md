@@ -5,8 +5,19 @@
 	- *Reject $H_0$ in favour of $H_1$*
 	- *Fail to reject $H_0$*
 	- Note: no accepting either hypothesis
-- *Two-Sided* - both side
-
+- *Two-Sided* - $H_1$ is on both sides of statistic
+- *One-Sided* $H_1$ is only one side of statistic
+- *Critical region* - region where $H-)$ would be rejected
+	- *Critical values* - last numbers passing into critical region
+	- Diagram:
+		- ![[Pasted image 20260731083237.png]]
+### Errors
+- *Type 1* - rejection of null hypothesis when it's true
+- *Type 2* - failing to reject null hypothesis when it's false
+- Diagram
+	- ![[Pasted image 20260731083354.png]]
+- *Significance Level* - probability of type 1
+	- Example: $\alpha = P(\bar{x} < 0.172 \space {or} \space \bar{x} > 0.228 | \mu = 0.2)$  
 
 
 
