@@ -28,6 +28,8 @@
 	- *Mean:* $\beta_1$
 	- *Variance*: $\sigma^2 \over \sum_{i = 1}^n (x_i - \bar{x})^2$ 
 	- *Standard Error*: $s \over {\sqrt{\sum(x_i  - \bar{x})^2}}$ 
+	- *Confidence Interval*: use T-distribution
+	- *Hypothesis Testing*: $t = {{b_1} - \beta_1 \over {standard \space error}}$ 
 - For $\beta_0$
 	- *Mean*: $\beta_0$
 	- *Variance*: $\sigma^2 ({1 \over n} + {\bar{x}^2 \over \sum_{i=1}^n(x_i - \bar{x})^2})$ 
