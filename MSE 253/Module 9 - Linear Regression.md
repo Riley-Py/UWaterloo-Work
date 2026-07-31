@@ -23,4 +23,10 @@
 	- $S_{xy} = \sum_{i = 1}^n(x_i - \bar{x})(y_i - \bar{y})$ 
 	- $b_1 = {S_{xy} \over S_{xx}}$
 	- $b_0 = \bar{y} - b_1\bar{x}$ 
-- 
+- Assume that $\beta_0$ and $\beta_1$ are normally distributed
+- For $\beta_1$
+	- Mean: $\beta_1$
+	- Variance: $\sigma^2 \over \sum_{i = 1}^n (x_i - \bar{x})^2$ 
+- For $\beta_0$
+	- Mean: $\beta_0$
+	- Variance: $\sigma^2 ({1 \over n} + {\bar{x}^2 \over \sum_{i=1}^n(x_i - \bar{x})^2})$ 
