@@ -36,7 +36,20 @@
 1. State null/alternative hypothesis
 2. Choose test statistic
 3. Compute $P$ value based on computed value of test statistic
-4. Use judgement based on $P$ value to draw conclusions; 
+4. Use judgement based on $P$ value to draw conclusions
+	- If $P \leq \alpha$ reject $H_0$
+	- If $P > \alpha$, fail to reject $H_0$ 
+
+#### Proportional Testing - Small Samples
+1. $H_0: p = p_0$ 
+2. Choose $H_1$
+3. Choose level of significance equal to $\alpha$
+4. Test statistic is binomial variable $X$ with $p = p_0$
+5. Compute $p$ value
+6. Draw conclusions
+
+#### Proportional Testing - Large Samples
+
 
 
 
