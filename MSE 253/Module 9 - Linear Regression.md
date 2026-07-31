@@ -16,4 +16,11 @@
 	- Small values are sign of good fit
 
 ### Least Squares
-- 
+- Allows for the estimation of the true linear regression line
+- Notation
+	- $S_{xx} = \sum_{i = 1}^n (x_i - \bar{x})^2$ 
+	- $S_{yy} = \sum_{i = 1}^n (y_i - \bar{y})^2$ 
+	- $S_{xy} = \sum_{i = 1}^n(x_i - \bar{x})(y_i - \bar{y})$ 
+	- $b_1 = {S_{xy} \over S_{xx}}$
+	- $b_0 = \bar{y} - b_1\bar{x}$ 
+	- 
