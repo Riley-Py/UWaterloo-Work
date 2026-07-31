@@ -49,7 +49,15 @@
 6. Draw conclusions
 
 #### Proportional Testing - Large Samples
+1. $H_0: p = p_0$ 
+2. Choose $H_1$
+3. Choose level of significance equal to $\alpha$
+4. Use normal approximations where $\mu = np_0$ and $\sigma^2 = np_0q_0$ 
+5. Compute $p$ value
+6. Draw conclusions
 
+#### Two Populations
+- Do the same as above, but now calculate $\hat{p} = {{x_1 + x_2} \over {n_1 + n_2}}$ and $z
 
 
 
