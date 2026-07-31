@@ -142,6 +142,8 @@ $q$ - complement of $p$ (i.e. $q = 1 - p$)
 ### Confidence Interval ($\sigma^2$)
 *Confidence Interval ($\sigma^2$):* $${(n-1)s^2 \over \chi_{\sigma \over 2}^2} < \sigma^2 < {(n-1)s^2 \over \chi_ {1 - {\sigma \over 2}}^2}$$
 *Confidence Interval ($\sigma_1^2 \over \sigma_2^2$)*: $$ {{{s_1^2 \over s_2^2}}  \over {f_{\sigma \over 2}(v_1, v_2)}} < {\sigma_1^2 \over \sigma_2^2} < {{{s_1^2 \over s_2^2}}  {f_{\sigma \over 2}(v_2, v_1)}}$$
+### Linear Regression
+*Simple Linear Regression*: $$Y = \beta_0 + \beta_1x + \epsilon$$
 
 
 
