@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSE 263/Module 9.md",
+                "file": "MSE 263/Module 10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Module 9"
+              "title": "Module 10"
             }
           }
         ]
@@ -178,13 +178,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "059c515cd4110e39",
+  "active": "cdfe85c1f25fb1ff",
   "lastOpenFiles": [
+    "MSE 263/Module 9.md",
+    "MSE 263/Module 10.md",
     "MSE 263/Images/Pasted image 20260730195117.png",
     "MSE 263/Images/Pasted image 20260730194255.png",
     "MSE 263/Images/Pasted image 20260730194148.png",
     "MSE 263/Formulas/Module 8 Formulas.md",
-    "MSE 263/Module 9.md",
     "MSE 263/Module 8.md",
     "MSE 263/Images/Pasted image 20260730150231.png",
     "MSE 263/Images/Pasted image 20260730150202.png",
@@ -193,7 +194,6 @@
     "ECE 252/Images/Pasted image 20260729084952.png",
     "ECE 252/Images/Pasted image 20260729084929.png",
     "ECE 252/Images/Pasted image 20260729084501.png",
-    "ECE 252/Images/Pasted image 20260729084224.png",
     "ECE 252/L23 - Byzantine Generals Problem.md",
     "MSE 211/Week 12/Readings/Onboarding New Employees - Bauer.md",
     "MSE 211/Week 12/Readings/Organizational Culture - Schein.md",
