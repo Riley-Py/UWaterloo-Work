@@ -23,4 +23,4 @@
 	- $S_{xy} = \sum_{i = 1}^n(x_i - \bar{x})(y_i - \bar{y})$ 
 	- $b_1 = {S_{xy} \over S_{xx}}$
 	- $b_0 = \bar{y} - b_1\bar{x}$ 
-	- 
+- 
