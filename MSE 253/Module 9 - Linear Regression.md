@@ -30,3 +30,5 @@
 - For $\beta_0$
 	- Mean: $\beta_0$
 	- Variance: $\sigma^2 ({1 \over n} + {\bar{x}^2 \over \sum_{i=1}^n(x_i - \bar{x})^2})$ 
+- To estimate variance: $s^2 = {\sum_{i = 1}^n (y_i - \hat{y_i})^2 \over {n - 2}}$ 
+- 
