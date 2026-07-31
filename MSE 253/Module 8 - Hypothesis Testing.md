@@ -17,7 +17,18 @@
 - Diagram
 	- ![[Pasted image 20260731083354.png]]
 - *Significance Level* - probability of type 1
-	- Example: $\alpha = P(\bar{x} < 0.172 \space {or} \space \bar{x} > 0.228 | \mu = 0.2)$  
+	- Example: $\alpha = P(\bar{x} < 0.172 \space {or} \space \bar{x} > 0.228 | \mu = 0.2)$
+- *Beta Value* - probability of type 2
+	- Example: $\beta = P(0.172 \leq \bar{x} \leq 0.228 | \mu = 0.4)$ 
+- *Power of a Test* - probability of rejecting $H_0$ given that alternative is true
+	- Computed as $1 - \beta$ 
+
+### Procedures for Testing
+
+#### Fixed Significance Level
+1. State null/alternative hypothesis
+2. Choose fixed significance level
+3. Choose appropriate test statistic and es
 
 
 
