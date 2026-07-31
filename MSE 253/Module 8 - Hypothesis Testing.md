@@ -28,7 +28,15 @@
 #### Fixed Significance Level
 1. State null/alternative hypothesis
 2. Choose fixed significance level
-3. Choose appropriate test statistic and es
+3. Choose appropriate test statistic and establish critical region based on $\alpha$ 
+4. Reject $H_0$ if computed test statistic is in critical region; don't reject otherwise
+5. Conclusions
+
+#### P-Value
+1. State null/alternative hypothesis
+2. Choose test statistic
+3. Compute $P$ value based on computed value of test statistic
+4. Use judgement based on $P$ value to draw conclusions; 
 
 
 
