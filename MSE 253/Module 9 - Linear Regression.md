@@ -42,5 +42,14 @@
 - Proportion of total variability in y explained by fitted regression
 - Components of the coefficient of determination
 	- *SST* - Sum of squares Total; total variation in observed values
+		- $\sum (y_i - \bar{y})^2$ 
 	- *SSR* - Sum of Squares Regression; variation explained by regression model
-	- **
+		- $\sum(\hat{y} - \bar{y})^2$ 
+	- *SSE* - residuals
+- $R^2 = {{SSR} \over {SSE}}$  or $1 - {{SSE} \over {SSR}}$ 
+- If
+	- $R^2 = 0$ - explains no variation in Y
+	- $R^2 = 1$ - explains 100% of variation in Y
+	- Higher is better
+#mse253 
+#module9 
