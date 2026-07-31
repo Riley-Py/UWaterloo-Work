@@ -57,9 +57,7 @@
 6. Draw conclusions
 
 #### Two Populations
-- Do the same as above, but now calculate $\hat{p} = {{x_1 + x_2} \over {n_1 + n_2}}$ and $z
-
-
+- Do the same as above, but now calculate $\hat{p} = {{x_1 + x_2} \over {n_1 + n_2}}$ and $z = {{\hat{p_1} - \hat{p_2}} \over \sqrt{\hat{p}\hat{q} ({1 \over n_1} + {1 \over n_2})}}$ ; follow the same procedure as before
 
 - Look at [[Module 6 - Sampling|module 6]] and [[Module 7 - Estimation|module 7]] for more info; look at [[Formulas|formulas]] for the associated equations
 
