@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSE 253/Module 7 - Estimation.md",
+                "file": "MSE 253/Module 9 - Linear Regression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Module 7 - Estimation"
+              "title": "Module 9 - Linear Regression"
             }
           }
         ]
@@ -180,9 +180,9 @@
   },
   "active": "cdfe85c1f25fb1ff",
   "lastOpenFiles": [
-    "MSE 253/Formulas.md",
-    "MSE 253/Module 7 - Estimation.md",
     "MSE 253/Module 8 - Hypothesis Testing.md",
+    "MSE 253/Module 7 - Estimation.md",
+    "MSE 253/Formulas.md",
     "MSE 253/Module 9 - Linear Regression.md",
     "MSE 253/Module 6 - Sampling.md",
     "ECE 252/L09 - Pipes.md",
