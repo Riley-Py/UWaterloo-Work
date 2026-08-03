@@ -1,6 +1,13 @@
 - *AIO* - Asynchronous I/O Interface
 - Create control block to specify what operation you want to happen
 - Structure of `aiocb` struct
-	- `aio_fildes` - file descriptor
-	- `aio_offset` - offset for I/O
-	- ``
+	- `aio_fildes` - file descriptor; want to read/write
+	- `aio_offset` - offset for I/O; how far into file to start operation; does nothing in *append mode*
+	- `aio_buf` - buffer; source for write or destination for read
+	- `aio_nbytes` - number of bytes to transfer
+	- `aio_reqprio` - request priority; how events should be scheduled (ignore it)
+	- `aio_sigevent` - signal info; below is structure
+		- `sigev_notify` - notify type
+		- `sigev_signo` - signal number
+		- 
+	- `aio_lio_opcode` - operation for List I/O
