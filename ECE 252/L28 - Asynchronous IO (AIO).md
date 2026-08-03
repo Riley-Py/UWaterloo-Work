@@ -54,4 +54,7 @@
 		- `mode` can be two things
 			1. `LIO_WAIT` - function doesn't return until all operations are complete
 			2. `LIO_NOWAIT` - as soon as I/O requests are enqueued, function returns and we can go on
-		- 
+		- `list` & `nent` - list of control blocks and number of control blocks in list
+		- `sigev` - can pass NULL if you don't want anything
+#ece252 
+#L28 
