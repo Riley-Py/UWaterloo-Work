@@ -7,7 +7,15 @@
 	- `aio_nbytes` - number of bytes to transfer
 	- `aio_reqprio` - request priority; how events should be scheduled (ignore it)
 	- `aio_sigevent` - signal info; below is structure
-		- `sigev_notify` - notify type
+		- `sigev_notify` - notify type; three types
+			- `SIGEV_NONE` - do nothing when request completes
+			- `SIGEV_SIGNAL` - signal specified in signal number field when request is complete
+			- `SIGEV_THREAD` - function specified in notify function is executed in thread
 		- `sigev_signo` - signal number
-		- 
+		- `union sigval sigev_value` - notify argument (`union` is where all members share the same memory location)
+		- `*sigev_notify_function` - notify function
+		- `*sigev_notify_attributes` - notify attributes
 	- `aio_lio_opcode` - operation for List I/O
+- To enqueue request, use `aio_read(aiocb)` and `aio_write(aiocb)`
+	- Can't change control block/buffer while operation is in progress
+- To know if we a
