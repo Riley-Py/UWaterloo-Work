@@ -30,3 +30,19 @@
 - Design program that processes group of files
 - Use async I/O to parallelize it; start read for n + 1 and process file n in meantime; blocking read for first file
 	- Max size is length of read
+	- Two buffers - one for processing file and one for next read
+- Example program: ![[Pasted image 20260803161641.png]]
+- If there is nothing to do, call `aio_suspend(aiocb list, nent, timeout)`
+	- `aiocb list` - array of control blocks
+	- `nent` - size of array
+	- `timeout` - timeout
+	- Allows to block until an AIO operation is complete, or timeout elapses
+		- -1 - timeout doesn't occur
+		- 0 - AIO request is finished
+		- Function doesn't block if everything was finished in AIO
+### Callback when AIO Finished
+- Example: 
+	- ![[Pasted image 20260803161954.png]]
+- `aio_cancel(fd, aiocb)` is used to cancel AIO request; returns 4 values
+	- `AIO_CANCELLED` - requested operations have been cancelled
+	- `AIO_NOTCANC`
