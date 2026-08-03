@@ -45,4 +45,13 @@
 	- ![[Pasted image 20260803161954.png]]
 - `aio_cancel(fd, aiocb)` is used to cancel AIO request; returns 4 values
 	- `AIO_CANCELLED` - requested operations have been cancelled
-	- `AIO_NOTCANC`
+	- `AIO_NOTCANCELLED` - at least one operation couldn't be cancelled
+	- -1 - something went wrong
+	- `AIO_ALLDONE` - all operations finished before they could be cancelled
+### The List
+- `aio_lio_opcode` - submit group of AIO requests in single operation
+	- Can use `lio_listio(mode, list, nent, sigev)`
+		- `mode` can be two things
+			1. `LIO_WAIT` - function doesn't return until all operations are complete
+			2. `LIO_NOWAIT` - as soon as I/O requests are enqueued, function returns and we can go on
+		- 
