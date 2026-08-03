@@ -18,4 +18,15 @@
 	- `aio_lio_opcode` - operation for List I/O
 - To enqueue request, use `aio_read(aiocb)` and `aio_write(aiocb)`
 	- Can't change control block/buffer while operation is in progress
-- To know if we a
+- To know if we are done, use `aio_error(aiocb)` and `aio_return(aiocb)`
+	- `aio_error` tells about status of operation
+		- 0 - operation completed sucessfully
+		- -1 - operation completed unsucessfully
+		- `EINPROGRESS` - waiting to run or is currently running
+	- `aio_return` gets return value from read/write operation
+		- Only can call this once
+		- After calling, internal structures can be deallocated
+### AIO Example: Read While You Eat
+- Design program that processes group of files
+- Use async I/O to parallelize it; start read for n + 1 and process file n in meantime; blocking read for first file
+	- Max size is length of read
