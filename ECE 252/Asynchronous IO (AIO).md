@@ -1,0 +1,6 @@
+- *AIO* - Asynchronous I/O Interface
+- Create control block to specify what operation you want to happen
+- Structure of `aiocb` struct
+	- `aio_fildes` - file descriptor
+	- `aio_offset` - offset for I/O
+	- ``
