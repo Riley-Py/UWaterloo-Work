@@ -52,5 +52,13 @@ The mechanism, starting from system conditions to the end behaviour, starts with
 ### Critiques from ChatGPT
 - Weak Week 2 integration; only mentioned at the end
 	- From now on, integrate more with the concepts within the argument and not include it at the end
-- 
+- Must evaluate competing explanations
+	- Must show why one explanation may be better than the other
+- Must discuss about "reasonableness"
+	- Explain why skipping reviews was reasonable
+- Must also discuss qualification
+	- Again, back to the dichotomy of "Here is this explanation, but here are some limitations"
+
+#mse211 
+#final_exam 
 

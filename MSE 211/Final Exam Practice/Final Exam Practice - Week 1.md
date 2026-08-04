@@ -16,3 +16,5 @@ Failures are predominately behavioural failures with technical symptoms as there
 	- Do a two side; don't conclude with anything definitive
 - Missing systems thinking
 	- Talk about feedback/boundary drift/ interactions among organizational levels
+#mse211 
+#final_exam 
