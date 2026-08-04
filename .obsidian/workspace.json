@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSE 211/Week 1/Readings/Hackman.md",
+                "file": "MSE 211/Final Exam Practice/Final Exam Practice - Week 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hackman"
+              "title": "Final Exam Practice - Week 2"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -192,11 +193,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "cdfe85c1f25fb1ff",
+  "active": "3e74f8a51536c3a1",
   "lastOpenFiles": [
+    "MSE 211/Week 2/Readings/Kahneman.md",
+    "MSE 211/Week 2/Readings/Mischel.md",
+    "MSE 211/Week 2/Readings/Personalities.md",
     "MSE 211/Week 1/Readings/Hackman.md",
-    "MSE 211/Week 1/Readings/Rasmussen.md",
     "MSE 211/Final Exam Practice/Final Exam Practice - Week 2.md",
+    "MSE 211/Week 1/Readings/Rasmussen.md",
     "MSE 245/Study Guide.md",
     "MSE 253/Study Guide.md",
     "MSE 263/Study Guide.md",
@@ -207,9 +211,6 @@
     "MSE 263/Module 9.md",
     "MSE 263/Module 10.md",
     "MSE 211/Final Exam Practice/Final Exam Practice - Week 1.md",
-    "MSE 211/Week 2/Readings/Personalities.md",
-    "MSE 211/Week 2/Readings/Mischel.md",
-    "MSE 211/Week 2/Readings/Kahneman.md",
     "ECE 252/L29 - Event-Driven IO (Libevent).md",
     "MSE 211/Week 1/Readings/Texas City Explosion.md",
     "MSE 211/Bridge Questions (Exam Review).md",
