@@ -28,4 +28,14 @@
 
 ### Starting Events
 - Use either `event_base_dispatch(base)` or `event_base_loop(base, flags)`, where
-	- `flas`
+	- `flags` - can be one of three things
+		- `EVLOOP_ONCE` - wait for events to become active, then turn active events until nothing left
+		- `EVLOOP_NONBLOCK` - no waiting on events; run if ready, skip if not
+		- `EVLOOP_NO_EXIT_ON_EMPTY` - normal behaviour is to exit loop when no more events are pending/active; can exit via two functions
+			- `event_base_loopexit(base, tv)`
+			- `event_base_loopbreak(base)`
+### Cleanup
+- Use `libevent_global_shutdown()` to clean up the events; last function to be called
+
+#ece252 
+#L29 
