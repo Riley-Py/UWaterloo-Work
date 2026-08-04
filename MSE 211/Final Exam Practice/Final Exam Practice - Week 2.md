@@ -47,5 +47,5 @@ Explain why the system failures would likely be misinterpreted as individual fai
 
 ### Response to Q2 
 
-The mechanism, starting from system conditions to the end behaviour, starts with the conditions of the work.  The project may be falling behind due to miscommunication between members or due to management demanding features that take a considerable amount of time to implement.  This creates unsafe work conditions, and team members start aiming 
+The mechanism, starting from system conditions to the end behaviour, starts with the conditions of the work.  The project may be falling behind due to miscommunication within the group of individuals or due to management demanding features that take a considerable amount of time to implement.  This creates unsafe work conditions, as members are not being given the resources needed to implement the features.  This causes the individuals within the group to try and be more efficient, like skipping review steps within the project, to try and meet the demands of management.  However, the miscommunication between members within the group means that coordination to implement the features is not fully fledged, which the review steps would have caught in the process.  
 
