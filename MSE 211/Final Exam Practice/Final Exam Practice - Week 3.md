@@ -39,7 +39,21 @@ Explain the full mechanism using concepts from:
 
 Your answer must:
 - Trace the full chain;
-	- SYSTEM
+	- System conditions -> Perception -> Attribution -> Judgement -> Behaviour
+- Explain why:
+	- The behaviour appeared reasonable at the time
+	- The failure would likely be misinterpreted as individual failure
+
+### Plan
+- Casual chain; do the same four step process
+	1. What happened in the box
+	2. What did that cause
+	3. What did people do
+	4. How did that influence next box
+- Explicitly explain the requirements
+- Again, be succinct
+
+
 
 
 
