@@ -1,0 +1,5 @@
+- Meant for high performance applications/scalable network servers
+- When something happens, take action
+- Use `evthread_use_pthreads()` to configure it' return 0 on success and -1 on failure
+- Each event is associated with `event_base` structure; container for set of events
+	- Locking enabled - can use in multiple threads, but the loop can 
