@@ -14,6 +14,8 @@ Your answer must:
 You must evaluate using explicit criteria, such as:
 - Explanatory power
 - Predictive usefulness
-- Pratical intervention value
+- Practical intervention value
 
 ### Answer to Question 1
+
+Goal structure is different for each person.  Some people are motivated by extrinsic  factors, like money, and some are motivated by intrinsic values, like personal achievement.  Take for example the Wells Fargo scandal; employees were motivated to open more accounts in order to get bonuses tied to it.  This was an extri
