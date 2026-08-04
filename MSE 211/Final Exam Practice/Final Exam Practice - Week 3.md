@@ -53,7 +53,8 @@ Your answer must:
 - Explicitly explain the requirements
 - Again, be succinct
 
-
+### Answer to Q2
+The way the full mechanism can be explained to see the resulting outcome, from system conditions all the way through to behaviour, starts with working conditions.  There was a lack of safety built into the way people were working on the project, as management kept on demanding more and more features.  Additionally, management demanded to keep the project economically viable - meaning to make the project as cheap as possible - in order to receive a bonus.  Members on the team thus wanted to be more efficient when it came to the addition of the features, and to implement them in a cheap fashion.  The demands by management thus inf
 
 
 
