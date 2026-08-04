@@ -37,7 +37,7 @@ Using concepts from both Week 1 and Week 2, explain full mechanism linking syste
 Explain why the system failures would likely be misinterpreted as individual failures by the team members, even though the behaviour appeared reasonable at the time it occurred.
 
 ### Plan
-- Trace the pathway from system conditions -> decision processes -> behaviour through casual chain
+- Trace the pathway from system conditions -> decision processes -> behaviour through causal chain
 - Remember the four step process
 	1. Explain what happens in box
 	2. Explain how it influences people
