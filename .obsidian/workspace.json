@@ -35,8 +35,7 @@
               "title": "Ross"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -193,8 +192,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b413d1372110af25",
+  "active": "3e74f8a51536c3a1",
   "lastOpenFiles": [
+    "MSE 211/Week 3/Readings/Ross.md",
+    "MSE 211/Week 3/Readings/Simon.md",
     "MSE 211/Week 3/Readings/Dekker.md",
     "MSE 211/Final Exam Practice/Final Exam Practice - Week 3.md",
     "MSE 211/Final Exam Practice/Final Exam Practice - Week 2.md",
@@ -222,8 +223,6 @@
     "ECE 252/Images/Pasted image 20260803161641.png",
     "ECE 252/Images/Pasted image 20260803161954.png",
     "ECE 252/L28 - Asynchronous IO (AIO).md",
-    "MSE 253/Module 7 - Estimation.md",
-    "MSE 263/Formulas/Module 8 Formulas.md",
     "MSE 253/Images/Pasted image 20260731083354.png",
     "MSE 253/Images",
     "MSE 253/Images/Pasted image 20260731083237.png",
