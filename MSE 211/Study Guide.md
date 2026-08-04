@@ -1,0 +1,4 @@
+- Go through all of the weeks questions (preferably 4 a day, but 3 is bare minimum)
+- Do all of the "big boy" questions; the Evaluation questions
+- Do as well all of the "Bridging" questions for that week as well
+- No word limit 
