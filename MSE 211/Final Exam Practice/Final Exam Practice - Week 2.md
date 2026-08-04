@@ -17,12 +17,34 @@ You must evaluate using explicit criteria, such as:
 - Explanatory completeness
 - Practical usefulness
 
-## Answer to Q1
+### Answer to Q1
 
 With behaviour, it can change depending on the situation in which someone is in that may not be align with personality.  An example of this would be in a robotics organization, when stress and pressure build up when meeting a timeline.  Someone may have a typical personality of being conscientious, but when stress is thrown into the mix, then their behaviour can display elements of neuroticism, which goes against their personality.  This is supported in the readings through Mischel's findings, where he stated that when environment isn't a constant, then so is behaviour, and that behaviour can't be predicted with an ever-changing environment.  In the example, no one would have predicted that this person would change from being organized to being anxious and stressed when stressors like timelines are thrown in.  Thus, the claim that personality is a poor explanation for behaviour in real-world settings may be true, but the limiting factor is that personality can be a predictor of behaviour if the environment is constant.  Going back to the example, say there was another person who was always agreeable; they worked well with others on the team and are generally well-liked.  If the environment doesn't change around them, then there is no reason for behaviour to change.  Thus, outsiders looking at the person would expect them to stay agreeable, and this would shape the way in which this person is delegated to roles.  
 
-## ChatGPT Critique to Q1 Answer
+### ChatGPT Critique to Q1 Answer
 - Evaluate "primary"
 	- Talk about incentives, stress, leadership (note: this comes up later in the course; I know how to do this)
 - Stronger practical usefulness
-	- 
+- Broader explanatory completeness
+- Note on last two: that is more specific to the question, not to how I did on Bloom's Evaluation level; should be fine
+
+## Question 2 - Bridge
+
+A group project is falling behind schedule.  Members begin skipping review steps to save time, and the final submission contains major errors.
+
+Using concepts from both Week 1 and Week 2, explain full mechanism linking system conditions, decision process, behaviour
+
+Explain why the system failures would likely be misinterpreted as individual failures by the team members, even though the behaviour appeared reasonable at the time it occurred.
+
+### Plan
+- Trace the pathway from system conditions -> decision processes -> behaviour through casual chain
+- Remember the four step process
+	1. Explain what happens in box
+	2. Explain how it influences people
+	3. Explain what people do in response
+	4. Explain how it leads to the next box
+- Keep it succinct; on final exam, you don't have time to write 700 words.  Keep it to 200 words or less.
+
+### Response to Q2 
+
+
