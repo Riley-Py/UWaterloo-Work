@@ -12,4 +12,20 @@
 	- *Pending* - waiting for event to happen
 		- If it happens, user-defined callback runs
 	- *Non-Pending* - not wanting to wait for event anymore; can be re-added
-- To create event, use `event_new(base, fd, what, cb)` and to destroy, use `event_fr`
+- To create event, use `event_new(base, fd, what, cb, arg)` and to destroy, use `event_free(event)`
+	- `base` - base that this event will be associated with
+	- `fd` - file descriptor
+	- `what` - specify what kind of thing we want to be notified about
+		- `EV_TIMEOUT`
+		- `EV_READ`
+		- `EV_WRITE`
+		- `EV_SIGNAL`
+		- `EV_PERSIST`
+		- `EV_ET` - edge-triggered (change in readiness)
+		- Can be combined with `|`
+	- `cb, arg` - callback function and arguments to pass
+- To add event, use `event_add(ev, tv)` and to remove it, use `event_del(ev)`
+
+### Starting Events
+- Use either `event_base_dispatch(base)` or `event_base_loop(base, flags)`, where
+	- `flas`
