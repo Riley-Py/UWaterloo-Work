@@ -57,3 +57,6 @@ The full mechanism, starting from system conditions and ending with the undesira
 - Week 2 integration is still weak
 	- Elaborate more on it in future responses
 - Behaviour needs to be more explicit
+
+#mse211 
+#final_exam 
