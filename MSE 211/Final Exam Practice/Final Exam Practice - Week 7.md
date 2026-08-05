@@ -25,4 +25,32 @@ Collective systems may distort information through the use everyone thinking ali
 An engineering organization is operating under competitive pressure.
 
 Over time: 
-- Different groups focus 
+- Different groups focus on different priorities
+- Negative information is filtered upward
+- Responsibility becomes unclear
+- Dissent decreases
+- Collective decisions become increasingly over-optimistic
+- Performance degrades despite capable individuals
+
+Explain the full mechanism using concepts from:
+- Week 1 - system conditions and constraints
+- Week 2 - decision-making under constraint
+- Week 3 - perception and interpretation
+- Week 4 - goal shaping attention
+- Week 5 - motivation and pressure
+- Week 6 - cognitive limits and stress
+- Week 7 - group and organizational distortion mechanisms
+
+Your answer must:
+- Trace the full chain: system conditions->goals->perception->interpretation->distributed attention->communication distortion->evaluation distortion -> decision -> behaviour -> outcome
+- Explain:
+	- Why different groups developed different understandings
+	- Why information became distorted
+	- Why collective evaluation degraded 
+	- Why accountability weakened 
+	- Why the outcome was system-consistent rather than random
+
+### Plan
+- Use the same 4 step process
+	1. What happened in the box
+	2. 
