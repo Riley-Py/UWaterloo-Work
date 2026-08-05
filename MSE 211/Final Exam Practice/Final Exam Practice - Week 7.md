@@ -58,3 +58,5 @@ Your answer must:
 	4. How does it influence next box
 
 ### Answer to Question 2
+
+The full mechanism, starting from the organization to the undesirable outcome, starts with the system conditions with the working conditions that the organization is in.  There is much pressure that is happening within the organization to operate as efficiently as possible.  From this, the organization shapes their goals with the focus being on beating out the competition and making sure that they come out on top.  To meet this goal, the organization starts to perceive that they are always doing well, and with this, interpret any sort of information goes against this perception as not welcomed.  The organization 
