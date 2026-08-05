@@ -66,3 +66,4 @@ Your answer must:
 
 ### Answer to Question 2
 
+The full mechanism, from engineering teams operating under "normal" circumstances, to the eventual breakdown of the work, starts at the working conditions that the engineering team is placed in.  They are given a high workload from management to meet it, and they have to turn over this work in a short amount of time.  The engineering team makes the goal of getting the work done on time, but are still dealing with the extraneous workload that they can't handle.  The team thus perceives that if they don't meet management's goal, that they will be blamed for it, and will be reprimanded.  They interpret this fear as reason to keep working harder and harder, which increases the extraneous cognitive load put on engineers - they start to lose focus more easily on the tasks, and lose sight of the deadlines
