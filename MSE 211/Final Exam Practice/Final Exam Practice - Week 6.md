@@ -35,4 +35,34 @@ An engineering team is operating under tight deadlines and high workload.
 
 Over time:
 - Errors increase
-- Communication bre
+- Communication breaks down
+- Decision quality declines
+- Some individuals are blamed for "poor judgement"
+
+Explain the full mechanism using concepts from:
+- Week 1 - system conditions and constraints
+- Week 2 - decision-making under constraint
+- Week 3 - perception and interpretation
+- Week 4 - goals shaping attention
+- Week 5 - motivation (autonomy, competence, relatedness)
+- Week 6 - cognitive load and stress
+
+Your answer must:
+- Trace the full chain: system conditions -> goals -> perception -> interpretation -> cognitive load -> stress -> motivation -> decision -> behaviour -> outcome
+
+- Explain:
+	- Why performance appeared stable
+	- How cognitive overload developed
+	- Why decision quality declined
+	- Why behaviour was interpreted as individual failure
+	- Why the outcome was system-consistent
+
+### Plan
+- Same as always
+	1. What happened in that box
+	2. What effect did it have on people
+	3. What did people do
+	4. How does it affect next box
+
+### Answer to Question 2
+
