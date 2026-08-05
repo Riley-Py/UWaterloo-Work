@@ -34,4 +34,29 @@ Initially, output increases.  Over time:
 - Engineers become disengaged
 - Turnover increases
 
-Explain the full 
+Explain the full mechanism using concepts from:
+- Week 1 - system conditions / constraints
+- Week 2 - decision-making under constraint
+- Week 3 - perception -> attribution -> judgement
+- Week 4 - goals and incentives shaping attention
+- Week 5 - motivation (autonomy, competence, relatedness)
+
+Your answer must:
+- Trace the full chain: system conditions -> incentives/goals -> perception -> interpretation -> need satisfaction -> motivation -> decision -> behaviour -> outcome
+
+- Explain:
+	- Why behaviour initially improved
+	- Why motivation degraded over time
+	- Why disengagement and turnover were predictable
+	- Why outcome might be interpreted as individual failure rather than system failure
+
+### Plan
+- Same as always
+	1. What happened in current box
+	2. What did it cause to people
+	3. What did people do in reaction
+	4. What happens in next box due to this
+
+### Answer to Q2
+
+The full mechanism, from output initially increasing to quality decline, disengagement, and turnover, starts with the system conditions and how the work conditions were laid out.  From management, they laid 
