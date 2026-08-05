@@ -53,4 +53,8 @@ Your answer must:
 ### Plan
 - Use the same 4 step process
 	1. What happened in the box
-	2. 
+	2. What did it cause people to perceive and interpret it
+	3. What did people do in response
+	4. How does it influence next box
+
+### Answer to Question 2
