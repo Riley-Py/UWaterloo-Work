@@ -37,4 +37,17 @@ Explain the full mechanism using concepts from:
 Your answer must:
 - Trace the full chain: system conditions -> goals/incentives -> perception -> attribution -> judgement -> behaviour -> outcome
 - Explain why:
-	- The behaviour appeared reasonable at the tiem
+	- The behaviour appeared reasonable at the time
+	- The failure was likely interpreted as individual misconduct rather than system driven
+
+### Plan
+- Same steps as always
+	1. What happened in box
+	2. What did it cause people to think
+	3. What did it cause people to do
+	4. How does it affect next box
+- Good detail needed 
+
+### Answer to Question 2
+
+The full mechanism, starting from system conditions and ending with the undesirable outcome, starts with the work conditions that the employees are in, and the economic conditions.  The work conditions aren't desirable as management is tying performance evaluations that can be used for promotion to sales targets.  As well, there is economic incentive for the sales team, as they need their needs met through achieving the quotas set by management, fulfilling their basic needs, like food and shelter.  This makes employees shape their goals around meeting these targets, with pushing themselves to push out more product.  The incentive would be extrinsic: money
