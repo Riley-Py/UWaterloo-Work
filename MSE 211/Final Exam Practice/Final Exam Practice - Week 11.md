@@ -27,3 +27,18 @@ Organizations usually struggle more with implementing the right solutions, as it
 
 ## Question 2 - Bridge
 
+A technical organization operates in an increasingly complex environment.
+
+Over time:
+- Expertise becomes specialized
+- Resources become constrained
+- Projects compete for attention
+- Authority and expertise diverge
+- Organizational dependencies increase
+- Implementation becomes slower
+- Support becomes fragmented
+- Different groups pursue different priorities
+- Technical recommendations accumulate faster than they can be implemented
+- Performance problems begin emerging
+
+Your answer must trace: system conditions -> expertise distribution -> interpretation -> communication -> influence -> support -> decision -> implementation -> coordination -> behaviour -> outcome
