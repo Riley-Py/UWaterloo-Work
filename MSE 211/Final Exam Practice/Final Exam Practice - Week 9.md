@@ -25,4 +25,32 @@ When leaders shape communication, participation, and evaluation conditions on th
 
 ### ChatGPT Critique of Q1
 - Develop the qualification more generally
-	- Don't use the examp
+	- Don't use the example; apply more broadly to any organization
+- Strengthen the intervention explanation
+
+## Question 2 - Bridge
+
+A technical organization is operating under increasing implementation pressure and strategic uncertainty.
+
+Over time:
+- Leadership increasingly emphasizes execution stability
+- Teams become more cautious about raising uncertain concerns
+- Contradictory information survives for shorter periods
+- Communication becomes increasingly filtered upward
+- Employees continue appearing aligned externally
+- Weak signals disappear during coordination discussions
+- Leadership receives increasingly optimistic interpretations
+- Evaluation quality weakens despite high expertise levels
+
+Your answer must:
+
+Trace the full chain: system conditions->leadership interpretation -> goals -> perception -> participation -> communication visibility -> evaluation -> coordination -> decision -> behaviour -> outcome
+
+Explain:
+- Why expertise alone did not prevent failure
+- Why participation narrowed
+- Why communication became filtered
+- Why disagreement became difficult
+- Why leadership interpretation shaped organizational attention
+- Why evaluation quality weakened
+- Why the outcome
