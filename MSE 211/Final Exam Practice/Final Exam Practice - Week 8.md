@@ -18,3 +18,4 @@ You must evaluate using explicit criteria, such as:
 
 ### Answer to Q1
 
+Team effectiveness may depend on psychological safety, as it ensures that team members are free to discuss ideas without the fear of being put down or being reprimanded.  An example of this would be at Google, where members took turns speaking and respected each other's opinion; they made each other feel like a valued member of the team

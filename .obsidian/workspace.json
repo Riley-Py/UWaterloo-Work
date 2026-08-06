@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2e84dc798b06b5b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MSE 211/Final Exam Practice/Final Exam Practice - Week 7.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Final Exam Practice - Week 7"
-            }
-          },
-          {
             "id": "f10984fe0959f301",
             "type": "leaf",
             "state": {
@@ -34,9 +20,22 @@
               "icon": "lucide-file",
               "title": "Final Exam Practice - Week 8"
             }
+          },
+          {
+            "id": "6b161ac90723ee68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MSE 211/Week 8/Readings/Team Effectiveness - Google.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Team Effectiveness - Google"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,8 +194,11 @@
   },
   "active": "f10984fe0959f301",
   "lastOpenFiles": [
-    "MSE 211/Final Exam Practice/Final Exam Practice - Week 7.md",
+    "MSE 211/Week 8/Readings/Team Effectiveness - Google.md",
     "MSE 211/Final Exam Practice/Final Exam Practice - Week 8.md",
+    "MSE 211/Week 8/Readings/Psychological Safety - Edmondson.md",
+    "MSE 211/Week 8/Readings/Leading Teams - Hackman.md",
+    "MSE 211/Final Exam Practice/Final Exam Practice - Week 7.md",
     "MSE 211/Week 7/Readings/Social Loafing.md",
     "MSE 211/Week 7/Readings/Groupthink - NASA Space Shuttle.md",
     "MSE 211/Week 7/Readings/How Nokia Lost the Smartphone Battle.md",
@@ -218,9 +220,6 @@
     "MSE 211/Week 3/Readings/Ross.md",
     "MSE 211/Final Exam Practice/Final Exam Practice - Week 2.md",
     "MSE 211/Week 3/Readings/Simon.md",
-    "MSE 211/Week 3/Readings/Dekker.md",
-    "MSE 211/Final Exam Practice/Final Exam Practice - Week 1.md",
-    "MSE 211/Week 2/Readings/Kahneman.md",
     "MSE 211/Final Exam Practice",
     "ECE 252/Images/Pasted image 20260803161641.png",
     "ECE 252/Images/Pasted image 20260803161954.png",
