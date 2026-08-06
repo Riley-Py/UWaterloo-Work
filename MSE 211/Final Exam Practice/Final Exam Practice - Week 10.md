@@ -10,3 +10,13 @@ Your answer must:
 - Identify where the claim is strongly supported (expertise specialization, knowledge work, coaching and development, Pelz, Westrum, information flow)
 - Identify where the claim requires qualification (accountability, decision authority, technical literacy, credibility, organizational constraints)
 - Use at least one concrete example (engineering, healthcare, software, infrastructure, research, another technical environment)
+
+You must evaluate using explicit criteria, such as:
+- Explanatory power
+- Operational realism
+- Leadership effectiveness
+- Decision quailty
+- Organizational performance
+
+### Answer to Q1
+
