@@ -19,3 +19,28 @@ You must evaluate using explicit criteria, such as:
 ### Answer to Q1
 
 Team effectiveness may depend on psychological safety, as it ensures that team members are free to discuss ideas without the fear of being put down or being reprimanded.  An example of this would be at Google, where members took turns speaking and respected each other's opinion; they made each other feel like a valued member of the team.  This is opposed to not allowing others speak and putting others down for voicing ideas; that creates a tense atmosphere and it doesn't matter how skilled individuals are if they feel as though they can't speak their mind.  As well, the interaction conditions between Google employees on the effective teams was positive; everyone was candid and open to each other whenever they had issues.  In teams that are struggling, encouraging open dialogue is something that can allow members to work more efficiently with one another.  Thus, the claim that team effectiveness depends more on interaction conditions and psychological safety than on personalities or expertise of the individual members is mostly true, but the claim is limiting in the sense that it never mentions leadership.  In the Google review, a manager encouraged the open dialogue discussion.   The claim doesn't elaborate on how leadership can play a role as to how interaction conditions are molded within a team or how safe a workplace feels for others.
+
+### ChatGPT Critique of Q1
+
+- Explicit evaluation criteria are missing
+	- Legit list them
+
+## Question 2 - Bridge
+
+A technical organization is operating under competitive pressure and increasing uncertainty.
+
+Over time:
+- Team discussions become dominated by a few individuals
+- Some employees stop raising concerns
+- Weak signals disappear from meetings
+- Teams appear coordinated externally
+- Information becomes increasingly filtered
+- Leadership receives overly optimistic reports
+- Collective decision quality degrades despite high expertise levels
+
+Explain the full mechanism using concepts from:
+- Week 1 - system conditions and constraints
+- Week 2 - decision-making under constraints
+- Week 3 - perception and interpretation
+- Week 4 - goals shaping attention
+- Week 5 - motivation
