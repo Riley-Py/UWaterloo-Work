@@ -61,4 +61,4 @@ Explain:
 
 ### Answer to Q2
 
-The 
+The full series of events, from the initial conditions of the organization to the performance woes, starts with the work conditions of the organization.  The work in which the organization is operating under is highly complex, and thus experts are dispersed into respective groups that specialize in certain aspects of the complex work.  This distribution leads to expertise within the organization to be specialized, as everyone is divided into their respective groups instead of being together.  The organization interprets this as good, and assigns these groups of experts managers who are knowledgeable about the organization, but not of the work that the experts are doing.  This strains communication between the experts and the managers, as the experts are saying one thing, while the managers are dictating another using their vested authority given by the organization.  The managers are the ones who are influe
