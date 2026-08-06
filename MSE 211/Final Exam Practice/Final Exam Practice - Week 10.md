@@ -24,3 +24,37 @@ Technical leaders are effective as not being the most knowledgeable people withi
 
 ### ChatGPT Critique to Q1
 - Do not make broad assumptions/assertions (the C-suite is the big one)
+
+## Question 2 - Bridge
+
+A technical organization is operating in a highly specialized environment.
+
+Over time:
+- Expertise becomes increasingly fragmented
+- Managers become less technically knowledgeable than specialists
+- Communication between groups becomes more difficult
+- Information moves slowly across boundaries
+- Employees become selective about raising concerns
+- Organizational pressure increases 
+- Coordination becomes more complex
+- Decisions require input from multiple specialties
+- Performance problems emerge despite high expertise levels
+
+Your answer must trace: system conditions-> expertise distribution -> interpretation -> communication -> information flow -> participation -> evaluation -> decision -> coordination -> behaviour -> outcome
+
+Explain:
+- Why expertise alone did not guarantee performance
+- Why authority and expertise diverged 
+- Why information became difficult to move
+- Why some concerns were not acted upon
+- Why access influenced organizational outcomes
+
+### Plan
+- Same as before
+	1. What happened in current box
+	2. What did people perceive/interpret it
+	3. What did people do about it
+	4. What did that do to next box
+
+### Answer to Q2 
+
