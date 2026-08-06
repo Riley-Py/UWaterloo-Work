@@ -13,4 +13,6 @@ Evaluate the claim:
 	- Usefulness 
 	- Organizational applicability
 
+### Answer to Q1
 
+Most organizational problems can be better explained by system conditions as this is where the problem typically has origins and trickles down through the organization.  This is especially true of culture within an organization, where different cultures can affect the trajectory of organizational problems.  An example of this would be in the government, where the culture there is heavily bureaucratic; information moves between levels and may get filtered at each stage. As well, the information that needed to reach an intended level may have been blocked by another level due to misinterpretation of the information or it not aligning with policy.  Thus, the claim that most organizational problems are better explained by system conditions than by individual characteristics has merit, but it 
