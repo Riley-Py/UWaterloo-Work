@@ -53,4 +53,13 @@ Explain:
 - Why disagreement became difficult
 - Why leadership interpretation shaped organizational attention
 - Why evaluation quality weakened
-- Why the outcome
+- Why the outcome was system consistent rather than random
+
+### Plan
+- Do the same
+	1. What happened in current box
+	2. What did people percieve/interpret the new info
+	3. What did people do about it
+	4. What happened in next box due to 3
+
+The full mechanism, starting from the initial system conditions to the poor outcome, starts with the work conditions of the organization.  As known, this organization is under intense implementation pressure to implement features/systems to stay ahead of the curve.  This also adds to the uncertainty they are experiencing with their market strategy.  Leadership thus interprets this uncertainty and pressure as threats to the organization, and makes it their goal to eliminate these threats at all cost.  To do so, they start to emphasize to team members about being stable when it comes to execution, and demands reporting that shows that the uncertainty and pressure is getting dealt with.  Team members percieve
