@@ -42,3 +42,23 @@ Over time:
 - Performance problems begin emerging
 
 Your answer must trace: system conditions -> expertise distribution -> interpretation -> communication -> influence -> support -> decision -> implementation -> coordination -> behaviour -> outcome
+
+Explain:
+- Why technical expertise alone did not guarantee implementation
+- Why authority and influence diverged
+- Why some recommendations gained support while others stalled
+- Why political behaviour emerged
+- Why resources became contested
+- Why implementation became difficult
+- Why performance problems were system-consistent rather than random
+
+### Plan
+- Do the following
+	1. What happened in current box
+	2. How did people perceive/interpret it
+	3. What did people do
+	4. How does it affect next box
+
+### Answer to Q2
+
+The 
