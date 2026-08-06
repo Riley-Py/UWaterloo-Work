@@ -43,4 +43,28 @@ Explain the full mechanism using concepts from:
 - Week 2 - decision-making under constraints
 - Week 3 - perception and interpretation
 - Week 4 - goals shaping attention
-- Week 5 - motivation
+- Week 5 - motivation and pressure
+- Week 6 - cognitive limits and stress
+- Week 7 - collective distortion mechanisms
+- Week 8 - psychological safety, participation, and collective intelligence
+
+Your answer must:
+- Trace the full chain: system conditions -> goals -> perception -> interpretation -> interpersonal risk -> participation structure -> information visibility -> collective evaluation -> decision -> behaviour -> outcome
+- Explain:
+	- Why expertise alone did not prevent failure
+	- Why participation narrowed
+	- Why disagreement became difficult
+	- Why information became filtered 
+	- Why collective intelligence degraded
+	- Why the outcome was system-consistent rather than random
+
+### Plan
+- Do the same
+	1. What happened in box
+	2. How did people percieve/interpret event
+	3. How did people react
+	4. How does that influence next box
+
+### Answer to Q2
+
+Explaining the full mechanism, from system conditions to the outcome, starts with the working conditions that the organization is working under.  They are operating under uncertainty and pressure to remain competitive in the market.  In response, they make it their goal to make things certain and to alleviate the pressure whilst also being the top of the market.  They think that if they do this, then their outlook is bright and they will be able to dominate.  Thus, they interpret any bad news that 
