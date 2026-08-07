@@ -50,6 +50,16 @@ Explain:
 - Why adaption became difficult
 - Why the resulting behaviour was system-consistent rather than random
 
-Your answer should demonstrate integration across the entire c
+Your answer should demonstrate integration across the entire course rather than discussing each week separately.
 
+### Plan
+- General layout
+	1. What happened in current box
+	2. What did people perceive/interpret
+	3. What did people do
+	4. How did that influence next box
+
+### Answer to Q2
+
+To explain the full events, starting from organizational conditions, all the way down to the end outcome, one must start with the environment that the organization was in.  The organization was in an ever-increasing complex one, where external and internal processes were getting more and more in-depth for the organization.  This led them to pay attention to these potential concerns that the internal and external processes may be too much for them and could potentially 
 
