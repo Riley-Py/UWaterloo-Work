@@ -20,4 +20,36 @@ Most organizational problems can be better explained by system conditions as thi
 ### ChatGPT Critique of Q1
 - Too lazy
 
+## Question 2 - Bridge
+
+A large technical organization operates in an increasingly complex environment.  
+
+Over time:
+- Information volume increases
+- Expertise becomes more specialized
+- Authority and expertise diverge
+- Projects compete for resources
+- Organizational dependencies increase
+- Assumptions become embedded
+- Communication becomes more difficult
+- Different groups develop different priorities
+- Performance issues begin emerging
+- Adaptation becomes slower
+
+Using concepts from the entire course, explain:
+
+system conditions -> attention -> perception ->interpretation -> motivation -> stress -> group behaviour -> psychological safety -> leadership -> expertise -> power -> culture -> decision-making -> implementation -> behaviour -> outcome
+
+Explain:
+- Why information alone did not solve the problem
+- Why expertise alone did not solve the problem
+- Why authority alone did not solve the problem
+- Why some concerns were acted upon while others were ignored
+- Why assumptions became influential
+- Why organizational culture mattered
+- Why adaption became difficult
+- Why the resulting behaviour was system-consistent rather than random
+
+Your answer should demonstrate integration across the entire c
+
 
