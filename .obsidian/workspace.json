@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSE 263/Module 9.md",
+                "file": "ECE 252/L12 - Syncing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Module 9"
+              "title": "L12 - Syncing"
             }
           }
         ]
@@ -180,8 +180,11 @@
   },
   "active": "3429b964da20988a",
   "lastOpenFiles": [
-    "MSE 263/Module 10.md",
+    "ECE 252/L11 - Threads Part 2.md",
     "ECE 252/L10 - Threads Part 1.md",
+    "ECE 252/L09 - Pipes.md",
+    "MSE 263/Module 9.md",
+    "MSE 263/Module 10.md",
     "ECE 252/L04 - Processes Part 1.md",
     "ECE 252/L03 - Files.md",
     "ECE 252/L02 - System Call.md",
@@ -200,12 +203,9 @@
     "ECE 252/L14 - Synchronization Patterns.md",
     "ECE 252/L13 - Semaphores.md",
     "ECE 252/L12 - Syncing.md",
-    "ECE 252/L11 - Threads Part 2.md",
-    "ECE 252/L09 - Pipes.md",
     "ECE 252/L08 - Networks Part 2.md",
     "ECE 252/L07 - Networks Part 1.md",
     "ECE 252/L06 - IPC.md",
-    "ECE 252/L05 - Processes Part 2.md",
     "MSE 211/Final Exam Practice",
     "ECE 252/Images/Pasted image 20260803161641.png",
     "ECE 252/Images/Pasted image 20260803161954.png",
