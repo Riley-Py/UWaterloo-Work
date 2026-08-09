@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE 252/L06 - IPC.md",
+                "file": "ECE 252/L09 - Pipes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L06 - IPC"
+              "title": "L09 - Pipes"
             }
           }
         ]
@@ -178,8 +178,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3429b964da20988a",
+  "active": "059c515cd4110e39",
   "lastOpenFiles": [
+    "ECE 252/L08 - Networks Part 2.md",
+    "ECE 252/L07 - Networks Part 1.md",
+    "ECE 252/L06 - IPC.md",
     "ECE 252/L05 - Processes Part 2.md",
     "ECE 252/L04 - Processes Part 1.md",
     "ECE 252/L03 - Files.md",
@@ -199,10 +202,7 @@
     "ECE 252/L17 - Deadlock.md",
     "ECE 252/L16 - Readers-Writers Problem.md",
     "ECE 252/L15 - Producer-Consumer Problem.md",
-    "ECE 252/L06 - IPC.md",
     "ECE 252/L09 - Pipes.md",
-    "ECE 252/L08 - Networks Part 2.md",
-    "ECE 252/L07 - Networks Part 1.md",
     "ECE 252/L12 - Syncing.md",
     "ECE 252/L11 - Threads Part 2.md",
     "ECE 252/L10 - Threads Part 1.md",
