@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE 252/L28 - Asynchronous IO (AIO).md",
+                "file": "MSE 263/Module 6.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L28 - Asynchronous IO (AIO)"
+              "title": "Module 6"
             }
           }
         ]
@@ -180,9 +180,10 @@
   },
   "active": "3429b964da20988a",
   "lastOpenFiles": [
+    "MSE 263/Module 10.md",
+    "ECE 252/L28 - Asynchronous IO (AIO).md",
     "ECE 252/L26 - Asynchronous IO (Select, Poll).md",
     "ECE 252/L27 - Asynchronous IO (CURL).md",
-    "ECE 252/L28 - Asynchronous IO (AIO).md",
     "ECE 252/L29 - Event-Driven IO (Libevent).md",
     "ECE 252/L24 - Concurrency in File Systems.md",
     "ECE 252/L23 - Byzantine Generals Problem.md",
@@ -202,7 +203,6 @@
     "ECE 252/L11 - Threads Part 2.md",
     "ECE 252/L10 - Threads Part 1.md",
     "MSE 263/Module 9.md",
-    "MSE 263/Module 10.md",
     "ECE 252/L03 - Files.md",
     "ECE 252/L02 - System Call.md",
     "ECE 252/L14 - Synchronization Patterns.md",
