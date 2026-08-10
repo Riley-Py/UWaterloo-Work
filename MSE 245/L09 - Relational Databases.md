@@ -92,7 +92,14 @@
 
 ### Relationship Sentences
 - General form: 
-	- One {A} may/must {ver} one/one or more / zero or more <B>
+	- One {A} may/must {verb} one/one or more / zero or more {B}
+
+### Two Integrity Rules
+1. *Entity integrity* - no part of primary key may be null; primary key values must be unique
+2. *Referential integrity* - foreign key value must either match an existing key value in referenced table, or be null
+
+#mse245 
+#L09 
 
 
 

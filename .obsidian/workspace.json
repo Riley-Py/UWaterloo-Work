@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSE 245/L09 - Relational Databases.md",
+                "file": "MSE 245/L10 - Link Entities, Recursive, Multiple Relationships.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L09 - Relational Databases"
+              "title": "L10 - Link Entities, Recursive, Multiple Relationships"
             }
           }
         ]
@@ -180,10 +180,11 @@
   },
   "active": "3429b964da20988a",
   "lastOpenFiles": [
-    "Pasted image 20260810161220.png",
-    "Pasted image 20260810161118.png",
-    "ECE 252/L24 - Concurrency in File Systems.md",
     "MSE 245/L09 - Relational Databases.md",
+    "MSE 245/L10 - Link Entities, Recursive, Multiple Relationships.md",
+    "MSE 245/Images/Pasted image 20260810161220.png",
+    "MSE 245/Images/Pasted image 20260810161118.png",
+    "ECE 252/L24 - Concurrency in File Systems.md",
     "ECE 252/L18 - Deadlock Avoidance.md",
     "ECE 252/L17 - Deadlock.md",
     "ECE 252/L16 - Readers-Writers Problem.md",
@@ -217,7 +218,6 @@
     "MSE 263/Images/Pasted image 20260730195117.png",
     "MSE 263/Images/Pasted image 20260730194255.png",
     "MSE 263/Images/Pasted image 20260730194148.png",
-    "MSE 263/Images/Pasted image 20260730150231.png",
     "MSE 211/Week 12/Images",
     "MSE 211/Week 12/Readings",
     "MSE 211/Week 12",
