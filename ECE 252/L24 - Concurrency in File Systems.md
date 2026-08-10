@@ -1,4 +1,4 @@
-- Files can be of random size; must be allocated to disk according to a strategy, some described below:
+d- Files can be of random size; must be allocated to disk according to a strategy, some described below:
 	1. *Contiguous allocation* - file occupies set of contiguous (isolated) blocks on disk
 		- Can be difficult to find place to put it; don't know size of file, so can't pre-allocate
 	2. *Linked allocation* - linked list of blocks, where blocks can be located anywhere on disk; directory listing just has pointer to first/last blocks
