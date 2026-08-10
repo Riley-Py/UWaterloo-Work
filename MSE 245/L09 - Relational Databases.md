@@ -37,4 +37,15 @@
 
 ### Primary Key
 - Also known as *identifier*
-- 
+- Uniquely identifies individual instances of an entity type
+- *Simple VS Composite key* - composite key is two or more attributes that are unique together though neither is unique alone
+	- Example: pair of order/product ID; by themselves, not unique, but together, only one pair ever exists
+- *Candidate* - attribute that could serve as key; ones that aren't chosen are called *alternate*
+	- Example: for employee, employee number, SIN, work email are candidates, but one gets the job, and the others are alternates
+- *Surrogate (artificial) key* - no meaning outside database; auto-incrementing integer to identify the row
+	- *Natural key* - real-world identifier that exists
+- Criteria for primary key
+	1. *Not change in value*
+	2. *Not be null*
+	3. *Is unique*
+	4. *Wary of keys that refer to locations/people that can change*
