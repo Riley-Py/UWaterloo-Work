@@ -15,3 +15,15 @@
 4. The "many" end has same optionality as original M:N relationship
 5. Call it *A/B link*
 6. Name relationships
+
+### Key of Link Entity
+- Composite of two foreign keys
+- Two cases where it isn't
+	1. *Pairing can legitimately repeat*
+		- Example: borrower can borrow same book copy again
+	2. *Third dimension* 
+		- Example: student may take same course twice, in different terms
+- If composite grows past 2 columns/pairing repeats, reach for surrogate primary key and keep composite as UNIQUE constraint if rule holds
+
+### Recursive (Unary)
+- Relationship is one between entity instances of same entity type
