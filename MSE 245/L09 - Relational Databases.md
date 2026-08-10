@@ -49,3 +49,22 @@
 	2. *Not be null*
 	3. *Is unique*
 	4. *Wary of keys that refer to locations/people that can change*
+- Reliable candidate keys are ones somebody deliberately issued as identifier
+
+### Foreign Key
+- Relationships are due to matching primary-foreign key
+- Primary key from another table; stored to connect related records between two tables
+- Rules for foreign key
+	1. *Foreign key can be null*
+	2. *Table can have several foreign keys*
+
+### Degree
+- *Unary* - relationship between instances of the same entity
+- *Binary* - relationship between instances of two different entities
+
+### Cardinality
+- For one instance of A, how many instances of B
+- *One-to-one (1:1)* - one instance of A, one instance of B and vice versa
+- *One-to-many (1:M)* - one instance of A, many instances of B, but 
+
+
