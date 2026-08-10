@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECE 252/L26 - Asynchronous IO (Select, Poll).md",
+                "file": "ECE 252/L29 - Event-Driven IO (Libevent).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L26 - Asynchronous IO (Select, Poll)"
+              "title": "L29 - Event-Driven IO (Libevent)"
             }
           }
         ]
@@ -178,8 +178,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "059c515cd4110e39",
+  "active": "3429b964da20988a",
   "lastOpenFiles": [
+    "ECE 252/L28 - Asynchronous IO (AIO).md",
+    "ECE 252/L27 - Asynchronous IO (CURL).md",
+    "ECE 252/L26 - Asynchronous IO (Select, Poll).md",
     "ECE 252/L24 - Concurrency in File Systems.md",
     "ECE 252/L23 - Byzantine Generals Problem.md",
     "ECE 252/L22 - Valgrind & Helgrind.md",
@@ -203,9 +206,6 @@
     "ECE 252/L02 - System Call.md",
     "ECE 252/L01 - Intro.md",
     "MSE 263/Module 6.md",
-    "MSE 263/Module 10.md",
-    "ECE 252/L28 - Asynchronous IO (AIO).md",
-    "ECE 252/L26 - Asynchronous IO (Select, Poll).md",
     "MSE 211/Final Exam Practice",
     "ECE 252/Images/Pasted image 20260803161641.png",
     "ECE 252/Images/Pasted image 20260803161954.png",
