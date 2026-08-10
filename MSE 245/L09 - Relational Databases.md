@@ -65,6 +65,22 @@
 ### Cardinality
 - For one instance of A, how many instances of B
 - *One-to-one (1:1)* - one instance of A, one instance of B and vice versa
-- *One-to-many (1:M)* - one instance of A, many instances of B, but 
+- *One-to-many (1:M)* - one instance of A, many instances of B, but many instances of B only match to one instance of A
+- *Many-to-many (M:N)* - one instance of A, many instances of B, and vice versa
 
+### Crow's Foot Diagram
+- Diagram of this: 
+	- ![[Pasted image 20260810161118.png]]
+- Pick entity, travel along line, and read symbol at far end
+- Example
+	- ![[Pasted image 20260810161220.png]]
+	- One category may contain zero, one, or more recipes
+	- One recipe must belong to exactly one category
+
+### Implementing 1:M
+- Foreign key always goes on "many" side
+
+### Implementing M:N
+- Must be transformed into two 1:M relationships with third table
+	- Called *link, junction, bridge, associative* entity/table
 
