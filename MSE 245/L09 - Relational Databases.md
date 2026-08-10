@@ -26,3 +26,15 @@
 - Entities can be physical, events, or relationships
 - Written in singular, as entity describes one row
 
+### Attributes
+- Pieces of info you keep about entity
+- Four distinctions:
+	1. *Permanent VS time-varying* - time-varying attributes cause trouble, as storing only current value silently destroys history; bad primary key
+	2. *Required VS optional* - NOT NULL (required) VS nullable (optional)
+	3. *Single-valued VS multi-valued* -very multivalued attribute is a relationship to another entity in disguise
+	4. *Stored VS Derived* - derived is calculated from another; store the inputs, derive the outputs
+- *Atomic* - one indivisible piece of information
+
+### Primary Key
+- Also known as *identifier*
+- 
