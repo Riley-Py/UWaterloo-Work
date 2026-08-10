@@ -45,3 +45,10 @@
 
 ### Multiple Relationships Between Same Two Entities
 - Two or more different relationships may exist between same two entities
+- Consequences
+	1. Two relationships means two foreign key columns
+	2. Can have different optionality
+	3. Rule 6 applies hard
+
+#mse245 
+#L10 
