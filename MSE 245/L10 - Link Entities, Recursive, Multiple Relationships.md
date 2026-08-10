@@ -27,3 +27,21 @@
 
 ### Recursive (Unary)
 - Relationship is one between entity instances of same entity type
+- Example: manager who manages multiple people
+
+#### One-to-Many
+ - An entity can have many related subordinate entities in the same table, but each subordinate can have only one entity to which it answers
+
+#### Many-to-Many
+- An entity can have many related subordinate entities in same table, and each subordinate can have number of entities to which it answers
+- Example: bill of materials
+- Create link entity
+- Two things to take from it
+	1. Two foreign keys need different column names
+	2. Nothing about resolution is special
+
+#### One-to-One
+- Rarest of three
+
+### Multiple Relationships Between Same Two Entities
+- Two or more different relationships may exist between same two entities
