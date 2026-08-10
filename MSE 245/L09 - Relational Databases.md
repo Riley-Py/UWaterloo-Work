@@ -84,3 +84,17 @@
 - Must be transformed into two 1:M relationships with third table
 	- Called *link, junction, bridge, associative* entity/table
 
+### Optionality
+- Is it required or not
+- Vocabulary is *may* VS *must*
+	- *Must* - category ID INT NOT NULL
+	- *May* - category INT (nullable)
+
+### Relationship Sentences
+- General form: 
+	- One {A} may/must {ver} one/one or more / zero or more <B>
+
+
+
+
+
