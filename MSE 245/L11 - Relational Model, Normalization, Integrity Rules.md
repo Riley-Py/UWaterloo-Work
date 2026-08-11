@@ -62,3 +62,14 @@
 - To merge:
 	1. Merge versions into single entity with union of attributes
 	2. Reapply 3NF test
+		- Note: not necessary, as it can reintroduce dependency; if that happens split again
+### 3NF to ER Diagram
+- Steps to draw ER diagram
+	1. *Link all entities sharing a key (primary/foreign)*
+	2. *Remove all redundant links*
+	3. *Add cardinalities* 
+	4. *Draw ER diagram*
+	5. *Add optionalities and relationship names*
+
+#mse245 
+#L11 
