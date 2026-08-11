@@ -46,5 +46,19 @@
 - *3NF* - separate non-key dependencies
 	- *Transitive dependency* - `key -> some non-key attribute -> another non-key attribute`
 	- Example:
-		- 
+		- ![[Pasted image 20260810202400.png]]
 - Each step has perquisites to proceed to the next form
+
+#### Three Tests for 3NF
+1. For each non-key attributes, is there just one possible value for a given value of key?
+	- Fails: repeating group; not in 1NF
+2. Do all non-key attributes depend on whole key?
+	- Fails: part key dependency; not in 2NF
+3. Do all non-key attributes depend directly upon key?
+	- Fails: transitive key dependency; not in 3NF
+- Applied to table:
+	- ![[Pasted image 20260810202629.png]]
+### Merging Common Entities
+- To merge:
+	1. Merge versions into single entity with union of attributes
+	2. Reapply 3NF test
