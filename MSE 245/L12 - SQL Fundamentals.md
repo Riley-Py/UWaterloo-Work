@@ -12,3 +12,13 @@
 ### SELECT
 - `SELECT {attribute} FROM {table_name} WHERE {condition}`
 	- Read as: "from these tables, take rows matching conditions, and show me these columns"
+- Points to remember
+	- *Terminate the whole statement with semicolon*
+	- *Keywords are conventionally uppercase*
+	- `SELECT *` means "every column"
+
+### Comparison Operators
+- `IN` - matches any listed value
+	- Example: `city IN ('Waterloo', 'Kitchener')`
+- `LIKE` - pattern match; wildcards
+	- Example: `product_name LIKE 'C%'`
