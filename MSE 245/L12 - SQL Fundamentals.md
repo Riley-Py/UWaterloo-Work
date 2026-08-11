@@ -115,3 +115,24 @@
 - `LONGTEXT` - variable length text; up to 4294967295 characters
 - `DATE` - `YYYY-MM-DD`
 - `DATETIME` - `YYYY-MM-DD hh:mm:ss`
+
+### Keys in DDL
+- Three rules
+	1. Define table A before table B if B has foreign key referencing A; parent before child
+	2. A primary key and foreign key referencing it can have different names
+	3. Tables can have 0, 1, or several foreign keys
+
+### Indexes
+- Contains entry for each value that appears in column; allows for faster search on values in column
+- Four things to note
+	1. MySQL automatically creates unique index on primary key
+	2. Index can cover 1 or several columns
+	3. Don't index column with few distinct values
+	4. Indexes are expensive
+
+### ALTER TABLE/DROP
+- `ALTER TABLE` - redefines structure
+- `DROP` - deletes column/database
+
+#mse245 
+#L12 
