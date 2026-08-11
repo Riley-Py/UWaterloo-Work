@@ -64,3 +64,28 @@
 
 ### HAVING/Order of Clauses
 - Filters on an aggregate, like `WHERE` for rows
+- Order in MySQL to write clauses
+	1. `SELECT`
+	2. `FROM`
+	3. `WHERE`
+	4. `GROUP BY`
+	5. `HAVING`
+	6. `ORDER BY`
+- Order of execution
+	1. `FROM`
+	2. `WHERE`
+	3. `GROUP BY`
+	4. `HAVING`
+	5. `SELECT`
+	6. `ORDER BY`
+
+### Aggregating Expressions/Joining Three Tables
+- Works on expressions, not just columns
+- *Derived attribute* - column got by aggregation
+- Steps for multi-table query:
+	1. Work out what tables you need
+	2. List them all in `FROM`, with aliases
+	3. Write one join condition per hop, following primary/foreign key pairs
+	4. Add `WHERE` filters, grouping and ordering
+
+
