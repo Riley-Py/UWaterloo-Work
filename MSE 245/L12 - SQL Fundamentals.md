@@ -88,4 +88,18 @@
 	3. Write one join condition per hop, following primary/foreign key pairs
 	4. Add `WHERE` filters, grouping and ordering
 
+### INSERT
+- Example: `INSERT INTO orders (order_id, customer_id, cafe_id, order_time) VALUES (13, 6, 1, '2026-06-09 8:20:00)`
+- If adding record into table A with foreign key from table B, make sure that table B already has record with corresponding primary key
 
+#### INSERT...SELECT
+- Example: `INSERT INTO recent_order (order_id, customer_id, cafe_id, order_time) SELECT order_id, customer_id, cafe_id, order_time FROM orders WHERE order_time >= '2026-06-05 00:00:00`
+- Inserts set of records from existing table
+- Columns must line up in number, order, compatible type
+
+### UPDATE/DELETE
+- `UPDATE` - change existing rows
+- `DELETE` - removing them
+- Need `WHERE` clause to see where to update
+
+### DDL: CREATE TABLE
