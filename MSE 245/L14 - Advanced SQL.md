@@ -69,4 +69,26 @@
 - Can aggregate an aggregate
 
 ### Subqueries VS Joins
--
+
+#### Join
+- Need columns from both tables
+- Relationship is follow the foreign key
+- Performance
+
+#### Subquery
+- Columns from outer table, and other table is filter
+- Involves aggregate over whole table
+- Isolate and test one part of logic
+- Testing for absence
+
+### CHECK
+- Limits values that can be stored in column; any `INSERT` or `UPDATE` that violates `CHECK` is rejected
+- Declared with `CONSTRAINT constraint_name CHECK (condition)`
+- Can do four things
+	1. Numerical range
+	2. Set of allowed values
+	3. Simple pattern (think `LIKE`)
+	4. Comparing columns of same row
+
+#mse245 
+#L14 
