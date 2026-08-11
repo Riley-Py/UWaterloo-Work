@@ -30,3 +30,16 @@
 ### CORS
 - *Cross-Origin Resource Sharing* - declaring which other origins may read its response; browser rule only
 	- *Origin* - scheme + host + port; all must match
+
+### Two Routes to Same Model
+- Diagram
+	- ![[Pasted image 20260811103909.png]]
+- Direct is better
+
+### Why Node in Middle
+- Some points to make
+	- *Hide internal services* - browser only ever sees main API; Flask lives on private network
+	- *One place for auth & logging* - check user's sessions, rate-limit, log-in Node; AI service stays simple
+	- *Enrich with database data* - can read from MySQL and call model in one request
+	- *One origin in production*- No CORS configuration
+
