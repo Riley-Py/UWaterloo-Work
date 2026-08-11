@@ -103,3 +103,15 @@
 - Need `WHERE` clause to see where to update
 
 ### DDL: CREATE TABLE
+- Example:
+	- ![[Pasted image 20260811082550.png]]
+- Column definitions first; primary key second; then foreign keys
+
+### Data Types
+- `INT` - whole number
+- `DECIMAL(n, m)` - exact numbers; `n` for total digits, `m` after the decimal point
+- `VARCHAR(length)` - variable-length string up to 65 535 bytes; declare what is needed; values of different length (names, descriptions)
+- `CHAR(length)` - fixed-length string; length < 256; values of same length
+- `LONGTEXT` - variable length text; up to 4294967295 characters
+- `DATE` - `YYYY-MM-DD`
+- `DATETIME` - `YYYY-MM-DD hh:mm:ss`
