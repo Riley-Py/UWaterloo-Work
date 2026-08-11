@@ -34,3 +34,17 @@
 	3. *No unique key available for entity table, not genuine entity table*
 
 #### Three Normal Forms
+- *UNF (un-normalized form)* - raw list of attributes
+	- Example:
+		 ![[Pasted image 20260810201955.png]]
+- *1NF* - separate repeating groups
+	- Example:
+		- ![[Pasted image 20260810202019.png]]
+- *2NF* - separate part-key dependencies
+	- Example:
+		- ![[Pasted image 20260810202135.png]]
+- *3NF* - separate non-key dependencies
+	- *Transitive dependency* - `key -> some non-key attribute -> another non-key attribute`
+	- Example:
+		- 
+- Each step has perquisites to proceed to the next form
