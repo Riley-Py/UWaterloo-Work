@@ -21,4 +21,23 @@
 - `IN` - matches any listed value
 	- Example: `city IN ('Waterloo', 'Kitchener')`
 - `LIKE` - pattern match; wildcards
-	- Example: `product_name LIKE 'C%'`
+	- Example: `product_name LIKE 'C%'` - match product names that start with "C"
+- Two things to know about strings
+	1. *Strings go in single quotes*
+	2. *`NULL` doesn't compare* - use `IS NULL` and `IS NOT NULL`
+
+### ORDER BY
+- Rows have no order
+	- Rows are sorted by first attribute, ties are broken by second attribute
+- `DESC` - descending order
+- `ASC` - ascending order
+
+### Choosing Columns/DISTINCT
+- Choose only rows that contain unique data
+- Applies to whole row of result
+
+### Joining Two Tables
+- Forget join condition - every attribute gets paired with another attribute in a table
+	- Called *Cartesian product*
+- Joining n tables needs n - 1 join conditions
+
