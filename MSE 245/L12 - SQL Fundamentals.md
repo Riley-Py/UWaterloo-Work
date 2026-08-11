@@ -41,3 +41,11 @@
 	- Called *Cartesian product*
 - Joining n tables needs n - 1 join conditions
 
+### Aliases
+-  *Table aliases*: 
+	- Example: `SELECT P.product_name, C.category_name FROM product P, category C`, where `P` and `C` are the aliases
+- *Column aliases*:
+	- Example: `SELECT order_id, order_time AS placed_at FROM orders;`, where `placed_at` is the alias
+	- Need to do this to use it in React
+- Must use if wanting to join a table to itself
+
