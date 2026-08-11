@@ -15,3 +15,16 @@
 	- `BrowserRouter` - wraps app and connects it to browser URL/history
 	- `Routes` - container holding all possible routes; looks at current URL and renders one that matches
 	- `Route` - one mapping: `path` renders `element`
+
+### Project Structure
+- Subdirectories under `components` correspond to purpose of each React page
+- One folder per component; file within component is called `index.js` 
+
+### How Route Gets Matched
+- Notes:
+	- `path="/"` is root; shown as the first thing
+	- Order in file doesn't decide winner; rank is by specificity
+
+### Navigating
+- Put `useNavigate()` on the top to perform client-side navigation between pages in app; it's a *React Hook*
+- 
