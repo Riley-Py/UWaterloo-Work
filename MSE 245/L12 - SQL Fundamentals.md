@@ -1,4 +1,14 @@
 - Manipulative component of [[L11 - Relational Model, Normalization, Integrity Rules|relation model]] 
 - Does two jobs
 	1. *DML (Data Manipulation Language)* - asking questions of data and changing it
-	2. *DDL (Data Definition Language)* - creating a
+	2. *DDL (Data Definition Language)* - creating and changing structure itself
+- Few aspects of SQL:
+	1. *Non-procedural* - describe what you want, not how you get it
+	2. *`SELECT` skeleton* - `SELECT ... FROM ... WHERE ... GROUP BY ... HAVING ... ORDER BY ...`; run in different order than they are written
+	3. *Joins* - put tables back together at query
+	4. *Aggregate functions and `GROUP BY`* - collapses many rows into one summary number per group
+- *MySQL* - RDBMS with integration with Node.js; fast and lightweight
+
+### SELECT
+- `SELECT {attribute} FROM {table_name} WHERE {condition}`
+	- Read as: "from these tables, take rows matching conditions, and show me these columns"
