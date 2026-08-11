@@ -27,4 +27,15 @@
 
 ### Navigating
 - Put `useNavigate()` on the top to perform client-side navigation between pages in app; it's a *React Hook*
-- 
+- Use link for navigation, and button for actions
+
+#### Navbar
+- Put it on top of everything; inside the `<Router>` element, but above `<Routes>`
+	- `<Routes>` is the part of the screen that changes
+
+### State and Navigation
+- Does not survive; React unmounts component
+	- To mitigate this, lift the state to common ancestor
+
+#mse245 
+#L16 
