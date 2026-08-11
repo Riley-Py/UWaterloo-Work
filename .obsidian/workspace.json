@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSE 245/L14 - Advanced SQL.md",
+                "file": "MSE 245/L15 - Node.js to MySQL.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L14 - Advanced SQL"
+              "title": "L15 - Node.js to MySQL"
             }
           }
         ]
@@ -180,8 +180,10 @@
   },
   "active": "3429b964da20988a",
   "lastOpenFiles": [
-    "MSE 245/L13 - Transactions, Variables, Backups, GROUP_CONCAT.md",
+    "Pasted image 20260811100040.png",
     "MSE 245/L14 - Advanced SQL.md",
+    "MSE 245/L15 - Node.js to MySQL.md",
+    "MSE 245/L13 - Transactions, Variables, Backups, GROUP_CONCAT.md",
     "MSE 245/L12 - SQL Fundamentals.md",
     "MSE 245/Images/Pasted image 20260811082550.png",
     "MSE 245/L09 - Relational Databases.md",
@@ -213,8 +215,6 @@
     "ECE 252/L13 - Semaphores.md",
     "ECE 252/L12 - Syncing.md",
     "ECE 252/L04 - Processes Part 1.md",
-    "ECE 252/L05 - Processes Part 2.md",
-    "ECE 252/L06 - IPC.md",
     "MSE 211/Final Exam Practice",
     "ECE 252/Images/Pasted image 20260803161641.png",
     "MSE 253/Images",
