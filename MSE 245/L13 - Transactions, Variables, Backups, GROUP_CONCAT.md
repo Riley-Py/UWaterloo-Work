@@ -25,4 +25,20 @@
 	- `@name` - user-defined session variable; assign to it creates it
 	- `:=` - assignment operator inside `SELECT`
 	- *Session-scoped* - variable only belongs to connection; disappears when it closes
-- Preferred method is a 
+- Preferred method is a subquery
+
+### Backing Up
+- Use `mysqldump`
+- Notes
+	- Output is plan text SQL; can belong in version control
+	- Restore target must already exist
+
+### Loading
+- Two ways
+	1. Run script
+	2. Copy existing schema
+
+### GROUP_CONCAT
+- Returns string with concatenated non-NULL values from group; returns NULL when there are no non-NULL values
+- Aggregate function
+- Storing comma-separated list is design error; producing one at query time is fine
