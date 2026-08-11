@@ -19,3 +19,18 @@
 
 ### Normalization
 - Examining lists of attributes and applying set of rules to convert them that minimizes duplication, avoids redundancy, and ensures data integrity
+
+#### Functional Dependency
+- One value of primary key, at any given moment, there can only be one value for each other attribute in table
+	- If attribute not functionally dependent on key, it should be in another table
+- Dependencies come from requirements, not from data
+- Direction matters
+	- Example: `Customer_No -> Customer_Name` holds, but `Customer_Name -> Customer_No` doesn't, as there can be two identical customer names
+
+#### Choosing Primary Key
+- Criteria from [[L10 - Link Entities, Recursive, Multiple Relationships|L10]] holds, plus three more
+	1. *Choose smallest candidate keys* - few columns, few bytes
+	2. *Prefer numeric over alphabetic* - faster/more integrity
+	3. *No unique key available for entity table, not genuine entity table*
+
+#### Three Normal Forms
