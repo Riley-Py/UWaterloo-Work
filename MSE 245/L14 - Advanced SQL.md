@@ -31,3 +31,14 @@
 
 ### Grouping - Computed Value
 - Anything that is computed can be grouped with `GROUP BY`
+
+### Grouping - Hidden Fields
+- Using columns in `SELECT` that don't appear in `GROUP BY`
+- Can only use if hidden column is unique within each group
+
+### INNER JOIN
+- Only matching rows in two tables are retrieved
+
+### OUTER JOIN
+- All rows in table A are retrieved, regardless of whether table B as NULL values or not
+- `LEFT` keeps every row of the table named first; `RIGHT` keeps every row of the table named second
