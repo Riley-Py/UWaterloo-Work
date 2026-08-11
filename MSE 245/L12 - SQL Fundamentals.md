@@ -49,3 +49,18 @@
 	- Need to do this to use it in React
 - Must use if wanting to join a table to itself
 
+### Aggregate Functions
+- `COUNT()` - how many rows
+	- `COUNT(*)` - counts rows
+	- `COUNT(column)` - counts rows where that column is not null
+	- `COUNT(DISTINCT column)` - counts distinct non-null values
+- `SUM()` - total
+- `AVG()` - mean
+- `MAX()` - largest
+- `MIN()` - smallest
+
+### GROUP BY
+- Collects rows into groups and computes the aggregate within each one
+
+### HAVING/Order of Clauses
+- Filters on an aggregate, like `WHERE` for rows
