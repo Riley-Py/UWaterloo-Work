@@ -5,7 +5,7 @@
 ### Opening Connection/Running Query
 - Example: 
 	- ![[Pasted image 20260811100040.png]]
-	- Three steps
+	- Three steps:
 		1. `createConnection` - prepare connection with `.config`
 		2. `query` - sends SQL; callback runs when results arrive
 		3. `end` - closes the connection gracefully
@@ -26,7 +26,7 @@
 	- ![[Pasted image 20260811100757.png]]
 ### Placeholders
 - Use `?` placeholders and pass values as an array
-- Notes
+- Notes:
 	- One `?` per value in order
 	- No quotes around `?`
 	- Wildcards go in Javascript, not SQL
@@ -34,7 +34,7 @@
 ### Writing Data
 - Example: 
 	- ![[Pasted image 20260811101107.png]]
-- Notes
+- Notes:
 	- `insertID` - the `AUTO_INCREMENT` id MySQL created
 	- `afffectedRows` - how many rows the statement changed
 
@@ -48,11 +48,22 @@
 - Can cap concurrent connections
 - `pool.query()` acquires, runs, and releases automatically; no need for `end()`
 - Standard choice in industry
-- Notes
+- Notes:
 	- Don't create pool inside route handler
 	- Don't call `pool.end()` per request; shuts down whole pool
 
 ### Error Handling/HTTP Status Codes
 - *400 Bad Request* - missing input from client
 - *404 Not Found* - requested record does not exist
-- **
+- *500 Internal Server Error* - Query failed
+- *201 Created* - write succeeded, new resource created
+- To handle errors:
+	1. Log technical detail on server; send client generic message
+	2. Validate on server even if React form validates
+
+### mysql2
+- async/await style comes back
+- Example: 
+	- ![[Pasted image 20260811101949.png]]
+#mse245 
+#L15 
