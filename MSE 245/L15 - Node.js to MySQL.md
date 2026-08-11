@@ -19,4 +19,21 @@
 - Asynchronous; any code that needs results must happen inside callback function
 - SQL is template literal; use backticks so it can span lines/stay readable
 	- Never use `${...}`, as that leads to SQL injection
-- 
+- Use one query only
+
+### Shaping SQL Rows to Client-Friendly JSON
+- Example: 
+	- ![[Pasted image 20260811100757.png]]
+### Placeholders
+- Use `?` placeholders and pass values as an array
+- Notes
+	- One `?` per value in order
+	- No quotes around `?`
+	- Wildcards go in Javascript, not SQL
+	- Can't parameterize table/column names
+### Writing Data
+- Example: 
+	- ![[Pasted image 20260811101107.png]]
+- Notes
+	- `insertID` - the `AUTO_INCREMENT` id MySQL created
+	- `afffectedRows` - how many rows the statement changed
