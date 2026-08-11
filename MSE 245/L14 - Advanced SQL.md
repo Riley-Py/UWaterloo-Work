@@ -20,3 +20,14 @@
 - Two arguments - offset from first row, and then number of rows; default is 0 offset (i.e. starts from first row onwards)
 - Notes
 	- Meaningless without `ORDER BY`
+	- Two-argument `LIMIT` is how *pagination* (splitting blocks into pages) works
+
+### Top-N idiom
+- Three parts:
+	- `GROUP BY` - one row per group with its aggregate
+	- `ORDER BY` - put the interesting one first
+	- `LIMIT n` - keep it
+- Not allowed to nest aggregate functions in SQL
+
+### Grouping - Computed Value
+- Anything that is computed can be grouped with `GROUP BY`
