@@ -1,0 +1,3 @@
+- *Transaction* - set of related updates forming logical unit of work; all updates in transaction are performed, or none at all
+	- *Rolled back* - database returns to state if one update fails
+- `ROLLBACK` - undo all statements, even the ones that succeeded
