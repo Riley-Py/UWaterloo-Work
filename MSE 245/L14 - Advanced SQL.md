@@ -42,3 +42,15 @@
 ### OUTER JOIN
 - All rows in table A are retrieved, regardless of whether table B as NULL values or not
 - `LEFT` keeps every row of the table named first; `RIGHT` keeps every row of the table named second
+
+### UNION
+- Combines results of several `SELECT` statements into one result set
+- Removes duplicate rows by default; use `UNION ALL` to keep them 
+
+### Subqueries
+- Query nested inside another query
+- Example: `SELECT * FROM customer WHERE customer_id = (SELECT customer_id FROM orders WHERE order_id = '1');`
+	- *Outer query* - `SELECT * FROM customer WHERE customer_id = ...`
+	- *Inner query* - `... (SELECT customer_id FROM orders WHERE order_id = '1')`
+- Inner query is executed first, then outer query
+- Most subqueries can be rewritten using joins
