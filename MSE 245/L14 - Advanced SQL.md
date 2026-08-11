@@ -54,3 +54,19 @@
 	- *Inner query* - `... (SELECT customer_id FROM orders WHERE order_id = '1')`
 - Inner query is executed first, then outer query
 - Most subqueries can be rewritten using joins
+
+#### Scalar
+- Returns one value
+- Used with calculated columns
+
+#### Row Subqueries
+- Use `IN` instead of `=` if it returns set of rows
+- Use `NOT IN` for the opposite
+	- NOTE: if subquery returns single NULL, it returns no rows at all
+#### FROM Subqueries
+- Constructs derived table
+- Must be given an alias
+- Can aggregate an aggregate
+
+### Subqueries VS Joins
+-
