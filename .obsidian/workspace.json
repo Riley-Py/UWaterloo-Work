@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSE 245/L17 - Node.js to Python AI Via Flask.md",
+                "file": "MSE 245/L16 - Client-Side Routing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L17 - Node.js to Python AI Via Flask"
+              "title": "L16 - Client-Side Routing"
             }
           }
         ]
@@ -180,12 +180,16 @@
   },
   "active": "3429b964da20988a",
   "lastOpenFiles": [
-    "Pasted image 20260811103909.png",
-    "Pasted image 20260811103408.png",
-    "Pasted image 20260811103221.png",
-    "Pasted image 20260811102950.png",
-    "MSE 245/L15 - Node.js to MySQL.md",
+    "Pasted image 20260811105026.png",
+    "Pasted image 20260811105110.png",
+    "Pasted image 20260811105005.png",
+    "MSE 245/L16 - Client-Side Routing.md",
     "MSE 245/L17 - Node.js to Python AI Via Flask.md",
+    "MSE 245/Images/Pasted image 20260811103909.png",
+    "MSE 245/Images/Pasted image 20260811103408.png",
+    "MSE 245/Images/Pasted image 20260811103221.png",
+    "MSE 245/Images/Pasted image 20260811102950.png",
+    "MSE 245/L15 - Node.js to MySQL.md",
     "MSE 245/L14 - Advanced SQL.md",
     "MSE 245/L13 - Transactions, Variables, Backups, GROUP_CONCAT.md",
     "MSE 245/L12 - SQL Fundamentals.md",
@@ -195,13 +199,9 @@
     "MSE 245/Images/Pasted image 20260811101949.png",
     "MSE 245/Images/Pasted image 20260811101107.png",
     "MSE 245/Images/Pasted image 20260811100757.png",
-    "MSE 245/Images/Pasted image 20260811100040.png",
-    "MSE 245/Images/Pasted image 20260811082550.png",
     "ECE 252/L11 - Threads Part 2.md",
     "ECE 252/L10 - Threads Part 1.md",
     "ECE 252/L28 - Asynchronous IO (AIO).md",
-    "MSE 245/Images/Pasted image 20260810202629.png",
-    "MSE 245/Images/Pasted image 20260810202400.png",
     "ECE 252/L22 - Valgrind & Helgrind.md",
     "ECE 252/L23 - Byzantine Generals Problem.md",
     "ECE 252/L24 - Concurrency in File Systems.md",
@@ -215,7 +215,6 @@
     "ECE 252/L14 - Synchronization Patterns.md",
     "ECE 252/L29 - Event-Driven IO (Libevent).md",
     "ECE 252/L13 - Semaphores.md",
-    "ECE 252/L12 - Syncing.md",
     "MSE 211/Final Exam Practice",
     "MSE 253/Images",
     "MSE 211/Week 12/Images",
