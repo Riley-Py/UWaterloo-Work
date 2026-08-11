@@ -37,3 +37,22 @@
 - Notes
 	- `insertID` - the `AUTO_INCREMENT` id MySQL created
 	- `afffectedRows` - how many rows the statement changed
+
+### Connection Management
+- Always call `connection.end()` or a *connection leak* can occur
+- Watch error paths
+- One connection runs one query at a time; queries are queued up in order
+
+#### Pools
+- Keeps set of open connections and lends one out per query
+- Can cap concurrent connections
+- `pool.query()` acquires, runs, and releases automatically; no need for `end()`
+- Standard choice in industry
+- Notes
+	- Don't create pool inside route handler
+	- Don't call `pool.end()` per request; shuts down whole pool
+
+### Error Handling/HTTP Status Codes
+- *400 Bad Request* - missing input from client
+- *404 Not Found* - requested record does not exist
+- **
