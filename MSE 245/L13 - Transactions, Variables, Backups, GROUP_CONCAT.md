@@ -42,3 +42,6 @@
 - Returns string with concatenated non-NULL values from group; returns NULL when there are no non-NULL values
 - Aggregate function
 - Storing comma-separated list is design error; producing one at query time is fine
+
+#mse245 
+#L13 
