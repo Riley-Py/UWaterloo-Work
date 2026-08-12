@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSE 245/L09 - Relational Databases.md",
+                "file": "MSE 245/L05 - React Part 2 - Handlers, Props, State, Lifting State.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L09 - Relational Databases"
+              "title": "L05 - React Part 2 - Handlers, Props, State, Lifting State"
             }
           }
         ]
@@ -180,23 +180,23 @@
   },
   "active": "3429b964da20988a",
   "lastOpenFiles": [
-    "MSE 245/L10 - Link Entities, Recursive, Multiple Relationships.md",
-    "MSE 245/L11 - Relational Model, Normalization, Integrity Rules.md",
-    "MSE 245/L09 - Relational Databases.md",
-    "MSE 245/L13 - Transactions, Variables, Backups, GROUP_CONCAT.md",
-    "MSE 245/L12 - SQL Fundamentals.md",
-    "MSE 245/L17 - Node.js to Python AI Via Flask.md",
-    "MSE 245/L15 - Node.js to MySQL.md",
-    "MSE 245/L16 - Client-Side Routing.md",
-    "MSE 245/L14 - Advanced SQL.md",
-    "MSE 245/L01 - Javascript Foundations Part 1.md",
-    "MSE 245/L02 - Javascript Foundations Part 2.md",
-    "MSE 245/L03 - Asynchronous Programming.md",
     "MSE 245/L04 - React Part 1 - Components, JSX, Lists.md",
     "MSE 245/L05 - React Part 2 - Handlers, Props, State, Lifting State.md",
-    "MSE 245/L06 - Controlled Components, useEffect, Fragments, Conditional Rendering.md",
-    "MSE 245/L07 - Stateful Lists, Inline Handlers, Async Data with Promises.md",
+    "MSE 245/L03 - Asynchronous Programming.md",
+    "MSE 245/L02 - Javascript Foundations Part 2.md",
+    "MSE 245/L01 - Javascript Foundations Part 1.md",
     "MSE 245/L08 - Node.js APIs.md",
+    "MSE 245/L07 - Stateful Lists, Inline Handlers, Async Data with Promises.md",
+    "MSE 245/L06 - Controlled Components, useEffect, Fragments, Conditional Rendering.md",
+    "MSE 245/L16 - Client-Side Routing.md",
+    "MSE 245/L17 - Node.js to Python AI Via Flask.md",
+    "MSE 245/L09 - Relational Databases.md",
+    "MSE 245/L10 - Link Entities, Recursive, Multiple Relationships.md",
+    "MSE 245/L11 - Relational Model, Normalization, Integrity Rules.md",
+    "MSE 245/L13 - Transactions, Variables, Backups, GROUP_CONCAT.md",
+    "MSE 245/L12 - SQL Fundamentals.md",
+    "MSE 245/L15 - Node.js to MySQL.md",
+    "MSE 245/L14 - Advanced SQL.md",
     "Pasted image 20260811105026.png",
     "MSE 245/Images/Pasted image 20260811105110.png",
     "MSE 245/Images/Pasted image 20260811105005.png",
