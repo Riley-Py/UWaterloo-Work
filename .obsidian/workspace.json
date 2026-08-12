@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSE 245/L12 - SQL Fundamentals.md",
+                "file": "MSE 245/L17 - Node.js to Python AI Via Flask.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L12 - SQL Fundamentals"
+              "title": "L17 - Node.js to Python AI Via Flask"
             }
           }
         ]
@@ -180,11 +180,11 @@
   },
   "active": "3429b964da20988a",
   "lastOpenFiles": [
+    "MSE 245/L12 - SQL Fundamentals.md",
     "MSE 245/L13 - Transactions, Variables, Backups, GROUP_CONCAT.md",
     "MSE 245/L15 - Node.js to MySQL.md",
     "MSE 245/L09 - Relational Databases.md",
     "MSE 245/L14 - Advanced SQL.md",
-    "MSE 245/L12 - SQL Fundamentals.md",
     "MSE 245/L11 - Relational Model, Normalization, Integrity Rules.md",
     "ECE 252/L05 - Processes Part 2.md",
     "ECE 252/L06 - IPC.md",
