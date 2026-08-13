@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MSE 245/L15 - Node.js to MySQL.md",
+                "file": "MSE 245/L13 - Transactions, Variables, Backups, GROUP_CONCAT.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "L15 - Node.js to MySQL"
+              "title": "L13 - Transactions, Variables, Backups, GROUP_CONCAT"
             }
           }
         ]
@@ -180,6 +180,7 @@
   },
   "active": "3429b964da20988a",
   "lastOpenFiles": [
+    "MSE 245/L15 - Node.js to MySQL.md",
     "MSE 245/L14 - Advanced SQL.md",
     "MSE 245/L13 - Transactions, Variables, Backups, GROUP_CONCAT.md",
     "MSE 245/L12 - SQL Fundamentals.md",
@@ -195,7 +196,6 @@
     "MSE 245/L02 - Javascript Foundations Part 2.md",
     "MSE 245/L01 - Javascript Foundations Part 1.md",
     "MSE 245/L17 - Node.js to Python AI Via Flask.md",
-    "MSE 245/L15 - Node.js to MySQL.md",
     "MSE 245/L16 - Client-Side Routing.md",
     "ECE 252/L05 - Processes Part 2.md",
     "ECE 252/L06 - IPC.md",
